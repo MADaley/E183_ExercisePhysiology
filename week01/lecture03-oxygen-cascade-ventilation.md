@@ -95,8 +95,8 @@ $$P_IO_2 = 0.21 \times (760 - 47) = 149 \text{ mmHg}$$
 
 - **Fish** — Water flows over gills in a **countercurrent** exchange system (water and blood flow in opposite directions), maximizing O<sub>2</sub> extraction.
 - **Birds** — Air flows through **parabronchial lungs** in a **cross-current** pattern (air flow perpendicular to blood flow). This is highly efficient and contributes to birds' success at high altitudes.
-- **Mammals** — Use **tidally ventilated lungs** where air flows in and out through the same passages. Air reverses direction, creating a "pool" exchange system.
-- **Key difference**: In gills and parabronchial lungs, there is **no anatomical dead space** because airflow is unidirectional. In mammalian tidal lungs, air cannot be fully emptied with each breath, resulting in **anatomical dead space** that dilutes the oxygen reaching the gas exchange surfaces.
+- **Amphibians, non-crocodilian reptiles, and mammals** — Use **tidally ventilated lungs** where air flows in and out through the same passages. Air reverses direction, creating a "pool" exchange system. This is the ancestral condition for tetrapods.
+- **Key difference**: In gills and parabronchial lungs, there is **no anatomical dead space** because airflow is unidirectional. In tidally ventilated lungs, air cannot be fully emptied with each breath, resulting in **anatomical dead space** that dilutes the oxygen reaching the gas exchange surfaces.
 
 ---
 
