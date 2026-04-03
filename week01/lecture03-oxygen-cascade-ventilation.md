@@ -127,6 +127,7 @@ $$P_IO_2 = 0.21 \times (760 - 47) = 149 \text{ mmHg}$$
 
 - The respiratory system includes the **upper airway** (nasal cavity, pharynx, larynx) and the **lower airway** (trachea, bronchi, bronchioles, alveoli).
 - The focus is on **functional organization** rather than memorization of anatomical detail — understanding which structures participate in gas exchange and which do not.
+- The respiratory system is divided into two functional zones: the **conducting zone** (upper airway, trachea, and bronchi), which transports air but does not participate in gas exchange, and the **respiratory zone**, containing the smallest respiratory bronchioles and alveoli, where gas exchange occurs. The branching of airways into many small alveolar spaces provides a **large surface area** for respiratory gas exchange.
 
 ---
 
@@ -139,7 +140,6 @@ $$P_IO_2 = 0.21 \times (760 - 47) = 149 \text{ mmHg}$$
 - The lungs are surrounded by a thin **pleural cavity** between the visceral pleura (on the lung surface) and the parietal pleura (on the chest wall).
 - **Intrapleural pressure is negative** (below atmospheric pressure), which keeps the lungs inflated against the chest wall.
 - Ventilation depends on managing changes in air pressure and airway resistance to move air in and out of the lungs.
-- The respiratory system is divided into two functional zones: the **conducting zone** (upper airway, trachea, and bronchi), which transports air but does not participate in gas exchange, and the **respiratory zone**, containing the smallest respiratory bronchioles and alveoli, where gas exchange occurs. The branching of airways into many small alveolar spaces provides a **large surface area** for respiratory gas exchange.
 
 ---
 
