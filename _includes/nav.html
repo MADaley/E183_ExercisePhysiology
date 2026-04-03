@@ -1,0 +1,15 @@
+<nav role="navigation" aria-label="Main navigation">
+  <div class="nav-container">
+    <a href="{{ '/' | relative_url }}" class="nav-home">E183 Slide Guides</a>
+    <ul class="nav-links">
+      {% for week in site.data.weeks %}
+      <li>
+        <a href="{{ week.url | relative_url }}"
+           {% if page.url contains week.url %}aria-current="page"{% endif %}>
+          Week {{ week.number }}
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</nav>

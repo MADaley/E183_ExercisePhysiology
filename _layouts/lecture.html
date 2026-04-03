@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% include head.html %}
+</head>
+<body>
+  {% include skip-nav.html %}
+  <header role="banner">
+    {% include nav.html %}
+  </header>
+  <main id="main-content" role="main">
+    <article>
+      <div class="lecture-header">
+        <p class="breadcrumb">
+          <a href="{{ '/' | relative_url }}">Home</a> &raquo;
+          <a href="{{ page.week_url | default: './' | relative_url }}">{{ page.week_title }}</a> &raquo;
+          {{ page.title }}
+        </p>
+        <h1>{{ page.title }}</h1>
+        <p class="slide-count">{{ page.total_slides }} slides</p>
+      </div>
+
+      <div class="lecture-content">
+        {{ content }}
+      </div>
+
+      <nav class="lecture-nav" aria-label="Lecture navigation">
+        {% if page.prev_lecture %}
+        <a href="{{ page.prev_lecture | relative_url }}" class="nav-prev">&larr; Previous Lecture</a>
+        {% else %}
+        <span class="nav-prev disabled"></span>
+        {% endif %}
+
+        <a href="{{ page.week_url | default: './' | relative_url }}" class="nav-up">Week Overview</a>
+
+        {% if page.next_lecture %}
+        <a href="{{ page.next_lecture | relative_url }}" class="nav-next">Next Lecture &rarr;</a>
+        {% else %}
+        <span class="nav-next disabled"></span>
+        {% endif %}
+      </nav>
+    </article>
+  </main>
+  {% include footer.html %}
+</body>
+</html>

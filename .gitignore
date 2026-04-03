@@ -1,0 +1,8 @@
+.DS_Store
+_site/
+.jekyll-cache/
+*.html
+!_layouts/*.html
+!_includes/*.html
+week*/transcript-*.txt
+week*/preview-*.md

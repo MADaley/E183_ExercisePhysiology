@@ -1,0 +1,13 @@
+- number: 1
+  title: "Comparative Approach, Gas Laws, Oxygen Cascade"
+  url: /week01/
+  lectures:
+    - title: "The Comparative Approach to Exercise Physiology"
+      url: /week01/lecture01-comparative-approach
+      slides: 43
+    - title: "Introduction to Gas Exchange"
+      url: /week01/lecture02-intro-gas-exchange
+      slides: 40
+    - title: "The Oxygen Cascade and Ventilation"
+      url: /week01/lecture03-oxygen-cascade-ventilation
+      slides: 27

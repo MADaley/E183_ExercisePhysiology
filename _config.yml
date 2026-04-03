@@ -1,0 +1,8 @@
+title: "E183 Exercise Physiology — Slide-by-Slide Study Guides"
+description: "Sequential slide-by-slide study guides with lecture transcripts for E183 Exercise Physiology at UC Irvine"
+baseurl: "/E183_ExercisePhysiology"
+url: "https://madaley.github.io"
+markdown: kramdown
+kramdown:
+  math_engine: null
+  input: GFM
