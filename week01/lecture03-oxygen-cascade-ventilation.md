@@ -429,7 +429,7 @@ $$\dot{V}O_2 = \dot{V}_A \times \beta_{gO_2} \times (P_IO_2 - P_EO_2)$$
 | $\dot{V}_E = f_b \times V_T$ | Minute ventilation | Total rate of air movement in and out of the lungs per minute |
 | $\dot{V}_A = f_b \times (V_T - V_D)$ | Alveolar ventilation rate | Rate of air reaching the gas exchange surfaces, accounting for dead space |
 | $V_{D,\text{phys}} = V_{D,\text{alveolar}} + V_{D,\text{anatomic}}$ | Physiological dead space | Total dead space is the sum of anatomical and alveolar dead space |
-| $\dot{V}O_2 = \dot{V}_A \times \beta_{gO_2} \times (P_IO_2 - P_EO_2)$ | Alveolar O<sub>2</sub> delivery | Oxygen delivery rate to alveoli; in practice, measured using the Fick Principle |
+| $\dot{V}O\_2 = \dot{V}\_A \times \beta\_{gO\_2} \times (P\_IO\_2 - P\_EO\_2)$ | Alveolar O<sub>2</sub> delivery | Oxygen delivery rate to alveoli; in practice, measured using the Fick Principle |
 
 ---
 
