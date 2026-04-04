@@ -417,7 +417,7 @@ $$C_6H_{12}O_6 + 6O_2 \rightarrow 6CO_2 + 6H_2O + 36\,ATP$$
 ### Ventilation and Blood Gases During Incremental Exercise
 
 - During an **incremental workload test**, ventilation increases **linearly** with work rate up to approximately 50-70% of VO<sub>2</sub>max.
-- The point at which ventilation begins to increase exponentially is called the **ventilatory threshold**.
+- The point at which ventilation begins to increase rapidly is called the **ventilatory threshold**.
 - Beyond the ventilatory threshold, ventilation rate increases **exponentially**.
 - The exponential increase is **more pronounced in elite athletes** compared to untrained individuals.
 - **Arterial oxygen saturation (P<sub>a</sub>O<sub>2</sub>)**:
