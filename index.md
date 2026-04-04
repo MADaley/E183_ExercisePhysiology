@@ -22,3 +22,12 @@ These study guides follow each lecture **slide-by-slide** in sequence, showing e
 - [Lecture 3: The Oxygen Cascade and Ventilation]({{ '/week01/lecture03-oxygen-cascade-ventilation' | relative_url }}) (27 slides)
 
 </div>
+
+<div class="week-card" markdown="1">
+
+## [Week 2: Alveolar Ventilation, Ventilatory and Metabolic Dynamics]({{ '/week02/' | relative_url }})
+
+- [Lecture 4: Factors in Alveolar Ventilation]({{ '/week02/lecture04-alveolar-ventilation' | relative_url }}) (32 slides)
+- [Lecture 5: Ventilatory and Metabolic Dynamics in Rest and Exercise]({{ '/week02/lecture05-ventilation-rest-exercise' | relative_url }}) (29 slides)
+
+</div>

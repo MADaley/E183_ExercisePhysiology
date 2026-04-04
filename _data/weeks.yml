@@ -11,3 +11,14 @@
     - title: "The Oxygen Cascade and Ventilation"
       url: /week01/lecture03-oxygen-cascade-ventilation
       slides: 27
+
+- number: 2
+  title: "Alveolar Ventilation, Ventilatory and Metabolic Dynamics"
+  url: /week02/
+  lectures:
+    - title: "Factors in Alveolar Ventilation"
+      url: /week02/lecture04-alveolar-ventilation
+      slides: 32
+    - title: "Ventilatory and Metabolic Dynamics in Rest and Exercise"
+      url: /week02/lecture05-ventilation-rest-exercise
+      slides: 29
