@@ -294,16 +294,28 @@ $$C_6H_{12}O_6 + 6O_2 \rightarrow 6CO_2 + 6H_2O + 36\,ATP$$
 
 ### Oxygen Deficit and Excess Post-Exercise Oxygen Consumption (EPOC)
 
-- After exercise stops, VO<sub>2</sub> does **not immediately return** to resting levels — it gradually declines back to baseline.
-- The elevated oxygen consumption after exercise is called **excess post-exercise oxygen consumption (EPOC)**.
-- Historically, EPOC was called **"oxygen debt"**, implying the body was "paying back" the deficit. However, the EPOC area is typically **larger** than the oxygen deficit for complex physiological reasons.
-- EPOC has two components:
-  - **Rapid component**: A fast initial decline in VO<sub>2</sub> (first ~2 minutes).
-  - **Slow component**: A gradual exponential return to baseline over a longer period.
-- When exercise intensity **exceeds VO<sub>2</sub>max**:
-  - The oxygen deficit is larger because anaerobic pathways are used continuously throughout exercise.
-  - EPOC magnitude and duration increase sharply.
-  - The energy demand exceeds oxidative capacity, so anaerobic sources must supplement aerobic metabolism throughout the exercise bout.
+#### Left graph: Submaximal exercise (below VO<sub>2</sub>max)
+
+- The graph plots VO<sub>2</sub> (L/min) on the y-axis against time (minutes) on the x-axis, spanning rest, exercise, and recovery.
+- At rest, VO<sub>2</sub> is at a low baseline. At exercise onset, VO<sub>2</sub> rises in a curving trajectory over approximately 1–4 minutes before reaching a **steady-state plateau** that meets the energy demand of the exercise.
+- The **oxygen deficit** is the shaded area between the horizontal line representing the actual energy demand and the rising VO<sub>2</sub> curve during the transition to steady state. This area represents energy that was supplied by anaerobic pathways (phosphocreatine and anaerobic glycolysis) while aerobic metabolism was ramping up.
+- Because the exercise is submaximal, VO<sub>2</sub> eventually reaches the demand level and almost all ATP is produced aerobically at steady state.
+- At exercise cessation, VO<sub>2</sub> does **not drop immediately** to resting levels. Instead, it declines in two phases:
+  - A **rapid component** — a steep drop over the first ~2 minutes, primarily reflecting PCr resynthesis and replenishment of O<sub>2</sub> stores in myoglobin and hemoglobin.
+  - A **slow component** — a gradual exponential decline back to baseline over several additional minutes, driven by thermoregulation, gluconeogenesis, and elevated hormone levels.
+- The total shaded area above resting baseline during recovery is the **excess post-exercise oxygen consumption (EPOC)**.
+- Historically, EPOC was called **"oxygen debt"**, implying the body was "paying back" the deficit. However, the EPOC area is typically **larger** than the oxygen deficit for complex physiological reasons (the slow component reflects processes beyond simple repayment of the deficit).
+
+#### Right graph: Supramaximal exercise (exceeds VO<sub>2</sub>max)
+
+- The right graph shows the same axes but depicts exercise at an intensity where the energy demand (dashed horizontal line) **exceeds the individual's VO<sub>2</sub>max** (marked as a second horizontal line below the demand line).
+- VO<sub>2</sub> rises but **plateaus at VO<sub>2</sub>max** and cannot reach the energy demand level. The gap between the demand line and the VO<sub>2</sub>max plateau persists throughout the exercise bout.
+- The **oxygen deficit is substantially larger** than in submaximal exercise because:
+  - There is the same initial ramp-up deficit during the transition period.
+  - An additional deficit accumulates continuously for the entire duration of exercise, since aerobic metabolism cannot meet the full demand even at steady state.
+  - Anaerobic pathways (phosphocreatine and anaerobic glycolysis) must continue to supplement aerobic metabolism throughout the exercise bout.
+- Upon exercise cessation, **EPOC magnitude and duration are markedly increased** compared to the submaximal graph, reflecting the greater physiological disruption: larger PCr depletion, greater lactate accumulation requiring gluconeogenesis, more heat production, and stronger hormonal responses.
+- This illustrates the principle that **oxygen deficit increases with exercise intensity**, approximately linearly up to VO<sub>2</sub>max and then more steeply beyond it.
 
 ---
 
