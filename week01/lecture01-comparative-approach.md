@@ -26,8 +26,8 @@ next_lecture: /week01/lecture02-intro-gas-exchange
 
 - **University of Utah** — Biology undergrad; first research on interactions between running and breathing in humans.
 - **Harvard University** — PhD in comparative locomotor biomechanics; studied neuromuscular function in movement across terrestrial animals; also trained in human gross anatomy.
-- **School of Kinesiology (postdoc)** — Developed physical models of bipedal gait for bio-inspired robotics, exoskeletons, and assistive devices.
-- **Royal Veterinary College** — Faculty for 12 years, teaching comparative anatomy and biomechanics to veterinary students.
+- **School of Kinesiology (postdoc)** — Developed models of bipedal gait for bio-inspired robotics, exoskeletons.
+- **Royal Veterinary College** — Faculty for 12 years, led Comparative Neuromechanics lab and taught comparative anatomy and musculoskeletal biomechanics to veterinary students.
 - **UC Irvine (2019–present)** — Runs both the Human Neuromechanics Lab and the Comparative Neuromechanics Lab.
 
 ---
@@ -48,7 +48,7 @@ next_lecture: /week01/lecture02-intro-gas-exchange
 ![Screenshot of the UCI BioSci Comparative Physiology Group webpage showing a photo grid of 10 faculty members. The group is part of the Department of Ecology and Evolutionary Biology.](images/lec01/slide-004.png)
 
 - The **Comparative Physiology Group** in the School of Biological Sciences includes 10 faculty members.
-- Research across this group uses evolutionary and comparative perspectives to understand factors that limit athletic performance.
+- Research across this group uses evolutionary and comparative perspectives to understand organismal physiology and evolution of form and function in animals.
 - Faculty study diverse physiological systems beyond biomechanics, including endocrine systems, heat tolerance, and other physiological mechanisms.
 
 ---
@@ -70,7 +70,7 @@ next_lecture: /week01/lecture02-intro-gas-exchange
 
 ## Slide 6
 
-![Text slide titled "What is Exercise?" explaining that in human kinesiology, a distinction is often made between exercise (planned, voluntary physical activity for recreation or health) and physical activity more broadly. States that this course does not make that distinction because physiological processes and training effects apply regardless of intent. Notes that this distinction is an artifact of modern human lifestyles and doesn't consider evolutionary history. Emphasizes that exercise involves many shared mechanisms across humans and other vertebrates.](images/lec01/slide-006.png)
+![Text slide titled "What is Exercise?" explaining that in human kinesiology, a distinction is often made between exercise (planned, voluntary physical activity for recreation or health) and physical activity more broadly. This course does not make that distinction because physiological processes and training effects apply regardless of intent. The distinction is an artifact of modern human lifestyles and doesn't consider evolutionary history. Exercise involves many shared mechanisms across humans and other vertebrates.](images/lec01/slide-006.png)
 
 - In human kinesiology, **"exercise"** is sometimes defined narrowly as planned, voluntary physical activity for recreation or health, as distinct from general physical activity.
 - This course **does not make that distinction** — daily physical activity is equally important for health and involves the same physiological processes.
@@ -164,7 +164,7 @@ The course follows the **oxygen delivery pathway** from environment to tissues:
 - Administered **in class on Fridays** via Canvas, 25 minutes in duration.
 - Format: true/false, multiple-choice questions, and problem solving.
 - **Question banks** ensure every student receives a different version of the quiz.
-- Week 1 quiz is a "participation" quiz — full credit for completion.
+- In place of a quiz in Week 1 there is a Community Expectation Agreement, that counts 1 full quiz credit for completion.
 - Make-up quizzes require confirmed documentation of excused absence, arranged in advance.
 - One lowest quiz score is dropped before final grade calculation.
 
@@ -172,12 +172,12 @@ The course follows the **oxygen delivery pathway** from environment to tissues:
 
 ## Slide 14
 
-![Text slide titled "Study tips" with a graph showing memory retention over time. The graph illustrates the spacing effect: after first learning, retention declines, but with repeated review sessions, the rate of decline slows and overall retention improves. Tips listed include: actively engage with material, study regularly with short study bouts, take regular "brain-body breaks," preview the study guide, use "Active Listening" by writing down questions about the topic and listening for answers, take notes on key points rather than verbatim, and come to office hours with specific questions.](images/lec01/slide-014.png)
+![Text slide titled "Study tips" with a graph showing memory retention over time. The graph illustrates the space repetition effect: after first learning, retention declines, but with repeated review sessions, the rate of decline slows and overall retention improves. Tips listed include: actively engage with material, study regularly with short study bouts, take regular "brain-body breaks," preview the study guide, use "Active Listening" by writing down questions about the topic and listening for answers, take notes on key points rather than verbatim, and come to office hours with specific questions.](images/lec01/slide-014.png)
 
 ### Study strategies
 
 - **Spaced repetition** improves long-term retention: repeated short study bouts are more effective than cramming. The retention curve shows that each review session slows the rate of memory decline.
-- **Active engagement**: preview slides before class, write down 1–2 questions, and listen for answers during lecture.
+- **Active engagement**: preview study guide before class, write down 1–2 questions, and listen for answers during lecture.
 - **Take selective notes** — key concepts and questions for follow-up, not verbatim transcription.
 - **Physical activity** supports brain function, learning, and retention — take regular "brain-body breaks."
 - Bring specific questions to **office hours**.
