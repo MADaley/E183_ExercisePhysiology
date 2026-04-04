@@ -326,7 +326,7 @@ $$\dot{V}CO_2 = D_{CO_2} \times \Delta P_{CO_2}$$
   1. **P<sub>O2</sub> and P<sub>CO2</sub> of the inspired air** -- determined primarily by altitude and environmental conditions.
   2. **Minute ventilation** ($\dot{V}\_E = f\_b \times V\_T$) and **alveolar ventilation** ($\dot{V}\_A = f\_b \times (V\_T - V\_D)$) -- how much fresh air reaches the gas exchange surfaces.
   3. **Metabolic rate** -- the rate of O<sub>2</sub> consumption and CO<sub>2</sub> production by the tissues, which creates the demand for gas exchange.
-- Altering any of these three factors changes the gas composition in the alveoli and therefore the partial pressure gradients driving diffusion.
+- Altering any of these three factors changes the gas composition in the alveoli and therefore the partial pressure gradients driving diffusion. We walk through each of these factors over the next several slides. 
 
 ---
 
@@ -487,7 +487,7 @@ $$P_AO_2 = P_IO_2 - \frac{P_ACO_2}{R} \qquad R = \frac{\dot{V}CO_2}{\dot{V}O_2}$
   - **Pulse oximetry** provides O<sub>2</sub> saturation (SpO<sub>2</sub>), a non-invasive measure.
 - The **clinical alveolar ventilation equation** is a non-invasive alternative for estimating P<sub>A</sub>CO<sub>2</sub> when arterial blood gas data are unavailable.
 - The **alveolar gas equation** then uses P<sub>A</sub>CO<sub>2</sub> to estimate P<sub>A</sub>O<sub>2</sub>.
-- These tools allow clinicians to assess ventilatory function using inexpensive, widely available equipment.
+- These tools allow clinicians to assess ventilatory function in two different ways, depending on the measurements available.
 
 ---
 
@@ -499,7 +499,7 @@ $$P_AO_2 = P_IO_2 - \frac{P_ACO_2}{R} \qquad R = \frac{\dot{V}CO_2}{\dot{V}O_2}$
 
 - The partial pressure gradient between the alveoli and the pulmonary capillary blood is the driving force for O<sub>2</sub> diffusion.
 - At rest, the alveolar-to-capillary P<sub>O2</sub> gradient is approximately **~60-64 mmHg** (P<sub>A</sub>O<sub>2</sub> ~100 mmHg minus P<sub>v</sub>O<sub>2</sub> ~40 mmHg in mixed venous blood).
-- The value **P<sub>alveolar</sub>O<sub>2</sub> $\approx$ 40 mmHg** shown represents the approximate mixed venous P<sub>O2</sub> entering the pulmonary capillary bed -- the "starting point" for oxygenation.
+- The value **P<sub>deox</sub>O<sub>2</sub> $\approx$ 40 mmHg** shown represents the approximate mixed venous (deoxygenated) P<sub>O2</sub> entering the pulmonary capillary bed -- the "starting point" for oxygenation.
 - All the equations developed in this lecture -- for ventilatory convection, diffusion, and alveolar gas composition -- determine the magnitude of this gradient and therefore the rate of O<sub>2</sub> transfer into the blood.
 
 ---
