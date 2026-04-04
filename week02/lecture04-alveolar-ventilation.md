@@ -506,28 +506,40 @@ $$P_AO_2 = P_IO_2 - \frac{P_ACO_2}{R} \qquad R = \frac{\dot{V}CO_2}{\dot{V}O_2}$
 
 ## Slide 31
 
-![Reference table titled "Reference table of key terms and definitions" showing Table 1: Terms and definitions. The table lists abbreviations and their meanings in two columns, including: ventilation frequency, expired alveolar ventilation, inspired alveolar ventilation, tidal volume, dead space volume, total ventilation, alveolar ventilation, rate of O2 consumption, rate of CO2 production, respiratory exchange ratio, and other terms related to partial pressures and gas fractions. Reference: Figure from Wang et al. 2020.](images/lec04/slide-031.png)
+![Reference table titled "Reference table of key terms and definitions" from Wang et al. 2020. The table has four columns arranged as two paired sections: "Ventilations and Rates" on the left (Term and Definition) and "Other Terms" on the right (Term and Definition). The left section lists nine ventilation-related symbols including alveolar, inspired, and expired ventilation rates, dead space ventilation, O2 consumption rate, CO2 production rate, and cardiac output. The right section lists ten terms including tidal volume, dead space volume, respiratory rate, respiratory quotient, inspired and alveolar gas fractions, inspired and alveolar partial pressures, arterial pressure, and barometric pressure.](images/lec04/slide-031.png)
 
 ### Reference Table of Key Terms and Definitions
 
-- A comprehensive reference table of abbreviations and variables used in pulmonary gas exchange is provided.
+- A comprehensive reference table of abbreviations and variables used in pulmonary gas exchange, organized into ventilation/rate terms and other terms. Adapted from Wang et al. 2020.
 
-| Symbol | Term | Other Terms |
-|--------|------|-------------|
-| $f\_b$ | Ventilation frequency (L/min) | |
-| $\dot{V}\_E$ | Expired alveolar ventilation (L/min) | |
-| $\dot{V}\_I$ | Inspired alveolar ventilation (L/min) | |
-| $V\_T$ | Tidal volume (L) | |
-| $V\_D$ | Dead space volume (L/min) | |
-| $\dot{V}\_E$ | Total ventilation (L/min) | Expired minute ventilation |
-| $\dot{V}\_A$ | Alveolar ventilation (L/min) | |
-| $\dot{V}O\_2$ | Rate of O<sub>2</sub> consumption (L/min) | |
-| $\dot{V}CO\_2$ | Rate of CO<sub>2</sub> production (L/min) | |
-| $R$ | Respiratory exchange ratio | RER, respiratory quotient |
-| $P\_IO\_2$ | Partial pressure of inspired O<sub>2</sub> | |
-| $P\_AO\_2$ | Partial pressure of alveolar O<sub>2</sub> | |
-| $F\_IO\_2$ | Fraction of inspired O<sub>2</sub> | |
-| $F\_AO\_2$ | Fraction of alveolar O<sub>2</sub> | |
+**Ventilations and Rates**
+
+| Symbol | Definition |
+|--------|-----------|
+| $\dot{V}\_A$ | Alveolar ventilation (L/min) |
+| $\dot{V}\_I$ | Inspired alveolar ventilation (L/min) |
+| $\dot{V}\_E$ | Expired alveolar ventilation (L/min) |
+| $\dot{V}\_E$ | Minute ventilation (L/min) |
+| $\dot{V}\_D$ | Dead space ventilation (L/min) |
+| $\dot{V}\_{N\_2}$ | N<sub>2</sub> ventilation (L/min) |
+| $\dot{V}O\_2$ | Rate of O<sub>2</sub> consumption (L/min) |
+| $\dot{V}CO\_2$ | Rate of CO<sub>2</sub> production (L/min) |
+| $\dot{Q}$ | Perfusion or cardiac output (L/min) |
+
+**Other Terms**
+
+| Symbol | Definition |
+|--------|-----------|
+| $V\_T$ | Tidal volume (L) |
+| $V\_D$ | Dead space volume (L) |
+| $RR$ | Respiratory rate (breaths/min) |
+| $RQ$ | Respiratory quotient |
+| $F\_IX$ | Inspired fraction of gas X |
+| $F\_AX$ | Expired (alveolar) fraction of gas X |
+| $P\_IX$ | Inspired pressure of gas X (mmHg) |
+| $P\_AX$ | Alveolar pressure of gas X (mmHg) |
+| $P\_aX$ | Arterial pressure of gas X (mmHg) |
+| $P\_B$ | Barometric (atmospheric) pressure (mmHg) |
 
 - Reference: Wang et al. 2020, [https://doi.org/10.1152/advan.00064.2019](https://doi.org/10.1152/advan.00064.2019)
 
