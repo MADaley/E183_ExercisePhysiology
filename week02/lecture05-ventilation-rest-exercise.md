@@ -116,7 +116,7 @@ $$\dot{V}O_2 = D_L(P_AO_2 - P_aO_2)$$
 
 $$P_ACO_2 = \frac{\dot{V}CO_2}{\dot{V}_A} \times K$$
 
-  - $K = 863 \text{ mmHg}$ when flow rates are in L/min (BTPS) and $\dot{V}CO_2$ is measured in mL/min (STPD).
+  - $K = 863 \text{ mmHg}$ when flow rates are in L/min (BTPS) and $\dot{V}CO\_2$ is measured in mL/min (STPD).
 
 - **Alveolar gas equation** for P<sub>A</sub>O<sub>2</sub>:
 
@@ -153,7 +153,7 @@ $$P_AO_2 = P_IO_2 - \frac{P_ACO_2}{R} \times \left(1 - F_IO_2 \times \frac{1 - R
 
 $$\dot{V}O_2 = \dot{V}_E \times (F_IO_2 - F_EO_2)$$
 
-- **Example calculation**: Given $\dot{V}_E = 60$ L/min, $F_IO_2 = 0.21$, $F_EO_2 = 0.17$, and body mass = 60 kg:
+- **Example calculation**: Given $\dot{V}\_E = 60$ L/min, $F\_IO\_2 = 0.21$, $F\_EO\_2 = 0.17$, and body mass = 60 kg:
 
 $$\dot{V}O_2 = 60 \times (0.21 - 0.17) = 60 \times 0.04 = 2.4 \text{ L/min} = 2400 \text{ mL/min}$$
 
@@ -173,8 +173,8 @@ $$\dot{V}O_2 = \frac{2400 \text{ mL/min}}{60 \text{ kg}} = 40 \text{ mL/kg/min}$
 ### Walking and Running Speed vs. Steady-State VO<sub>2</sub>
 
 - Within the **aerobic range**, VO<sub>2</sub> increases approximately **linearly** with speed for both walking and running.
-- **Walking**: $\dot{V}O_2 = 0.1x + 3.5$ (mL/kg/min), where $x$ is speed in m/min.
-- **Running**: $\dot{V}O_2 = 0.2x + 3.5$ (mL/kg/min).
+- **Walking**: $\dot{V}O\_2 = 0.1x + 3.5$ (mL/kg/min), where $x$ is speed in m/min.
+- **Running**: $\dot{V}O\_2 = 0.2x + 3.5$ (mL/kg/min).
 - Key observations:
   - Running is **more metabolically expensive** than walking at any given speed (higher intercept when extrapolated).
   - The **slope** for running (0.2) is steeper than for walking (0.1), meaning metabolic cost increases faster with speed during running.
@@ -366,12 +366,12 @@ $$C_6H_{12}O_6 + 6O_2 \rightarrow 6CO_2 + 6H_2O + 36\,ATP$$
 
 ### Changes in Breathing Pattern During Exercise
 
-- **Minute ventilation** ($\dot{V}_E$) is the product of **breathing frequency** ($f_b$) and **tidal volume** ($V_T$).
+- **Minute ventilation** ($\dot{V}\_E$) is the product of **breathing frequency** ($f\_b$) and **tidal volume** ($V\_T$).
 - At **rest**: Breathing frequency is approximately 12 breaths/min, and tidal volume uses a small fraction of total lung capacity.
 - As exercise intensity increases:
   - **Both tidal volume and breathing frequency increase** initially.
   - Tidal volume increases by using both the **inspiratory reserve volume** (deeper inhalations) and the **expiratory reserve volume** (more forceful exhalations).
-- At **moderate exercise** ($f$ ~ 18): Both $V_T$ and $f_b$ increase.
+- At **moderate exercise** ($f$ ~ 18): Both $V\_T$ and $f\_b$ increase.
 - At **heavy exercise** ($f$ ~ 35): Tidal volume approaches its **physical limit** — further increases in ventilation rely more heavily on increases in frequency.
 - At **very heavy exercise** ($f$ ~ 45, approaching 100% VO<sub>2</sub>max): **Breathing frequency increases disproportionately** compared to tidal volume because the muscular effort to further expand tidal volume becomes prohibitive.
 - This shift from volume-dominated to frequency-dominated ventilation increases reflects the **mechanical limits of the lung and respiratory muscles**.
@@ -438,9 +438,9 @@ $$C_6H_{12}O_6 + 6O_2 \rightarrow 6CO_2 + 6H_2O + 36\,ATP$$
 ### Exercise-Induced Hypoxemia in Elite Athletes (EIAH) — Human Data
 
 - A study by Dempsey and Wagner (1999) investigated EIAH by measuring elite athletes under three oxygen conditions:
-  - **Hyperoxia** ($F_IO_2 = 0.26$) — supplemental oxygen.
-  - **Normoxia** ($F_IO_2 = 0.21$) — normal room air.
-  - **Hypoxia** ($F_IO_2 = 0.15$) — reduced oxygen.
+  - **Hyperoxia** ($F\_IO\_2 = 0.26$) — supplemental oxygen.
+  - **Normoxia** ($F\_IO\_2 = 0.21$) — normal room air.
+  - **Hypoxia** ($F\_IO\_2 = 0.15$) — reduced oxygen.
 - Key findings:
   - In **normoxia**, arterial oxygen saturation **drops at high work rates** in elite athletes.
   - **Supplemental oxygen (hyperoxia) corrects the desaturation**, confirming that the limitation is **pulmonary** — the lungs cannot deliver enough oxygen to meet demand.

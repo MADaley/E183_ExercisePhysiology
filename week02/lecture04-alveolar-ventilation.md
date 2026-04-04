@@ -88,7 +88,7 @@ next_lecture: /week02/lecture05-ventilation-rest-exercise
 
 $$\dot{V}_A = f_b \times (V_T - V_D)$$
 
-- Where $f_b$ is breathing frequency, $V_T$ is tidal volume, and $V_D$ is dead space volume.
+- Where $f\_b$ is breathing frequency, $V\_T$ is tidal volume, and $V\_D$ is dead space volume.
 - **Physiological dead space** has two components:
 
 $$V_{D,\text{physiological}} = V_{D,\text{alveolar}} + V_{D,\text{anatomic}}$$
@@ -105,11 +105,11 @@ $$V_{D,\text{physiological}} = V_{D,\text{alveolar}} + V_{D,\text{anatomic}}$$
 
 ### Ventilation Rates: Minute vs. Alveolar
 
-- **Minute ventilation** ($\dot{V}_E$): the total rate of air movement in and out of the lungs per minute.
+- **Minute ventilation** ($\dot{V}\_E$): the total rate of air movement in and out of the lungs per minute.
 
 $$\dot{V}_E = f_b \times V_T = 12 \text{ breaths/min} \times 500 \text{ mL/breath} = 6000 \text{ mL/min}$$
 
-- **Alveolar ventilation** ($\dot{V}_A$): the rate of air movement in and out of the alveolar gas exchange surfaces, accounting for dead space.
+- **Alveolar ventilation** ($\dot{V}\_A$): the rate of air movement in and out of the alveolar gas exchange surfaces, accounting for dead space.
 
 $$\dot{V}_A = f_b \times (V_T - V_D) = 12 \text{ breaths/min} \times (500 - 150) \text{ mL/breath} = 4200 \text{ mL/min}$$
 
@@ -132,7 +132,7 @@ $$\dot{V}_A = f_b \times (V_T - V_D)$$
 
 $$\dot{V}O_2 = \dot{V}_A \times \beta_{gO_2} \times (P_IO_2 - P_EO_2)$$
 
-- $\beta_{gO_2}$ is the **capacitance coefficient** for O<sub>2</sub> in air.
+- $\beta\_{gO\_2}$ is the **capacitance coefficient** for O<sub>2</sub> in air.
 - The third equation calculates $\dot{V}$O<sub>2</sub> but relies on internal variables (alveolar partial pressures) that are difficult to measure directly.
 - The **Fick principle** will be used to reformulate these equations in terms of externally measurable quantities.
 
@@ -169,8 +169,8 @@ $$\dot{M}_{O_2} = \dot{M}_{O_2,\text{in}} - \dot{M}_{O_2,\text{out}}$$
 
 $$\dot{V}O_2 = \dot{V}_I \times F_IO_2 - \dot{V}_E \times F_EO_2$$
 
-- Where $\dot{V}_I$ is the inspired ventilatory flow rate, $\dot{V}_E$ is the expired ventilatory flow rate, $F_IO_2$ is the fractional concentration of inspired O<sub>2</sub>, and $F_EO_2$ is the fractional concentration of expired O<sub>2</sub>.
-- Because $\dot{V}_I \approx \dot{V}_E$, the equation simplifies to:
+- Where $\dot{V}\_I$ is the inspired ventilatory flow rate, $\dot{V}\_E$ is the expired ventilatory flow rate, $F\_IO\_2$ is the fractional concentration of inspired O<sub>2</sub>, and $F\_EO\_2$ is the fractional concentration of expired O<sub>2</sub>.
+- Because $\dot{V}\_I \approx \dot{V}\_E$, the equation simplifies to:
 
 $$\dot{V}O_2 = \dot{V}_E \times (F_IO_2 - F_EO_2)$$
 
@@ -187,7 +187,7 @@ $$\dot{V}O_2 = \dot{V}_E \times (F_IO_2 - F_EO_2)$$
 
 - **$\dot{V}$O<sub>2</sub> max** is a central measure of maximal aerobic capacity and athletic performance, widely used in exercise physiology and sports science.
 - Modern **metabolic measurement systems** use the Fick-principle-based equations to measure O<sub>2</sub> consumption non-invasively.
-- The subject wears a sealed mask over the nose and mouth; the system measures the expired flow rate ($\dot{V}_E$) and the fractional concentrations of O<sub>2</sub> and CO<sub>2</sub> in the exhaled air.
+- The subject wears a sealed mask over the nose and mouth; the system measures the expired flow rate ($\dot{V}\_E$) and the fractional concentrations of O<sub>2</sub> and CO<sub>2</sub> in the exhaled air.
 - Earlier systems required bulky laboratory carts, but **portable systems** are now available, enabling metabolic rate measurement during diverse exercise conditions in the field.
 
 ---
@@ -199,8 +199,8 @@ $$\dot{V}O_2 = \dot{V}_E \times (F_IO_2 - F_EO_2)$$
 ### Summary: Ventilatory Convection Equations
 
 - Two equivalent forms for calculating $\dot{V}$O<sub>2</sub> at Step 1 have been developed:
-  - **Internal variables form**: $\dot{V}O_2 = \dot{V}_A \times \beta_{gO_2} \times (P_IO_2 - P_EO_2)$ -- requires measuring alveolar partial pressures (impractical).
-  - **External variables form**: $\dot{V}O_2 = \dot{V}_E \times (F_IO_2 - F_EO_2)$ -- uses expired ventilation rate and gas fractions (practical, non-invasive).
+  - **Internal variables form**: $\dot{V}O\_2 = \dot{V}\_A \times \beta\_{gO\_2} \times (P\_IO\_2 - P\_EO\_2)$ — requires measuring alveolar partial pressures (impractical).
+  - **External variables form**: $\dot{V}O\_2 = \dot{V}\_E \times (F\_IO\_2 - F\_EO\_2)$ — uses expired ventilation rate and gas fractions (practical, non-invasive).
 - The Fick-principle-based external equation is the foundation for all modern **respiratory gas exchange measurement** in exercise physiology and clinical settings.
 
 ---
@@ -231,11 +231,11 @@ $$\dot{V}O_2 = \frac{A \times D \times \Delta P_{O_2}}{T}$$
 - Where:
   - $A$ = surface area of the gas exchange membrane
   - $D$ = **diffusion coefficient** for the specific gas
-  - $\Delta P_{O_2}$ = partial pressure difference across the barrier (P<sub>A</sub>O<sub>2</sub> - P<sub>a</sub>O<sub>2</sub>)
+  - $\Delta P\_{O\_2}$ = partial pressure difference across the barrier (P<sub>A</sub>O<sub>2</sub> - P<sub>a</sub>O<sub>2</sub>)
   - $T$ = thickness of the tissue barrier
 - The diffusion rate is:
   - **Proportional** to surface area ($A$)
-  - **Proportional** to the partial pressure gradient ($\Delta P_{O_2}$)
+  - **Proportional** to the partial pressure gradient ($\Delta P\_{O\_2}$)
   - **Inversely proportional** to barrier thickness ($T$)
 - $D$ differs between gases: **CO<sub>2</sub> diffuses approximately 20 times faster** than O<sub>2</sub> across the blood-gas barrier, meaning CO<sub>2</sub> transfer is nearly instantaneous while O<sub>2</sub> transfer may be rate-limiting.
 
@@ -276,7 +276,7 @@ $$\dot{V}O_2 = D_LO_2 \times \Delta P_{O_2}$$
 
 - This formulation highlights the two key determinants of pulmonary O<sub>2</sub> transfer:
   1. **Diffusion capacity** (D<sub>L</sub>O<sub>2</sub>) -- determined by lung structure (surface area, membrane thickness, gas properties)
-  2. **Partial pressure gradient** ($\Delta P_{O_2}$) -- determined by alveolar ventilation, inspired O<sub>2</sub>, and blood perfusion
+  2. **Partial pressure gradient** ($\Delta P\_{O\_2}$) -- determined by alveolar ventilation, inspired O<sub>2</sub>, and blood perfusion
 
 ---
 
@@ -306,8 +306,8 @@ $$\dot{V}CO_2 = D_{CO_2} \times \Delta P_{CO_2}$$
 
 - This schematic integrates the convective and diffusive components of pulmonary gas exchange for both O<sub>2</sub> and CO<sub>2</sub>.
 - **Oxygen (left panel)**:
-  - Inspired air with fractional concentration $F_IO_2$ and partial pressure $P_IO_2$ enters the alveolus.
-  - **Alveolar ventilation** ($\dot{V}_A$) refreshes alveolar gas.
+  - Inspired air with fractional concentration $F\_IO\_2$ and partial pressure $P\_IO\_2$ enters the alveolus.
+  - **Alveolar ventilation** ($\dot{V}\_A$) refreshes alveolar gas.
   - O<sub>2</sub> diffuses across the membrane into the capillary blood (perfusion $\dot{Q}$), driven by the gradient between P<sub>A</sub>O<sub>2</sub> and P<sub>c</sub>O<sub>2</sub>.
 - **Carbon dioxide (right panel)**:
   - CO<sub>2</sub> diffuses from blood (P<sub>c</sub>CO<sub>2</sub>) into the alveolus.
@@ -324,7 +324,7 @@ $$\dot{V}CO_2 = D_{CO_2} \times \Delta P_{CO_2}$$
 
 - Three primary factors influence alveolar P<sub>O2</sub> and P<sub>CO2</sub>:
   1. **P<sub>O2</sub> and P<sub>CO2</sub> of the inspired air** -- determined primarily by altitude and environmental conditions.
-  2. **Minute ventilation** ($\dot{V}_E = f_b \times V_T$) and **alveolar ventilation** ($\dot{V}_A = f_b \times (V_T - V_D)$) -- how much fresh air reaches the gas exchange surfaces.
+  2. **Minute ventilation** ($\dot{V}\_E = f\_b \times V\_T$) and **alveolar ventilation** ($\dot{V}\_A = f\_b \times (V\_T - V\_D)$) -- how much fresh air reaches the gas exchange surfaces.
   3. **Metabolic rate** -- the rate of O<sub>2</sub> consumption and CO<sub>2</sub> production by the tissues, which creates the demand for gas exchange.
 - Altering any of these three factors changes the gas composition in the alveoli and therefore the partial pressure gradients driving diffusion.
 
@@ -350,8 +350,8 @@ $$\dot{V}CO_2 = D_{CO_2} \times \Delta P_{CO_2}$$
 ### Factor 2: Minute and Alveolar Ventilation
 
 - The rate at which fresh air is delivered to the alveoli directly determines how well alveolar gases are renewed.
-- **Minute ventilation** ($\dot{V}_E = f_b \times V_T$) is the total volume of air moved per minute.
-- **Alveolar ventilation** ($\dot{V}_A = f_b \times (V_T - V_D)$) is the fraction that actually reaches gas exchange surfaces.
+- **Minute ventilation** ($\dot{V}\_E = f\_b \times V\_T$) is the total volume of air moved per minute.
+- **Alveolar ventilation** ($\dot{V}\_A = f\_b \times (V\_T - V\_D)$) is the fraction that actually reaches gas exchange surfaces.
 - Increasing ventilation brings more fresh air into the alveoli, raising alveolar P<sub>O2</sub> and lowering alveolar P<sub>CO2</sub>.
 - Decreasing ventilation has the opposite effect, allowing CO<sub>2</sub> to accumulate and O<sub>2</sub> to drop.
 
@@ -411,7 +411,7 @@ $$\dot{V}CO_2 = D_{CO_2} \times \Delta P_{CO_2}$$
 $$P_ACO_2 = \frac{\dot{V}CO_2}{\dot{V}_A} \times K$$
 
 - Where $K = 863$ mmHg (when both flow rates are in L/min at BTPS/STPD conditions).
-- If $\dot{V}$CO<sub>2</sub> is in mL/min and $\dot{V}_A$ is in L/min, then $K = 0.863$.
+- If $\dot{V}$CO<sub>2</sub> is in mL/min and $\dot{V}\_A$ is in L/min, then $K = 0.863$.
 - Because CO<sub>2</sub> diffuses so rapidly across the blood-gas barrier, alveolar P<sub>CO2</sub> and arterial P<sub>CO2</sub> are assumed to be equal (P<sub>A</sub>CO<sub>2</sub> $\approx$ P<sub>a</sub>CO<sub>2</sub>).
 - This equation uses parameters that can be readily measured with spirometry in the clinic: exhaled CO<sub>2</sub> flow rate and alveolar ventilation rate.
 
@@ -514,20 +514,20 @@ $$P_AO_2 = P_IO_2 - \frac{P_ACO_2}{R} \qquad R = \frac{\dot{V}CO_2}{\dot{V}O_2}$
 
 | Symbol | Term | Other Terms |
 |--------|------|-------------|
-| $f_b$ | Ventilation frequency (L/min) | |
-| $\dot{V}_E$ | Expired alveolar ventilation (L/min) | |
-| $\dot{V}_I$ | Inspired alveolar ventilation (L/min) | |
-| $V_T$ | Tidal volume (L) | |
-| $V_D$ | Dead space volume (L/min) | |
-| $\dot{V}_E$ | Total ventilation (L/min) | Expired minute ventilation |
-| $\dot{V}_A$ | Alveolar ventilation (L/min) | |
-| $\dot{V}O_2$ | Rate of O<sub>2</sub> consumption (L/min) | |
-| $\dot{V}CO_2$ | Rate of CO<sub>2</sub> production (L/min) | |
+| $f\_b$ | Ventilation frequency (L/min) | |
+| $\dot{V}\_E$ | Expired alveolar ventilation (L/min) | |
+| $\dot{V}\_I$ | Inspired alveolar ventilation (L/min) | |
+| $V\_T$ | Tidal volume (L) | |
+| $V\_D$ | Dead space volume (L/min) | |
+| $\dot{V}\_E$ | Total ventilation (L/min) | Expired minute ventilation |
+| $\dot{V}\_A$ | Alveolar ventilation (L/min) | |
+| $\dot{V}O\_2$ | Rate of O<sub>2</sub> consumption (L/min) | |
+| $\dot{V}CO\_2$ | Rate of CO<sub>2</sub> production (L/min) | |
 | $R$ | Respiratory exchange ratio | RER, respiratory quotient |
-| $P_IO_2$ | Partial pressure of inspired O<sub>2</sub> | |
-| $P_AO_2$ | Partial pressure of alveolar O<sub>2</sub> | |
-| $F_IO_2$ | Fraction of inspired O<sub>2</sub> | |
-| $F_AO_2$ | Fraction of alveolar O<sub>2</sub> | |
+| $P\_IO\_2$ | Partial pressure of inspired O<sub>2</sub> | |
+| $P\_AO\_2$ | Partial pressure of alveolar O<sub>2</sub> | |
+| $F\_IO\_2$ | Fraction of inspired O<sub>2</sub> | |
+| $F\_AO\_2$ | Fraction of alveolar O<sub>2</sub> | |
 
 - Reference: Wang et al. 2020, [https://doi.org/10.1152/advan.00064.2019](https://doi.org/10.1152/advan.00064.2019)
 
@@ -539,9 +539,9 @@ $$P_AO_2 = P_IO_2 - \frac{P_ACO_2}{R} \qquad R = \frac{\dot{V}CO_2}{\dot{V}O_2}$
 
 ### Lecture 4 -- Key Takeaways
 
-1. **Alveolar ventilation** ($\dot{V}_A = f_b \times (V_T - V_D)$) is the physiologically relevant measure of ventilation, accounting for dead space that does not contribute to gas exchange.
-2. The **Fick principle** (conservation of mass) enables calculation of $\dot{V}$O<sub>2</sub> from externally measurable expired gas concentrations and flow rates: $\dot{V}O_2 = \dot{V}_E \times (F_IO_2 - F_EO_2)$. This is the basis for all modern metabolic testing.
-3. **Fick's law of diffusion** governs O<sub>2</sub> transfer across the blood-gas barrier: $\dot{V}O_2 = D_LO_2 \times \Delta P_{O_2}$. Diffusion capacity depends on surface area, membrane thickness, and the gas-specific diffusion coefficient.
+1. **Alveolar ventilation** ($\dot{V}\_A = f\_b \times (V\_T - V\_D)$) is the physiologically relevant measure of ventilation, accounting for dead space that does not contribute to gas exchange.
+2. The **Fick principle** (conservation of mass) enables calculation of $\dot{V}$O<sub>2</sub> from externally measurable expired gas concentrations and flow rates: $\dot{V}O\_2 = \dot{V}\_E \times (F\_IO\_2 - F\_EO\_2)$. This is the basis for all modern metabolic testing.
+3. **Fick's law of diffusion** governs O<sub>2</sub> transfer across the blood-gas barrier: $\dot{V}O\_2 = D\_LO\_2 \times \Delta P\_{O\_2}$. Diffusion capacity depends on surface area, membrane thickness, and the gas-specific diffusion coefficient.
 4. CO<sub>2</sub> diffuses **~20 times faster** than O<sub>2</sub>, so O<sub>2</sub> diffusion is typically the rate-limiting step in pulmonary gas exchange.
 5. Factors that can impair pulmonary diffusion include: decreased lung surface area (fibrosis, emphysema), increased membrane thickness (inflammation, edema, fluid buildup), reduced perfusion, loss of surfactant, and reduced inspired P<sub>O2</sub> (altitude).
 6. The **clinical alveolar ventilation equation** and the **alveolar gas equation** together allow estimation of alveolar P<sub>CO2</sub> and P<sub>O2</sub> from non-invasive measurements.
@@ -570,8 +570,8 @@ $$P_AO_2 = P_IO_2 - \frac{P_ACO_2}{R} \qquad R = \frac{\dot{V}CO_2}{\dot{V}O_2}$
 
 | Term | Definition |
 |------|-----------|
-| **Alveolar ventilation ($\dot{V}_A$)** | The volume of air per minute that reaches the alveolar gas exchange surfaces; equals breathing frequency times (tidal volume minus dead space volume). |
-| **Minute ventilation ($\dot{V}_E$)** | The total volume of air moved in and out of the lungs per minute; also called expired minute ventilation. |
+| **Alveolar ventilation ($\dot{V}\_A$)** | The volume of air per minute that reaches the alveolar gas exchange surfaces; equals breathing frequency times (tidal volume minus dead space volume). |
+| **Minute ventilation ($\dot{V}\_E$)** | The total volume of air moved in and out of the lungs per minute; also called expired minute ventilation. |
 | **Anatomical dead space** | The volume of conducting airways (trachea, bronchi, bronchioles) that do not participate in gas exchange; approximately 150 mL in healthy adults. |
 | **Alveolar dead space** | The volume of alveoli that are ventilated but not perfused with capillary blood, and therefore do not contribute to gas exchange. |
 | **Physiological dead space** | The total non-functional ventilatory volume: anatomical dead space plus alveolar dead space. In healthy individuals, approximately equal to anatomical dead space. |
@@ -579,7 +579,7 @@ $$P_AO_2 = P_IO_2 - \frac{P_ACO_2}{R} \qquad R = \frac{\dot{V}CO_2}{\dot{V}O_2}$
 | **Fick's law of diffusion** | A physical law stating that the rate of diffusion of a gas across a tissue barrier is proportional to the surface area and partial pressure gradient, and inversely proportional to the barrier thickness. |
 | **Diffusion capacity of the lungs (D<sub>L</sub>O<sub>2</sub>)** | A composite measure combining lung surface area, membrane thickness, and the gas-specific diffusion coefficient; determines the structural capacity for gas transfer. |
 | **Blood-gas barrier** | The thin tissue separating alveolar air from capillary blood, consisting of alveolar epithelium, fused basement membranes, and capillary endothelium (~0.5 micrometers thick). |
-| **Partial pressure gradient ($\Delta P_{O_2}$)** | The difference in partial pressure of O<sub>2</sub> between the alveolus and the capillary blood; the driving force for O<sub>2</sub> diffusion into the blood. |
+| **Partial pressure gradient ($\Delta P\_{O\_2}$)** | The difference in partial pressure of O<sub>2</sub> between the alveolus and the capillary blood; the driving force for O<sub>2</sub> diffusion into the blood. |
 | **Diffusion coefficient (D)** | A constant specific to each gas that describes its rate of diffusion through a given medium. CO<sub>2</sub> has a diffusion coefficient approximately 20 times greater than O<sub>2</sub>. |
 | **$\dot{V}$O<sub>2</sub> max** | The maximum rate of oxygen consumption during intense exercise; a key measure of aerobic capacity and athletic performance. |
 | **Hyperventilation** | Breathing at a rate that exceeds metabolic demand, causing excessive CO<sub>2</sub> loss, respiratory alkalosis, and potentially loss of consciousness. |
@@ -587,7 +587,7 @@ $$P_AO_2 = P_IO_2 - \frac{P_ACO_2}{R} \qquad R = \frac{\dot{V}CO_2}{\dot{V}O_2}$
 | **Respiratory exchange ratio (R)** | The ratio of CO<sub>2</sub> production to O<sub>2</sub> consumption ($\dot{V}$CO<sub>2</sub> / $\dot{V}$O<sub>2</sub>); typically ranges from 0.7 (fat metabolism) to 1.0 (carbohydrate metabolism), with 0.8 used as a default estimate. |
 | **Clinical alveolar ventilation equation** | An equation that estimates alveolar P<sub>CO2</sub> from the ratio of CO<sub>2</sub> production to alveolar ventilation, using a constant K = 863 mmHg. |
 | **Alveolar gas equation** | An equation that estimates alveolar P<sub>O2</sub> from inspired P<sub>O2</sub> and alveolar P<sub>CO2</sub>, accounting for the dilution effect of CO<sub>2</sub> in the alveolar space. |
-| **Capacitance coefficient ($\beta_{gO_2}$)** | A constant describing the amount of O<sub>2</sub> that can be carried per unit volume of air per unit partial pressure difference. |
+| **Capacitance coefficient ($\beta\_{gO\_2}$)** | A constant describing the amount of O<sub>2</sub> that can be carried per unit volume of air per unit partial pressure difference. |
 | **Surfactant** | A substance produced by alveolar cells that reduces surface tension, preventing alveolar collapse and maintaining surface area for gas exchange. |
 | **Arterial blood gas (ABG)** | A clinical test that directly measures the partial pressures of O<sub>2</sub> and CO<sub>2</sub>, as well as pH, in arterial blood. |
 | **Pulse oximetry (SpO<sub>2</sub>)** | A non-invasive method for monitoring oxygen saturation of hemoglobin in peripheral blood. |
