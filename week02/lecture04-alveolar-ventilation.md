@@ -312,7 +312,7 @@ $$\dot{V}CO_2 = D_{CO_2} \times \Delta P_{CO_2}$$
 - **Carbon dioxide (right panel)**:
   - CO<sub>2</sub> diffuses from blood (P<sub>c</sub>CO<sub>2</sub>) into the alveolus.
   - Exhaled ventilation removes CO<sub>2</sub> from the lung.
-- The balance between ventilation, perfusion, and diffusion determines the alveolar partial pressures of both gases.
+- Ventilation, perfusion, and diffusion all influence the alveolar partial pressures of both gases.
 
 ---
 
