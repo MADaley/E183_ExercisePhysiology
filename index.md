@@ -7,9 +7,12 @@ title: "Home"
 
 These study guides follow each lecture **slide-by-slide** in sequence, showing every slide image alongside a summary of the key concepts from the lecture. Use them to review lectures at your own pace.
 
-**Course:** E183 Exercise Physiology — Spring 2026/
+**Course:** E183 Exercise Physiology — Spring 2026
+
 **Instructor:** Professor Monica A. Daley
+
 **Department:** Ecology and Evolutionary Biology, UC Irvine
+
 
 ---
 
