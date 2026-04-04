@@ -57,7 +57,7 @@ next_lecture: /week02/lecture05-ventilation-rest-exercise
 - Vertebrate gas exchange systems vary widely in design, but all must accomplish the same fundamental task of exchanging O<sub>2</sub> and CO<sub>2</sub>.
 - **Fish** use gills with **countercurrent** exchange (water and blood flow in opposite directions).
 - **Birds** have **parabronchial lungs** with unidirectional airflow and cross-current exchange -- no anatomical dead space.
-- **Mammals** use **tidal ventilation** where air moves in and out through the same passages, creating a "pool" exchange system with **anatomical dead space**.
+- **Mammals, amphibians and non-crocadilian reptiles** use **tidal ventilation** where air moves in and out through the same passages, creating a "pool" exchange system with **anatomical dead space**.
 - The human tidal ventilation system means not all air is refreshed on each breath, and alveolar gas composition varies depending on metabolic rate, tidal volumes, and breathing frequency.
 
 ---
@@ -82,7 +82,7 @@ next_lecture: /week02/lecture05-ventilation-rest-exercise
 
 ![Diagram titled "Alveolar ventilation & physiological dead space" showing the alveolar ventilation rate equation V-dot-A equals f_b times (V_T minus V_D). A branching airway schematic shows anatomic dead space (V_D) at the top, a perfused alveolus (V_A) on the left, and a non-perfused alveolus representing alveolar dead space on the right. Below: V_D physiological equals V_D alveolar plus V_D anatomic, and in healthy individuals V_D physiological approximates V_D anatomic at approximately 150 mL.](images/lec04/slide-006.png)
 
-### Alveolar Ventilation and Physiological Dead Space
+### Review of Alveolar Ventilation and Physiological Dead Space
 
 - The **alveolar ventilation rate** is defined by:
 
@@ -248,7 +248,7 @@ $$\dot{V}O_2 = \frac{A \times D \times \Delta P_{O_2}}{T}$$
 ### The Alveolar Respiratory Membrane
 
 - Gas exchange occurs across the **alveolar respiratory membrane**, which separates alveolar air from capillary blood.
-- The membrane consists of multiple thin layers: the alveolar epithelium, fused basement membranes, and the capillary endothelium, with a total thickness of approximately **0.5 micrometers**.
+- The membrane consists of multiple thin layers: the alveolar epithelium, fused basement membranes, and the capillary endothelium, with a total thickness of approximately **0.2 micrometers**.
 - Typical partial pressure values at rest:
   - P<sub>O2</sub> in the alveolus: ~104 mmHg; in deoxygenated blood: ~40 mmHg (gradient of ~64 mmHg drives O<sub>2</sub> into blood)
   - P<sub>CO2</sub> in the blood: ~45 mmHg; in the alveolus: ~40 mmHg (gradient of ~5 mmHg drives CO<sub>2</sub> into alveolus)
