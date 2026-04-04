@@ -454,4 +454,3 @@ $$\dot{V}O_2 = \dot{V}_A \times \beta_{gO_2} \times (P_IO_2 - P_EO_2)$$
 | **Spirometry** | A clinical and research technique for measuring lung volumes and airflow rates by analyzing exhaled air. |
 | **Vital capacity** | The maximum volume of air that can be exhaled after a maximum inhalation; equals IRV + V<sub>T</sub> + ERV. |
 | **Capacitance coefficient ($\beta_{gO_2}$)** | A constant describing the amount of O<sub>2</sub> that can be carried per unit volume of air per unit partial pressure difference. |
-| **Fick Principle** | A method for calculating oxygen consumption ($\dot{V}O_2$) from externally measurable variables; introduced in the next lecture. |
