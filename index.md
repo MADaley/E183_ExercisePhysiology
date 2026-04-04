@@ -13,6 +13,7 @@ These study guides follow each lecture **slide-by-slide** in sequence, showing e
 
 **Department:** Ecology and Evolutionary Biology, UC Irvine <br>
 
+**Note:** Professor Jim Hicks provided some of the materials on the oxygen supply cascade and cardiorespiratory physiology used in this course.   
 
 ---
 
