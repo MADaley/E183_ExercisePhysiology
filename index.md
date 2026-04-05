@@ -35,3 +35,12 @@ These study guides follow each lecture **slide-by-slide** in sequence, showing e
 - [Lecture 5: Ventilatory and Metabolic Dynamics in Rest and Exercise]({{ '/week02/lecture05-ventilation-rest-exercise' | relative_url }}) (29 slides)
 
 </div>
+
+<div class="week-card" markdown="1">
+
+## [Week 3: Control of Ventilation, Comparative Pulmonary Function, Cardiovascular Responses]({{ '/week03/' | relative_url }})
+
+- [Lecture 6: Ventilation-Perfusion Matching and Comparative Pulmonary Function]({{ '/week03/lecture06-ventilation-perfusion-comparative' | relative_url }}) (45 slides)
+- [Lecture 7: Cardiovascular Responses to Exercise]({{ '/week03/lecture07-cardiovascular-responses' | relative_url }}) (43 slides)
+
+</div>

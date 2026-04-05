@@ -22,3 +22,14 @@
     - title: "Ventilatory and Metabolic Dynamics in Rest and Exercise"
       url: /week02/lecture05-ventilation-rest-exercise
       slides: 29
+
+- number: 3
+  title: "Control of Ventilation, Comparative Pulmonary Function, Cardiovascular Responses"
+  url: /week03/
+  lectures:
+    - title: "Ventilation-Perfusion Matching and Comparative Pulmonary Function"
+      url: /week03/lecture06-ventilation-perfusion-comparative
+      slides: 45
+    - title: "Cardiovascular Responses to Exercise"
+      url: /week03/lecture07-cardiovascular-responses
+      slides: 43
