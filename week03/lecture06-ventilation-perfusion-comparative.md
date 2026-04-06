@@ -5,7 +5,7 @@ week: 3
 lecture: 6
 week_title: "Week 3: Control of Ventilation, Comparative Pulmonary Function, Cardiovascular Responses"
 week_url: /week03/
-total_slides: 45
+total_slides: 43
 prev_lecture: /week02/lecture05-ventilation-rest-exercise
 next_lecture: /week03/lecture07-cardiovascular-responses
 ---
@@ -45,36 +45,13 @@ next_lecture: /week03/lecture07-cardiovascular-responses
 ### Review: Exercise-Induced Hypoxemia in Elite Athletes (EIAH)
 
 - **Exercise-induced arterial hypoxemia (EIAH)** is observed in approximately 40–50% of elite endurance athletes.
-- At high work rates, arterial O<sub>2</sub> saturation decreases in normoxia (F<sub>I</sub>O<sub>2</sub> = 0.21), as shown by the declining curve on the right y-axis.
-- When supplemental oxygen is provided (F<sub>I</sub>O<sub>2</sub> = 0.26), the saturation drop is ameliorated and oxygen uptake increases further — indicating a **pulmonary limitation** on O<sub>2</sub> uptake.
-- At reduced inspired O<sub>2</sub> (F<sub>I</sub>O<sub>2</sub> = 0.15), the drop is more severe.
-- The graph demonstrates that pulmonary function — not cardiac output — becomes the limiting factor at peak performance in these athletes.
-
----
-
-## Slide 4
-
-![Slide titled "Exercise induced hypoxemia in elite athletes (EIAH)." Left: two graphs showing oxygen uptake (mL/min/kg) and arterial O2 saturation (%) versus treadmill speed (m/sec) in thoroughbred racehorses at three FIO2 levels (0.35, 0.21, 0.15). Saturation drops steeply at high speed at normoxia and is even lower at FIO2 = 0.15. Right: photo of thoroughbred racehorses galloping on a dirt track. Citation: Dempsey and Wagner, J Appl Physiol, 1999.](images/lec06/slide-004.png)
-
-### EIAH in Elite Animal Athletes
-
-- EIAH is also observed in **thoroughbred racehorses**, which are elite animal athletes with extremely high cardiac output.
-- At normoxia (F<sub>I</sub>O<sub>2</sub> = 0.21), arterial O<sub>2</sub> saturation drops significantly at high treadmill speeds.
-- With supplemental O<sub>2</sub> (F<sub>I</sub>O<sub>2</sub> = 0.35), the saturation drop is reduced and oxygen uptake increases — confirming a pulmonary limitation.
-- This demonstrates that the phenomenon is not unique to humans but occurs across species where the cardiovascular system's capacity exceeds the lungs' capacity for gas exchange.
-
----
-
-## Slide 5
-
-![Text slide titled "Does pulmonary function limit performance?" with two main sections. Top section states that pulmonary function is NOT a limitation for most healthy individuals at sea level, though respiratory muscle fatigue can occur at 90–100% VO2max. Bottom section notes that gas exchange does limit performance in 40–50% of elite endurance athletes experiencing EIAH, with specific mechanisms listed: inadequate hyperventilation, feedback inhibition, changes in breathing control, respiratory muscle fatigue, ventilation/perfusion mismatch, short RBC transit time, and pulmonary edema.](images/lec06/slide-005.png)
 
 ### Does Pulmonary Function Limit Performance?
 
-- For most healthy individuals at sea level, **pulmonary function is NOT the limiting factor** for exercise performance at most intensities.
-- However, **respiratory muscle fatigue** does occur during very high intensity exercise (90–100% VO<sub>2</sub>max) and can limit ventilatory capacity during prolonged high-intensity exercise.
+- For most healthy individuals at sea level, **pulmonary function is NOT the limiting factor** for exercise performance at most intensities, except following **respiratory muscle fatigue** with very high intensity exercise (90–100% VO<sub>2</sub>max).
 
-- Gas exchange **does limit performance** in some elite endurance athletes (40–50% experience EIAH). Mechanisms may include:
+- However, pulmonary exchange **does limit performance** in some elite endurance athletes (40–50% elite human athletes experience EIAH, also present in thoroughbred racehorses). 
+Mechanisms include:
   - **Inadequate hyperventilation** — mechanical limits on lung airflow, feedback inhibition from mechanical constraints, or decreased chemoreceptor sensitivity
   - **Respiratory muscle fatigue**
   - **Ventilation/perfusion mismatch and heterogeneity** — uneven matching of airflow to blood flow across lung regions
@@ -83,7 +60,7 @@ next_lecture: /week03/lecture07-cardiovascular-responses
 
 ---
 
-## Slide 6
+## Slide 4
 
 ![Text slide titled "Does training improve pulmonary function?" Top section explains that ventilation is lower during exercise following endurance training due to increased aerobic capacity of locomotor muscles, resulting in lower H+ production and shifted feedback control. Bottom section notes that training has limited effect on lung structure: normal lung function exceeds demands for gas exchange, training-induced adaptation is not required for most individuals, EIAH occurs only in the most elite athletes, and the lung may have low capacity for structural or developmental adaptation.](images/lec06/slide-006.png)
 
@@ -100,7 +77,7 @@ next_lecture: /week03/lecture07-cardiovascular-responses
 
 ---
 
-## Slide 7
+## Slide 5
 
 ![Slide titled "Three-dimensional (3D) lung segmentation for diagnosis of COVID-19 and the communication of disease impact to the public," showing a research paper by Schachner and Spieler. Multiple panels display 3D segmented lung models from CT scans: (A) healthy lung in blue, (B–D) COVID-19 affected lungs showing areas of ground-glass opacity and ARDS in contrasting colors. The right side shows four 3D-rendered lung models in anterior view comparing healthy tissue (blue) against diseased regions (teal/orange/yellow).](images/lec06/slide-007.png)
 
@@ -113,7 +90,7 @@ next_lecture: /week03/lecture07-cardiovascular-responses
 
 ---
 
-## Slide 8
+## Slide 6
 
 ![Slide showing two research publications on long-term lung damage from COVID-19. Top: a CT-based quantitative assessment study with chest CT images showing lung abnormalities. Bottom: a longitudinal study of chest CT findings after COVID-19 infection. Key finding highlighted: "61% of patients had complete radiologic resolution at 2 year follow-up; 39% had persistent interstitial lung abnormalities after 2 years."](images/lec06/slide-008.png)
 
@@ -126,7 +103,7 @@ next_lecture: /week03/lecture07-cardiovascular-responses
 
 ---
 
-## Slide 9
+## Slide 7
 
 ![Text slide titled "Ventilation-perfusion matching and comparative pulmonary function" listing the overview (control of ventilation in exercise; ventilation-perfusion matching; comparative case studies on cardiorespiratory physiology) and three learning objectives: (1) Use the Fick principle to calculate changes in cardiovascular supply of oxygen, (2) Define ventilation-perfusion ratio (V/Q) and discuss how variation in V/Q may limit gas exchange, (3) Discuss the diversity of lung structure present among vertebrates and its relationship between endurance exercise capacity.](images/lec06/slide-009.png)
 
@@ -144,7 +121,7 @@ next_lecture: /week03/lecture07-cardiovascular-responses
 
 ---
 
-## Slide 10
+## Slide 8
 
 ![Slide titled "Use of aerobic vs. anaerobic metabolism: varies by exercise intensity and duration." A table with two columns shows percent aerobic and percent anaerobic energy contribution across different exercise durations, from under 10 seconds (nearly all anaerobic) to over 120 minutes (nearly all aerobic). Example activities are listed alongside each duration: 10-second events use mostly anaerobic energy, while events lasting 2+ minutes are predominantly aerobic, with distances like 2-mile runs and longer being nearly 100% aerobic.](images/lec06/slide-010.png)
 
@@ -159,7 +136,7 @@ next_lecture: /week03/lecture07-cardiovascular-responses
 
 ---
 
-## Slide 11
+## Slide 9
 
 ![Slide titled "Control of ventilation" with an anatomical diagram of the brainstem on the left showing the cerebrum, pons (pneumotaxic center and apneustic center), medulla oblongata (ventral and dorsal respiratory groups), and spinal cord. Right side lists chemoreceptors (central chemoreceptors in the medulla sensitive to PCO2 and H+ in cerebrospinal fluid; peripheral chemoreceptors in aortic and carotid bodies sensitive to PO2, H+, and K+ in blood) and neural input (from motor cortex, skeletal muscle mechanoreceptors including muscle spindles and Golgi tendon organs, and muscle chemoreceptors sensitive to K+ and H+ concentrations).](images/lec06/slide-011.png)
 
@@ -176,7 +153,7 @@ next_lecture: /week03/lecture07-cardiovascular-responses
 
 ---
 
-## Slide 12
+## Slide 10
 
 ![Slide titled "Control of ventilation" with an anatomical diagram on the left showing the medulla oblongata, sensory nerves (glossopharyngeal and vagus), carotid bodies, common carotid artery, sensory nerve branches of the vagus, aorta, aortic bodies, and heart. A table on the right lists four receptor types: chemoreceptors in the medulla oblongata (sensitive to PCO2 and pH), carotid body (sensitive to PCO2, pH, PO2), aortic body (sensitive to PCO2, pH), and muscle mechanoreceptors (sensitive to muscle contraction and activity). Each row describes the receptor's stimulus and its comments on the control of breathing.](images/lec06/slide-012.png)
 
@@ -191,7 +168,7 @@ next_lecture: /week03/lecture07-cardiovascular-responses
 
 ---
 
-## Slide 13
+## Slide 11
 
 ![Graph titled "Effect of PaCO2 on ventilation." X-axis: arterial PCO2 (mmHg) ranging from 40 to 45. Y-axis: minute ventilation VE (L/min) ranging from 5 to 20. A red line with data points shows a roughly linear positive relationship — as arterial PCO2 rises from 40 to 45 mmHg, ventilation increases approximately from 8 to 19 L/min.](images/lec06/slide-013.png)
 
@@ -204,7 +181,7 @@ next_lecture: /week03/lecture07-cardiovascular-responses
 
 ---
 
-## Slide 14
+## Slide 12
 
 ![Graph titled "Effect of PaO2 on ventilation." X-axis: arterial PO2 (mmHg) ranging from 0 to 100. Y-axis: minute ventilation VE (L/min) ranging from 0 to 30. A teal curve shows a nonlinear relationship: ventilation is relatively low and stable at PO2 above ~70 mmHg, then rises steeply below ~60 mmHg. A dashed vertical line at approximately 65 mmHg is labeled "Hypoxic threshold," with a purple arrow below the x-axis pointing left.](images/lec06/slide-014.png)
 
@@ -219,7 +196,7 @@ next_lecture: /week03/lecture07-cardiovascular-responses
 
 ---
 
-## Slide 15
+## Slide 13
 
 ![Schematic control diagram titled "Control of ventilation." Left side shows an anatomical drawing of the brain, carotid bodies, common carotid arteries, aorta, aortic bodies, and heart. Right side shows a flow diagram: higher brain centers provide primary drive to increase ventilation during exercise; peripheral chemoreceptors (carotid and aortic bodies) feed into the respiratory control center (medulla, pons); skeletal muscle chemoreceptors and mechanoreceptors also provide input; the respiratory control center outputs to respiratory muscles. An asterisk notes that these act to fine-tune ventilation during exercise.](images/lec06/slide-015.png)
 
@@ -235,7 +212,7 @@ next_lecture: /week03/lecture07-cardiovascular-responses
 
 ---
 
-## Slide 16
+## Slide 14
 
 ![Diagram titled "Steps in the oxygen supply cascade" with four labeled steps alongside a schematic of the respiratory and circulatory systems. Step 1: Pulmonary ventilation (environment to alveoli) — gas laws and Fick's principle. Step 2: Alveolar gas exchange (alveoli to pulmonary capillaries) — Fick's law of diffusion, O2 diffusion capacity of the lungs. Step 3: Blood gas transport (pulmonary to systemic capillaries) — Fick's principle, O2 carrying capacity of the blood. Step 4: Systemic gas exchange (systemic capillaries to mitochondria) — Fick's law of diffusion, O2 diffusion capacity in tissues. Bottom note: "Within each step: Identify governing equations & limiting factors."](images/lec06/slide-016.png)
 
@@ -250,7 +227,7 @@ next_lecture: /week03/lecture07-cardiovascular-responses
 
 ---
 
-## Slide 17
+## Slide 15
 
 ![Slide titled "Steps in the oxygen supply cascade" with the same four-step diagram but now including equations for each step. Step 1 shows the ventilatory Fick equation. Step 2 shows VO2 = DL(Plung − Pblood)O2 for diffusion. Step 3 (highlighted in green) shows the Fick principle for bulk blood flow: VO2 = Q̇·Bblood·(PaO2 − PvO2), with the alternative form VO2 = Q̇(CaO2 − CvO2), and Q̇ = HR × SV. The equations for blood oxygen content and the arterial-venous gradient are written out.](images/lec06/slide-017.png)
 
@@ -274,7 +251,7 @@ $$\dot{Q} = HR \times SV$$
 
 ---
 
-## Slide 18
+## Slide 16
 
 ![Slide with a lavender background titled "Based on the equations and what have learned, what factors could contribute to changes in blood gas transport (oxygen transport from the pulmonary to systemic capillaries)?" Three forms of the Fick principle for bulk blood flow are listed: VO2 = Q̇·Bblood·(PaO2 − PvO2), VO2 = Q̇(CaO2 − CvO2), and Q̇ = HR(SV) in liters/min. Labels identify the arterial-venous gradient (ΔPO2) and blood oxygen content (ΔCO2).](images/lec06/slide-018.png)
 
@@ -290,7 +267,7 @@ $$\dot{Q} = HR \times SV$$
 
 ---
 
-## Slide 19
+## Slide 17
 
 ![Diagram titled "Factors in gas transport" showing the complete cardiorespiratory circuit. The left side labels the stages of the oxygen supply cascade with associated partial pressures at each step (inspired air, alveolar gas, pulmonary circuit, systemic circuit). The right side lists the key factors: alveolar ventilation, partial pressure gradients, diffusion conductance, ventilation-perfusion matching (highlighted in red), and shunts (highlighted in red). The pulmonary and systemic circuits are connected through the four-chambered heart.](images/lec06/slide-019.png)
 
@@ -306,7 +283,7 @@ $$\dot{Q} = HR \times SV$$
 
 ---
 
-## Slide 20
+## Slide 18
 
 ![Diagram titled "Pattern of blood flow in the circulatory system." Left: an anatomical illustration of the double circulatory system showing the four-chambered heart with deoxygenated blood (blue) flowing through the right side and oxygenated blood (red) flowing through the left side, connected to the lungs and body. Right: a simplified flow diagram showing the basic pattern of blood flow: (1) Right side of heart → (2) Lungs → (3) Left side of heart → (4) Systemic cells, in a continuous loop.](images/lec06/slide-020.png)
 
@@ -322,7 +299,7 @@ $$\dot{Q} = HR \times SV$$
 
 ---
 
-## Slide 21
+## Slide 19
 
 ![Graph titled "Regional blood flow in lung." X-axis: rib number from 5 (bottom/base of lung) to 2 (top/apex). Y-axis: blood flow. A green line slopes downward from high blood flow at the base (rib 5) to low blood flow at the apex (rib 2), showing that blood flow is greatest at the base and decreases toward the top of the lung due to gravity.](images/lec06/slide-021.png)
 
@@ -336,7 +313,7 @@ $$\dot{Q} = HR \times SV$$
 
 ---
 
-## Slide 22
+## Slide 20
 
 ![Slide titled "Ventilation/perfusion ratio V̇/Q̇" showing the Fick principle applied to both ventilation and circulation, with equations. Below the equations, four key points define the V/Q ratio: V̇/Q̇ refers to the ratio of ventilation rate to blood flow rate; V̇/Q̇ ≈ 1.0 indicates ideal matching; V̇/Q̇ → 0 represents blood flow without ventilation (shunt); V̇/Q̇ → ∞ represents ventilation without blood flow (dead space ventilation).](images/lec06/slide-022.png)
 
@@ -355,7 +332,7 @@ $$\dot{Q} = HR \times SV$$
 
 ---
 
-## Slide 23
+## Slide 21
 
 ![Slide titled "Ventilation/perfusion ratio V̇/Q̇" showing a translucent image of lungs with a superimposed table. The table has three columns (ventilation rate in L/min, blood flow rate in L/min, and V/Q ratio) for two regions: apex (0.24, 0.07, 3.43) and base (0.82, 1.29, 0.64). Text below: "During resting conditions (standing/upright), most of the blood flow is to the base of the lung due to gravitational force. During exercise, blood flow increases in top of lung (apex)."](images/lec06/slide-023.png)
 
@@ -373,7 +350,7 @@ $$\dot{Q} = HR \times SV$$
 
 ---
 
-## Slide 24
+## Slide 22
 
 ![Graph titled "Ventilation/perfusion ratio V̇/Q̇." X-axis: rib number from 5 (bottom) to 2 (top). Left y-axis: flow rate (L/min) with a scale from 0.05 to 0.15. Right y-axis: V̇A/Q̇ ratio from 0 to 3. Three curves are plotted: blood flow (red, steep decline from base to apex), ventilation (blue, shallow decline from base to apex), and the V̇A/Q̇ ratio (purple, rising from below 1.0 at the base to above 3.0 at the apex). Labels indicate "overperfused (V̇/Q̇ < 1.0) = shunt" at the bottom and "underperfused (V̇/Q̇ > 1.0) = dead space ventilation" at the top. An arrow marks "V/Q heterogeneity" as the spread between the high and low ratio values, with "ideal" marked at 1.0.](images/lec06/slide-024.png)
 
@@ -390,7 +367,7 @@ $$\dot{Q} = HR \times SV$$
 
 ---
 
-## Slide 25
+## Slide 23
 
 ![Diagram titled "Shunts." A schematic shows a lung connected to a capillary bed. Normally, blood flows through the capillary in contact with the alveolus (labeled P_AO2), becomes oxygenated, and exits as a red arrow ("no shunt"). In a shunt, blood bypasses the respiratory exchanger entirely and exits still deoxygenated (blue arrow, "shunt"). Text below: "Shunts are defined as blood flow that does not come into contact with the respiratory exchanger."](images/lec06/slide-025.png)
 
@@ -405,7 +382,7 @@ $$\dot{Q} = HR \times SV$$
 
 ---
 
-## Slide 26
+## Slide 24
 
 ![Slide titled "Diversity & similitude in vertebrate cardiorespiratory systems" showing four vertebrate groups (fish, amphibian, reptile, mammal/bird) with illustrations and circulatory diagrams. Fish: single-loop circulation with a two-chambered heart (one ventricle, one atrium), gill capillaries above and systemic capillaries below. Amphibian: three-chambered heart with a pulmocutaneous circuit and a systemic circuit, showing mixing of oxygenated and deoxygenated blood in a shared ventricle. Reptile: partially divided ventricle with right systemic aorta creating a potential pulmonary bypass, with pulmonary and systemic circuits. Mammal/bird: fully divided four-chambered heart with completely separate pulmonary and systemic circuits.](images/lec06/slide-026.png)
 
@@ -420,7 +397,7 @@ $$\dot{Q} = HR \times SV$$
 
 ---
 
-## Slide 27
+## Slide 25
 
 ![Slide titled "Ventilation/perfusion V̇/Q̇ heterogeneity at rest." Three panels show V/Q distributions for the tegu (lizard), turtle, and human at rest. X-axis: V/Q ratio (logarithmic scale centered on 1.0). Y-axis: ventilation (open circles) and perfusion (closed circles) as percentage of total. In the tegu and turtle, the log standard deviation of Q (log SDQ) is approximately 1.0, indicating high heterogeneity, with distributions shifted left of 1.0 indicating significant shunt. In the human, log SDQ is approximately 0.5, showing lower heterogeneity centered closer to 1.0. Citation: Powell 2004.](images/lec06/slide-027.png)
 
@@ -435,7 +412,7 @@ $$\dot{Q} = HR \times SV$$
 
 ---
 
-## Slide 28
+## Slide 26
 
 ![Slide titled "Ventilation/perfusion V̇/Q̇ heterogeneity in exercise." Four panels show V/Q distributions for human athletes, horses, varanid lizards, and emus during rest (open circles) and exercise (closed circles). In human athletes, light exercise lowers V/Q heterogeneity, but heavy exercise increases it. In horses, heterogeneity also increases during exercise. In varanid lizards, the shunt decreases and distribution shifts rightward during exercise. In emus (birds), the distribution becomes centered near 1.0 during exercise with low heterogeneity. Text notes that in elite human athletes, V/Q heterogeneity may explain ~60% of the alveolar-arterial PO2 difference (EIAH). Citation: Powell 2004.](images/lec06/slide-028.png)
 
@@ -451,7 +428,7 @@ $$\dot{Q} = HR \times SV$$
 
 ---
 
-## Slide 29
+## Slide 27
 
 ![Diagram titled "Diversity in vertebrate cardiorespiratory systems" showing four schematic circulatory plans. From left: fish (gills, single circuit), amphibians/non-crocodilian reptiles (lung, partially divided heart with mixing), birds (parabronchial lung highlighted in blue, fully divided heart), and mammals (lung, fully divided heart). Red indicates oxygenated blood and blue indicates deoxygenated blood. Citation: Wang et al. 2019.](images/lec06/slide-029.png)
 
@@ -467,7 +444,7 @@ $$\dot{Q} = HR \times SV$$
 
 ---
 
-## Slide 30
+## Slide 28
 
 ![Slide titled "Avian respiratory system." Left: a silhouette of a bird with the respiratory system illustrated, showing the lung in the center connected to anterior air sacs (cervical, clavicular, cranial thoracic) and posterior air sacs (caudal thoracic, abdominal). Right: an anatomical diagram of the avian lung showing the trachea, primary bronchus, inter-pulmonary bronchus, ventral bronchi, dorso-bronchi, parabronchi, and anterior and posterior air sacs.](images/lec06/slide-030.png)
 
@@ -482,7 +459,7 @@ $$\dot{Q} = HR \times SV$$
 
 ---
 
-## Slide 31
+## Slide 29
 
 ![Slide titled "Avian respiratory system" showing two side-by-side diagrams of a bird in lateral view. Left panel: inhalation — arrows show air entering the trachea and flowing to the posterior air sacs; some air passes through the lung. Right panel: exhalation — arrows show the posterior air sacs compressing and pushing air through the rigid lung (parabronchi), then into the anterior air sacs, and out. Labels identify the lung, trachea, posterior air sacs, and anterior air sacs.](images/lec06/slide-031.png)
 
@@ -497,7 +474,7 @@ $$\dot{Q} = HR \times SV$$
 
 ---
 
-## Slide 32
+## Slide 30
 
 ![Infographic titled "Avian respiratory system" credited to Eleanor Lutz (tabletopwhale.com). Three panels compare respiratory systems: human lungs (tidal, bidirectional), bird lungs (unidirectional flow through parabronchi with air sacs), and grasshopper trachea (direct air delivery to tissues). The bird panel shows the pathway of air through posterior air sacs, lungs, and anterior air sacs with color-coded arrows indicating the direction of flow across two breathing cycles.](images/lec06/slide-032.png)
 
@@ -511,7 +488,7 @@ $$\dot{Q} = HR \times SV$$
 
 ---
 
-## Slide 33
+## Slide 31
 
 ![Slide titled "Avian respiratory system" showing the same Eleanor Lutz infographic on the left with the bird respiratory system diagram. Three bullet points on the right: (1) Unidirectional flow helps to minimize dead space volume and maximize PAO2, (2) Functional separation of ventilation and gas exchange, (3) Separation of ventilatory and respiratory gas exchange structures allows a thinner blood-gas barrier, improving diffusion efficiency.](images/lec06/slide-033.png)
 
@@ -526,7 +503,7 @@ $$\dot{Q} = HR \times SV$$
 
 ---
 
-## Slide 34
+## Slide 32
 
 ![Two anatomical diagrams of the avian respiratory system showing air sac and lung structures during inhalation (top) and exhalation (bottom). The lungs are shown as compact, rigid structures connected to multiple air sacs (labeled but small text). Blue arrows trace the path of air through the trachea, posterior air sacs, through the lung parabronchi, to the anterior air sacs, and eventually out. The diagrams show both direct and indirect airflow pathways through the respiratory circuit.](images/lec06/slide-034.png)
 
@@ -540,7 +517,7 @@ $$\dot{Q} = HR \times SV$$
 
 ---
 
-## Slide 35
+## Slide 33
 
 ![Slide titled "Unidirectional airflow may be a factor in the diversity of athletic animals in the archosaur lineage." A phylogenetic tree shows major vertebrate groups from fish to mammals, with archosaurs (including dinosaurs, birds, and crocodilians) highlighted with red markers. Photos on the right show examples of athletic archosaurs: a bird of prey in flight, a running ostrich, a Komodo dragon-like lizard, and a running dog/wolf. Text labels note "Athletic animals, high aerobic scope, endurance."](images/lec06/slide-035.png)
 
@@ -554,7 +531,7 @@ $$\dot{Q} = HR \times SV$$
 
 ---
 
-## Slide 36
+## Slide 34
 
 ![Slide showing a Journal of Anatomy paper by Schachner et al. (2020, DOI: 10.1111/joa.13358) titled "Anatomy, ontogeny, and evolution of the archosaurian respiratory system: A case study on Alligator mississippiensis and Struthio camelus." Left: photo of researcher Emma R. Schachner, PhD, sitting with a dog surrounded by taxidermy specimens. Right: titled "Phylogeny for Tetrapoda demonstrating the structural diversity of the tetrapod lung," showing a phylogenetic tree with CT-based 3D lung reconstructions for various species labeled (a) through (j), displayed as colorful segmented models.](images/lec06/slide-036.png)
 
@@ -567,7 +544,7 @@ $$\dot{Q} = HR \times SV$$
 
 ---
 
-## Slide 37
+## Slide 35
 
 ![Phylogenetic tree on a black background showing evolutionary relationships among selected tetrapod groups. CT-based 3D lung reconstructions are displayed alongside each clade, showing whole lungs in grayscale cross-sections and colored segmented models. The images reveal structural diversity in lung architecture across the lineage, with some species showing more complex internal partitioning and airway structures than others.](images/lec06/slide-037.png)
 
@@ -580,7 +557,7 @@ $$\dot{Q} = HR \times SV$$
 
 ---
 
-## Slide 38
+## Slide 36
 
 ![Slide titled "Unidirectional pulmonary airflow patterns in the savannah monitor lizard" with author names (Emma R. Schachner, Robert L. Cieri, James P. Butler, C. G. Farmer). Left: photo of researcher Emma R. Schachner with a dog. Right: Figure 1 labeled "Pulmonary anatomy and airflow patterns of Varanus exanthematicus" showing panels (a–d): a skeleton with lungs highlighted, and CT-based 3D segmented lung models in multiple views with color-coded regions showing distinct anatomical compartments and labeled airflow directions.](images/lec06/slide-038.png)
 
@@ -594,7 +571,7 @@ $$\dot{Q} = HR \times SV$$
 
 ---
 
-## Slide 39
+## Slide 37
 
 ![Two CT-based 3D images from farmer.biology.utah.edu. Left: a dorsal view of a crocodilian (likely an alligator) skeleton with lungs segmented and color-coded, showing complex internal airway structures. Right: two views of segmented lungs with color-coded compartments, demonstrating distinct anatomical regions within the crocodilian lung that may direct airflow.](images/lec06/slide-039.png)
 
@@ -607,7 +584,7 @@ $$\dot{Q} = HR \times SV$$
 
 ---
 
-## Slide 40
+## Slide 38
 
 ![Slide titled "Ostrich (Struthio camelus)" showing four panels (a–d) of CT-based 3D reconstructions. Panels (a–b): lateral and dorsal views of the ostrich skeleton with the respiratory system (lungs and air sacs) segmented and overlaid in color. The lungs (compact, blue) are small relative to the extensive air sacs distributed throughout the body cavity. Panels (c–d): isolated 3D models of the respiratory system with color-coded components labeled: GL (gas-exchanging lung), IAS (interclavicular air sac), CS (cervical sac), CRTS (cranial thoracic sac), AAS (abdominal air sac), CTS (caudal thoracic sac). Citation: Journal of Anatomy, DOI: 10.1111/joa.13358.](images/lec06/slide-040.png)
 
@@ -626,7 +603,7 @@ $$\dot{Q} = HR \times SV$$
 
 ---
 
-## Slide 41
+## Slide 39
 
 ![Slide showing a Comparative Biochemistry and Physiology research paper and three schematic lung diagrams labeled A, B, and C. The paper title refers to linking structure and function in the vertebrate respiratory system, citing August Krogh. The key finding highlighted: "CT imaging & modeling of fluid dynamics to reveal airflow patterns in lungs." Below: "Birds, crocodiles & some lizards have unidirectional airflow through lungs" and "Birds have the most distinct separation between ventilation and gas exchange." Diagrams show: (A) a mammalian-style branching tidal lung; (B) a bird-like tubular unidirectional lung; (C) a crocodilian circuit with unidirectional flow.](images/lec06/slide-041.png)
 
@@ -644,7 +621,7 @@ $$\dot{Q} = HR \times SV$$
 
 ---
 
-## Slide 42
+## Slide 40
 
 ![A research article page titled "Respiratory evolution in archosaurs" by Brocklehurst et al. (2020). Figure 1 shows a cladogram of Archosauromorpha illustrating evolutionary relationships, with major innovations in respiratory system evolution mapped onto branches. Extant taxa are shown in black and extinct taxa in grey. Labels on the right list numbered evolutionary innovations including: (1) lateralis pulmo, fleshed blood-gas barriers; (2) cartilaginous supported airways; (3) mobile parabronchial lungs; (4) and beyond including hepatic piston, unidirectional flow, and air-sac-like structures. Skeletal illustrations by Scott Hartman accompany several clades.](images/lec06/slide-042.png)
 
@@ -662,7 +639,7 @@ $$\dot{Q} = HR \times SV$$
 
 ---
 
-## Slide 43
+## Slide 41
 
 ![Slide titled "Did bird-like lungs allow dinosaurs to dominate? (See supplemental resources on canvas)." Top left: an NPR.org article by Emma Schachner titled "How Did Dinosaurs' Lungs Help Them Dominate The Earth For So Long?" with a brief summary. A URL is provided. Top right: an illustration of dinosaurs in a prehistoric landscape. Bottom right: a screenshot of a YouTube video showing a presenter discussing "the leverage of a particular muscle that they use," with the channel name "Sauropods - Air Holes."](images/lec06/slide-043.png)
 
@@ -677,7 +654,7 @@ $$\dot{Q} = HR \times SV$$
 
 ---
 
-## Slide 44
+## Slide 42
 
 ![Phylogenetic tree identical to Slide 35, titled "Unidirectional airflow may be a factor in the diversity of athletic animals in the archosaur lineage." Major vertebrate groups from fish to mammals are shown, with archosaurs highlighted. Photos on the right show a bird of prey, a running ostrich, a large lizard, and a running canid. Text: "Athletic animals, high aerobic scope, endurance."](images/lec06/slide-044.png)
 
@@ -691,7 +668,7 @@ $$\dot{Q} = HR \times SV$$
 
 ---
 
-## Slide 45
+## Slide 43
 
 ![Summary slide identical to Slide 9, titled "Ventilation-perfusion matching and comparative pulmonary function." Lists the overview (control of ventilation in exercise; ventilation-perfusion matching; comparative case studies on cardiorespiratory physiology) and three learning objectives: (1) Use the Fick principle to calculate changes in cardiovascular supply of oxygen, (2) Define ventilation-perfusion ratio (V/Q) and discuss how variation in V/Q may limit gas exchange, (3) Discuss the diversity of lung structure present among vertebrates and its relationship between endurance exercise capacity.](images/lec06/slide-045.png)
 
