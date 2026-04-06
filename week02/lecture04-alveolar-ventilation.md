@@ -5,7 +5,7 @@ week: 2
 lecture: 4
 week_title: "Week 2: Alveolar Ventilation, Ventilatory and Metabolic Dynamics"
 week_url: /week02/
-total_slides: 32
+total_slides: 33
 prev_lecture: /week01/lecture03-oxygen-cascade-ventilation
 next_lecture: /week02/lecture05-ventilation-rest-exercise
 ---
@@ -557,6 +557,43 @@ $$P_AO_2 = P_IO_2 - \frac{P_ACO_2}{R} \qquad R = \frac{\dot{V}CO_2}{\dot{V}O_2}$
 4. CO<sub>2</sub> diffuses **~20 times faster** than O<sub>2</sub>, so O<sub>2</sub> diffusion is typically the rate-limiting step in pulmonary gas exchange.
 5. Factors that can impair pulmonary diffusion include: decreased lung surface area (fibrosis, emphysema), increased membrane thickness (inflammation, edema, fluid buildup), reduced perfusion, loss of surfactant, and reduced inspired P<sub>O2</sub> (altitude).
 6. The **clinical alveolar ventilation equation** and the **alveolar gas equation** together allow estimation of alveolar P<sub>CO2</sub> and P<sub>O2</sub> from non-invasive measurements.
+
+---
+
+## Slide 33
+
+![Slide titled "Practice question" presenting a worked example: Calculate the alveolar partial pressure of oxygen for a ventilated patient receiving 100 percent O2 through a mask, assuming P_atm equals 760 mmHg and a normal metabolic state with PCO2 equals 40 mmHg. The slide prompts the student to identify what equations are needed and what additional assumptions must be made. Two equations are shown: the alveolar gas equation P_AO2 equals P_IO2 minus the quantity P_ACO2 divided by R, with R equal to V-dot-CO2 divided by V-dot-O2 and approximately 0.8; and the inspired O2 equation P_IO2 equals F_IO2 times the quantity P_B minus P_w (water vapor pressure). The worked solution shows P_IO2 equals 1 times (760 minus 47) equals 713 mmHg, and P_AO2 equals 713 minus (40 divided by 0.8) equals 713 minus 50 equals 663 mmHg.](images/lec04/slide-033.png)
+
+### Practice Problem: Alveolar P<sub>O2</sub> on 100% O<sub>2</sub>
+
+**Problem.** Calculate the alveolar partial pressure of oxygen ($P\_AO\_2$) for a ventilated patient receiving **100% O<sub>2</sub>** through a mask, given:
+
+- $P\_{atm} = 760$ mmHg
+- Normal metabolic state with $P\_ACO\_2 = 40$ mmHg
+
+**What equations are needed?**
+
+The **alveolar gas equation**, combined with the equation for the **inspired partial pressure of O<sub>2</sub>** (corrected for water vapor in the conducting airways):
+
+$$P_AO_2 = P_IO_2 - \frac{P_ACO_2}{R}$$
+
+$$P_IO_2 = F_IO_2 \times (P_B - P_{H_2O})$$
+
+**Additional assumptions.**
+
+- $F\_IO\_2 = 1.0$ (100% O<sub>2</sub> delivered by the mask)
+- $P\_{H\_2O} = 47$ mmHg (saturated water vapor pressure at body temperature, 37 °C)
+- $R \approx 0.8$ (typical respiratory exchange ratio for mixed substrate metabolism)
+
+**Step 1 -- Calculate $P\_IO\_2$:**
+
+$$P_IO_2 = 1.0 \times (760 - 47) = 713 \text{ mmHg}$$
+
+**Step 2 -- Calculate $P\_AO\_2$:**
+
+$$P_AO_2 = 713 - \frac{40}{0.8} = 713 - 50 = 663 \text{ mmHg}$$
+
+**Result.** The alveolar P<sub>O2</sub> for a patient breathing 100% O<sub>2</sub> is approximately **663 mmHg** -- roughly **6-fold higher** than the typical ~100 mmHg on room air. This illustrates how supplemental O<sub>2</sub> dramatically increases the alveolar-to-capillary P<sub>O2</sub> gradient, which is the driving force for O<sub>2</sub> diffusion across the blood-gas barrier and a primary therapeutic strategy for patients with impaired pulmonary gas exchange.
 
 ---
 

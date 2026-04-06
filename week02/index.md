@@ -9,7 +9,7 @@ This week covers the factors that determine alveolar ventilation, the alveolar g
 
 ## Lectures
 
-1. [**Factors in Alveolar Ventilation**](lecture04-alveolar-ventilation) (32 slides)
+1. [**Factors in Alveolar Ventilation**](lecture04-alveolar-ventilation) (33 slides)
    Alveolar ventilation equation, anatomical and physiological dead space, factors affecting gas exchange efficiency.
 
 2. [**Ventilatory and Metabolic Dynamics in Rest and Exercise**](lecture05-ventilation-rest-exercise) (29 slides)
