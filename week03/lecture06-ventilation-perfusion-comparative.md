@@ -430,17 +430,12 @@ $$\dot{Q} = HR \times SV$$
 
 ## Slide 27
 
-![Diagram titled "Diversity in vertebrate cardiorespiratory systems" showing four schematic circulatory plans. From left: fish (gills, single circuit), amphibians/non-crocodilian reptiles (lung, partially divided heart with mixing), birds (parabronchial lung highlighted in blue, fully divided heart), and mammals (lung, fully divided heart). Red indicates oxygenated blood and blue indicates deoxygenated blood. Citation: Wang et al. 2019.](images/lec06/slide-029.png)
+![Slide titled "Diversity & similitude in vertebrate cardiorespiratory systems" showing four vertebrate groups (fish, amphibian, reptile, mammal/bird) with illustrations and circulatory diagrams. Fish: single-loop circulation with a two-chambered heart (one ventricle, one atrium), gill capillaries above and systemic capillaries below. Amphibian: three-chambered heart with a pulmocutaneous circuit and a systemic circuit, showing mixing of oxygenated and deoxygenated blood in a shared ventricle. Reptile: partially divided ventricle with right systemic aorta creating a potential pulmonary bypass, with pulmonary and systemic circuits. Mammal/bird: fully divided four-chambered heart with completely separate pulmonary and systemic circuits.](images/lec06/slide-026.png)
 
 ### Comparative Cardiorespiratory Systems
 
-- Four fundamental cardiovascular designs are shown across major vertebrate groups:
-  - **Fish** — single circuit through gills; no separation of oxygenated and deoxygenated blood after the gills.
-  - **Amphibians and non-crocodilian reptiles** — partially divided heart allows **mixing** of oxygenated and deoxygenated blood (cardiac shunt).
-  - **Birds** — fully divided four-chambered heart; uniquely have a **parabronchial lung** (highlighted in blue) with unidirectional airflow and crosscurrent gas exchange.
-  - **Mammals** — fully divided four-chambered heart with tidal (alveolar) lungs.
+  - **Birds** — uniquely have a **parabronchial lung** (highlighted in blue) with unidirectional airflow and crosscurrent gas exchange.
 - The key difference between birds and mammals lies in lung design: birds have a rigid, flow-through lung, while mammals have compliant, tidal lungs.
-- Mammals and birds independently evolved full ventricular division, consistent with high aerobic demand.
 
 ---
 
