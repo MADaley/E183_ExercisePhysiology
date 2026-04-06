@@ -430,7 +430,7 @@ $$\dot{Q} = HR \times SV$$
 
 ## Slide 27
 
-![Slide titled "Diversity & similitude in vertebrate cardiorespiratory systems" showing four vertebrate groups (fish, amphibian, reptile, mammal/bird) with illustrations and circulatory diagrams. Fish: single-loop circulation with a two-chambered heart (one ventricle, one atrium), gill capillaries above and systemic capillaries below. Amphibian: three-chambered heart with a pulmocutaneous circuit and a systemic circuit, showing mixing of oxygenated and deoxygenated blood in a shared ventricle. Reptile: partially divided ventricle with right systemic aorta creating a potential pulmonary bypass, with pulmonary and systemic circuits. Mammal/bird: fully divided four-chambered heart with completely separate pulmonary and systemic circuits.](images/lec06/slide-026.png)
+![Slide titled "Diversity & similitude in vertebrate cardiorespiratory systems" showing four vertebrate groups (fish, amphibian, reptile, mammal/bird) with illustrations and circulatory diagrams. Fish: single-loop circulation with a two-chambered heart (one ventricle, one atrium), gill capillaries above and systemic capillaries below. Amphibian: three-chambered heart with a pulmocutaneous circuit and a systemic circuit, showing mixing of oxygenated and deoxygenated blood in a shared ventricle. Reptile: partially divided ventricle with right systemic aorta creating a potential pulmonary bypass, with pulmonary and systemic circuits. Mammal/bird: fully divided four-chambered heart with completely separate pulmonary and systemic circuits.](images/lec06/slide-029.png)
 
 ### Comparative Cardiorespiratory Systems
 
