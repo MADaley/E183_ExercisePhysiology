@@ -6,3 +6,5 @@ _site/
 !_includes/*.html
 week*/transcript-*.txt
 week*/preview-*.md
+week*/*.pdf
+WORKFLOW-PROMPTS.md
