@@ -306,20 +306,7 @@ $$\%\text{Sat} = \frac{[O_2]}{O_2 \text{ capacity}} \times 100$$
 
 ## Slide 21
 
-![Slide with a lavender background titled "Think-pair-share: Which part of the Fick's principle equation would each of the following factors influence?" The Fick equation is shown: VO2 = Q̇·Bblood·(PaO2 − PvO2) = Q̇·Bblood·ΔPO2, with Q̇ = HR(SV) in liters/min and ΔPO2 = PaO2 − PvO2. Six scenarios are listed: (1) Decrease in blood pH during exercise, (2) Increase in body temperature during exercise, (3) Dehydration during prolonged exercise, (4) Increase in red blood cell concentration in blood, (5) Increase in myoglobin concentration of muscle, (6) A decrease in shunt of blood in an exercising crocodile.](images/lec07/slide-021.png)
-
-### Class Activity: Factors Influencing the Fick Equation
-
-- Students analyze how specific physiological changes affect different components of the Fick equation:
-
-| Factor | Equation Component Affected |
-|:---|:---|
-| Decreased blood pH | $\Delta P\_{O\_2}$ (arterial-venous gradient) — Bohr effect shifts the curve rightward, more O<sub>2</sub> released at tissues, lowering venous P<sub>O₂</sub> |
-| Increased body temperature | $\Delta P\_{O\_2}$ — rightward curve shift facilitates O<sub>2</sub> unloading at tissues |
-| Dehydration | $\dot{Q}$ (cardiac output) — reduced blood volume decreases venous return and stroke volume; HR increases to compensate |
-| Increased red blood cell count | $B\_{blood}$ (O<sub>2</sub>-carrying coefficient) — more hemoglobin per unit volume increases O<sub>2</sub> content, not partial pressure |
-| Increased myoglobin | $\Delta P\_{O\_2}$ — creates a steeper diffusion gradient by lowering P<sub>O₂</sub> at the tissue side |
-| Decreased shunt (exercising crocodile) | $P\_aO\_2$ increases — less mixing of deoxygenated blood improves arterial saturation, expanding the gradient from both ends |
+### Think-pair-share in class Activity: Factors Influencing the Fick Equation
 
 ---
 
