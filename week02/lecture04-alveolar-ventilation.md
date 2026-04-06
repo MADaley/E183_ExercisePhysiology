@@ -57,7 +57,7 @@ next_lecture: /week02/lecture05-ventilation-rest-exercise
 - Vertebrate gas exchange systems vary widely in design, but all must accomplish the same fundamental task of exchanging O<sub>2</sub> and CO<sub>2</sub>.
 - **Fish** use gills with **countercurrent** exchange (water and blood flow in opposite directions).
 - **Birds** have **parabronchial lungs** with unidirectional airflow and cross-current exchange -- no anatomical dead space.
-- **Mammals, amphibians and non-crocadilian reptiles** use **tidal ventilation** where air moves in and out through the same passages, creating a "pool" exchange system with **anatomical dead space**.
+- **Mammals, amphibians and non-crocodilian reptiles** use **tidal ventilation** where air moves in and out through the same passages, creating a "pool" exchange system with **anatomical dead space**.
 - The human tidal ventilation system means not all air is refreshed on each breath, and alveolar gas composition varies depending on metabolic rate, tidal volumes, and breathing frequency.
 
 ---
