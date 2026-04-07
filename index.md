@@ -29,18 +29,19 @@ These study guides follow each lecture **slide-by-slide** in sequence, showing e
 
 <div class="week-card" markdown="1">
 
-## [Week 2: Alveolar Ventilation, Ventilatory and Metabolic Dynamics]({{ '/week02/' | relative_url }})
+## [Week 2: Alveolar Ventilation, Ventilatory and Metabolic Dynamics, Comparative Pulmonary Function]({{ '/week02/' | relative_url }})
 
-- [Lecture 4: Factors in Alveolar Ventilation]({{ '/week02/lecture04-alveolar-ventilation' | relative_url }}) (32 slides)
+- [Lecture 4: Factors in Alveolar Ventilation]({{ '/week02/lecture04-alveolar-ventilation' | relative_url }}) (33 slides)
 - [Lecture 5: Ventilatory and Metabolic Dynamics in Rest and Exercise]({{ '/week02/lecture05-ventilation-rest-exercise' | relative_url }}) (29 slides)
+- [Lecture 6: Comparative Pulmonary Function]({{ '/week02/lecture06-comparative-pulmonary-function' | relative_url }}) (22 slides)
 
 </div>
 
 <div class="week-card" markdown="1">
 
-## [Week 3: Control of Ventilation, Comparative Pulmonary Function, Cardiovascular Responses]({{ '/week03/' | relative_url }})
+## [Week 3: Control of Ventilation, Ventilation-Perfusion Matching, Cardiovascular Responses]({{ '/week03/' | relative_url }})
 
-- [Lecture 6: Ventilation-Perfusion Matching and Comparative Pulmonary Function]({{ '/week03/lecture06-ventilation-perfusion-comparative' | relative_url }}) (45 slides)
-- [Lecture 7: Cardiovascular Responses to Exercise]({{ '/week03/lecture07-cardiovascular-responses' | relative_url }}) (43 slides)
+- [Lecture 7: Control of Ventilation and Ventilation-Perfusion Matching]({{ '/week03/lecture07-ventilation-perfusion-matching' | relative_url }}) (27 slides)
+- [Lecture 8: Cardiovascular Responses to Exercise]({{ '/week03/lecture08-cardiovascular-responses' | relative_url }}) (39 slides)
 
 </div>

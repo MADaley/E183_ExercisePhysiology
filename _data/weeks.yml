@@ -13,7 +13,7 @@
       slides: 27
 
 - number: 2
-  title: "Alveolar Ventilation, Ventilatory and Metabolic Dynamics"
+  title: "Alveolar Ventilation, Ventilatory and Metabolic Dynamics, Comparative Pulmonary Function"
   url: /week02/
   lectures:
     - title: "Factors in Alveolar Ventilation"
@@ -22,14 +22,17 @@
     - title: "Ventilatory and Metabolic Dynamics in Rest and Exercise"
       url: /week02/lecture05-ventilation-rest-exercise
       slides: 29
+    - title: "Comparative Pulmonary Function"
+      url: /week02/lecture06-comparative-pulmonary-function
+      slides: 22
 
 - number: 3
-  title: "Control of Ventilation, Comparative Pulmonary Function, Cardiovascular Responses"
+  title: "Control of Ventilation, Ventilation-Perfusion Matching, Cardiovascular Responses"
   url: /week03/
   lectures:
-    - title: "Ventilation-Perfusion Matching and Comparative Pulmonary Function"
-      url: /week03/lecture06-ventilation-perfusion-comparative
-      slides: 45
+    - title: "Control of Ventilation and Ventilation-Perfusion Matching"
+      url: /week03/lecture07-ventilation-perfusion-matching
+      slides: 27
     - title: "Cardiovascular Responses to Exercise"
-      url: /week03/lecture07-cardiovascular-responses
+      url: /week03/lecture08-cardiovascular-responses
       slides: 39

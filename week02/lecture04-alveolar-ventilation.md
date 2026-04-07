@@ -3,7 +3,7 @@ layout: lecture
 title: "Lecture 4: Factors in Alveolar Ventilation"
 week: 2
 lecture: 4
-week_title: "Week 2: Alveolar Ventilation, Ventilatory and Metabolic Dynamics"
+week_title: "Week 2: Alveolar Ventilation, Ventilatory and Metabolic Dynamics, Comparative Pulmonary Function"
 week_url: /week02/
 total_slides: 33
 prev_lecture: /week01/lecture03-oxygen-cascade-ventilation

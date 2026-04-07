@@ -3,11 +3,11 @@ layout: lecture
 title: "Lecture 5: Ventilatory and Metabolic Dynamics in Rest and Exercise"
 week: 2
 lecture: 5
-week_title: "Week 2: Alveolar Ventilation, Ventilatory and Metabolic Dynamics"
+week_title: "Week 2: Alveolar Ventilation, Ventilatory and Metabolic Dynamics, Comparative Pulmonary Function"
 week_url: /week02/
 total_slides: 29
 prev_lecture: /week02/lecture04-alveolar-ventilation
-next_lecture:
+next_lecture: /week02/lecture06-comparative-pulmonary-function
 ---
 
 ## Slide 1
