@@ -36,3 +36,14 @@
     - title: "Cardiovascular Responses to Exercise"
       url: /week03/lecture08-cardiovascular-responses
       slides: 39
+
+- number: 4
+  title: "Exercise in Hypoxia: High Altitude and Diving"
+  url: /week04/
+  lectures:
+    - title: "Exercise Performance and Oxygen Delivery at High Altitude"
+      url: /week04/lecture09-exercise-high-altitude
+      slides: 31
+    - title: "Adaptations for Oxygen Delivery and Acute Hypoxia in Diving"
+      url: /week04/lecture10-hypoxia-diving
+      slides: 25

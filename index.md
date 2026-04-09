@@ -45,3 +45,12 @@ These study guides follow each lecture **slide-by-slide** in sequence, showing e
 - [Lecture 8: Cardiovascular Responses to Exercise]({{ '/week03/lecture08-cardiovascular-responses' | relative_url }}) (39 slides)
 
 </div>
+
+<div class="week-card" markdown="1">
+
+## [Week 4: Exercise in Hypoxia — High Altitude and Diving]({{ '/week04/' | relative_url }})
+
+- [Lecture 9: Exercise Performance and Oxygen Delivery at High Altitude]({{ '/week04/lecture09-exercise-high-altitude' | relative_url }}) (31 slides)
+- [Lecture 10: Adaptations for Oxygen Delivery and Acute Hypoxia in Diving]({{ '/week04/lecture10-hypoxia-diving' | relative_url }}) (25 slides)
+
+</div>
