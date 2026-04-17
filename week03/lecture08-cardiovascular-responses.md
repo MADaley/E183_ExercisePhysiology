@@ -7,7 +7,7 @@ week_title: "Week 3: Control of Ventilation, Ventilation-Perfusion Matching, Car
 week_url: /week03/
 total_slides: 39
 prev_lecture: /week03/lecture07-ventilation-perfusion-matching
-next_lecture: /week04/lecture09-exercise-high-altitude
+next_lecture: /week03/friday-review
 ---
 
 ## Slide 1
