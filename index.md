@@ -43,6 +43,7 @@ These study guides follow each lecture **slide-by-slide** in sequence, showing e
 
 - [Lecture 7: Control of Ventilation and Ventilation-Perfusion Matching]({{ '/week03/lecture07-ventilation-perfusion-matching' | relative_url }}) (27 slides)
 - [Lecture 8: Cardiovascular Responses to Exercise]({{ '/week03/lecture08-cardiovascular-responses' | relative_url }}) (39 slides)
+- [Week 3 Friday Review and Discussion]({{ '/week03/friday-review' | relative_url }}) (20 slides)
 
 </div>
 
@@ -51,6 +52,6 @@ These study guides follow each lecture **slide-by-slide** in sequence, showing e
 ## [Week 4: Exercise in Hypoxia — High Altitude and Diving]({{ '/week04/' | relative_url }})
 
 - [Lecture 9: Exercise Performance and Oxygen Delivery at High Altitude]({{ '/week04/lecture09-exercise-high-altitude' | relative_url }}) (31 slides)
-- [Lecture 10: Adaptations for Oxygen Delivery and Acute Hypoxia in Diving]({{ '/week04/lecture10-hypoxia-diving' | relative_url }}) (25 slides)
+- [Lecture 10: Adaptations for Oxygen Delivery and Acute Hypoxia in Diving]({{ '/week04/lecture10-hypoxia-diving' | relative_url }}) (33 slides)
 
 </div>
