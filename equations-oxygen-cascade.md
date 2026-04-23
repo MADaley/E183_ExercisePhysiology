@@ -7,7 +7,7 @@ title: "Equations: Oxygen Supply Cascade and Energy Metabolism in Exercise"
 
 [← Back to home]({{ '/' | relative_url }})
 
-A consolidated reference of the equations used across Weeks 1–4 for gas exchange, the oxygen supply cascade, and the measurement of metabolic cost and $\dot{V}O_2$. Equations are grouped by theme and listed only once, even when they appear in multiple lectures.
+A consolidated reference of the equations used across Weeks 1–4 for gas exchange, the oxygen supply cascade, and metabolic dynamics during exercise. Please see lecture notes on the units, and carefully check your work for consistency of units when solving problems.
 
 ## Gas laws and partial pressures
 
