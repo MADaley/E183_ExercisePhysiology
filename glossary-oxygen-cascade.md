@@ -18,7 +18,6 @@ A complete, deduplicated reference of the key terms introduced across Weeks 1–
 | **Aerobic scope** | The range (difference or ratio) between resting and maximal aerobic metabolic rate; a measure of capacity for sustained activity. Collapses to ≈ 1 at the summit of Everest. |
 | **Air sacs** | Thin-walled, compliant sacs in the avian respiratory system that act as bellows to move air unidirectionally through the rigid parabronchial lung; do not themselves participate in gas exchange. |
 | **Airway resistance** | Opposition to airflow through the airways, determined primarily by airway diameter; increased in asthma, COPD, and other obstructive conditions. |
-| **Altricial development** | A developmental pattern in which offspring are relatively immature and dependent at birth (e.g., humans). |
 | **Alveolar dead space** | Volume of alveoli that are ventilated but not perfused, and therefore do not contribute to gas exchange. |
 | **Alveolar gas equation** | An equation that estimates alveolar P<sub>O₂</sub> from inspired P<sub>O₂</sub> and alveolar P<sub>CO₂</sub>, accounting for CO<sub>2</sub> dilution. |
 | **Alveolar ventilation ($\dot{V}\_A$)** | Volume of air per minute that reaches the gas-exchange surfaces; equals breathing frequency × (tidal volume − dead space). |
@@ -82,6 +81,7 @@ A complete, deduplicated reference of the key terms introduced across Weeks 1–
 | **Inspired P<sub>O₂</sub> ($P\_IO\_2$)** | Partial pressure of O<sub>2</sub> in inspired air after warming and humidification; falls curvilinearly with altitude as P<sub>B</sub> decreases. |
 | **Krogh Principle** | The principle that for any given physiological problem there exists an ideal animal species on which it can be most conveniently studied (Krogh, 1929). |
 | **Lateral body undulation** | A locomotor pattern in which the trunk bends side-to-side during movement, inherited from aquatic ancestors and retained in modern lizards and salamanders. |
+| **Mass-specific cost of transport** | Metabolic energy required to move a unit of body mass over a unit of distance, expressed as O<sub>2</sub> consumption per kilogram per kilometer (mL O<sub>2</sub>/kg/km) or in energetic units (J/kg·m); used to compare running economy across individuals and species. Lower values indicate greater locomotor efficiency. |
 | **Mass-specific O<sub>2</sub> stores** | Total body O<sub>2</sub> store per unit body mass, partitioned into lung, blood, and muscle compartments; specialized divers have much higher blood and muscle fractions than humans. |
 | **Mass-specific VO<sub>2</sub>** | $\dot{V}O_2$ normalized to body mass (mL/kg/min), used for comparing metabolic rates across individuals and species. |
 | **Mechanical constraint (on ventilation)** | Physical limitation arising from dual use of trunk muscles for both breathing and locomotion in sprawling tetrapods, limiting simultaneous aerobic capacity. |
@@ -105,13 +105,11 @@ A complete, deduplicated reference of the key terms introduced across Weeks 1–
 | **Phosphocreatine (PCr) pathway** | Fastest ATP-regeneration pathway; uses PCr stored in muscle to immediately regenerate ATP from ADP. |
 | **Physiological dead space** | Total non-functional ventilatory volume: anatomical dead space plus alveolar dead space. |
 | **Pneumotachometer** | Instrument that measures the flow rate of gas during breathing; essential for metabolic rate measurement. |
-| **Precocial development** | Developmental pattern in which offspring are relatively mature and mobile shortly after birth or hatching (e.g., ostriches). |
 | **Pulse oximetry (SpO<sub>2</sub>)** | Non-invasive method for monitoring oxygen saturation of hemoglobin in peripheral blood. |
 | **R (relaxed) state** | Quaternary conformation of hemoglobin with higher O<sub>2</sub> affinity; favored in the lung where P<sub>O₂</sub> is high. |
 | **Respiratory exchange ratio (R)** | Ratio of CO<sub>2</sub> production to O<sub>2</sub> consumption ($\dot{V}CO_2 / \dot{V}O_2$); typically 0.7 (fat) to 1.0 (carbohydrate), ≈ 0.8 default. |
 | **Respiratory zone** | Airway generations 17–23 containing alveoli where gas exchange occurs by diffusion. |
 | **Right-to-left cardiac shunt** | Flow of deoxygenated blood from the right heart directly into the systemic circulation without passing through the lungs; present in amphibians and non-crocodilian reptiles with incompletely divided ventricles. |
-| **Running economy** | Metabolic cost of running at a given speed, expressed as O<sub>2</sub> consumption per unit distance (mL/kg/km); lower values indicate greater efficiency. |
 | **Sarcopterygian fish** | Lobe-finned fish; the common aquatic ancestor of all tetrapods, which used paired fins and lateral body undulation for locomotion. |
 | **Shunt** | Blood flow that bypasses the gas-exchange surface without becoming oxygenated; results from V/Q < 1.0 or, in non-mammalian tetrapods, from incomplete ventricular division. |
 | **Splenic O<sub>2</sub> reservoir** | Store of red blood cells in the spleen, mobilized at dive onset by vasoconstriction; ~60% of RBC mass is stored splenically in Weddell seals (spleens up to ~7% of body mass). |
