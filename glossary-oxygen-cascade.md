@@ -26,11 +26,9 @@ A complete, deduplicated reference of the key terms introduced across Weeks 1–
 | **Anaerobic glycolysis** | Metabolic pathway that converts glucose to pyruvate and then lactate without O<sub>2</sub>; yields 2 ATP per glucose. |
 | **Anatomical dead space** | Volume of the conducting airways (trachea, bronchi, bronchioles) that do not participate in gas exchange; ≈ 150 mL in healthy adults. |
 | **Anatomical shunt (in divers)** | Functional redirection of blood away from skeletal muscle by vasoconstriction and reduced capillary recruitment; preserves central-organ perfusion during a dive. |
-| **Andean high-altitude adaptation** | Pattern of higher [Hb], higher S<sub>aO₂</sub>, and lower ventilation rates relative to Tibetan highlanders. |
 | **Arterial blood gas (ABG)** | A clinical test that directly measures P<sub>O₂</sub>, P<sub>CO₂</sub>, and pH in arterial blood. |
 | **Archosaurs** | Vertebrate clade including birds, crocodilians, and extinct dinosaurs; many members share respiratory features promoting unidirectional pulmonary airflow. |
 | **a–v O<sub>2</sub> difference** | Difference in O<sub>2</sub> content between arterial and mixed venous blood; reflects tissue O<sub>2</sub> extraction. Widens from ~5 to ~16 mL O<sub>2</sub>/dL from rest to maximal exercise. |
-| **Bajau ("Sea Nomads")** | An indigenous Southeast Asian people whose subsistence breath-hold diving has been associated with enlarged spleens and a PDE10A genetic variant. |
 | **Bar-headed goose (high-flyer)** | Migratory goose that routinely crosses the Himalaya; textbook example of convergent adaptation along the avian oxygen supply cascade (larger lungs, leftward-shifted Hb, higher capillarity). |
 | **Bar-headed goose hemoglobin** | A hemoglobin variant with higher O<sub>2</sub> affinity (leftward-shifted dissociation curve) than lowland goose Hb, enabling near-full saturation at low P<sub>O₂</sub>. |
 | **Barometric pressure (P<sub>B</sub>)** | Pressure exerted by the atmosphere at a given point; 760 mmHg at sea level. |
@@ -70,7 +68,6 @@ A complete, deduplicated reference of the key terms introduced across Weeks 1–
 | **Frank–Starling mechanism** | Intrinsic cardiac property where greater venous return stretches the ventricle during diastole, producing a stronger contraction and higher stroke volume. |
 | **Gluconeogenesis** | Metabolic conversion of lactate (and other substrates) back to glucose, primarily in the liver; contributes to the slow component of EPOC. |
 | **Graphical Fick solution** | Visualization of total O<sub>2</sub> delivery as a rectangle where width = $\dot{Q}$, height = a–v O<sub>2</sub> difference, and area = $\dot{V}O_2$. |
-| **High-altitude native (HAN)** | Individual or population that has lived at altitude for many generations and shows genetic and developmental adaptations distinct from lowlanders. |
 | **Hypaxial muscles** | Muscles of the body wall below the vertebral column (including intercostals and abdominals) used for both ventilation and trunk stabilization during locomotion. |
 | **Hyperventilation** | Breathing in excess of metabolic demand; lowers P<sub>A</sub>CO<sub>2</sub> and raises P<sub>A</sub>O<sub>2</sub>, producing respiratory alkalosis. |
 | **Hypocapnia** | Low arterial P<sub>CO₂</sub>, a consequence of hyperventilation; drives respiratory alkalosis and altered cerebral blood flow at altitude. |
@@ -89,7 +86,7 @@ A complete, deduplicated reference of the key terms introduced across Weeks 1–
 | **Mechanical constraint (on ventilation)** | Physical limitation arising from dual use of trunk muscles for both breathing and locomotion in sprawling tetrapods, limiting simultaneous aerobic capacity. |
 | **Metabolic vasodilation** | Local dilation of arterioles in active muscles caused by CO<sub>2</sub>, H<sup>+</sup>, adenosine, NO, and K<sup>+</sup>; overrides sympathetic vasoconstriction in working muscles. |
 | **Minute ventilation ($\dot{V}\_E$)** | Total volume of air moved in and out of the lungs per minute; also called expired pulmonary ventilation. |
-| **Mitochondrial coupling efficiency** | ATP yield per O<sub>2</sub> consumed in oxidative phosphorylation; enhanced in Sherpas, supporting aerobic energy supply with lower mitochondrial volume. |
+| **Mitochondrial coupling efficiency** | ATP yield per O<sub>2</sub> consumed in oxidative phosphorylation; higher coupling efficiency supports aerobic energy supply with lower mitochondrial volume. |
 | **Mixed venous blood** | Blood sampled from the pulmonary artery, where blood from all regional drainages has mixed; represents whole-body average venous O<sub>2</sub> content. |
 | **Mixed venous P<sub>O₂</sub>** | P<sub>O₂</sub> of blood returning to the right heart; lower values indicate a wider a–v O<sub>2</sub> difference and greater tissue extraction. |
 | **Muscle chemoreceptors** | Sensory receptors in skeletal muscle that detect local metabolites (H<sup>+</sup>, K<sup>+</sup>); fine-tune ventilation during steady-state submaximal exercise. |
@@ -103,20 +100,17 @@ A complete, deduplicated reference of the key terms introduced across Weeks 1–
 | **Parabronchial lung** | The avian lung structure in which air flows unidirectionally through rigid parabronchi, forming a crosscurrent exchange system with essentially no dead space. |
 | **Partial pressure** | The pressure exerted by a single gas within a mixture; equals total pressure × fractional concentration. |
 | **Partial-pressure gradient ($\Delta P\_{O\_2}$)** | Difference in P<sub>O₂</sub> between alveolus and capillary blood; driving force for O<sub>2</sub> diffusion into the blood. |
-| **PDE10A** | A gene whose variants are associated with larger spleen size in the Bajau, mediated by effects on thyroid hormone signaling. |
 | **Peripheral chemoreceptors** | Carotid and aortic bodies that detect arterial P<sub>O₂</sub>, P<sub>CO₂</sub>, pH, and K<sup>+</sup>; carotid bodies are the primary peripheral O<sub>2</sub> sensors. |
 | **Phosphocreatine (PCr) pathway** | Fastest ATP-regeneration pathway; uses PCr stored in muscle to immediately regenerate ATP from ADP. |
 | **Physiological dead space** | Total non-functional ventilatory volume: anatomical dead space plus alveolar dead space. |
 | **Pneumotachometer** | Instrument that measures the flow rate of gas during breathing; essential for metabolic rate measurement. |
 | **Precocial development** | Developmental pattern in which offspring are relatively mature and mobile shortly after birth or hatching (e.g., ostriches). |
 | **Pulse oximetry (SpO<sub>2</sub>)** | Non-invasive method for monitoring oxygen saturation of hemoglobin in peripheral blood. |
-| **Quechua** | Indigenous peoples of South America whose highland populations show greater thoracic volume capacity and higher tidal volumes than lowlanders. |
 | **R (relaxed) state** | Quaternary conformation of hemoglobin with higher O<sub>2</sub> affinity; favored in the lung where P<sub>O₂</sub> is high. |
 | **Respiratory exchange ratio (R)** | Ratio of CO<sub>2</sub> production to O<sub>2</sub> consumption ($\dot{V}CO_2 / \dot{V}O_2$); typically 0.7 (fat) to 1.0 (carbohydrate), ≈ 0.8 default. |
 | **Respiratory zone** | Airway generations 17–23 containing alveoli where gas exchange occurs by diffusion. |
 | **Right-to-left cardiac shunt** | Flow of deoxygenated blood from the right heart directly into the systemic circulation without passing through the lungs; present in amphibians and non-crocodilian reptiles with incompletely divided ventricles. |
 | **Running economy** | Metabolic cost of running at a given speed, expressed as O<sub>2</sub> consumption per unit distance (mL/kg/km); lower values indicate greater efficiency. |
-| **Saluan** | A closely related, non-diving agricultural population used as the comparison group in the Bajau genetics/spleen study. |
 | **Sarcopterygian fish** | Lobe-finned fish; the common aquatic ancestor of all tetrapods, which used paired fins and lateral body undulation for locomotion. |
 | **Shunt** | Blood flow that bypasses the gas-exchange surface without becoming oxygenated; results from V/Q < 1.0 or, in non-mammalian tetrapods, from incomplete ventricular division. |
 | **Splenic O<sub>2</sub> reservoir** | Store of red blood cells in the spleen, mobilized at dive onset by vasoconstriction; ~60% of RBC mass is stored splenically in Weddell seals (spleens up to ~7% of body mass). |
@@ -130,7 +124,6 @@ A complete, deduplicated reference of the key terms introduced across Weeks 1–
 | **T (tense) state** | Quaternary conformation of hemoglobin with lower O<sub>2</sub> affinity; stabilized by H<sup>+</sup>, CO<sub>2</sub>, 2,3-BPG, and elevated temperature. |
 | **Temperature effect (on Hb curve)** | Rightward shift of the O<sub>2</sub>–Hb dissociation curve at higher temperature; enhances O<sub>2</sub> release in exercising, heat-producing muscle. |
 | **Tetrapod** | A vertebrate animal with four limbs (or descended from four-limbed ancestors), including amphibians, reptiles, birds, and mammals. |
-| **Tibetan high-altitude adaptation** | Pattern of higher resting ventilation, higher HVR, lower [Hb], and lower S<sub>aO₂</sub> relative to Andean highlanders. |
 | **Tidal-pool exchange** | Mammalian lung arrangement in which alveolar gas does not flow directionally relative to blood, so the O<sub>2</sub> gradient equilibrates quickly. |
 | **Tidal ventilation** | Bidirectional airflow in which the same airways carry air in and out of dead-end alveoli; the mammalian pattern (also amphibians and non-crocodilian reptiles). |
 | **Tidal volume (V<sub>T</sub>)** | Volume of air inhaled or exhaled in a single breath during normal breathing. |
