@@ -9,11 +9,11 @@ This week introduces the course structure, the comparative approach to exercise 
 
 ## Lectures
 
-1. [**The Comparative Approach to Exercise Physiology**](lecture01-comparative-approach) (43 slides)
+- [**Lecture 1: The Comparative Approach to Exercise Physiology**](lecture01-comparative-approach) (43 slides)
    Course introduction, comparative perspectives, animal athletic performance, the Krogh principle.
 
-2. [**Introduction to Gas Exchange**](lecture02-intro-gas-exchange) (40 slides)
+- [**Lecture 2: Introduction to Gas Exchange**](lecture02-intro-gas-exchange) (40 slides)
    Gas laws, partial pressures, Dalton's Law, Henry's Law, and their application to respiratory physiology.
 
-3. [**The Oxygen Cascade and Ventilation**](lecture03-oxygen-cascade-ventilation) (27 slides)
+- [**Lecture 3: The Oxygen Cascade and Ventilation**](lecture03-oxygen-cascade-ventilation) (27 slides)
    The oxygen supply pathway from atmosphere to mitochondria, pulmonary ventilation mechanics.

@@ -9,8 +9,8 @@ This week explores oxygen delivery in hypoxic conditions through two case studie
 
 ## Lectures
 
-1. [**Exercise Performance and Oxygen Delivery at High Altitude**](lecture09-exercise-high-altitude) (31 slides)
+- [**Lecture 9: Exercise Performance and Oxygen Delivery at High Altitude**](lecture09-exercise-high-altitude) (31 slides)
    The physical environment of high altitude, the effects of reduced barometric pressure on inspired P<sub>O<sub>2</sub></sub>, acute and chronic responses of the oxygen supply cascade to hypoxia, exercise performance decrements at altitude, acclimatization, and adaptations of high-altitude native humans and animals.
 
-2. [**Adaptations for Oxygen Delivery and Acute Hypoxia in Diving**](lecture10-hypoxia-diving) (33 slides)
+- [**Lecture 10: Adaptations for Oxygen Delivery and Acute Hypoxia in Diving**](lecture10-hypoxia-diving) (33 slides)
    Countercurrent and crosscurrent gas exchange, comparative adaptations of high-altitude birds (e.g., bar-headed goose), the dive response and oxygen conservation strategies in diving mammals and birds, oxygen stores, bradycardia and peripheral vasoconstriction, and metabolic adaptations to acute hypoxia.
