@@ -66,8 +66,8 @@ A consolidated reference of the equations used across Weeks 1–4 for gas exchan
 
 | Equation | Name | Purpose |
 |----------|------|---------|
-| $C\_aO\_2 = 1.39 \cdot [Hb] \cdot S\_aO\_2 + 0.003 \cdot P\_aO\_2$ | Arterial O<sub>2</sub> content | Total O<sub>2</sub> per unit blood as the sum of Hb-bound and dissolved O<sub>2</sub>; shows how altitude natives and divers defend C<sub>aO₂</sub> via higher [Hb]. |
-| $\%\text{Sat} = \frac{[O\_2]}{O\_2\,\text{capacity}} \cdot 100$ | Hemoglobin percent saturation | Fraction of Hb binding sites occupied by O<sub>2</sub>; O<sub>2</sub> capacity ≈ 1.34 mL O<sub>2</sub>/g Hb. |
+| $C\_aO\_2 = 1.39 \cdot [Hb] \cdot S\_aO\_2 + 0.003 \cdot P\_aO\_2$ | Arterial O<sub>2</sub> content | Total O<sub>2</sub> per unit blood as the sum of Hb-bound and dissolved O<sub>2</sub>. |
+| $\%\text{Sat} = \frac{[O\_2]}{O\_2\,\text{capacity}} \cdot 100$ | Hemoglobin percent saturation | Fraction of Hb binding sites occupied by O<sub>2</sub>. |
 | $\Delta C\_{O\_2} = C\_aO\_2 - C\_{\bar{v}}O\_2$ | a–v O<sub>2</sub> difference | Amount of O<sub>2</sub> extracted from each liter of blood passing through the tissues; widens from rest to maximal exercise. |
 
 ## Ventilation–perfusion matching
@@ -80,6 +80,7 @@ A consolidated reference of the equations used across Weeks 1–4 for gas exchan
 
 | Equation | Name | Purpose |
 |----------|------|---------|
+| $\dot{V}O\_2 = \dot{V}\_E \cdot (F\_IO\_2 - F\_EO\_2)$ | Fick principle (minute ventilation and gas fractions) | Whole-body $\dot{V}O_2$ measured from minute ventilation and the inspired–expired O<sub>2</sub> fraction difference; the standard form used for indirect calorimetry. |
 | $\text{Mass-specific } \dot{V}O\_2 = \dot{V}O\_2 / m\_{\text{body}}$ | Mass-specific VO<sub>2</sub> | Normalizes O<sub>2</sub> consumption to body mass (mL/kg/min) for comparisons across individuals and species. |
 | $\dot{V}O\_2 = 0.1 x + 3.5$ | ACSM walking equation | Estimated $\dot{V}O_2$ (mL/kg/min) for walking at speed $x$ (m/min). |
 | $\dot{V}O\_2 = 0.2 x + 3.5$ | ACSM running equation | Estimated $\dot{V}O_2$ (mL/kg/min) for running at speed $x$ (m/min). |
