@@ -68,6 +68,7 @@ A complete, deduplicated reference of the key terms introduced across Weeks 1–
 | **Frank–Starling mechanism** | Intrinsic cardiac property where greater venous return stretches the ventricle during diastole, producing a stronger contraction and higher stroke volume. |
 | **Gluconeogenesis** | Metabolic conversion of lactate (and other substrates) back to glucose, primarily in the liver; contributes to the slow component of EPOC. |
 | **Graphical Fick solution** | Visualization of total O<sub>2</sub> delivery as a rectangle where width = $\dot{Q}$, height = a–v O<sub>2</sub> difference, and area = $\dot{V}O_2$. |
+| **High-altitude native** | An organism whose lineage has lived at high altitude for many generations and exhibits heritable genetic and developmental adaptations to chronic hypoxia, distinct from the within-lifetime acclimatization responses of lowland-born individuals. |
 | **Hypaxial muscles** | Muscles of the body wall below the vertebral column (including intercostals and abdominals) used for both ventilation and trunk stabilization during locomotion. |
 | **Hyperventilation** | Breathing in excess of metabolic demand; lowers P<sub>A</sub>CO<sub>2</sub> and raises P<sub>A</sub>O<sub>2</sub>, producing respiratory alkalosis. |
 | **Hypocapnia** | Low arterial P<sub>CO₂</sub>, a consequence of hyperventilation; drives respiratory alkalosis and altered cerebral blood flow at altitude. |
