@@ -403,7 +403,7 @@ $$C_aO_2 = 1.39 \cdot [Hb] \cdot s_{O_2} + 0.03 \cdot P_aO_2$$
 
 ## Slide 27
 
-![Slide titled "Adaptations for diving in mammals" with a scatter plot of maximum myoglobin concentration ([Mb]_max, mg/g wet mass, log scale) versus myoglobin net surface charge |Z_Mb| (0 to 5) for a broad sample of mammals. Diving specialists (sperm whale at upper right) are highlighted along the trend, while terrestrial mammals (pig at lower left) fall at lower [Mb] and lower Z_Mb. A small molecular structure inset shows myoglobin surface electrostatic potential for pig vs. sperm whale with red (negative) and blue (positive) electrostatic surface coloring — sperm whale Mb is more uniformly blue, indicating higher net positive charge. Caption: myoglobin concentration in mammalian muscle is correlated with myoglobin net surface charge. Citation: Berenbrink 2021.](images/lec10/slide-027.png)
+![Slide titled "Adaptations for diving in mammals" with a scatter plot of maximum muscle myoglobin concentration (Mb max, mg per g wet mass, log scale) versus myoglobin net surface charge magnitude ZMb (0 to 5) for a broad sample of mammals. Diving specialists (sperm whale at upper right) are highlighted along the trend, while terrestrial mammals (pig at lower left) fall at lower Mb and lower ZMb. A small molecular structure inset shows myoglobin surface electrostatic potential for pig versus sperm whale with red (negative) and blue (positive) surface coloring — sperm whale Mb is more uniformly blue, indicating higher net positive charge. Caption: myoglobin concentration in mammalian muscle is correlated with myoglobin net surface charge. Citation: Berenbrink 2021.](images/lec10/slide-027.png)
 
 ### Myoglobin Surface Charge as an Adaptation
 
