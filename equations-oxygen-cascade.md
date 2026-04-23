@@ -41,7 +41,7 @@ A consolidated reference of the equations used across Weeks 1–4 for gas exchan
 | $\dot{V}O\_2 = \frac{A \cdot D \cdot \Delta P\_{O\_2}}{T}$ | Fick's law of diffusion | Rate of gas transfer is proportional to surface area and partial-pressure gradient and inversely proportional to barrier thickness. |
 | $D\_LO\_2 = A \cdot D / T$ | Pulmonary diffusion capacity | Combined structural factors determining the lungs' capacity for O<sub>2</sub> transfer. |
 | $\dot{V}O\_2 = D\_LO\_2 \cdot \Delta P\_{O\_2}$ | Simplified diffusion equation | O<sub>2</sub> flux across the blood–gas barrier equals diffusion capacity times the alveolar–capillary P<sub>O₂</sub> gradient. |
-| $\dot{V}O\_2 = \dot{V}\_A \cdot \beta\_{gO\_2} \cdot (P\_IO\_2 - P\_EO\_2)$ | Alveolar O<sub>2</sub> delivery (capacitance form) | Ventilatory O<sub>2</sub> delivery in terms of alveolar ventilation, the capacitance coefficient for O<sub>2</sub> in air, and the inspired–expired P<sub>O₂</sub> difference. |
+| $\dot{V}O\_2 = \dot{V}\_A \cdot \beta\_{gO\_2} \cdot (P\_IO\_2 - P\_EO\_2)$ | Alveolar O<sub>2</sub> delivery (capacitance form) | Ventilatory O<sub>2</sub> delivery in terms of alveolar ventilation, the capacitance coefficient of O<sub>2</sub> in air ($\beta\_{gO\_2}$), and the inspired–expired P<sub>O₂</sub> difference. |
 
 ## Fick principle across the cascade
 
