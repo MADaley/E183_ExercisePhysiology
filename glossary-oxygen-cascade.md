@@ -22,6 +22,7 @@ A complete, deduplicated reference of the key terms introduced across Weeks 1–
 | **Alveolar dead space** | Volume of alveoli that are ventilated but not perfused, and therefore do not contribute to gas exchange. |
 | **Alveolar gas equation** | An equation that estimates alveolar P<sub>O₂</sub> from inspired P<sub>O₂</sub> and alveolar P<sub>CO₂</sub>, accounting for CO<sub>2</sub> dilution. |
 | **Alveolar ventilation ($\dot{V}\_A$)** | Volume of air per minute that reaches the gas-exchange surfaces; equals breathing frequency × (tidal volume − dead space). |
+| **Ambient air** | Atmospheric air surrounding the organism, at environmental temperature, humidity, and barometric pressure; the starting point of the oxygen supply cascade. Dry composition ≈ 21% O<sub>2</sub>, 0.04% CO<sub>2</sub>, 78% N<sub>2</sub>, with variable water vapor. |
 | **Anaerobic glycolysis** | Metabolic pathway that converts glucose to pyruvate and then lactate without O<sub>2</sub>; yields 2 ATP per glucose. |
 | **Anatomical dead space** | Volume of the conducting airways (trachea, bronchi, bronchioles) that do not participate in gas exchange; ≈ 150 mL in healthy adults. |
 | **Anatomical shunt (in divers)** | Functional redirection of blood away from skeletal muscle by vasoconstriction and reduced capillary recruitment; preserves central-organ perfusion during a dive. |
