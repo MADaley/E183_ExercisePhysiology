@@ -49,7 +49,7 @@ A consolidated reference of the equations used across Weeks 1–4 for gas exchan
 |----------|------|---------|
 | $M\_x = M\_{x,\text{in}} - M\_{x,\text{out}}$ | Fick principle (general) | Conservation of mass applied to any cascade step: net uptake equals input minus output. |
 | $\dot{V}O\_2 = \dot{V}\_E \cdot (F\_IO\_2 - F\_EO\_2)$ | Fick principle (ventilation, gas fractions) | Whole-body O<sub>2</sub> consumption from minute ventilation and the inspired–expired O<sub>2</sub> fraction difference; basis for indirect calorimetry. |
-| $\dot{V}O\_2 = \dot{V}\_A \cdot B\_{gas} (P\_IO\_2 - P\_EO\_2)$ | Fick principle (ventilation, partial-pressure form) | Equivalent form using the capacitance coefficient of air. |
+| $\dot{V}O\_2 = \dot{V}\_A \cdot \beta\_{gO\_2} \cdot (P\_IO\_2 - P\_EO\_2)$ | Fick principle (ventilation, partial-pressure form) | Equivalent form using the capacitance coefficient of O<sub>2</sub> in air, $\beta\_{gO\_2}$. |
 | $\dot{V}O\_2 = \dot{Q} \cdot B\_{blood} (P\_aO\_2 - P\_{\bar{v}}O\_2)$ | Fick principle (circulation, partial-pressure form) | O<sub>2</sub> uptake from cardiac output, the blood O<sub>2</sub>-carrying coefficient, and the arterio-venous P<sub>O₂</sub> difference. |
 | $\dot{V}O\_2 = \dot{Q} (C\_aO\_2 - C\_{\bar{v}}O\_2)$ | Fick principle (circulation, content form) | O<sub>2</sub> uptake from cardiac output and the a–v O<sub>2</sub> content difference; the central cardiovascular form used for exercise, altitude, and diving. |
 | $\dot{Q} = \dot{V}O\_2 / (C\_aO\_2 - C\_{\bar{v}}O\_2)$ | Fick principle rearranged for $\dot{Q}$ | Clinical inference of cardiac output from measured $\dot{V}O_2$ and the a–v O<sub>2</sub> content difference. |
