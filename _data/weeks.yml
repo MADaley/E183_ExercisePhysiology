@@ -50,3 +50,17 @@
     - title: "Adaptations for Oxygen Delivery and Acute Hypoxia in Diving"
       url: /week04/lecture10-hypoxia-diving
       slides: 33
+
+- number: 5
+  title: "Introduction to Muscle Structure and Function"
+  url: /week05/
+  lectures:
+    - title: "Introduction to Muscle Structure and Function 1: Cellular Scale"
+      url: /week05/lecture11-muscle-cellular
+      slides: 28
+    - title: "Introduction to Muscle Structure and Function 2: Tissue Scale"
+      url: /week05/lecture12-muscle-tissue
+      slides: 32
+    - title: "Week 5 Friday Review and Discussion"
+      url: /week05/friday-review
+      slides: 0
