@@ -431,13 +431,7 @@ next_lecture: /week05/lecture12-muscle-tissue
 
 ## Key Equations
 
-| Equation | Name | Description |
-|----------|------|-------------|
-| $V\_{cell} = V\_{myofibril} + V\_{SR} + V\_{mitochondria} + V\_{other}$ | Muscle cell volume budget ("zero-sum game") | The fiber's fixed volume must be partitioned among myofibrils (force), SR (activation/relaxation speed), mitochondria (aerobic ATP), and a small remainder. Increasing one component reduces space for the others. |
-| $F\_{max} \propto N\_{sarcomeres,parallel}$ | Force scaling with parallel sarcomeres | Maximum isometric force is proportional to the number of sarcomeres in **cross-section** (parallel). Whole-muscle force scales with **physiological cross-sectional area (PCSA)**. |
-| $\Delta L\_{max} \propto N\_{sarcomeres,series}$ | Displacement scaling with series sarcomeres | Maximum shortening (range of motion) is proportional to the number of sarcomeres arranged in **series** along the fiber. |
-| $\text{ATP cycling rate} \approx 8 \times 10^{21} \text{ molecules s}^{-1}$ | Cross-bridge ATP turnover | Order-of-magnitude estimate of ATP molecules hydrolyzed per second by myosin cross-bridges in a contracting muscle. |
-| $\text{Ca}^{2+}\text{-ATPase cost} \approx 30\text{–}40\% \text{ of total isometric ATP}$ | Energetic cost of Ca²⁺ cycling | A large fraction of total muscle ATP cost goes to **calcium re-sequestration** by SR Ca<sup>2+</sup>-ATPase, not to cross-bridge cycling itself (Barclay et al. 2007). |
+*Lecture 11 covers cellular structure, the cross-bridge cycle, calcium handling, and qualitative volume-fraction trade-offs — no formal equations are introduced. Quantitative relationships for muscle force, length, velocity, and power are formalized in **Lecture 12**.*
 
 ---
 

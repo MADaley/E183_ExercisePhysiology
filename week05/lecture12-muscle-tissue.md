@@ -461,12 +461,10 @@ $$F\_{tot} = F\_{FV} \times F\_{FL} \times F\_{act}$$
 |----------|------|-------------|
 | $F\_{max} = F\_{active} + F\_{passive}$ | Total isometric force | Measured force during maximally stimulated isometric contraction is the sum of **active** (cross-bridge) force and **passive** (titin + connective tissue) force. |
 | $F\_{active} = F\_{max} - F\_{passive}$ | Active force | Active force is computed by subtracting separately measured passive force from the total. Used to construct the active F–L curve point-by-point. |
-| $\text{Active F–L: } F(L)$ | Force–length (length–tension) relationship | Maximum active force as a function of muscle length; parabolic with a peak at the optimum length **L<sub>0</sub>**, mechanistically determined by actin–myosin overlap. |
-| $\text{Hill-type F–V: } V(F)$ | Force–velocity (Hill) relationship | Hyperbolic relation between shortening velocity and load: **V<sub>max</sub>** at zero force, **F<sub>max</sub>** (or **P<sub>0</sub>**) at zero velocity. |
-| $P = F \cdot V$ | Mechanical power | Instantaneous power output; computed point-by-point from the F–V curve. **Peak power at intermediate force and velocity (~0.2–0.3 V<sub>max</sub>).** |
+| $(V + b)(F + a) = b(F\_0 + a)$ | Hill force–velocity equation | The classic hyperbolic relation between shortening velocity $V$ and load $F$. $F\_0$ is the **maximum isometric tension** (at $V = 0$); $V\_0$ is the **maximum shortening velocity** (at $F = 0$); $a$ is a coefficient related to the heat of shortening; $b = a(V\_0/F\_0)$. |
+| $P = F \cdot V$ | Mechanical power | Instantaneous power output; computed point-by-point from the F–V curve. **Peak power occurs at intermediate force and velocity (~0.2–0.3 V<sub>max</sub>).** |
 | $F\_{tot} = F\_{FV} \cdot F\_{FL} \cdot F\_{act}$ | Combined muscle model | The standard multiplicative muscle model used in musculoskeletal simulations (e.g., OpenSim): total force is the product of velocity-, length-, and activation-dependent factors. |
 | $\sigma = F / \text{PCSA}$ | Specific tension (stress) | Force normalized by **physiological cross-sectional area**; allows comparison of intrinsic capability across muscles of different sizes. |
-| $\text{Efficiency} = W / (W + Q)$ | Mechanical efficiency | Ratio of mechanical work output (W) to total energy expenditure (work + heat, Q). Peak efficiency occurs at lower velocity than peak power. |
 
 ---
 
