@@ -7,4 +7,6 @@ _site/
 week*/transcript-*.txt
 week*/preview-*.md
 week*/*.pdf
+week*/*.docx
+week*/*-mcq.md
 WORKFLOW-PROMPTS.md
