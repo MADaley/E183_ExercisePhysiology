@@ -14,3 +14,6 @@ This week explores oxygen delivery in hypoxic conditions through two case studie
 
 - [**Lecture 10: Adaptations for Oxygen Delivery and Acute Hypoxia in Diving**](lecture10-hypoxia-diving) (33 slides)
    Countercurrent and crosscurrent gas exchange, comparative adaptations of high-altitude birds (e.g., bar-headed goose), the dive response and oxygen conservation strategies in diving mammals and birds, oxygen stores, bradycardia and peripheral vasoconstriction, and metabolic adaptations to acute hypoxia.
+
+- [**Week 4 Friday Review and Discussion**](friday-review) (11 slides)
+   Review session integrating high-altitude and diving case studies into the oxygen supply cascade framework. Background-reading Q&A on ectotherm metabolic acidosis and tuna regional endothermy, a graphical-Fick-principle comparison of endotherm vs. ectotherm $\dot{V}O_2$, convergent evolution examples (including underwater rebreathing in *Anolis* lizards), and a quantitative practice problem on arterial O<sub>2</sub> content in diving Weddell seals.

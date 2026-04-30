@@ -7,7 +7,7 @@ week_title: "Week 4: Exercise in Hypoxia — High Altitude and Diving"
 week_url: /week04/
 total_slides: 33
 prev_lecture: /week04/lecture09-exercise-high-altitude
-next_lecture:
+next_lecture: /week04/friday-review
 ---
 
 ## Slide 1

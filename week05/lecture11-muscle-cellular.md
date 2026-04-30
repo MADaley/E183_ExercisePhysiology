@@ -6,7 +6,7 @@ lecture: 11
 week_title: "Week 5: Introduction to Muscle Structure and Function"
 week_url: /week05/
 total_slides: 28
-prev_lecture: /week04/lecture10-hypoxia-diving
+prev_lecture: /week04/friday-review
 next_lecture: /week05/lecture12-muscle-tissue
 ---
 
