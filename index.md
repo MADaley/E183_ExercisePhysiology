@@ -53,6 +53,7 @@ These study guides follow each lecture **slide-by-slide** in sequence, showing e
 
 - [Lecture 9: Exercise Performance and Oxygen Delivery at High Altitude]({{ '/week04/lecture09-exercise-high-altitude' | relative_url }}) (31 slides)
 - [Lecture 10: Adaptations for Oxygen Delivery and Acute Hypoxia in Diving]({{ '/week04/lecture10-hypoxia-diving' | relative_url }}) (33 slides)
+- [Week 4 Friday Review and Discussion]({{ '/week04/friday-review' | relative_url }}) (11 slides)
 
 </div>
 
