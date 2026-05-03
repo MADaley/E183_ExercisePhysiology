@@ -15,5 +15,5 @@ This week introduces the fundamentals of skeletal muscle structure and function,
 - [**Lecture 12: Introduction to Muscle Structure and Function 2 — Tissue Scale**](lecture12-muscle-tissue) (32 slides)
    Recap of the zero-sum game and how training breaks it (hypertrophy); hummingbird flight muscle as an extreme aerobic specialization; regional endothermy in tunas/mackerel sharks and heater organs; types of muscle contraction (concentric, eccentric, isometric, isotonic, isokinetic); the **isometric force-length** and **isotonic force-velocity** relationships and how they are measured experimentally; the 3D force-length-velocity surface; activation scaling; the force-power-velocity relationship and the existence of an optimal velocity for peak power.
 
-- [**Week 5 Friday Review and Discussion**](friday-review) (materials to be added)
-   Friday review session — content to be added once the activity is finalized.
+- [**Week 5 Friday Review and Discussion**](friday-review) (12 slides)
+   Recap of the cellular-scale zero-sum game (myofibrils, SR, mitochondria volume fractions and the hypertrophy caveat) and tissue-scale concepts (types of muscle contraction; intrinsic F–L and F–V properties; the 3D F–L–V surface); a hands-on activity to construct a power–velocity curve from a tabulated F–V curve; the power–stress representation; and activation-dependent shifts in optimal length and optimal velocity (Holt and Azizi 2016).

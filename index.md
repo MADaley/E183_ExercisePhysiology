@@ -63,7 +63,7 @@ These study guides follow each lecture **slide-by-slide** in sequence, showing e
 
 - [Lecture 11: Introduction to Muscle Structure and Function 1 — Cellular Scale]({{ '/week05/lecture11-muscle-cellular' | relative_url }}) (28 slides)
 - [Lecture 12: Introduction to Muscle Structure and Function 2 — Tissue Scale]({{ '/week05/lecture12-muscle-tissue' | relative_url }}) (32 slides)
-- [Week 5 Friday Review and Discussion]({{ '/week05/friday-review' | relative_url }}) (materials to be added)
+- [Week 5 Friday Review and Discussion]({{ '/week05/friday-review' | relative_url }}) (12 slides)
 
 </div>
 
