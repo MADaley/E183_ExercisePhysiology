@@ -67,3 +67,17 @@
     - title: "Week 5 Friday Review and Discussion"
       url: /week05/friday-review
       slides: 0
+
+- number: 6
+  title: "Integrative Muscle Structure and Function: Organ, Limb, and Whole-Organism Levels"
+  url: /week06/
+  lectures:
+    - title: "Integrative Muscle Structure and Function 3: Organ and Limb Level"
+      url: /week06/lecture13-muscle-organ-limb
+      slides: 37
+    - title: "Integrative Muscle Function 4: Limb and Whole-Organism Level"
+      url: /week06/lecture14-muscle-whole-organism
+      slides: 37
+    - title: "Week 6 Friday Review and Discussion"
+      url: /week06/friday-review
+      slides: 0

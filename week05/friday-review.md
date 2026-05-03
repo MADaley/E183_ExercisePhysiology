@@ -7,7 +7,7 @@ week_title: "Week 5: Introduction to Muscle Structure and Function"
 week_url: /week05/
 total_slides: 0
 prev_lecture: /week05/lecture12-muscle-tissue
-next_lecture:
+next_lecture: /week06/lecture13-muscle-organ-limb
 ---
 
 This page is a **placeholder** for the Week 5 Friday review and discussion session. Materials (slides, activities, and discussion prompts) will be added here once the session content is finalized.
