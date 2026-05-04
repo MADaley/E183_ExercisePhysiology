@@ -5,15 +5,15 @@ title: "Week 4: Exercise in Hypoxia — High Altitude and Diving"
 
 # Week 4: Exercise in Hypoxia — High Altitude and Diving
 
-This week explores oxygen delivery in hypoxic conditions through two case studies: exercise performance at high altitude and the adaptations that allow diving animals to sustain activity during acute hypoxia. These case studies highlight which steps in the **oxygen supply cascade** become limiting under extreme conditions and reveal the sources of physiological plasticity and evolutionary adaptation across vertebrates.
+This week explores oxygen delivery in hypoxic conditions through two case studies: high-altitude exercise and acute hypoxia in diving animals.
 
 ## Lectures
 
 - [**Lecture 9: Exercise Performance and Oxygen Delivery at High Altitude**](lecture09-exercise-high-altitude) (31 slides)
-   The physical environment of high altitude, the effects of reduced barometric pressure on inspired P<sub>O<sub>2</sub></sub>, acute and chronic responses of the oxygen supply cascade to hypoxia, exercise performance decrements at altitude, acclimatization, and adaptations of high-altitude native humans and animals.
+   Reduced barometric pressure and inspired P<sub>O<sub>2</sub></sub>, acute and chronic responses across the oxygen supply cascade, exercise performance decrements, acclimatization, and high-altitude human and animal adaptations.
 
 - [**Lecture 10: Adaptations for Oxygen Delivery and Acute Hypoxia in Diving**](lecture10-hypoxia-diving) (33 slides)
-   Countercurrent and crosscurrent gas exchange, comparative adaptations of high-altitude birds (e.g., bar-headed goose), the dive response and oxygen conservation strategies in diving mammals and birds, oxygen stores, bradycardia and peripheral vasoconstriction, and metabolic adaptations to acute hypoxia.
+   Countercurrent and crosscurrent gas exchange, bar-headed goose adaptations, the dive response in mammals and birds, oxygen stores, bradycardia, peripheral vasoconstriction, and metabolic adaptations to acute hypoxia.
 
 - [**Week 4 Friday Review and Discussion**](friday-review) (11 slides)
-   Review session integrating high-altitude and diving case studies into the oxygen supply cascade framework. Background-reading Q&A on ectotherm metabolic acidosis and tuna regional endothermy, a graphical-Fick-principle comparison of endotherm vs. ectotherm $\dot{V}O_2$, convergent evolution examples (including underwater rebreathing in *Anolis* lizards), and a quantitative practice problem on arterial O<sub>2</sub> content in diving Weddell seals.
+   Background-reading Q&A on ectotherm metabolic acidosis and tuna regional endothermy, graphical Fick principle for endotherms vs ectotherms, convergent evolution examples, and a practice problem on arterial O<sub>2</sub> content in diving Weddell seals.
