@@ -15,5 +15,5 @@ This week extends the muscle physiology unit from the cellular and tissue scales
 - [**Lecture 14: Integrative Muscle Function 4 — Limb and Whole-Organism Level**](lecture14-muscle-whole-organism) (37 slides)
    Inverse dynamics and the proximo-distal gradient in cursorial limbs, in vivo measurement with sonomicrometry and tendon buckles, muscle work loops, case studies in turkey, wallaby, guinea fowl, and cockatiel, the flow-of-energy framework (motor, spring, brake), in vivo ultrasound in human walking and running, and applications to prosthetics and exoskeletons.
 
-- [**Week 6 Friday Review and Discussion**](friday-review) (materials to be added)
-   Friday review session — content to be added once the activity is finalized.
+- [**Week 6 Friday Review and Discussion**](friday-review) (19 slides)
+   Wraps up Wednesday's whole-organism material (turkey, wallaby, guinea fowl, cockatiel case studies) and links it to human walking/running ultrasound, prosthetics, and exoskeleton design. Closes with three quantitative practice questions: cheetah vs greyhound gastrocnemius architecture, quadriceps force in standing vs static squat, and sketching three idealized work-loop shapes (isometric, motor, brake).
