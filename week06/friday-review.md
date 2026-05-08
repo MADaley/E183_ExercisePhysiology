@@ -31,7 +31,7 @@ This Friday session completes the Week 6 integrative muscle material and then mo
 ### Announcement — Godoy Fellowship in Movement Sciences
 
 - The **Dr. M. Marlene Godoy Fellowship in Movement Sciences** is a new summer research fellowship administered by the **UCI Center for Integrative Movement Sciences (CIMS)**.
-- **Award**: $3,000 stipend for **10 weeks** of intensive summer research; expects to fund about **two fellows** in 2026.
+- **Award**: $4,000 stipend for **10 weeks** of intensive summer research; expects to fund about **two fellows** in 2026.
 - **Eligibility**: UCI undergraduates with a confirmed **faculty sponsor** working in movement physiology, biomechanics, motor learning, rehabilitation, or a related area.
 - **How to apply**: Application form linked from the QR code on the slide and at [https://cims.uci.edu/call-for-godoy-fellows-2026/](https://cims.uci.edu/call-for-godoy-fellows-2026/). To find a sponsor, the recommended path is to browse **CIMS-affiliated faculty** at [cims.uci.edu](https://cims.uci.edu) and contact labs directly — funding makes faculty more likely to take on a student.
 - **Background**: Dr. Marlene Godoy is a UCI biology alumna (~1976) who became a successful dentist and endowed this fellowship to support undergraduate research experiences.
@@ -405,4 +405,4 @@ $$F_{\text{quads}} = F_g \cdot \frac{R}{r_q}$$
 | **Walk-to-run gait transition** | The speed at which humans (and other bipeds) switch from walking to running. Lai et al. (2015) showed the transition keeps the **soleus closer to its optimal F–L and F–V operating point** — a metabolic and mechanical optimum. |
 | **Ankle exoskeleton (passive)** | A wearable device with a **rotational spring** in series with the Achilles tendon that stores and returns energy during stance. Effective only when its stiffness is **tuned** to the muscle-tendon unit it augments — too stiff and metabolic cost rises; too compliant and there is no benefit. |
 | **Running blade prosthesis** | A passive carbon-fiber lower-limb prosthesis designed as an **elastic spring** that mimics the Achilles-tendon stretch-recoil function during running. Stiffness must be individualized; no single optimal stiffness exists across athletes (Taboga et al. 2020). |
-| **Godoy Fellowship** | Dr. M. Marlene Godoy Fellowship in Movement Sciences — a UCI CIMS-administered summer research fellowship offering $3,000 over 10 weeks for undergraduates working with a CIMS-affiliated faculty sponsor. Application linked from cims.uci.edu. |
+| **Godoy Fellowship** | Dr. M. Marlene Godoy Fellowship in Movement Sciences — a UCI CIMS-administered summer research fellowship offering $4,000 over 10 weeks for undergraduates working with a CIMS-affiliated faculty sponsor. Application linked from cims.uci.edu. |
