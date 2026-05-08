@@ -52,7 +52,7 @@ This Friday session completes the Week 6 integrative muscle material and then mo
   - **Length** stays nearly constant during force development → **isometric** contraction at the muscle level.
 - The right-hand plot shows that as running speed increases, the **total ankle "shortening work"** estimated from inverse dynamics rises steeply, while **muscle shortening work** rises only modestly — the difference is the **elastic energy cycled in the tendon**.
 - More than half of the apparent ankle work is delivered by **tendon recoil**, not muscle shortening — a major savings because **shortening muscle uses much more energy than isometric muscle**.
-- **Take-home from the transcript**: "Muscle work can be minimized in steady gait, but the muscle still has to be turned on to resist loads." This is why metabolic cost in steady locomotion is well predicted by **force demand**, not work demand.
+- **Take-home**: muscle work can be minimized in steady gait, but the muscle still has to be turned on to resist loads. This is why metabolic cost in steady locomotion is well predicted by **force demand**, not work demand.
 
 ---
 
