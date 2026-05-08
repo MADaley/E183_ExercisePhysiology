@@ -73,7 +73,7 @@ These study guides follow each lecture **slide-by-slide** in sequence, showing e
 
 - [Lecture 13: Integrative Muscle Structure and Function 3 — Organ and Limb Level]({{ '/week06/lecture13-muscle-organ-limb' | relative_url }}) (37 slides)
 - [Lecture 14: Integrative Muscle Function 4 — Limb and Whole-Organism Level]({{ '/week06/lecture14-muscle-whole-organism' | relative_url }}) (37 slides)
-- [Week 6 Friday Review and Discussion]({{ '/week06/friday-review' | relative_url }}) (materials to be added)
+- [Week 6 Friday Review and Discussion]({{ '/week06/friday-review' | relative_url }}) (19 slides)
 
 </div>
 
