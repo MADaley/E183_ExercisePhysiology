@@ -383,49 +383,35 @@ This lecture introduces the basic principles of training and detraining and walk
 
 ---
 
-## Key Equations
-
-This lecture is mostly conceptual; the central quantitative relationships are listed in the table below.
-
-| Quantity | Description |
-|----------|-------------|
-| Time course of training response | Increase in fitness after each bout follows the **supercompensation** cycle (Slide 5). |
-| Detraining decay timescale | Cardiac/stroke-volume decay ~**2 weeks**; full reversal of benefits **2–8 months**. |
-| Retraining recovery | Mitochondrial content recovered within **~4 weeks**; strength within **~6 weeks**. |
-| **Average VO<sub>2</sub> max trainability** | **15–20%** average gain; **2–3%** in low responders; **~50%** in high responders. |
-| **Heritability of VO<sub>2</sub> max** | ~**50%** in sedentary adults. |
-| **Heritability of hypertrophy response** | ~**80%** of inter-individual variation. |
-| Antioxidant enzyme increase | ~**100%** over 12 weeks of training. |
-
----
-
 ## Glossary of Key Terms
 
 | Term | Definition |
 |------|-----------|
-| **Overload** | Physical stress greater than usual that elicits adaptive plasticity. |
-| **Progression** | The need to continually increase stimulus once a fitness level is reached. |
-| **Specificity** | Adaptations are specific to the body systems, muscle groups, contraction types, and velocities trained. |
-| **Reversibility** | Loss of training-induced gains when training stops. |
-| **Supercompensation** | The recovery cycle in which fitness rebounds **above baseline** after each effective training bout. |
-| **Overtraining** | Decline in performance when training stress exceeds recovery capacity (often combined with poor nutrition, sleep, or stress). |
-| **Detraining** | Decline in fitness after training stops; cardiovascular adaptations decay in ~2 weeks, peripheral over months. |
-| **Muscle memory** | Faster regain of fitness on retraining, supported by retained myonuclei (cellular) and DNA methylation patterns (epigenetic). |
-| **Cardiac output (Q)** | Heart rate × stroke volume; rises with training mainly via increased **stroke volume**. |
-| **Stroke volume (SV)** | Volume of blood ejected per heartbeat; the most rapidly trained — and detrained — cardiovascular variable. |
-| **a-v O<sub>2</sub> difference** | Difference between arterial and venous O<sub>2</sub> content; rises slowly with peripheral adaptation (capillaries, mitochondria). |
-| **VO<sub>2</sub> max** | Maximal rate of oxygen consumption during exercise; the canonical metric of aerobic capacity. |
-| **O<sub>2</sub> deficit** | Shortfall between O<sub>2</sub> demand and O<sub>2</sub> uptake at the start of exercise; reduced by training. |
+| **Overload** | Physical stress greater than usual in amount or intensity that elicits adaptive plasticity in the trained system. |
+| **Progression** | The need to continually increase the training stimulus once a fitness level is reached; small progressive increases minimize injury risk. |
+| **Specificity** | Adaptations are specific to the body systems, muscle groups, contraction types, velocities, and ranges of motion trained — they do not transfer broadly (e.g., the one-leg study, Slide 11). |
+| **Reversibility** | Loss of training-induced gains when training stops; cardiovascular adaptations decay fastest, peripheral and structural adaptations more slowly. |
+| **Supercompensation** | The recovery cycle in which fitness dips below baseline immediately after an overload bout, then rebounds **above baseline** during recovery and adaptation. |
+| **Overtraining** | Progressive decline in performance when training stress exceeds recovery capacity; risk increases with poor nutrition, sleep, or high stress. |
+| **Detraining** | Decline in fitness after training stops. Beneficial effects diminish within ~**2 weeks** of substantially reduced activity and can fully disappear within **2–8 months**. |
+| **Muscle memory** | Faster regain of fitness on retraining than during the original training process — supported by retained myonuclei (cellular component) and DNA methylation patterns (epigenetic component). Mitochondrial content recovers within ~**4 weeks** and strength within ~**6 weeks**. |
+| **Cardiac output (Q)** | Heart rate × stroke volume; rises with training mainly via increased **stroke volume** and accounts for most of the short-term VO<sub>2</sub> max gain. |
+| **Stroke volume (SV)** | Volume of blood ejected per heartbeat; the most rapidly trained — and most rapidly detrained — cardiovascular variable. |
+| **a-v O<sub>2</sub> difference** | Difference between arterial and venous O<sub>2</sub> content; rises slowly with peripheral adaptation (capillary density, mitochondrial density) and accounts for most of the long-term VO<sub>2</sub> max gain. |
+| **VO<sub>2</sub> max** | Maximal rate of oxygen consumption during exercise; the canonical metric of aerobic capacity. Average training improvement is **15–20%**; ~**50%** of inter-individual variation is heritable. |
+| **Trainability** | The magnitude of adaptive response to a given training stimulus. Strongly influenced by genetics: low responders may gain only **2–3%** in VO<sub>2</sub> max, while high responders can gain **~50%**. **~80%** of inter-individual variation in the hypertrophy response is heritable. |
+| **O<sub>2</sub> deficit** | Shortfall between O<sub>2</sub> demand and O<sub>2</sub> uptake at the start of exercise; reduced by training, which also lowers lactate accumulation and phosphocreatine depletion at onset of work. |
 | **PGC-1α** | Master transcriptional coactivator that drives mitochondrial biogenesis after endurance training. |
-| **AMPK** | AMP-activated protein kinase; an energy-sensor that activates endurance signaling and inhibits mTOR. |
-| **mTOR** | Mammalian target of rapamycin; the kinase that initiates protein synthesis after resistance training. |
-| **TSC1/2** | Tuberous sclerosis complex; an inhibitor of mTOR activated by AMPK — the molecular link in concurrent-training interference. |
-| **Hypertrophy** | Increase in muscle fiber size (cross-sectional area), the dominant long-term resistance adaptation in humans. |
-| **Hyperplasia** | Increase in muscle fiber number; observed in animal models but limited evidence in humans. |
-| **Myonucleus / myonuclear domain** | Each multinucleated muscle fiber's nuclei; their number and territory determine protein-synthesis capacity. |
-| **Satellite cell** | Resident muscle stem cell that proliferates and fuses with fibers to donate new myonuclei during overload. |
-| **Type I / IIa / IIx fibers** | Slow oxidative / fast oxidative-glycolytic / fast glycolytic fiber types; resistance training favors a small IIx → IIa shift. |
+| **AMPK** | AMP-activated protein kinase; an energy sensor that activates endurance signaling (via PGC-1α) and **inhibits mTOR** (via TSC1/2) — the molecular basis of concurrent-training interference. |
+| **mTOR** | Mammalian target of rapamycin; the kinase that initiates protein synthesis in response to resistance-training mechanoreceptor activation. |
+| **TSC1/2** | Tuberous sclerosis complex; an inhibitor of mTOR activated by AMPK during endurance training. |
+| **Hypertrophy** | Increase in muscle fiber size (cross-sectional area); the dominant long-term resistance-training adaptation in humans, detectable within ~**3 weeks** of training initiation. |
+| **Hyperplasia** | Increase in muscle fiber number; observed in animal models but with limited evidence in humans. |
+| **Myonucleus / myonuclear domain** | Each multinucleated muscle fiber's nuclei and the cytoplasmic territory each nucleus supports; more myonuclei expand the fiber's capacity for **rapid protein synthesis** during retraining. |
+| **Satellite cell** | Resident muscle stem cell that proliferates and either fuses with fibers to donate new myonuclei (fusion role) or releases exosomes that regulate ECM remodeling and angiogenesis (non-fusion role). |
+| **Antioxidant enzyme capacity** | Enzymatic capacity to neutralize free radicals produced during exercise; can rise by **~100%** over 12 weeks of training. |
+| **Type I / IIa / IIx fibers** | Slow oxidative / fast oxidative-glycolytic / fast glycolytic fiber types. Resistance training produces a small **IIx → IIa** shift; type IIx fibers shrink most during detraining. |
 | **Specific force** | Force per unit cross-sectional area of contractile protein; rises in type I fibers with resistance training. |
-| **Maximum voluntary contraction (MVC)** | Largest force a person can produce voluntarily; less than the muscle's true maximum due to neural safety factors. |
-| **Concurrent training** | Combined endurance + resistance training; can produce smaller strength gains than resistance alone due to AMPK → TSC → mTOR inhibition. |
+| **Maximum voluntary contraction (MVC)** | Largest force a person can produce voluntarily; less than the muscle's true maximum because the nervous system imposes a **safety factor**. Training (and adrenaline) can partially override this. |
+| **Concurrent training** | Combined endurance + resistance training; can produce smaller strength gains than resistance alone because endurance signaling activates AMPK → TSC → inhibits mTOR. |
 | **Responder / non-responder** | Individuals at the high or low end of the genetically influenced range of trainability for a given variable. |
