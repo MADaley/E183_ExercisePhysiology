@@ -77,6 +77,15 @@ These study guides follow each lecture **slide-by-slide** in sequence, showing e
 
 </div>
 
+<div class="week-card" markdown="1">
+
+## [Week 7: Training Effects on Muscle and Forces in Locomotion]({{ '/week07/' | relative_url }})
+
+- [Lecture 15: Integrative Muscle Function — Training Effects on Muscle]({{ '/week07/lecture15-training-effects-muscle' | relative_url }}) (29 slides)
+- [Lecture 16: Forces and Energy Cost in Locomotion]({{ '/week07/lecture16-forces-energy-cost' | relative_url }}) (37 slides)
+
+</div>
+
 ---
 
 ## Reference resources

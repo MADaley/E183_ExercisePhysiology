@@ -81,3 +81,14 @@
     - title: "Week 6 Friday Review and Discussion"
       url: /week06/friday-review
       slides: 19
+
+- number: 7
+  title: "Training Effects on Muscle and Forces in Locomotion"
+  url: /week07/
+  lectures:
+    - title: "Integrative Muscle Function — Training Effects on Muscle"
+      url: /week07/lecture15-training-effects-muscle
+      slides: 29
+    - title: "Forces and Energy Cost in Locomotion"
+      url: /week07/lecture16-forces-energy-cost
+      slides: 37
