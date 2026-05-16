@@ -348,7 +348,7 @@ $$F_{\text{quads}} = F_g \cdot \frac{R}{r_q}$$
 
 ### Practice Question 3 — Sketch the Three Idealized Work Loops
 
-- **Goal**: sketch the **work-loop shape** (force vs length) for each of three contraction types. The **area enclosed** = **net work** done by the muscle; the **direction of travel** (clockwise vs counterclockwise) determines the **sign** of that work.
+- **Goal**: sketch the **work-loop shape** (force vs length) for each of three contraction types. The **area enclosed** = **net work** done by the muscle; the **direction of travel** (counterclockwise vs clockwise) determines the **sign** of that work.
 
 - **(1) Isometric contraction during force development** — like the **turkey gastrocnemius during level running** (Slide 3, Slide 4):
   - Length is **nearly constant** while force rises and falls.
@@ -379,7 +379,7 @@ $$F_{\text{quads}} = F_g \cdot \frac{R}{r_q}$$
 | $F_m = \text{PCSA} \times \sigma\_{\text{spec}}$ | Maximum isometric muscle force | Maximum force a muscle can produce equals its physiological cross-sectional area times specific tension (~20–30 N/cm²). PCSA = muscle volume / fiber length. |
 | $F_m \cdot r_m = F_g \cdot R$ | Lever-system equation (torque balance) | Muscle force × muscle moment arm = external force × external moment arm. Used in the cheetah/greyhound and squat practice problems to convert between muscle force and ground reaction force. |
 | $\text{EMA} = r_m / R$ | Effective mechanical advantage | Ratio of muscle moment arm to ground-reaction-force moment arm at a joint. High EMA → less muscle force needed to resist a given GRF; varies systematically with body size and posture. |
-| $W = \oint F \, dL$ | Work loop (net mechanical work) | Net work done by a muscle equals the area enclosed by its force–length trajectory over a contraction cycle. Sign depends on direction of travel: clockwise = positive (motor), counterclockwise = negative (brake), no enclosed area = strut/spring. |
+| $W = \oint F \, dL$ | Work loop (net mechanical work) | Net work done by a muscle equals the area enclosed by its force–length trajectory over a contraction cycle. Sign depends on direction of travel: counterclockwise = positive (motor), clockwise = negative (brake), no enclosed area = strut/spring. |
 | $\text{Power} = F \times V$ | Mechanical power | Power output of a muscle is force times shortening velocity; for cyclic contractions, mean power = (net work per cycle) × (cycle frequency). |
 
 ---
