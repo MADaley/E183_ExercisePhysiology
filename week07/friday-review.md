@@ -72,7 +72,7 @@ This Friday session combines a short critical-thinking detour on **how to evalua
   - **No over-generalization from limited evidence** — a single small study is rarely definitive.
   - **No obvious conflicts of interest** — authors selling a related supplement or device are a red flag.
   - **Systematic reviews and meta-analyses are the gold standard** — they use keyword searches, apply quality filters, and synthesize across many high-quality studies, giving more reliable conclusions than any single paper.
-- **Why this matters for Week 7**: training-effects research is full of small, single-population studies and supplement claims. Knowing how to filter evidence is essential before you act on any of it — and before you cite any of it in your own writing.
+- **Why this matters**: a major learning objective of this course is to be able to **answer questions yourself by probing the scientific literature**, **critically evaluate the evidence**, and **effectively synthesize** what you find. This toolset is increasingly important in the modern publication era, where the rapid growth of **gray-literature "noise"** — predatory journals, preprints used out of context, supplement-marketing dressed as research — makes filtering for quality a core scientific skill rather than an optional one.
 
 ---
 
@@ -105,7 +105,7 @@ This Friday session combines a short critical-thinking detour on **how to evalua
   - **Length** (red sinusoid) lengthens above resting length and then shortens below it.
   - **Stimulation** (red pulse) can be delivered at any phase of the length cycle.
   - **Force** is the muscle's response — a brief twitch (single stimulus) or a layered tetanic response (rapid train of stimuli).
-- The **work-loop inset (top right)** shows how those force–length combinations close into a loop with an **enclosed area** and a **direction of travel**.
+- The **work-loop inset (top panel)** shows how those force–length combinations close into a loop with an **enclosed area** and a **direction of travel**. The in-class slide contains an animated GIF; the original animation and more information on work loops can be found at [en.wikipedia.org/wiki/Work_loop](https://en.wikipedia.org/wiki/Work_loop).
 - **Key conceptual point**: a muscle can shift between **near-isometric strut** behavior, **positive-work motor** behavior, and **negative-work brake** behavior **just by changing when it is activated** relative to length change — even when the length trajectory itself is identical. The nervous system tunes work output partly by **timing**, not just by activation amount.
 - *In vivo*, all of this varies simultaneously — activation timing, length trajectory, and load — so real-world work loops can take complex shapes. The simple isolated-muscle preparation isolates timing as the dominant variable.
 
@@ -177,11 +177,7 @@ This Friday session combines a short critical-thinking detour on **how to evalua
   - **CE (contractile element / fascicle, red)** **shortens** by ~4 mm — the muscle pulls on the tendon.
   - **SEE (series elastic element / tendon, blue)** **stretches** by ~+3 mm — equal and opposite to CE shortening so the MTU length is conserved.
 - **Force** (Panel B) rises and falls as a single pulse over ~100 ms.
-- **Predicted work-loop shapes**:
-  - **MTU** — length is constant, so the F–L "loop" collapses to a **vertical line** at ΔL<sub>MTU</sub> ≈ 0. **Enclosed area = 0 → no net work on the MTU**.
-  - **CE (fascicle)** — fascicle shortens while force is high (early in the pulse) and re-lengthens passively. Loop is traced **counterclockwise** on the shortening side → **net positive work done by the muscle**.
-  - **SEE (tendon)** — tendon stretches while force rises, then recoils while force falls. Loop is traced **clockwise** on the lengthening side. Per the sign convention, **CW → net negative work**; the small enclosed area equals the **elastic hysteresis loss**. The tendon **absorbs energy during stretch** and **returns most of it during recoil**.
-- **Energy bookkeeping**: the **muscle does positive work**, the **tendon stores and returns most of it**, and the **MTU end-points do no external work**. The whole exchange is **internal** — muscle → tendon → dissipated (mostly as heat) during relaxation.
+- **Activity**: sketch the predicted F–L work-loop shape for each of the three elements — **MTU, CE, and SEE** — using the time-domain traces above. The answer is shown on Slide 11.
 
 ---
 
@@ -191,10 +187,11 @@ This Friday session combines a short critical-thinking detour on **how to evalua
 
 ### Activity 1 — Answer and Thought Experiment
 
-- **Answer to Activity 1** (Panel C):
-  - **MTU loop** — collapsed **vertical line** at ΔL = 0 (green, no enclosed area → no net MTU work).
-  - **CE loop** — counterclockwise loop on the **negative Δ-length** side (muscle shortened to about −4 mm). Net **positive** muscle work — the muscle is the **active source** of energy.
-  - **SEE loop** — clockwise loop on the **positive Δ-length** side (tendon stretched to about +3 mm). Slim loop area reflects modest **elastic hysteresis**; most of the absorbed energy is returned.
+- **Expected work-loop shapes** (Panel C):
+  - **MTU loop (green)** — length is constant, so the F–L "loop" collapses to a **vertical line** at ΔL<sub>MTU</sub> ≈ 0. **No enclosed area → no net MTU work**.
+  - **SEE loop (blue)** — narrow, **clockwise** loop on the **positive Δ-length** side (tendon stretched to about +3 mm). The loop is **nearly springlike**; the small enclosed area is a slightly **negative** work loop reflecting modest **elastic hysteresis**. The tendon **absorbs energy during stretch** and **returns most of it during recoil**, with a small amount of energy **lost as heat**.
+  - **CE loop (red)** — counterclockwise loop on the **negative Δ-length** side (muscle shortened to about −4 mm). The **direction of the trace is the exact reflected version of the SEE loop**. The **enclosed area is nearly zero** because no net work is done over the cycle (the MTU end-points are fixed). The small enclosed area corresponds to a **very small amount of positive muscle work**, exactly equal to the **hysteresis energy lost in the tendon** — the muscle is the **active source** of that small make-up energy.
+- **Energy bookkeeping**: the **muscle does positive work early**, the **tendon stores and returns most of it**, and the **MTU end-points do no external work** over the complete cycle. The whole exchange is **internal** — muscle → tendon → muscle.
 - **Thought experiment — stiffer tendon (larger CSA)**:
   - For the same muscle force, a **stiffer tendon stretches less** (F = k·Δx with larger k → smaller Δx).
   - Because the MTU length is fixed, the muscle must **shorten less** as well — the red CE loop shrinks to a smaller Δ-length range.
@@ -210,17 +207,13 @@ This Friday session combines a short critical-thinking detour on **how to evalua
 
 ### Activity 2 — Sketch Work Loops for Cyclic Contractions
 
-- **Set-up**: same Sawicki et al. preparation but now the **MTU is driven through a cyclic length trajectory** (sinusoidal length change), with **one stimulation pulse per cycle** delivered near the start of the shortening phase.
-- **Reading the panels**:
-  - **MTU (green)** — sinusoidal length change between ~+5 and ~−4 mm; large external excursion.
-  - **CE (red, fascicle)** — also oscillates, but with **smaller amplitude** and **different phasing** than the MTU; shortens during the rising force phase.
+- **Set-up**: same Sawicki et al. preparation as in Activity 1, but now the **MTU is driven through a cyclic length trajectory** (sinusoidal length change), with **one stimulation pulse per cycle** delivered near the start of the shortening phase.
+- **Reading the panels (before sketching)**:
+  - **MTU (green)** — sinusoidal length change between ~+5 and ~−4 mm; **large external excursion** at each cycle.
+  - **CE (red, fascicle)** — also oscillates, but with **smaller amplitude** and **different phasing** than the MTU; shortens during the rising-force phase.
   - **SEE (blue, tendon)** — stretches and recoils in a pattern that is partially **out of phase** with the CE; large excursion (≈+4 mm peak).
   - **Force (Panel B)** — rises and falls as a train of pulses, one per cycle.
-- **Predicted work loops**:
-  - **MTU loop** — broad, open loop traced **counterclockwise** in F–L space → **net positive work** flowing into the MTU end-points (this is what an animal's joint would feel).
-  - **CE loop** — smaller loop, also counterclockwise → **muscle is the net positive-work source**.
-  - **SEE loop** — narrow, clockwise loop with a slim enclosed area → **tendon is acting elastically** with modest hysteresis.
-- **Big-picture interpretation**: in **this example** — stimulation timed near the start of shortening — the **MTU and CE** do net positive work, while the **SEE does near-zero (slightly negative) net work** (the small clockwise enclosed area is the **elastic hysteresis loss**). The **CE supplies the active energy** and the **SEE smooths and re-times** the force delivery to the MTU output. With **different activation timing relative to the length cycle**, the same preparation can produce **net negative work** at the CE and MTU level (energy-absorbing/brake behavior) or **near-zero net work** (strut/spring behavior) — the sign and shape of the loops depend entirely on **when** the muscle is activated relative to length change. The MTU work loop is the **net visible behavior at the joint**; the CE and SEE loops show **how the active and passive elements share the load** internally.
+- **Activity**: sketch the predicted F–L work-loop shape for each of the three elements — **MTU, CE, and SEE** — using the time-domain traces above. The answer is shown on Slide 13.
 
 ---
 
@@ -230,15 +223,13 @@ This Friday session combines a short critical-thinking detour on **how to evalua
 
 ### Activity 2 — Answer for Cyclic Contractions
 
-- **Answer to Activity 2** (Panel C):
-  - **Green MTU loop** — large, **counterclockwise** loop with substantial enclosed area in the **positive-length region** → the MTU does **net positive work** that an external load (a joint, a research apparatus) would receive.
-  - **Red CE loop** — leftward-tilted, **counterclockwise** loop on the negative Δ-length side. Smaller enclosed area than the MTU but with the same sign — the **muscle is the active source** of the positive work.
-  - **Blue SEE loop** — narrow, **clockwise** loop on the positive Δ-length side with very little enclosed area — consistent with **near-elastic** tendon behavior, cycling most of its energy back without loss.
-- **Why the loops differ in shape from the fixed-end case** (Slide 11): the MTU is no longer pinned at one length. The muscle still shortens during force development, but the **MTU also shortens** — so the MTU loop is **opened up** along the Δ-length axis and now encloses real **positive area**.
-- **Take-home for the work-loop unit**:
-  1. The **same muscle** can do very different work depending on **whether the MTU is fixed or moving**, and on **when** it is stimulated relative to the length cycle.
-  2. **CE and SEE share the cycle**: in elastic-friendly tasks, the tendon does most of the cycling and the muscle stays near isometric (Slide 7A pattern); in power tasks, the muscle takes on a bigger share of positive work (Slide 7B pattern); in absorbing tasks, the muscle is dragged into negative work (Slide 7C pattern).
-  3. To **predict** what a real *in vivo* muscle is doing, you need to know all three signals — **MTU kinematics**, **fascicle kinematics**, and **force** — exactly the information the human ultrasound + motion-capture set-up (Week 6, Slides 7–9) is designed to provide.
+- **Expected work-loop shapes** (Panel C):
+  - **MTU loop (green)** — broad, **counterclockwise** loop in the **positive-length region** with substantial enclosed area → the MTU does **net positive work** that an external load (a joint, a research apparatus) receives.
+  - **CE loop (red)** — leftward-tilted, **counterclockwise** loop on the **negative Δ-length** side. Smaller enclosed area than the MTU but with the same sign — the **muscle is the active source** of the positive work.
+  - **SEE loop (blue)** — narrow, **clockwise** loop on the **positive Δ-length** side with very little enclosed area → **near-elastic** tendon behavior, with a small slightly negative area equal to the **hysteresis loss**.
+- **Why the loops differ from the fixed-end case** (Slide 11): the MTU is no longer pinned at one length. The muscle still shortens during force development, but the **MTU also shortens** — so the MTU loop **opens up along the Δ-length axis** and encloses real **positive area**.
+- **Energy bookkeeping**: the **CE supplies the active energy** (positive CE work), the **SEE cycles most of it elastically** (near-zero net SEE work, slightly negative due to hysteresis), and the **net positive work appears at the MTU end-points** — flowing **out of the muscle–tendon unit** to the external load. Direction of energy flow: **CE → SEE → MTU end-points (external load)**.
+- **Big-picture take-away**: in cyclic contractions, the **MTU work loop is the net visible behavior at the joint**, while the **CE and SEE loops show how the active and passive elements share the load internally**. The **sign and shape of all three loops depend on when** the muscle is activated relative to length change — the same preparation can produce **positive (motor), near-zero (strut/spring), or negative (brake) net work** at the MTU level just by shifting **activation timing**.
 
 ---
 
