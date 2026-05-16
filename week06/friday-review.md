@@ -358,17 +358,17 @@ $$F_{\text{quads}} = F_g \cdot \frac{R}{r_q}$$
 
 - **(2) Shortening with positive work during force development** — like the **cockatiel pectoralis** or **guinea fowl gastrocnemius on an incline** (Slide 4):
   - As the muscle activates, it **shortens** while producing **high force**.
-  - The loop has a clockwise sense (force-up → shorten-with-high-force → force-down → re-lengthen-passively).
+  - The loop has a counter-clockwise sense (force-up → shorten-with-high-force → force-down → re-lengthen-passively).
   - **Net work is positive** — the **enclosed area opens up** in the upper-left of the F–L plane.
   - The muscle is acting as a **motor**, delivering net energy to the system.
 
 - **(3) Stretch with negative work during force development** — like the **guinea fowl digital flexor** at landing (Slide 4) or any muscle absorbing energy at impact:
   - The muscle **lengthens** while producing **high force** (forced to elongate by external load).
-  - The loop has a counterclockwise sense.
+  - The loop has a clockwise sense.
   - **Net work is negative** — the **enclosed area** lies in the lengthening direction; the muscle **absorbs energy** from the system (which dissipates as heat or is stored briefly).
   - The muscle is acting as a **brake** or **damper**.
 
-- **Big picture for the quiz**: these three shapes — vertical line, clockwise loop, counterclockwise loop — encode the **three fundamental mechanical roles** a muscle can play: **strut/spring** (no net work), **motor** (positive work), and **brake** (negative work). Every *in vivo* muscle work loop in this lecture (turkey, wallaby, cockatiel, guinea fowl, mallard, Lai et al. soleus) is a real-world variation on one of these three idealized templates.
+- **Big picture for the quiz**: these three shapes — vertical line, counterclockwise loop, clockwise loop — encode the **three fundamental mechanical roles** a muscle can play: **strut/spring** (no net work), **motor** (positive work), and **brake** (negative work). Every *in vivo* muscle work loop in this lecture (turkey, wallaby, cockatiel, guinea fowl, mallard, Lai et al. soleus) is a real-world variation on one of these three idealized templates.
 
 ---
 
