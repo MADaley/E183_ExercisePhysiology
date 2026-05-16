@@ -83,6 +83,16 @@ These study guides follow each lecture **slide-by-slide** in sequence, showing e
 
 - [Lecture 15: Integrative Muscle Function — Training Effects on Muscle]({{ '/week07/lecture15-training-effects-muscle' | relative_url }}) (29 slides)
 - [Lecture 16: Forces and Energy Cost in Locomotion]({{ '/week07/lecture16-forces-energy-cost' | relative_url }}) (37 slides)
+- [Week 7 Friday Review and Discussion]({{ '/week07/friday-review' | relative_url }}) (13 slides)
+
+</div>
+
+<div class="week-card" markdown="1">
+
+## [Week 8: Energy Cost of Locomotion and Humans in Comparative Context]({{ '/week08/' | relative_url }})
+
+- [Lecture 17: Forces and Energy Cost in Locomotion (Part 2)]({{ '/week08/lecture17-energy-cost' | relative_url }}) (35 slides)
+- [Lecture 18: Putting Human Locomotion into a Comparative Context]({{ '/week08/lecture18-humans-comparative' | relative_url }}) (41 slides)
 
 </div>
 

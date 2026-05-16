@@ -14,3 +14,6 @@ This week closes the muscle physiology unit with the **plastic adaptive response
 
 - [**Lecture 16: Forces and Energy Cost in Locomotion**](lecture16-forces-energy-cost) (37 slides)
    Newton's laws of legged locomotion; ground reaction forces in walking and running; inverted-pendulum and bouncing-spring models; the collisional perspective on step-to-step transitions; scaling of force and posture with speed and body size.
+
+- [**Week 7 Friday Review and Discussion**](friday-review) (13 slides)
+   Evaluating evidence quality; two competing models of exercise-associated muscle cramps and the pickle-juice paradox; hands-on review of muscle work loops, energy flow in muscle–tendon systems, the human foot as an adjustable spring, and the role of stimulation timing in cyclic contractions.

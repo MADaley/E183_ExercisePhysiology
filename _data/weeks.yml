@@ -92,3 +92,17 @@
     - title: "Forces and Energy Cost in Locomotion"
       url: /week07/lecture16-forces-energy-cost
       slides: 37
+    - title: "Week 7 Friday Review and Discussion"
+      url: /week07/friday-review
+      slides: 13
+
+- number: 8
+  title: "Energy Cost of Locomotion and Humans in Comparative Context"
+  url: /week08/
+  lectures:
+    - title: "Forces and Energy Cost in Locomotion (Part 2)"
+      url: /week08/lecture17-energy-cost
+      slides: 35
+    - title: "Putting Human Locomotion into a Comparative Context"
+      url: /week08/lecture18-humans-comparative
+      slides: 41

@@ -7,7 +7,7 @@ week_title: "Week 7: Training Effects on Muscle and Forces in Locomotion"
 week_url: /week07/
 total_slides: 37
 prev_lecture: /week07/lecture15-training-effects-muscle
-next_lecture: /week07/index
+next_lecture: /week07/friday-review
 ---
 
 This lecture builds the link from **whole-body movement dynamics** to the **force and mechanical-energy demands** placed on muscles. It introduces ground reaction forces, the inverted-pendulum and bouncing-spring models of walking and running, the "collisional" perspective on step-to-step transitions, and how forces scale with speed and body size — the foundation for next week's lectures on the **metabolic cost of locomotion**.
