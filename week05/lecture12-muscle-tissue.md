@@ -14,9 +14,9 @@ next_lecture: /week05/friday-review
 
 ![Title slide for "Introduction to muscle structure & function" by Dr. Monica A. Daley, Professor, Ecology and Evolutionary Biology, University of California, Irvine. Background collage shows diverse animals and humans exercising: a cyclist, water polo ball, sea turtle, a runner figure, fish, and other athletes.](images/lec12/slide-001.png)
 
-- Continues the muscle physiology section from **Lecture 11**, building from the **cellular scale** up to the **tissue scale** of muscle function.
-- Today's focus: the **intrinsic mechanical properties** of muscle as a tissue — the **force-length** and **force-velocity** relationships and how they translate molecular cross-bridge dynamics into whole-muscle behavior.
-- A central message: muscle's intrinsic properties produce a **trade-off between force and displacement at the molecular and tissue level**, and **different optimal contraction conditions** maximize force, speed, power, or efficiency.
+- Continues the muscle physiology section from Lecture 11, building from the cellular scale up to the tissue scale of muscle function.
+- Today's focus: the intrinsic mechanical properties of muscle as a tissue — the **force-length** and **force-velocity** relationships and how they translate molecular cross-bridge dynamics into whole-muscle behavior.
+- A central message: muscle's intrinsic properties produce a trade-off between force and displacement at the molecular and tissue level, and different optimal contraction conditions maximize force, speed, power, or efficiency.
 
 ---
 
@@ -26,12 +26,12 @@ next_lecture: /week05/friday-review
 
 ### Today: From Molecules to Tissue Properties
 
-- **Tissue-scale intrinsic properties** of muscle:
+- Tissue-scale intrinsic properties of muscle:
   - **Force–length** (length–tension) relationship.
   - **Force–velocity** relationship.
-- These properties **emerge** from the molecular machinery (sliding filaments, cross-bridge cycling) but operate at a different scale of analysis.
-- They formalize a **trade-off between force and displacement** that runs from the molecular level (overlap of actin and myosin) all the way to whole-tissue mechanics.
-- Different points on these curves yield **optimal conditions** for **force**, **speed**, **power**, or **efficiency** — no single muscle state can maximize all of them simultaneously.
+- These properties emerge from the molecular machinery (sliding filaments, cross-bridge cycling) but operate at a different scale of analysis.
+- They formalize a trade-off between force and displacement that runs from the molecular level (overlap of actin and myosin) all the way to whole-tissue mechanics.
+- Different points on these curves yield optimal conditions for force, speed, power, or efficiency — no single muscle state can maximize all of them simultaneously.
 
 ---
 
@@ -41,9 +41,9 @@ next_lecture: /week05/friday-review
 
 ### Recap — The "Zero-Sum Game" of Muscle Volume Fractions
 
-- Recap from Lecture 11: a fixed muscle-cell volume must be partitioned among **myofibrils** (force), **SR** (activation/relaxation speed), and **mitochondria** (aerobic ATP).
+- Recap from Lecture 11: a fixed muscle-cell volume must be partitioned among myofibrils (force), SR (activation/relaxation speed), and mitochondria (aerobic ATP).
 - The three example pie charts (anaerobic high-force, aerobic, super-fast rattlesnake) each represent different solutions on the trade-off surface.
-- **Important caveat**: the zero-sum game describes the **division of volume fraction** in a fixed cell; it is not an absolute trade-off in capacity.
+- The zero-sum game describes the division of volume fraction in a fixed cell; it is not an absolute trade-off in capacity.
 
 ---
 
@@ -53,9 +53,9 @@ next_lecture: /week05/friday-review
 
 ### Hypertrophy Breaks the Strict Zero-Sum Game
 
-- With **training, the volume of the muscle cell increases (hypertrophy)** — so absolute amounts of all three components can grow simultaneously.
-- The zero-sum game still applies in **per-unit-mass** terms (you can't have a high mass-specific everything), but it does **not** apply in absolute terms.
-- Why this matters: **carrying mass is energetically costly**, so animals trade off mass-specific capacity (proportions) against absolute capacity (whole-muscle mass).
+- With training, the volume of the muscle cell increases (**hypertrophy**) — so absolute amounts of all three components can grow simultaneously.
+- The zero-sum game still applies in per-unit-mass terms (you can't have a high mass-specific everything), but it does not apply in absolute terms.
+- Why this matters: carrying mass is energetically costly, so animals trade off mass-specific capacity (proportions) against absolute capacity (whole-muscle mass).
 
 ---
 
@@ -65,8 +65,8 @@ next_lecture: /week05/friday-review
 
 ### Within-Fiber-Type Plasticity (Recap)
 
-- Both mitochondrial volume density and SR Ca<sup>2+</sup>-handling rates improve with training **within each fiber type**, not just by shifting fiber-type proportions.
-- This further illustrates that fiber type is a **continuum**, not a strict category, and that the cellular components are individually plastic.
+- Both mitochondrial volume density and SR Ca<sup>2+</sup>-handling rates improve with training within each fiber type, not just by shifting fiber-type proportions.
+- This further illustrates that fiber type is a continuum, not a strict category, and that the cellular components are individually plastic.
 - Together with hypertrophy, these adaptations explain why elite athletes can achieve combinations of force, speed, and endurance that look like violations of the zero-sum game.
 
 ---
@@ -77,15 +77,15 @@ next_lecture: /week05/friday-review
 
 ### Hummingbirds Push the Trade-off Surface
 
-- Hummingbirds combine **extreme aerobic capacity** with **high contraction frequency**:
-  - **Highest mass-specific metabolic rates** of any vertebrates.
-  - **Hovering flight** sustained for prolonged periods.
-  - Wingbeat frequencies of **~40–80 Hz**.
+- Hummingbirds combine extreme aerobic capacity with high contraction frequency:
+  - Highest mass-specific metabolic rates of any vertebrates.
+  - Hovering flight sustained for prolonged periods.
+  - Wingbeat frequencies of ~40–80 Hz.
 - Their flight muscles have:
-  - **Giant mitochondria** occupying **~35–50% of cell volume** (well beyond typical vertebrate muscle).
-  - **Double-packed cristae** (extra inner membrane).
+  - Giant mitochondria occupying ~35–50% of cell volume (well beyond typical vertebrate muscle).
+  - Double-packed cristae (extra inner membrane).
   - Operating temperatures elevated above typical body temperature, accelerating ATP synthesis and Ca<sup>2+</sup> pumping.
-- These specializations **expand the cellular envelope** rather than violating the zero-sum trade-off.
+- These specializations expand the cellular envelope rather than violating the zero-sum trade-off.
 
 ---
 
@@ -96,10 +96,10 @@ next_lecture: /week05/friday-review
 ### Hummingbird Trade-offs — Low Specific Tension and Thermal Sensitivity
 
 - The "broken zero-sum game" of hummingbird flight muscle comes with its own costs:
-  - **Very low specific tension** (force per unit cross-sectional area) — because so much volume is mitochondria, less is myofibrils.
-  - **High temperature sensitivity** — force falls off steeply at lower temperatures.
-- Functional consequence: hummingbirds enter **torpor** in cold conditions because muscle force collapses below their narrow operating temperature range.
-- **Design trade-offs remain** — even extreme specialists pay for one capacity with another.
+  - Very low specific tension (force per unit cross-sectional area) — because so much volume is mitochondria, less is myofibrils.
+  - High temperature sensitivity — force falls off steeply at lower temperatures.
+- Functional consequence: hummingbirds enter torpor in cold conditions because muscle force collapses below their narrow operating temperature range.
+- Design trade-offs remain — even extreme specialists pay for one capacity with another.
 
 ---
 
@@ -109,11 +109,11 @@ next_lecture: /week05/friday-review
 
 ### Regional Endothermy and Heater Organs
 
-- **Tunas** and **mackerel sharks** maintain **elevated red-muscle temperature** above ambient water using a **rete mirabile** — a vascular **countercurrent heat exchanger** that traps metabolic heat near the slow-twitch aerobic red muscle used for continuous swimming.
+- Tunas and mackerel sharks maintain elevated red-muscle temperature above ambient water using a rete mirabile — a vascular countercurrent heat exchanger that traps metabolic heat near the slow-twitch aerobic red muscle used for continuous swimming.
 - The rete also occurs in association with viscera and cranial/orbital regions in some species.
-- **Heater organs**: in some tunas, **extraocular muscles** have lost contractile function and instead perform **futile Ca<sup>2+</sup> cycling** between cytoplasm and SR — generating heat to warm the eye and brain.
-- Other scombrids (mackerel, bonito) **lack** retia, so this is a **derived feature** within the group.
-- Reinforces the importance of **muscle temperature** for muscle function — and shows that the molecular machinery of muscle can be co-opted for **thermogenesis** when the contractile function is lost over evolutionary time.
+- Heater organs: in some tunas, extraocular muscles have lost contractile function and instead perform futile Ca<sup>2+</sup> cycling between cytoplasm and SR — generating heat to warm the eye and brain.
+- Other scombrids (mackerel, bonito) lack retia, so this is a derived feature within the group.
+- Reinforces the importance of muscle temperature for muscle function — and shows that the molecular machinery of muscle can be co-opted for thermogenesis when the contractile function is lost over evolutionary time.
 
 ---
 
@@ -123,9 +123,9 @@ next_lecture: /week05/friday-review
 
 ### Learning Objectives — Tissue Properties
 
-1. Describe the intrinsic **force–length (F–L)** and **force–velocity (F–V)** mechanical properties of muscle and discuss the **experimental conditions** used to measure them.
-2. Be able to **calculate an optimal power curve** from a force–velocity curve.
-3. Discuss how **muscle fiber type** and **activation level** influence F–V and F–L properties.
+1. Describe the intrinsic **force–length (F–L)** and **force–velocity (F–V)** mechanical properties of muscle and discuss the experimental conditions used to measure them.
+2. Be able to calculate an optimal power curve from a force–velocity curve.
+3. Discuss how muscle fiber type and activation level influence F–V and F–L properties.
 
 ---
 
@@ -137,15 +137,15 @@ next_lecture: /week05/friday-review
 
 | Action | Description | Energetic cost |
 |---|---|---|
-| **Concentric (shortening)** | Muscle force > load; muscle shortens; **positive work** | **Most expensive** ATP per unit force |
-| **Eccentric (lengthening)** | Muscle force < load; muscle lengthens; **negative work** | **Most economic**; **highest injury risk** |
-| **Isometric** | Force generated, no length change; **no work** | Steady-state cost proportional to force |
-| **Isotonic** | **Constant force** during shortening; experimental condition | — |
-| **Isokinetic** | **Constant velocity** during shortening; experimental condition | — |
+| **Concentric (shortening)** | Muscle force > load; muscle shortens; positive work | Most expensive ATP per unit force |
+| **Eccentric (lengthening)** | Muscle force < load; muscle lengthens; negative work | Most economic; highest injury risk |
+| **Isometric** | Force generated, no length change; no work | Steady-state cost proportional to force |
+| **Isotonic** | Constant force during shortening; experimental condition | — |
+| **Isokinetic** | Constant velocity during shortening; experimental condition | — |
 
-- These action types matter physiologically: e.g., **you can jump down from a higher height than you can jump up to** — eccentric contractions produce higher force, more economically, than concentric contractions.
-- **Isotonic** and **isokinetic** are mainly **laboratory conditions** used to isolate one variable (force or velocity) — they map onto the F–V experiments below.
-- **Isometric work** with elastic tendon stretch–recoil is common in locomotion (e.g., running) and is **economical** because the muscle does no shortening work.
+- These action types matter physiologically: e.g., you can jump down from a higher height than you can jump up to — eccentric contractions produce higher force, more economically, than concentric contractions.
+- Isotonic and isokinetic are mainly laboratory conditions used to isolate one variable (force or velocity) — they map onto the F–V experiments below.
+- Isometric work with elastic tendon stretch–recoil is common in locomotion (e.g., running) and is economical because the muscle does no shortening work.
 
 ---
 
@@ -155,13 +155,13 @@ next_lecture: /week05/friday-review
 
 ### The Two Intrinsic Curves
 
-- **Isometric force–length (length–tension):** the maximum **active force** a muscle can produce as a function of its **length**.
-  - Parabolic shape with a **peak at the optimum length L<sub>0</sub>**.
+- **Isometric force–length (length–tension):** the maximum active force a muscle can produce as a function of its length.
+  - Parabolic shape with a peak at the **optimum length L<sub>0</sub>**.
   - **Passive force** (from connective tissue and titin) rises exponentially at long lengths.
-- **Isotonic force–velocity:** the maximum **shortening velocity** a muscle can sustain at a given **constant force**.
-  - **Hyperbolic** shape (Hill-type curve).
+- **Isotonic force–velocity:** the maximum shortening velocity a muscle can sustain at a given constant force.
+  - Hyperbolic shape (Hill-type curve).
   - **V<sub>max</sub>** at zero force; **F<sub>max</sub>** at zero velocity.
-- These two curves are the foundation of all **muscle modeling** — including the musculoskeletal simulations used in clinical biomechanics (e.g., **OpenSim**).
+- These two curves are the foundation of all muscle modeling — including the musculoskeletal simulations used in clinical biomechanics (e.g., **OpenSim**).
 
 ---
 
@@ -171,11 +171,11 @@ next_lecture: /week05/friday-review
 
 ### Mechanism of the Length–Tension Curve at the Sarcomere Level
 
-- The **active force–length curve** is mechanistically explained by **actin–myosin filament overlap**:
-  - **Short lengths**: actin filaments cross past each other and myosin filaments **butt against the Z-discs** → **interference** and reduced cross-bridge formation.
-  - **Optimal length** (~100% of resting sarcomere length, plateau ~80–120%): **maximal overlap** of actin binding sites with myosin heads → maximum cross-bridge formation.
-  - **Long lengths**: filament overlap decreases → fewer cross-bridges can form → force falls.
-- The **plateau region** in whole-muscle data exists because individual sarcomeres in a muscle are not all at exactly the same length — the variation **smears out** the sharp peak predicted at the single-sarcomere level.
+- The active force–length curve is mechanistically explained by actin–myosin filament overlap:
+  - Short lengths: actin filaments cross past each other and myosin filaments butt against the Z-discs → interference and reduced cross-bridge formation.
+  - Optimal length (~100% of resting sarcomere length, plateau ~80–120%): maximal overlap of actin binding sites with myosin heads → maximum cross-bridge formation.
+  - Long lengths: filament overlap decreases → fewer cross-bridges can form → force falls.
+- The plateau region in whole-muscle data exists because individual sarcomeres in a muscle are not all at exactly the same length — the variation smears out the sharp peak predicted at the single-sarcomere level.
 
 ---
 
@@ -185,9 +185,9 @@ next_lecture: /week05/friday-review
 
 ### Setup — How Was the F–L Curve Measured?
 
-- The slide poses the **measurement question**: how was this curve actually generated experimentally?
-- Important conceptual point: the curve is **not** measured by stretching one muscle while it contracts.
-- Each point is generated under **strict isometric, maximally stimulated** conditions at a series of different fixed lengths (next slide).
+- The slide poses the measurement question: how was this curve actually generated experimentally?
+- Important conceptual point: the curve is not measured by stretching one muscle while it contracts.
+- Each point is generated under strict isometric, maximally stimulated conditions at a series of different fixed lengths (next slide).
 
 ---
 
@@ -198,13 +198,13 @@ next_lecture: /week05/friday-review
 ### How the F–L Curve Is Measured (Protocol)
 
 1. Mount the muscle (or fiber) in a **muscle ergometer** — a rig that fixes the muscle at a given length while measuring force.
-2. **Hold the muscle at a constant length**; measure the **passive force** at that length (no stimulation).
-3. **Maximally stimulate** the muscle (electrically for a whole muscle, by Ca<sup>2+</sup>-bath for a skinned fiber).
-4. Measure the **maximum force** during isometric contraction at that length: $F\_{max} = F\_{active} + F\_{passive}$.
+2. Hold the muscle at a constant length; measure the passive force at that length (no stimulation).
+3. Maximally stimulate the muscle (electrically for a whole muscle, by Ca<sup>2+</sup>-bath for a skinned fiber).
+4. Measure the maximum force during isometric contraction at that length: $F\_{max} = F\_{active} + F\_{passive}$.
 5. Compute: $F\_{active} = F\_{max} - F\_{passive}$.
-6. **Repeat at a series of fixed lengths**; each length yields one passive point and one active point on the curve.
+6. Repeat at a series of fixed lengths; each length yields one passive point and one active point on the curve.
 
-- **Key insight**: there is **no single experiment** in which a muscle continuously sweeps through this curve. The F–L curve is **assembled from many independent isometric trials** — it is an "envelope" of maximum capability, not a record of any single contraction.
+- There is no single experiment in which a muscle continuously sweeps through this curve. The F–L curve is assembled from many independent isometric trials — it is an "envelope" of maximum capability, not a record of any single contraction.
 
 ---
 
@@ -214,10 +214,10 @@ next_lecture: /week05/friday-review
 
 ### Real Data — Guinea Fowl Lateral Gastrocnemius
 
-- An example of an actual F–L measurement on the **guinea fowl lateral gastrocnemius** (a whole muscle–tendon unit).
-- During each isometric trial, the **fascicles shorten slightly** even though the whole muscle–tendon length is fixed — the shortening is taken up by **tendon stretch**.
-- The investigator must **wait for the fascicle length to reach steady state** before recording the force value; that pair of (fascicle length, force) becomes one point on the F–L curve.
-- Repeated trials at many starting lengths fill out the **active** and **passive** force–length curves.
+- An example of an actual F–L measurement on the guinea fowl lateral gastrocnemius (a whole muscle–tendon unit).
+- During each isometric trial, the fascicles shorten slightly even though the whole muscle–tendon length is fixed — the shortening is taken up by tendon stretch.
+- The investigator must wait for the fascicle length to reach steady state before recording the force value; that pair of (fascicle length, force) becomes one point on the F–L curve.
+- Repeated trials at many starting lengths fill out the active and passive force–length curves.
 
 ---
 
@@ -227,9 +227,9 @@ next_lecture: /week05/friday-review
 
 ### The Isotonic F–V Curve — Endpoints
 
-- **V<sub>max</sub>**: the **maximum unloaded shortening velocity** (force = 0).
-- **F<sub>max</sub>** (also written **P<sub>0</sub>** or **F<sub>0</sub>**): the **maximum isometric force** (velocity = 0).
-- The **shape between** these endpoints is hyperbolic — a key intrinsic property of muscle (Hill 1938).
+- **V<sub>max</sub>**: the maximum unloaded shortening velocity (force = 0).
+- **F<sub>max</sub>** (also written P<sub>0</sub> or F<sub>0</sub>): the maximum isometric force (velocity = 0).
+- The shape between these endpoints is hyperbolic — a key intrinsic property of muscle (Hill 1938).
 
 ---
 
@@ -239,13 +239,13 @@ next_lecture: /week05/friday-review
 
 ### How the F–V Curve Is Measured — The Load Clamp
 
-- The **load clamp experiment** holds the muscle force at a **specified constant value** while letting it shorten.
+- The **load clamp experiment** holds the muscle force at a specified constant value while letting it shorten.
 - Procedure:
-  1. **Stimulate** the muscle.
-  2. As force rises, **clamp** it at a target value (e.g., 0.6 × F<sub>max</sub>).
-  3. Once the target force is reached, allow the muscle to **shorten freely** while maintaining the clamped force.
-  4. Measure the **steady-state shortening velocity** during the clamp.
-- That velocity, paired with the clamped force, becomes **one point** on the F–V curve.
+  1. Stimulate the muscle.
+  2. As force rises, clamp it at a target value (e.g., 0.6 × F<sub>max</sub>).
+  3. Once the target force is reached, allow the muscle to shorten freely while maintaining the clamped force.
+  4. Measure the steady-state shortening velocity during the clamp.
+- That velocity, paired with the clamped force, becomes one point on the F–V curve.
 
 ---
 
@@ -255,9 +255,9 @@ next_lecture: /week05/friday-review
 
 ### Mapping a Load-Clamp Trial to the F–V Curve
 
-- The diagram shows how the **clamped force** (top panel of the inset, ~0.6 P/P<sub>0</sub>) and the **steady-state shortening velocity** (bottom panel, ~1 L s<sup>−1</sup>) are read off and **mapped to a single point** on the F–V curve.
-- **Repeating the experiment at many different clamp forces** generates the full curve.
-- This is again an **envelope** — each point is from a separate, controlled trial.
+- The diagram shows how the clamped force (top panel of the inset, ~0.6 P/P<sub>0</sub>) and the steady-state shortening velocity (bottom panel, ~1 L s<sup>−1</sup>) are read off and mapped to a single point on the F–V curve.
+- Repeating the experiment at many different clamp forces generates the full curve.
+- This is again an envelope — each point is from a separate, controlled trial.
 
 ---
 
@@ -267,11 +267,11 @@ next_lecture: /week05/friday-review
 
 ### Real Data — Guinea Fowl F–V Curve
 
-- Two example load-clamp trials on the **guinea fowl lateral gastrocnemius**:
-  - **High clamp force** (~0.9 F<sub>max</sub>) → **slow shortening** (low velocity point).
-  - **Lower clamp force** (~0.3 F<sub>max</sub>) → **fast shortening** (high velocity point).
-- Repeating at many force levels yields the **full F–V hyperbola** for that muscle.
-- **Why force and velocity trade off** (cross-bridge mechanism): at higher shortening velocities, more myosin heads are **detached** at any moment because they spend more time **cycling**; at zero velocity (isometric), all cross-bridges can be **simultaneously attached**, giving maximum force.
+- Two example load-clamp trials on the guinea fowl lateral gastrocnemius:
+  - High clamp force (~0.9 F<sub>max</sub>) → slow shortening (low velocity point).
+  - Lower clamp force (~0.3 F<sub>max</sub>) → fast shortening (high velocity point).
+- Repeating at many force levels yields the full F–V hyperbola for that muscle.
+- Why force and velocity trade off (cross-bridge mechanism): at higher shortening velocities, more myosin heads are detached at any moment because they spend more time cycling; at zero velocity (isometric), all cross-bridges can be simultaneously attached, giving maximum force.
 
 ---
 
@@ -281,9 +281,9 @@ next_lecture: /week05/friday-review
 
 ### Body Size and V<sub>max</sub> — Small Animals Have Faster Muscles
 
-- Across mammals, both **type I** and **type IIa** fibers show **decreasing V<sub>max</sub>** with **increasing body mass**.
-- Functional rationale: **larger animals take longer, slower strides** to cover a given distance, so the **selective pressure** for fast muscles is weaker; meanwhile, fast muscles are **energetically expensive**.
-- **Fiber type** offset: type IIa (fast) > type I (slow) at every body size.
+- Across mammals, both type I and type IIa fibers show decreasing V<sub>max</sub> with increasing body mass.
+- Functional rationale: larger animals take longer, slower strides to cover a given distance, so the selective pressure for fast muscles is weaker; meanwhile, fast muscles are energetically expensive.
+- Fiber type offset: type IIa (fast) > type I (slow) at every body size.
 
 ---
 
@@ -293,11 +293,11 @@ next_lecture: /week05/friday-review
 
 ### Body Size and Maximum Power — With Caveats
 
-- Both **maximum velocity** and **relative maximum power** decrease with **body size** in mass-specific terms.
-- **Caveats**:
-  - Small **sample sizes** in comparative studies.
-  - **High within-size diversity** — muscle is highly plastic and varies among muscles within an organism.
-  - Lab measurements **may not reflect in vivo use**: animals of different sizes have different mechanical demands and use their muscles differently.
+- Both maximum velocity and relative maximum power decrease with body size in mass-specific terms.
+- Caveats:
+  - Small sample sizes in comparative studies.
+  - High within-size diversity — muscle is highly plastic and varies among muscles within an organism.
+  - Lab measurements may not reflect in vivo use: animals of different sizes have different mechanical demands and use their muscles differently.
 
 ---
 
@@ -307,16 +307,16 @@ next_lecture: /week05/friday-review
 
 ### Combining F–V, F–L, and Activation
 
-- Both intrinsic curves are **typically measured at maximum stimulation** — they describe the **upper envelope** of force capability.
-- A widely used **muscle model** combines them multiplicatively:
+- Both intrinsic curves are typically measured at maximum stimulation — they describe the upper envelope of force capability.
+- A widely used muscle model combines them multiplicatively:
 
 $$F\_{tot} = F\_{FV} \times F\_{FL} \times F\_{act}$$
 
 - Where:
-  - **F<sub>FV</sub>**: scaling factor from the force–velocity curve at the current shortening velocity.
-  - **F<sub>FL</sub>**: scaling factor from the force–length curve at the current length.
-  - **F<sub>act</sub>**: activation level (between 0 and 1).
-- Used in **clinical and research musculoskeletal models** (e.g., **OpenSim**) to predict how muscles will perform under different movements and surgical interventions (e.g., **tendon transfers**, **shoulder reconstruction**).
+  - F<sub>FV</sub>: scaling factor from the force–velocity curve at the current shortening velocity.
+  - F<sub>FL</sub>: scaling factor from the force–length curve at the current length.
+  - F<sub>act</sub>: activation level (between 0 and 1).
+- Used in clinical and research musculoskeletal models (e.g., OpenSim) to predict how muscles will perform under different movements and surgical interventions (e.g., tendon transfers, shoulder reconstruction).
 
 ---
 
@@ -326,12 +326,12 @@ $$F\_{tot} = F\_{FV} \times F\_{FL} \times F\_{act}$$
 
 ### The 3D Force–Length–Velocity Surface
 
-- At maximum activation, the muscle's force capability is fully described by a **3D surface**: the **product** of the F–L parabola and the F–V hyperbola.
-- This surface defines the **action space** of the muscle:
-  - Highest force at **optimal length and zero velocity**.
-  - Force falls off **away from optimal length** (in either direction).
-  - Force falls off **with increasing shortening velocity**.
-- Any **in vivo contraction** corresponds to a trajectory across this surface; the resulting force is read off the surface at the current length and velocity.
+- At maximum activation, the muscle's force capability is fully described by a 3D surface: the product of the F–L parabola and the F–V hyperbola.
+- This surface defines the action space of the muscle:
+  - Highest force at optimal length and zero velocity.
+  - Force falls off away from optimal length (in either direction).
+  - Force falls off with increasing shortening velocity.
+- Any in vivo contraction corresponds to a trajectory across this surface; the resulting force is read off the surface at the current length and velocity.
 
 ---
 
@@ -341,9 +341,9 @@ $$F\_{tot} = F\_{FV} \times F\_{FL} \times F\_{act}$$
 
 ### Activation Level Scales the F–V Curve
 
-- A **hyperbolic F–V relationship exists at every activation level**, not just at 100%.
-- Lower activation produces a **lower-amplitude curve** — both **maximum force** and **maximum velocity** decrease.
-- In standard muscle models, activation is often assumed to **scale the entire surface proportionally** (multiplicatively) — though there is now growing evidence that the curve **shape changes** at submaximal activation as well (see Slide 28).
+- A hyperbolic F–V relationship exists at every activation level, not just at 100%.
+- Lower activation produces a lower-amplitude curve — both maximum force and maximum velocity decrease.
+- In standard muscle models, activation is often assumed to scale the entire surface proportionally (multiplicatively) — though there is now growing evidence that the curve shape changes at submaximal activation as well (see Slide 28).
 
 ---
 
@@ -353,9 +353,9 @@ $$F\_{tot} = F\_{FV} \times F\_{FL} \times F\_{act}$$
 
 ### Activation in 3D — Nesting Surfaces
 
-- Conceptually, **lower activation** corresponds to a **smaller, nested 3D surface** stacked beneath the maximally activated surface.
-- An apt metaphor: **Russian nesting dolls** — each activation level produces a similarly shaped but smaller F–L–V surface.
-- The full muscle model therefore lives in a **4D space** (force × length × velocity × activation).
+- Conceptually, lower activation corresponds to a smaller, nested 3D surface stacked beneath the maximally activated surface.
+- An apt metaphor: Russian nesting dolls — each activation level produces a similarly shaped but smaller F–L–V surface.
+- The full muscle model therefore lives in a 4D space (force × length × velocity × activation).
 
 ---
 
@@ -365,10 +365,10 @@ $$F\_{tot} = F\_{FV} \times F\_{FL} \times F\_{act}$$
 
 ### Constructing the Power–Velocity Curve
 
-- **Power = Force × Velocity** at every point on the F–V curve.
-- Power is **zero at the endpoints** (zero velocity → zero displacement → no power; zero force → no work done) and reaches a **single peak at intermediate force and velocity**.
-- **Peak power** typically occurs at roughly **0.2–0.3 × V<sub>max</sub>** for vertebrate skeletal muscle.
-- **Practical consequence**: there is an **optimal contraction velocity for power output** — for example, this is why **bicycles need gears**, so cyclists can keep their muscles operating near their optimal cadence regardless of road speed or grade.
+- Power = Force × Velocity at every point on the F–V curve.
+- Power is zero at the endpoints (zero velocity → zero displacement → no power; zero force → no work done) and reaches a single peak at intermediate force and velocity.
+- Peak power typically occurs at roughly 0.2–0.3 × V<sub>max</sub> for vertebrate skeletal muscle.
+- There is an optimal contraction velocity for power output — for example, this is why bicycles need gears, so cyclists can keep their muscles operating near their optimal cadence regardless of road speed or grade.
 
 ---
 
@@ -378,10 +378,10 @@ $$F\_{tot} = F\_{FV} \times F\_{FL} \times F\_{act}$$
 
 ### Power–Stress Curve and Cross-Sectional Normalization
 
-- An equivalent way to plot the same relationship: **power vs. load (stress)** instead of power vs. velocity.
+- An equivalent way to plot the same relationship: power vs. load (stress) instead of power vs. velocity.
 - **Stress** = force per **physiological cross-sectional area (PCSA)** — normalizes for muscle size.
-- Same general result: **peak power at intermediate loads and velocities**.
-- The shape of these curves is foundational for understanding **why athletes train at specific resistance levels** and why **muscle architecture** (PCSA, fiber length) matters for whole-muscle power output.
+- Same general result: peak power at intermediate loads and velocities.
+- The shape of these curves is foundational for understanding why athletes train at specific resistance levels and why muscle architecture (PCSA, fiber length) matters for whole-muscle power output.
 
 ---
 
@@ -391,11 +391,11 @@ $$F\_{tot} = F\_{FV} \times F\_{FL} \times F\_{act}$$
 
 ### The Curves Themselves Change With Activation
 
-- New experimental evidence (Holt and Azizi 2016): **the F–L and F–V curves change shape — not just amplitude — with activation level**.
+- New experimental evidence (Holt and Azizi 2016): the F–L and F–V curves change shape — not just amplitude — with activation level.
 - Key effects at lower activation:
-  - **Optimum length L<sub>0</sub> shifts to longer fiber lengths.**
-  - **Optimum velocity for peak power V<sub>opt</sub> shifts to slower velocities.**
-- Implication for muscle modeling: the simple multiplicative model ($F\_{tot} = F\_{FV} \times F\_{FL} \times F\_{act}$) is an **approximation** — at submaximal activation (which is typical of most everyday movements!), more sophisticated models are required.
+  - Optimum length L<sub>0</sub> shifts to longer fiber lengths.
+  - Optimum velocity for peak power V<sub>opt</sub> shifts to slower velocities.
+- Implication for muscle modeling: the simple multiplicative model ($F\_{tot} = F\_{FV} \times F\_{FL} \times F\_{act}$) is an approximation — at submaximal activation (which is typical of most everyday movements!), more sophisticated models are required.
 
 ---
 
@@ -405,13 +405,13 @@ $$F\_{tot} = F\_{FV} \times F\_{FL} \times F\_{act}$$
 
 ### F–V and Power Vary With Fiber Type
 
-- Different myosin isoforms produce **different F–V hyperbolas** — and therefore different power curves.
+- Different myosin isoforms produce different F–V hyperbolas — and therefore different power curves.
 - In human skeletal muscle (Bottinelli et al. 1996):
-  - **Type IIB (fast glycolytic)**: highest **V<sub>max</sub>** and highest **peak power**, at the highest optimum velocity.
-  - **Type IIA (fast oxidative)**: intermediate.
-  - **Type I (slow oxidative)**: lowest V<sub>max</sub>, lowest peak power, slowest optimum velocity.
-- All three curves share the same **fundamental hyperbolic shape**, but their **scale and curvature differ**.
-- These differences are why **fiber type composition** of a muscle matters so much for **sport-specific performance**.
+  - Type IIB (fast glycolytic): highest V<sub>max</sub> and highest peak power, at the highest optimum velocity.
+  - Type IIA (fast oxidative): intermediate.
+  - Type I (slow oxidative): lowest V<sub>max</sub>, lowest peak power, slowest optimum velocity.
+- All three curves share the same fundamental hyperbolic shape, but their scale and curvature differ.
+- These differences are why fiber type composition of a muscle matters so much for sport-specific performance.
 
 ---
 
@@ -423,9 +423,9 @@ $$F\_{tot} = F\_{FV} \times F\_{FL} \times F\_{act}$$
 
 - **Mechanical efficiency** (work output ÷ total energy expenditure) is a function of shortening velocity.
 - Across temperatures (20–30°C in mouse soleus), efficiency:
-  - **Peaks at low shortening velocity** (~0.1–0.2 V/V<sub>max</sub>).
-  - Falls off at higher velocities as more energy is lost as **heat**.
-- **Implication**: the velocity that maximizes **power** (~0.25 V/V<sub>max</sub>) is **higher than** the velocity that maximizes **efficiency** — animals (and athletes) face a trade-off between **going fast** and **using fuel efficiently**.
+  - Peaks at low shortening velocity (~0.1–0.2 V/V<sub>max</sub>).
+  - Falls off at higher velocities as more energy is lost as heat.
+- The velocity that maximizes power (~0.25 V/V<sub>max</sub>) is higher than the velocity that maximizes efficiency — animals (and athletes) face a trade-off between going fast and using fuel efficiently.
 
 ---
 
@@ -435,11 +435,11 @@ $$F\_{tot} = F\_{FV} \times F\_{FL} \times F\_{act}$$
 
 ### Sprint Power vs. Fatigue Resistance — A Comparative Trade-off
 
-- Across **17 lizard species** (Vanhooydonck et al. 2014):
-  - **Mass-specific muscle power** is **positively** correlated with **sprint speed** (high power → fast acceleration).
-  - **Mass-specific muscle power** is **negatively** correlated with **fatigue resistance**.
-- This is the **whole-organism manifestation** of the cellular zero-sum game from Lecture 11: species that have evolved high sprint power have done so at the cost of endurance.
-- A clean comparative example of how **intrinsic muscle properties** translate into **ecological performance** trade-offs.
+- Across 17 lizard species (Vanhooydonck et al. 2014):
+  - Mass-specific muscle power is positively correlated with sprint speed (high power → fast acceleration).
+  - Mass-specific muscle power is negatively correlated with fatigue resistance.
+- This is the whole-organism manifestation of the cellular zero-sum game from Lecture 11: species that have evolved high sprint power have done so at the cost of endurance.
+- A clean comparative example of how intrinsic muscle properties translate into ecological performance trade-offs.
 
 ---
 
@@ -449,9 +449,9 @@ $$F\_{tot} = F\_{FV} \times F\_{FL} \times F\_{act}$$
 
 ### Learning Objectives — Recap
 
-1. **Intrinsic F–L and F–V properties**: assembled from many isometric (F–L) or isotonic load-clamp (F–V) trials, each at maximum stimulation; they form **envelopes**, not records of single contractions.
-2. **Power from F–V**: power = force × velocity, so the power–velocity curve is computed point-by-point from the F–V curve. **Peak power** occurs at **intermediate force and velocity** (~0.2–0.3 V<sub>max</sub>).
-3. **Fiber type and activation effects**: faster fiber types have higher V<sub>max</sub> and higher peak power; activation scales the F–V/F–L surface and (per recent work) also shifts its **optimal length and velocity**.
+1. Intrinsic F–L and F–V properties: assembled from many isometric (F–L) or isotonic load-clamp (F–V) trials, each at maximum stimulation; they form envelopes, not records of single contractions.
+2. Power from F–V: power = force × velocity, so the power–velocity curve is computed point-by-point from the F–V curve. Peak power occurs at intermediate force and velocity (~0.2–0.3 V<sub>max</sub>).
+3. Fiber type and activation effects: faster fiber types have higher V<sub>max</sub> and higher peak power; activation scales the F–V/F–L surface and (per recent work) also shifts its optimal length and velocity.
 
 ---
 

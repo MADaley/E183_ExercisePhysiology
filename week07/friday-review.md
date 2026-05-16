@@ -10,16 +10,12 @@ prev_lecture: /week07/lecture16-forces-energy-cost
 next_lecture: /week08/lecture17-energy-cost
 ---
 
-This Friday session combines a short critical-thinking detour on **how to evaluate the quality of evidence** with a working example — the current vs older models of **exercise-associated muscle cramps** and the **pickle-juice paradox** — and then turns to a hands-on review of **muscle work loops** and **muscle–tendon interactions**. The work-loop section walks through how length, force, and stimulation timing combine to determine whether a muscle acts as a strut, motor, or brake, and then applies the framework to two recent papers: Holowka et al. on the human foot as an adjustable spring, and Sawicki et al. on how stimulation timing tunes muscle, tendon, and muscle-tendon-unit work in cyclic contractions.
-
----
-
 ## Slide 1
 
 ![Title slide for "Week 7 review and discussion" by Dr. Monica A. Daley, Professor, Ecology and Evolutionary Biology, University of California, Irvine. Background collage shows diverse exercise and species images: a cyclist, water polo player, sprinter, an oxygen cascade schematic, and a row of comparative species (sea turtle, kangaroo, snake, hummingbird, fish, horse, seal, lizard, crocodile).](images/friday-review/slide-001.png)
 
-- Friday review and discussion session for **Week 7: Training Effects on Muscle and Forces in Locomotion**.
-- Wraps up loose ends from Monday's training lecture (evidence-quality questions, a case study on muscle cramps) and then provides an extended hands-on review of **muscle work loops** and **muscle–tendon interactions** through two recent research papers.
+- Friday review and discussion session for Week 7: Training Effects on Muscle and Forces in Locomotion.
+- Wraps up loose ends from Monday's training lecture (evidence-quality questions, a case study on muscle cramps) and then provides an extended hands-on review of muscle work loops and muscle–tendon interactions through two recent research papers.
 
 ---
 
@@ -29,15 +25,15 @@ This Friday session combines a short critical-thinking detour on **how to evalua
 
 ### Two Competing Models of Exercise-Associated Muscle Cramps
 
-- **Working definition**: painful, involuntary, sustained contractions during or just after exercise.
-- **Older model — dehydration / electrolyte depletion**:
+- Working definition: painful, involuntary, sustained contractions during or just after exercise.
+- Older model — dehydration / electrolyte depletion:
   - Mechanism: sweat losses reduce plasma Na<sup>+</sup> and extracellular fluid volume.
-  - Predictions: salt and fluid intake prevent cramps; cramping should be **generalized** across muscles and especially common in **hot conditions**.
+  - Predictions: salt and fluid intake prevent cramps; cramping should be generalized across muscles and especially common in hot conditions.
   - Origin: heat-cramp case reports in industrial workers in the early 1900s.
-- **Current model — altered neuromuscular control**:
-  - Mechanism: muscle fatigue increases **muscle-spindle (Ia) drive** and decreases **Golgi-tendon-organ (Ib) inhibition**; the net effect is **hyperexcitable α-motor neurons** that fire involuntarily and sustainedly.
-  - Predictions: cramping is **localized** to muscles that are working, **fatigued**, and **shortened**; passive **stretch** reloads the GTO and relieves the cramp.
-- **Which model fits the data?** Prospective cohort studies of marathoners and Ironman triathletes find **no difference in serum electrolytes or hydration** between crampers and non-crampers. The localization and stretch-relief patterns observed clinically also match the neuromuscular-control model.
+- Current model — altered neuromuscular control:
+  - Mechanism: muscle fatigue increases **muscle-spindle (Ia) drive** and decreases **Golgi-tendon-organ (Ib) inhibition**; the net effect is hyperexcitable **α-motor neurons** that fire involuntarily and sustainedly.
+  - Predictions: cramping is localized to muscles that are working, fatigued, and shortened; passive stretch reloads the GTO and relieves the cramp.
+- Which model fits the data? Prospective cohort studies of marathoners and Ironman triathletes find no difference in serum electrolytes or hydration between crampers and non-crampers. The localization and stretch-relief patterns observed clinically also match the neuromuscular-control model.
 
 ---
 
@@ -47,14 +43,14 @@ This Friday session combines a short critical-thinking detour on **how to evalua
 
 ### Case Study — The Pickle Juice Paradox
 
-- **Miller et al. 2010** design: hypohydrate subjects to ~3% body-weight loss, then **electrically induce a cramp** in the flexor hallucis brevis via tibial-nerve stimulation. At cramp onset, give either **1 mL/kg pickle juice** or **deionized water**.
-- **Key finding**: pickle juice **shortened cramp duration by ~45 seconds** vs. water — yet **plasma electrolytes did not change** in either group within the 5-minute observation window.
-- **Implication**: the cramp resolved **before any electrolyte could even be absorbed**. The relief mechanism cannot be electrolyte-mediated. The current best explanation is an **oropharyngeal reflex** — vinegar activates receptors in the mouth and pharynx that send inhibitory signals to **spinal α-motor neurons**, breaking the involuntary firing pattern.
-- **Corroborating field data** (Sulzer, Schwellnus & Noakes 2005): in Ironman triathletes, **serum Na<sup>+</sup>, K<sup>+</sup>, Mg<sup>2+</sup>**, and **body-mass loss** were **not different** between crampers and non-crampers at race end.
-- **What does predict cramping** (Shang, Collins & Schwellnus 2011): racing at a **relative intensity higher than trained for**, a **positive family history** of exercise-associated muscle cramps, and a **prior soft-tissue injury** in the cramping muscle.
+- Miller et al. 2010 design: hypohydrate subjects to ~3% body-weight loss, then electrically induce a cramp in the flexor hallucis brevis via tibial-nerve stimulation. At cramp onset, give either 1 mL/kg pickle juice or deionized water.
+- Key finding: pickle juice shortened cramp duration by ~45 seconds vs. water — yet plasma electrolytes did not change in either group within the 5-minute observation window.
+- Implication: the cramp resolved before any electrolyte could even be absorbed. The relief mechanism cannot be electrolyte-mediated. The current best explanation is an **oropharyngeal reflex** — vinegar activates receptors in the mouth and pharynx that send inhibitory signals to spinal α-motor neurons, breaking the involuntary firing pattern.
+- Corroborating field data (Sulzer, Schwellnus & Noakes 2005): in Ironman triathletes, serum Na<sup>+</sup>, K<sup>+</sup>, Mg<sup>2+</sup>, and body-mass loss were not different between crampers and non-crampers at race end.
+- What does predict cramping (Shang, Collins & Schwellnus 2011): racing at a relative intensity higher than trained for, a positive family history of exercise-associated muscle cramps, and a prior soft-tissue injury in the cramping muscle.
 - The case study highlights two broader lessons:
   1. A famous folk remedy can give a real clue to a mechanism — but only after the data rule out the obvious explanation.
-  2. **Localized fatigue and motor-neuron control**, not whole-body fluid/electrolyte status, are the dominant drivers of exercise-associated cramping.
+  2. Localized fatigue and motor-neuron control, not whole-body fluid/electrolyte status, are the dominant drivers of exercise-associated cramping.
 
 ---
 
@@ -64,15 +60,15 @@ This Friday session combines a short critical-thinking detour on **how to evalua
 
 ### Evaluating the Quality of Evidence
 
-- **Google Scholar indexes everything**, including predatory journals and so-called gray literature. Indexing alone is **not a quality filter**.
+- Google Scholar indexes everything, including predatory journals and so-called gray literature. Indexing alone is not a quality filter.
 - A working checklist for evaluating exercise-physiology evidence:
-  - **Indexed in PubMed** — at minimum, the journal has met PubMed's editorial standards.
-  - **Well-cited and not retracted** — citations alone are not enough; retracted papers can continue to accumulate citations long after retraction.
-  - **Sufficient and representative samples** — small or non-representative samples (e.g., 20-year-old male athletes) cannot support general claims about all humans.
-  - **No over-generalization from limited evidence** — a single small study is rarely definitive.
-  - **No obvious conflicts of interest** — authors selling a related supplement or device are a red flag.
-  - **Systematic reviews and meta-analyses are the gold standard** — they use keyword searches, apply quality filters, and synthesize across many high-quality studies, giving more reliable conclusions than any single paper.
-- **Why this matters**: a major learning objective of this course is to be able to **answer questions yourself by probing the scientific literature**, **critically evaluate the evidence**, and **effectively synthesize** what you find. This toolset is increasingly important in the modern publication era, where the rapid growth of **gray-literature "noise"** — predatory journals, preprints used out of context, supplement-marketing dressed as research — makes filtering for quality a core scientific skill rather than an optional one.
+  - Indexed in PubMed — at minimum, the journal has met PubMed's editorial standards.
+  - Well-cited and not retracted — citations alone are not enough; retracted papers can continue to accumulate citations long after retraction.
+  - Sufficient and representative samples — small or non-representative samples (e.g., 20-year-old male athletes) cannot support general claims about all humans.
+  - No over-generalization from limited evidence — a single small study is rarely definitive.
+  - No obvious conflicts of interest — authors selling a related supplement or device are a red flag.
+  - **Systematic reviews and meta-analyses** are the gold standard — they use keyword searches, apply quality filters, and synthesize across many high-quality studies, giving more reliable conclusions than any single paper.
+- Why this matters: a major learning objective of this course is to be able to answer questions yourself by probing the scientific literature, critically evaluate the evidence, and effectively synthesize what you find. This toolset is increasingly important in the modern publication era, where the rapid growth of gray-literature "noise" — predatory journals, preprints used out of context, supplement-marketing dressed as research — makes filtering for quality a core scientific skill rather than an optional one.
 
 ---
 
@@ -82,15 +78,15 @@ This Friday session combines a short critical-thinking detour on **how to evalua
 
 ### Building a Work Loop from Length and Force Traces
 
-- A **work loop** is a plot of muscle force (y) vs. muscle length (x) over **one complete contraction cycle**. The plot encodes everything about the mechanical work the muscle does and the direction in which it flows.
-- Construction (Panel A): the muscle is driven through a **sinusoidal length cycle** while a force trace is recorded.
-  - **Purple-shaded band (stretch)** — length is increasing. The area under the force-vs-length trace here is **work input into the muscle** (Panel C).
-  - **Blue-shaded band (shortening)** — length is decreasing. The area under the force-vs-length trace here is **work output by the muscle** (Panel D).
-- The **net work per cycle** (Panel E) is the **enclosed area** of the closed loop — the **difference** between the shortening work and the lengthening work.
-- **Sign convention**:
-  - Force higher during **shortening** than during lengthening → loop traced **counterclockwise** → **net positive work** (motor).
-  - Force higher during **lengthening** than during shortening → loop traced **clockwise** → **net negative work** (brake).
-  - Same force in both directions → **enclosed area = 0** → muscle is acting as a **strut/spring** with no net mechanical work.
+- A **work loop** is a plot of muscle force (y) vs. muscle length (x) over one complete contraction cycle. The plot encodes everything about the mechanical work the muscle does and the direction in which it flows.
+- Construction (Panel A): the muscle is driven through a sinusoidal length cycle while a force trace is recorded.
+  - Purple-shaded band (stretch) — length is increasing. The area under the force-vs-length trace here is work input into the muscle (Panel C).
+  - Blue-shaded band (shortening) — length is decreasing. The area under the force-vs-length trace here is work output by the muscle (Panel D).
+- The net work per cycle (Panel E) is the enclosed area of the closed loop — the difference between the shortening work and the lengthening work.
+- Sign convention:
+  - Force higher during shortening than during lengthening → loop traced counterclockwise → net positive work (motor).
+  - Force higher during lengthening than during shortening → loop traced clockwise → net negative work (brake).
+  - Same force in both directions → enclosed area = 0 → muscle is acting as a strut/spring with no net mechanical work.
 
 ---
 
@@ -100,13 +96,13 @@ This Friday session combines a short critical-thinking detour on **how to evalua
 
 ### Stimulation Timing Shapes the Work Loop
 
-- Same **length trajectory**, different **stimulation timing** → very different work-loop shapes and very different **net work**.
+- Same length trajectory, different stimulation timing → very different work-loop shapes and very different net work.
 - Reading the schematic:
-  - **Length** (red sinusoid) lengthens above resting length and then shortens below it.
-  - **Stimulation** (red pulse) can be delivered at any phase of the length cycle.
-  - **Force** is the muscle's response — a brief twitch (single stimulus) or a layered tetanic response (rapid train of stimuli).
-- The **work-loop inset (top panel)** shows how those force–length combinations close into a loop with an **enclosed area** and a **direction of travel**. The in-class slide contains an animated GIF; the original animation and more information on work loops can be found at [en.wikipedia.org/wiki/Work_loop](https://en.wikipedia.org/wiki/Work_loop).
-- **Key conceptual point**: a muscle can shift between **near-isometric strut** behavior, **positive-work motor** behavior, and **negative-work brake** behavior **just by changing when it is activated** relative to length change — even when the length trajectory itself is identical. The nervous system tunes work output partly by **timing**, not just by activation amount.
+  - Length (red sinusoid) lengthens above resting length and then shortens below it.
+  - Stimulation (red pulse) can be delivered at any phase of the length cycle.
+  - Force is the muscle's response — a brief twitch (single stimulus) or a layered tetanic response (rapid train of stimuli).
+- The work-loop inset (top panel) shows how those force–length combinations close into a loop with an enclosed area and a direction of travel. The in-class slide contains an animated GIF; the original animation and more information on work loops can be found at [en.wikipedia.org/wiki/Work_loop](https://en.wikipedia.org/wiki/Work_loop).
+- Key conceptual point: a muscle can shift between near-isometric strut behavior, positive-work motor behavior, and negative-work brake behavior just by changing when it is activated relative to length change — even when the length trajectory itself is identical. The nervous system tunes work output partly by timing, not just by activation amount.
 - *In vivo*, all of this varies simultaneously — activation timing, length trajectory, and load — so real-world work loops can take complex shapes. The simple isolated-muscle preparation isolates timing as the dominant variable.
 
 ---
@@ -117,20 +113,20 @@ This Friday session combines a short critical-thinking detour on **how to evalua
 
 ### Three Energy-Flow Roles for Muscle–Tendon Units
 
-- Roberts and Azizi (2011) classify muscle–tendon function by **direction of energy flow** through the system — a complementary view to the motor/strut/brake classification.
+- Roberts and Azizi (2011) classify muscle–tendon function by direction of energy flow through the system — a complementary view to the motor/strut/brake classification.
 - **A — Energy conservation (Body ► Tendon ► Body)**:
-  - Body kinetic and gravitational energy is **stretched into the tendon**, then **returned to the body** during push-off.
-  - Muscle acts as a **near-isometric strut**, allowing the tendon to cycle elastically.
-  - Function: **metabolic economy**. Activities: **running, hopping, walking**.
+  - Body kinetic and gravitational energy is stretched into the tendon, then returned to the body during push-off.
+  - Muscle acts as a near-isometric strut, allowing the tendon to cycle elastically.
+  - Function: metabolic economy. Activities: running, hopping, walking.
 - **B — Power amplification (Muscle ► Tendon ► Body)**:
-  - Muscle contracts (often slowly) and **loads** the tendon with energy; the tendon then **releases that energy rapidly** to the body.
-  - The tendon acts as a **biological catapult**, multiplying the muscle's peak power output.
-  - Function: **power production**. Activities: **jumping, acceleration, incline running, ballistic feeding** (e.g., frog tongue, mantis shrimp strike).
+  - Muscle contracts (often slowly) and loads the tendon with energy; the tendon then releases that energy rapidly to the body.
+  - The tendon acts as a biological catapult, multiplying the muscle's peak power output.
+  - Function: power production. Activities: jumping, acceleration, incline running, ballistic feeding (e.g., frog tongue, mantis shrimp strike).
 - **C — Power attenuation (Body ► Tendon ► Muscle)**:
-  - Body energy is absorbed by **stretching the tendon**, which then **dissipates** that energy by lengthening the active muscle.
-  - Muscle acts as a **brake** doing negative work; the tendon smooths the loading rate so the muscle is not torn.
-  - Function: **energy absorption**. Activities: **decline running, deceleration, landing**.
-- **Take-home**: the **same muscle–tendon unit** can serve any of these three roles by changing the **relative timing** of muscle activation, body motion, and tendon stretch. The work-loop framework (Slides 5–6) is the mechanical fingerprint of which role is being played.
+  - Body energy is absorbed by stretching the tendon, which then dissipates that energy by lengthening the active muscle.
+  - Muscle acts as a brake doing negative work; the tendon smooths the loading rate so the muscle is not torn.
+  - Function: energy absorption. Activities: decline running, deceleration, landing.
+- Take-home: the same muscle–tendon unit can serve any of these three roles by changing the relative timing of muscle activation, body motion, and tendon stretch. The work-loop framework (Slides 5–6) is the mechanical fingerprint of which role is being played.
 
 ---
 
@@ -140,10 +136,10 @@ This Friday session combines a short critical-thinking detour on **how to evalua
 
 ### The Human Foot as an Adjustable Spring (Set-up)
 
-- The longitudinal **plantar arch** is supported by a passive **plantar aponeurosis** and several **intrinsic foot muscles** — notably **flexor digitorum brevis (FDB)** and **abductor hallucis (AH)**.
-- The plantar aponeurosis behaves as a **passive elastic element** — stretched at midstance as the arch flattens under load, then recoils at push-off to return energy.
-- The intrinsic muscles (FDB, AH) lie **in parallel** with the aponeurosis. Their activation level can effectively **change the stiffness** of the spring complex — making the foot **stiffer** when more muscle is co-activated, **more compliant** when less.
-- The hypothesis Holowka et al. test: rather than being a fixed passive spring, the human arch is an **actively tunable** spring whose stiffness is set by the intrinsic muscles to match the demand of the task (e.g., stride frequency).
+- The longitudinal plantar arch is supported by a passive **plantar aponeurosis** and several intrinsic foot muscles — notably **flexor digitorum brevis (FDB)** and **abductor hallucis (AH)**.
+- The plantar aponeurosis behaves as a passive elastic element — stretched at midstance as the arch flattens under load, then recoils at push-off to return energy.
+- The intrinsic muscles (FDB, AH) lie in parallel with the aponeurosis. Their activation level can effectively change the stiffness of the spring complex — making the foot stiffer when more muscle is co-activated, more compliant when less.
+- The hypothesis Holowka et al. test: rather than being a fixed passive spring, the human arch is an actively tunable spring whose stiffness is set by the intrinsic muscles to match the demand of the task (e.g., stride frequency).
 
 ---
 
@@ -153,16 +149,16 @@ This Friday session combines a short critical-thinking detour on **how to evalua
 
 ### Foot Stiffness Is Tuned to Stride Frequency
 
-- **Mechanical framework** (panels A–F): the foot is treated as a coupled **beam-bending** structure — Beam1 (forefoot), Beam2 (midfoot), and the midfoot arch act as elastic elements that absorb and return energy at each step.
-- **Top-right bar plots**: each foot segment stores and returns measurable mechanical work each stride; the magnitudes are comparable to (though smaller than) those of the leg, ankle, and knee.
-- **Bottom-left work loops** (F<sub>beam1</sub> vs. Δz<sub>arch</sub>):
-  - Each loop is roughly **elliptical** with a clockwise sense — consistent with **elastic spring** behavior with a modest hysteresis loss.
-  - The three loops (low, preferred, high stride frequency) overlap in shape but differ in **slope (stiffness)**.
-- **Bottom-middle and bottom-right box plots**:
-  - **Loading stiffness** (k<sub>beam1,load</sub>): significantly different across frequencies (asterisk marked).
-  - **Unloading stiffness** (k<sub>beam1,unload</sub>): differs across all three pairwise comparisons (three asterisks) — high-frequency running produces the **highest** foot stiffness, low-frequency running the **lowest**.
-- **Key finding**: arch stiffness is **not a fixed property** of the foot's passive anatomy. The CNS adjusts intrinsic-muscle co-activation to **match foot stiffness to stride frequency** — exactly the prediction of the adjustable-spring model on Slide 8.
-- Connects directly back to the **work-loop framework**: the arch is the textbook example of a **near-elastic, slightly hysteretic spring**, and the foot's intrinsic muscles play a **tuning** role analogous to the soleus tuning the Achilles in Lecture 14.
+- Mechanical framework (panels A–F): the foot is treated as a coupled beam-bending structure — Beam1 (forefoot), Beam2 (midfoot), and the midfoot arch act as elastic elements that absorb and return energy at each step.
+- Top-right bar plots: each foot segment stores and returns measurable mechanical work each stride; the magnitudes are comparable to (though smaller than) those of the leg, ankle, and knee.
+- Bottom-left work loops (F<sub>beam1</sub> vs. Δz<sub>arch</sub>):
+  - Each loop is roughly elliptical with a clockwise sense — consistent with elastic spring behavior with a modest hysteresis loss.
+  - The three loops (low, preferred, high stride frequency) overlap in shape but differ in slope (stiffness).
+- Bottom-middle and bottom-right box plots:
+  - Loading stiffness (k<sub>beam1,load</sub>): significantly different across frequencies (asterisk marked).
+  - Unloading stiffness (k<sub>beam1,unload</sub>): differs across all three pairwise comparisons (three asterisks) — high-frequency running produces the highest foot stiffness, low-frequency running the lowest.
+- Key finding: arch stiffness is not a fixed property of the foot's passive anatomy. The CNS adjusts intrinsic-muscle co-activation to match foot stiffness to stride frequency — exactly the prediction of the adjustable-spring model on Slide 8.
+- Connects directly back to the work-loop framework: the arch is the textbook example of a near-elastic, slightly hysteretic spring, and the foot's intrinsic muscles play a tuning role analogous to the soleus tuning the Achilles in Lecture 14.
 
 ---
 
@@ -172,12 +168,12 @@ This Friday session combines a short critical-thinking detour on **how to evalua
 
 ### Activity 1 — Sketch Work Loops for an Isometric, Fixed-End Contraction
 
-- **Set-up** (Sawicki et al. 2015): the whole **muscle–tendon unit (MTU)** is held at fixed end-to-end length. When the muscle is stimulated:
-  - **MTU length (green)** stays essentially **flat at zero** — the external ends do not move.
-  - **CE (contractile element / fascicle, red)** **shortens** by ~3 mm — the muscle pulls on the tendon.
-  - **SEE (series elastic element / tendon, blue)** **stretches** by ~+3 mm — equal and opposite to CE shortening so the MTU length is conserved.
-- **Force** (Panel B) rises and falls as a single pulse over ~100 ms.
-- **Activity**: sketch the predicted F–L work-loop shape for each of the three elements — **MTU, CE, and SEE** — using the time-domain traces above. The answer is shown on Slide 11.
+- Set-up (Sawicki et al. 2015): the whole **muscle–tendon unit (MTU)** is held at fixed end-to-end length. When the muscle is stimulated:
+  - MTU length (green) stays essentially flat at zero — the external ends do not move.
+  - **CE (contractile element / fascicle, red)** shortens by ~3 mm — the muscle pulls on the tendon.
+  - **SEE (series elastic element / tendon, blue)** stretches by ~+3 mm — equal and opposite to CE shortening so the MTU length is conserved.
+- Force (Panel B) rises and falls as a single pulse over ~100 ms.
+- Activity: sketch the predicted F–L work-loop shape for each of the three elements — MTU, CE, and SEE — using the time-domain traces above. The answer is shown on Slide 11.
 
 ---
 
@@ -187,17 +183,17 @@ This Friday session combines a short critical-thinking detour on **how to evalua
 
 ### Activity 1 — Answer and Thought Experiment
 
-- **Expected work-loop shapes** (Panel C):
-  - **MTU loop (green)** — length is constant, so the F–L "loop" collapses to a **vertical line** at ΔL<sub>MTU</sub> ≈ 0. **No enclosed area → no net MTU work**.
-  - **SEE loop (blue)** — narrow, **clockwise** loop on the **positive Δ-length** side (tendon stretched to about +3 mm). The loop is **nearly springlike**; the small enclosed area is a slightly **negative** work loop reflecting modest **elastic hysteresis**. The tendon **absorbs energy during stretch** and **returns most of it during recoil**, with a small amount of energy **lost as heat**.
-  - **CE loop (red)** — counterclockwise loop on the **negative Δ-length** side (muscle shortened to about −3 mm). The **direction of the trace is the exact reflected version of the SEE loop**. The **enclosed area is nearly zero** because no net work is done over the cycle (the MTU end-points are fixed). The small enclosed area corresponds to a **very small amount of positive muscle work**, exactly equal to the **hysteresis energy lost in the tendon** — the muscle is the **active source** of that small make-up energy.
-- **Energy bookkeeping**: the **muscle does positive work early**, the **tendon stores and returns most of it**, and the **MTU end-points do no external work** over the complete cycle. The whole exchange is **internal** — muscle → tendon → muscle.
-- **Thought experiment — stiffer tendon (larger CSA)**:
-  - For the same muscle force, a **stiffer tendon stretches less** (F = k·Δx with larger k → smaller Δx).
-  - Because the MTU length is fixed, the muscle must **shorten less** as well — the red CE loop shrinks to a smaller Δ-length range.
-  - The blue SEE loop also **narrows** along the Δ-length axis.
-  - The muscle ends up operating **closer to isometric** — at a length where its force capacity may be higher, but at the cost of **lower elastic energy cycling** in the tendon. 
-- **Conceptual link**: tendon stiffness is a **design parameter** that influences muscle-tendon function. Optimal stiffness depends on the task — too stiff and elastic energy is not stored in the tendon, but the muscle directly actuates the joint; too compliant and the muscle mostly does work stretching the tendon without moving the joint.
+- Expected work-loop shapes (Panel C):
+  - MTU loop (green) — length is constant, so the F–L "loop" collapses to a vertical line at ΔL<sub>MTU</sub> ≈ 0. No enclosed area → no net MTU work.
+  - SEE loop (blue) — narrow, clockwise loop on the positive Δ-length side (tendon stretched to about +3 mm). The loop is nearly springlike; the small enclosed area is a slightly negative work loop reflecting modest **elastic hysteresis**. The tendon absorbs energy during stretch and returns most of it during recoil, with a small amount of energy lost as heat.
+  - CE loop (red) — counterclockwise loop on the negative Δ-length side (muscle shortened to about −3 mm). The direction of the trace is the exact reflected version of the SEE loop. The enclosed area is nearly zero because no net work is done over the cycle (the MTU end-points are fixed). The small enclosed area corresponds to a very small amount of positive muscle work, exactly equal to the hysteresis energy lost in the tendon — the muscle is the active source of that small make-up energy.
+- Energy bookkeeping: the muscle does positive work early, the tendon stores and returns most of it, and the MTU end-points do no external work over the complete cycle. The whole exchange is internal — muscle → tendon → muscle.
+- Thought experiment — stiffer tendon (larger CSA):
+  - For the same muscle force, a stiffer tendon stretches less (F = k·Δx with larger k → smaller Δx).
+  - Because the MTU length is fixed, the muscle must shorten less as well — the red CE loop shrinks to a smaller Δ-length range.
+  - The blue SEE loop also narrows along the Δ-length axis.
+  - The muscle ends up operating closer to isometric — at a length where its force capacity may be higher, but at the cost of lower elastic energy cycling in the tendon.
+- Conceptual link: tendon stiffness is a design parameter that influences muscle-tendon function. Optimal stiffness depends on the task — too stiff and elastic energy is not stored in the tendon, but the muscle directly actuates the joint; too compliant and the muscle mostly does work stretching the tendon without moving the joint.
 
 ---
 
@@ -207,13 +203,13 @@ This Friday session combines a short critical-thinking detour on **how to evalua
 
 ### Activity 2 — Sketch Work Loops for Cyclic Contractions
 
-- **Set-up**: same Sawicki et al. preparation as in Activity 1, but now the **MTU is driven through a cyclic length trajectory** (sinusoidal length change), with **one stimulation pulse per cycle** delivered near the start of the lengthening phase.
-- **Reading the panels (before sketching)**:
-  - **MTU (green)** — sinusoidal length change between ~+4 and ~−4 mm; **large external excursion** at each cycle.
-  - **CE (red, fascicle)** — also oscillates, but with **different phasing** than the MTU; stretches during the rising-force phase.
-  - **SEE (blue, tendon)** — stretches and recoils
-  - **Force (Panel B)** — rises and falls as a train of pulses, one per cycle.
-- **Activity**: sketch the predicted F–L work-loop shape for each of the three elements — **MTU, CE, and SEE** — using the time-domain traces above. The answer is shown on Slide 13.
+- Set-up: same Sawicki et al. preparation as in Activity 1, but now the MTU is driven through a cyclic length trajectory (sinusoidal length change), with one stimulation pulse per cycle delivered near the start of the lengthening phase.
+- Reading the panels (before sketching):
+  - MTU (green) — sinusoidal length change between ~+4 and ~−4 mm; large external excursion at each cycle.
+  - CE (red, fascicle) — also oscillates, but with different phasing than the MTU; stretches during the rising-force phase.
+  - SEE (blue, tendon) — stretches and recoils
+  - Force (Panel B) — rises and falls as a train of pulses, one per cycle.
+- Activity: sketch the predicted F–L work-loop shape for each of the three elements — MTU, CE, and SEE — using the time-domain traces above. The answer is shown on Slide 13.
 
 ---
 
@@ -223,12 +219,12 @@ This Friday session combines a short critical-thinking detour on **how to evalua
 
 ### Activity 2 — Answer for Cyclic Contractions
 
-- **Expected work-loop shapes** (Panel C):
-  - **MTU loop (green)** — broad, **clockwise** loop in the **positive-length region** with substantial enclosed area → the MTU does **net negative work (absorbs energy)** from the external load. 
-  - **CE loop (red)** — leftward-shifted, **clockwise** loop. The **muscle absorbs net energy** over the cycle. 
-  - **SEE loop (blue)** — narrow,nearly springlike **clockwise** loop on the **positive Δ-length** side with very little enclosed area → **near-elastic** tendon behavior, with a small slightly negative area equal to the **hysteresis loss**.
-- **Why the loops differ from the fixed-end case**: the MTU is no longer pinned at one length. The muscle is stretched during force development, and the MTU also stretches — so the MTU and CE loops are open with net area associated with net negative work. 
-- **Big-picture take-away**: in cyclic contractions, the **MTU work loop is the net visible behavior at the joint**, while the **CE and SEE loops show how the active and passive elements share the load internally**. The **sign and shape of all three loops depend on when** the muscle is activated relative to length change — the same preparation can produce **positive (motor), near-zero (strut/spring), or negative (brake) net work** at the MTU level just by shifting **activation timing**.
+- Expected work-loop shapes (Panel C):
+  - MTU loop (green) — broad, clockwise loop in the positive-length region with substantial enclosed area → the MTU does net negative work (absorbs energy) from the external load.
+  - CE loop (red) — leftward-shifted, clockwise loop. The muscle absorbs net energy over the cycle.
+  - SEE loop (blue) — narrow, nearly springlike clockwise loop on the positive Δ-length side with very little enclosed area → near-elastic tendon behavior, with a small slightly negative area equal to the hysteresis loss.
+- Why the loops differ from the fixed-end case: the MTU is no longer pinned at one length. The muscle is stretched during force development, and the MTU also stretches — so the MTU and CE loops are open with net area associated with net negative work.
+- Big-picture take-away: in cyclic contractions, the MTU work loop is the net visible behavior at the joint, while the CE and SEE loops show how the active and passive elements share the load internally. The sign and shape of all three loops depend on when the muscle is activated relative to length change — the same preparation can produce positive (motor), near-zero (strut/spring), or negative (brake) net work at the MTU level just by shifting activation timing.
 
 ---
 

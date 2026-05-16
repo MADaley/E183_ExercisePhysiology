@@ -14,7 +14,7 @@ next_lecture: /week03/lecture08-cardiovascular-responses
 
 ![Title slide for "Ventilation-perfusion matching and comparative pulmonary function" by Dr. Monica A. Daley, Professor, Ecology and Evolutionary Biology, University of California, Irvine. Background collage shows diverse animals and humans exercising: a cyclist, water polo ball, speed skater, sea turtle, horse, parrot, fish, and runners. (Note: the comparative pulmonary function content shown in the original title image has been moved to Week 2 Lecture 6.)](images/lec07/slide-001.png)
 
-- This lecture covers the **neural and chemical control of ventilation** during exercise and the concept of **ventilation-perfusion (V/Q) matching** in the lung.
+- This lecture covers the neural and chemical control of ventilation during exercise and the concept of ventilation-perfusion (V/Q) matching in the lung.
 - Topics build on the oxygen supply cascade from previous lectures, extending from the ventilatory system to the circulatory system and examining how they are coordinated.
 
 ---
@@ -48,15 +48,15 @@ next_lecture: /week03/lecture08-cardiovascular-responses
 
 ### Does Pulmonary Function Limit Performance?
 
-- For most healthy individuals at sea level, **pulmonary function is NOT the limiting factor** for exercise performance at most intensities, except following **respiratory muscle fatigue** with very high intensity exercise (90–100% VO<sub>2</sub>max).
+- For most healthy individuals at sea level, pulmonary function is NOT the limiting factor for exercise performance at most intensities, except following respiratory muscle fatigue with very high intensity exercise (90–100% VO<sub>2</sub>max).
 
-- However, pulmonary exchange **does limit performance** in some elite endurance athletes (40–50% elite human athletes experience EIAH, also present in thoroughbred racehorses). 
+- However, pulmonary exchange does limit performance in some elite endurance athletes (40–50% elite human athletes experience EIAH, also present in thoroughbred racehorses). 
 Mechanisms include:
-  - **Inadequate hyperventilation** — mechanical limits on lung airflow, feedback inhibition from mechanical constraints, or decreased chemoreceptor sensitivity
-  - **Respiratory muscle fatigue**
-  - **Ventilation/perfusion mismatch and heterogeneity** — uneven matching of airflow to blood flow across lung regions
-  - **Short red blood cell transit time** — very high cardiac output causes RBCs to pass through pulmonary capillaries too quickly for full O<sub>2</sub> diffusion
-  - **Pulmonary edema**
+  - Inadequate hyperventilation — mechanical limits on lung airflow, feedback inhibition from mechanical constraints, or decreased chemoreceptor sensitivity
+  - Respiratory muscle fatigue
+  - Ventilation/perfusion mismatch and heterogeneity — uneven matching of airflow to blood flow across lung regions
+  - Short red blood cell transit time — very high cardiac output causes RBCs to pass through pulmonary capillaries too quickly for full O<sub>2</sub> diffusion
+  - Pulmonary edema
 
 ---
 
@@ -66,14 +66,14 @@ Mechanisms include:
 
 ### Does Training Improve Pulmonary Function?
 
-- Ventilation is actually **lower** during exercise following endurance training.
+- Ventilation is actually lower during exercise following endurance training.
   - This is thought to result from increased aerobic capacity of locomotor muscles, leading to lower H<sup>+</sup> production, which shifts the feedback control mechanisms that stimulate breathing.
 
-- Training has a **limited effect on lung structure**:
+- Training has a limited effect on lung structure:
   - Normal lung function exceeds demands for gas exchange in most individuals.
   - Training-induced adaptation of the lungs is not typically necessary for performance.
   - EIAH occurs only in the most elite athletes.
-  - The lung may have a **low capacity for structural or developmental adaptation** because it is composed mainly of passive elastic tissue, unlike highly adaptable skeletal and cardiac muscle.
+  - The lung may have a low capacity for structural or developmental adaptation because it is composed mainly of passive elastic tissue, unlike highly adaptable skeletal and cardiac muscle.
 
 ---
 
@@ -84,7 +84,7 @@ Mechanisms include:
 ### COVID-19 and Limited Lung Adaptation
 
 - The limited capacity of the lung to adapt structurally has important clinical implications.
-- **3D lung segmentation** from CT scans illustrates the pronounced tissue damage caused by COVID-19 infection.
+- 3D lung segmentation from CT scans illustrates the pronounced tissue damage caused by COVID-19 infection.
 - Panel A shows a healthy lung model (blue), while panels B–D show COVID-19 positive patients with progressively more severe damage, including ground-glass opacity and ARDS (acute respiratory distress syndrome).
 - The contrast between healthy (blue) and damaged (teal/orange/yellow) tissue visually demonstrates how infection can severely compromise gas-exchange surface area.
 
@@ -96,9 +96,9 @@ Mechanisms include:
 
 ### Long-Term Lung Damage Following COVID-19
 
-- Longitudinal studies tracking patients for up to **two years** after COVID-19 infection show persistent lung damage.
-- Only **61%** of patients showed complete radiologic resolution by two years post-infection.
-- **39% had persistent interstitial lung abnormalities** even after two years — demonstrating the lung's limited ability to regenerate and structurally adapt.
+- Longitudinal studies tracking patients for up to two years after COVID-19 infection show persistent lung damage.
+- Only 61% of patients showed complete radiologic resolution by two years post-infection.
+- 39% had persistent interstitial lung abnormalities even after two years — demonstrating the lung's limited ability to regenerate and structurally adapt.
 - This is partly because lung tissue is predominantly passive and elastic, unlike muscle tissue, which is highly vascularized and responsive to training stimuli.
 
 ---
@@ -127,11 +127,11 @@ Mechanisms include:
 
 ### Aerobic vs. Anaerobic Metabolism During Exercise
 
-- The relative contribution of aerobic versus anaerobic energy systems varies with **exercise duration and intensity**.
+- The relative contribution of aerobic versus anaerobic energy systems varies with exercise duration and intensity.
 - Very short events (<10 seconds) rely almost entirely on **anaerobic** metabolism (phosphocreatine and anaerobic glycolysis).
-- As event duration increases, the **aerobic contribution** progressively dominates.
+- As event duration increases, the aerobic contribution progressively dominates.
 - Events lasting approximately 2 minutes or longer are predominantly aerobic.
-- Distances of two miles or longer rely on nearly **100% aerobic energy** supply.
+- Distances of two miles or longer rely on nearly 100% aerobic energy supply.
 - This is partly because the aerobic metabolic machinery requires time to ramp up to meet demand — reaching a new steady state involves multiple timescales, including adjustments in ventilation control.
 
 ---
@@ -147,7 +147,7 @@ Mechanisms include:
   - **Central chemoreceptors** — located in the medulla; sensitive to P<sub>CO₂</sub> and H<sup>+</sup> concentration in cerebrospinal fluid.
   - **Peripheral chemoreceptors** — located in the aortic bodies and carotid bodies; sensitive to P<sub>O₂</sub>, H<sup>+</sup>, and K<sup>+</sup> in the blood.
 - **Neural input** contributes both feedforward and feedback signals:
-  - **Motor cortex** — descending commands provide an anticipatory (feed-forward) response at exercise onset, increasing breathing before metabolic signals arrive.
+  - Motor cortex — descending commands provide an anticipatory (feed-forward) response at exercise onset, increasing breathing before metabolic signals arrive.
   - **Muscle mechanoreceptors** (muscle spindles, Golgi tendon organs) — sense the level of mechanical exertion.
   - **Muscle chemoreceptors** — sensitive to local K<sup>+</sup> and H<sup>+</sup> concentrations; important for regulating breathing during submaximal, steady-state exercise.
 
@@ -174,9 +174,9 @@ Mechanisms include:
 
 ### Effect of P<sub>a</sub>CO<sub>2</sub> on Ventilation
 
-- The relationship between arterial P<sub>CO₂</sub> and minute ventilation is approximately **linear** under normal conditions.
+- The relationship between arterial P<sub>CO₂</sub> and minute ventilation is approximately linear under normal conditions.
 - As P<sub>a</sub>CO<sub>2</sub> increases from ~40 to ~45 mmHg, ventilation ($\dot{V}\_E$) increases from approximately 8 to 19 L/min.
-- This makes CO<sub>2</sub> (and its effect on pH) the **dominant moment-to-moment controller** of ventilation at rest and during exercise.
+- This makes CO<sub>2</sub> (and its effect on pH) the dominant moment-to-moment controller of ventilation at rest and during exercise.
 - Central chemoreceptors in the medulla are primarily responsible for this response — CO<sub>2</sub> diffuses across the blood-brain barrier, lowers CSF pH, and stimulates increased breathing.
 
 ---
@@ -187,12 +187,12 @@ Mechanisms include:
 
 ### Effect of P<sub>a</sub>O<sub>2</sub> on Ventilation
 
-- The ventilatory response to falling P<sub>a</sub>O<sub>2</sub> is markedly **nonlinear**.
+- The ventilatory response to falling P<sub>a</sub>O<sub>2</sub> is markedly nonlinear.
 - At normal arterial P<sub>O₂</sub> (~100 mmHg), ventilation is relatively unchanged — O<sub>2</sub> is not a significant ventilatory driver at sea level under normal conditions.
 - Below a **hypoxic threshold** of approximately 60–65 mmHg, the response curve becomes exponentially steep, with ventilation rising sharply.
-- This threshold is below the normal operating range at sea level, so hypoxia primarily drives ventilation at **high altitude** or during severe EIAH.
-- The steep response below the threshold triggers pronounced **hyperventilation at high altitudes** where inspired P<sub>O₂</sub> is low.
-- Peripheral chemoreceptors in the **carotid bodies** are responsible for sensing arterial P<sub>O₂</sub>.
+- This threshold is below the normal operating range at sea level, so hypoxia primarily drives ventilation at high altitude or during severe EIAH.
+- The steep response below the threshold triggers pronounced hyperventilation at high altitudes where inspired P<sub>O₂</sub> is low.
+- Peripheral chemoreceptors in the carotid bodies are responsible for sensing arterial P<sub>O₂</sub>.
 
 ---
 
@@ -203,12 +203,12 @@ Mechanisms include:
 ### Control of Ventilation — Integrated Schematic
 
 - Multiple inputs converge on the **respiratory control center** in the medulla and pons:
-  1. **Higher brain centers** — provide the primary anticipatory drive to increase ventilation at exercise onset (feed-forward).
-  2. **Peripheral chemoreceptors** (carotid and aortic bodies) — detect changes in arterial P<sub>O₂</sub>, P<sub>CO₂</sub>, and pH.
-  3. **Skeletal muscle chemoreceptors** — sense local metabolic byproducts (H<sup>+</sup>, K<sup>+</sup>).
-  4. **Skeletal muscle mechanoreceptors** — sense mechanical exertion and increase breathing in proportion to exercise intensity.
-- The respiratory control center integrates these signals and drives the **respiratory muscles** (diaphragm, intercostals).
-- Muscle afferents (chemoreceptors and mechanoreceptors) act to **fine-tune ventilation** during submaximal steady-state exercise, matching ventilation to metabolic demand.
+  1. Higher brain centers — provide the primary anticipatory drive to increase ventilation at exercise onset (feed-forward).
+  2. Peripheral chemoreceptors (carotid and aortic bodies) — detect changes in arterial P<sub>O₂</sub>, P<sub>CO₂</sub>, and pH.
+  3. Skeletal muscle chemoreceptors — sense local metabolic byproducts (H<sup>+</sup>, K<sup>+</sup>).
+  4. Skeletal muscle mechanoreceptors — sense mechanical exertion and increase breathing in proportion to exercise intensity.
+- The respiratory control center integrates these signals and drives the respiratory muscles (diaphragm, intercostals).
+- Muscle afferents (chemoreceptors and mechanoreceptors) act to fine-tune ventilation during submaximal steady-state exercise, matching ventilation to metabolic demand.
 
 ---
 
@@ -219,11 +219,11 @@ Mechanisms include:
 ### Steps in the Oxygen Supply Cascade
 
 - The oxygen supply cascade consists of four sequential steps, each governed by specific equations and limiting factors:
-  1. **Pulmonary ventilation** (environment → alveoli) — gas laws and the Fick principle
-  2. **Alveolar gas exchange** (alveoli → pulmonary capillaries) — Fick's law of diffusion, O<sub>2</sub> diffusion capacity of the lungs
-  3. **Blood gas transport** (pulmonary → systemic capillaries) — Fick's principle for bulk flow, O<sub>2</sub> carrying capacity of the blood
-  4. **Systemic gas exchange** (systemic capillaries → mitochondria) — Fick's law of diffusion, O<sub>2</sub> diffusion capacity in tissues
-- This lecture extends focus to **Step 3 — blood gas transport** — applying the Fick principle to the cardiovascular system rather than ventilation.
+  1. Pulmonary ventilation (environment → alveoli) — gas laws and the Fick principle
+  2. Alveolar gas exchange (alveoli → pulmonary capillaries) — Fick's law of diffusion, O<sub>2</sub> diffusion capacity of the lungs
+  3. Blood gas transport (pulmonary → systemic capillaries) — Fick's principle for bulk flow, O<sub>2</sub> carrying capacity of the blood
+  4. Systemic gas exchange (systemic capillaries → mitochondria) — Fick's law of diffusion, O<sub>2</sub> diffusion capacity in tissues
+- This lecture extends focus to Step 3 — blood gas transport — applying the Fick principle to the cardiovascular system rather than ventilation.
 
 ---
 
@@ -247,7 +247,7 @@ $$\dot{V}O_2 = \dot{Q}(C_aO_2 - C_{\bar{v}}O_2)$$
 
 $$\dot{Q} = HR \times SV$$
 
-- This equation is directly **parallel** to the ventilatory Fick equation from Step 1, but with different variables — blood flow rate instead of ventilation rate, and blood O<sub>2</sub> carrying capacity instead of air O<sub>2</sub> fraction.
+- This equation is directly parallel to the ventilatory Fick equation from Step 1, but with different variables — blood flow rate instead of ventilation rate, and blood O<sub>2</sub> carrying capacity instead of air O<sub>2</sub> fraction.
 
 ---
 
@@ -260,9 +260,9 @@ $$\dot{Q} = HR \times SV$$
 - Students are asked to consider which factors in the Fick equation could contribute to changes in blood gas transport.
 - Key variables to consider:
   - **Cardiac output** ($\dot{Q}$) — determined by heart rate (HR) and stroke volume (SV)
-  - **O<sub>2</sub>-carrying coefficient** ($B_{blood}$) — how much O<sub>2</sub> the blood can carry per unit volume (related to hemoglobin concentration and properties)
-  - **Arterial-venous partial pressure gradient** ($\Delta P_{O_2} = P_aO_2 - P_vO_2$) — the driving force for O<sub>2</sub> delivery
-  - **Blood oxygen content difference** ($\Delta CO_2 = C_aO_2 - C_{\bar{v}}O_2$)
+  - O<sub>2</sub>-carrying coefficient ($B_{blood}$) — how much O<sub>2</sub> the blood can carry per unit volume (related to hemoglobin concentration and properties)
+  - Arterial-venous partial pressure gradient ($\Delta P_{O_2} = P_aO_2 - P_vO_2$) — the driving force for O<sub>2</sub> delivery
+  - Blood oxygen content difference ($\Delta CO_2 = C_aO_2 - C_{\bar{v}}O_2$)
 - Each of these can be modulated by different physiological conditions and adaptations during exercise.
 
 ---
@@ -274,12 +274,12 @@ $$\dot{Q} = HR \times SV$$
 ### Factors in Gas Transport
 
 - The efficiency of gas transport depends on multiple factors at each step of the cascade:
-  - **Alveolar ventilation** — rate of fresh air delivery to alveoli
-  - **Partial pressure gradients** — the driving force for diffusion at each step
-  - **Diffusion conductance** — determined by membrane thickness and surface area
+  - Alveolar ventilation — rate of fresh air delivery to alveoli
+  - Partial pressure gradients — the driving force for diffusion at each step
+  - Diffusion conductance — determined by membrane thickness and surface area
   - **Ventilation-perfusion matching** (highlighted) — how well airflow is matched to blood flow in the lungs
   - **Shunts** (highlighted) — blood flow that bypasses the gas-exchange surface
-- The lecture now focuses on **ventilation-perfusion matching** and **shunts** as key factors linking the ventilatory and circulatory systems.
+- The lecture now focuses on ventilation-perfusion matching and shunts as key factors linking the ventilatory and circulatory systems.
 
 ---
 
@@ -289,13 +289,13 @@ $$\dot{Q} = HR \times SV$$
 
 ### Pattern of Blood Flow in the Circulatory System
 
-- In mammals, the heart is **fully divided into four chambers**, creating two completely separate circuits:
-  1. **Right side of heart** → pumps deoxygenated blood to the lungs
-  2. **Lungs** → gas exchange occurs; blood becomes oxygenated
-  3. **Left side of heart** → receives oxygenated blood and pumps it to the body
-  4. **Systemic cells** → O<sub>2</sub> is delivered and CO<sub>2</sub> is picked up; blood returns deoxygenated to the right heart
+- In mammals, the heart is fully divided into four chambers, creating two completely separate circuits:
+  1. Right side of heart → pumps deoxygenated blood to the lungs
+  2. Lungs → gas exchange occurs; blood becomes oxygenated
+  3. Left side of heart → receives oxygenated blood and pumps it to the body
+  4. Systemic cells → O<sub>2</sub> is delivered and CO<sub>2</sub> is picked up; blood returns deoxygenated to the right heart
 - The complete separation of pulmonary and systemic circuits in mammals and birds allows different pressures to be maintained on each side.
-- The effectiveness of O<sub>2</sub> uptake depends critically on how well the lungs are **perfused** with deoxygenated blood at the right rate to match ventilation.
+- The effectiveness of O<sub>2</sub> uptake depends critically on how well the lungs are perfused with deoxygenated blood at the right rate to match ventilation.
 
 ---
 
@@ -305,10 +305,10 @@ $$\dot{Q} = HR \times SV$$
 
 ### Regional Blood Flow in the Lung
 
-- Blood flow within the lung is **not uniform** — it varies by region due to the effect of gravity.
-- At rest in an upright position, **blood flow is highest at the base** of the lung (near rib 5) and **lowest at the apex** (near rib 2).
+- Blood flow within the lung is not uniform — it varies by region due to the effect of gravity.
+- At rest in an upright position, blood flow is highest at the base of the lung (near rib 5) and lowest at the apex (near rib 2).
 - The green line shows a roughly linear decline in blood flow from base to apex.
-- This uneven distribution of perfusion has important consequences for **ventilation-perfusion matching** — regions with high blood flow but relatively lower ventilation will have reduced gas-exchange efficiency.
+- This uneven distribution of perfusion has important consequences for ventilation-perfusion matching — regions with high blood flow but relatively lower ventilation will have reduced gas-exchange efficiency.
 - During exercise, this distribution can change as increased cardiac output recruits more pulmonary capillaries, including those at the apex.
 
 ---
@@ -325,7 +325,7 @@ $$\dot{Q} = HR \times SV$$
   - Fick's principle applied to circulation: $\dot{V}O\_2 = \dot{Q} B\_{blood}(P\_aO\_2 - P\_vO\_2)$
 
 - Key interpretations of the ratio:
-  - $\dot{V}/\dot{Q} \approx 1.0$ — **ideal matching** of blood flow to ventilation for optimal gas exchange
+  - $\dot{V}/\dot{Q} \approx 1.0$ — ideal matching of blood flow to ventilation for optimal gas exchange
   - $\dot{V}/\dot{Q} \to 0$ — blood flow without ventilation = **shunt** (blood bypasses gas exchange)
   - $\dot{V}/\dot{Q} \to \infty$ — ventilation without blood flow = **dead space ventilation**
 - Either extreme decreases the efficiency of O<sub>2</sub> uptake.
@@ -343,9 +343,9 @@ $$\dot{Q} = HR \times SV$$
 | Apex (top) | 0.24 | 0.07 | 3.43 |
 | Base (bottom) | 0.82 | 1.29 | 0.64 |
 
-- At **rest in an upright position**, most blood flows to the **base** of the lung due to gravity.
-- The base has a V/Q ratio of **0.64** (below 1.0) — it is **overperfused** relative to ventilation, representing some functional shunt.
-- The apex has a V/Q ratio of **3.43** (well above 1.0) — it is **underperfused** relative to ventilation, representing dead space ventilation.
+- At rest in an upright position, most blood flows to the base of the lung due to gravity.
+- The base has a V/Q ratio of 0.64 (below 1.0) — it is overperfused relative to ventilation, representing some functional shunt.
+- The apex has a V/Q ratio of 3.43 (well above 1.0) — it is underperfused relative to ventilation, representing dead space ventilation.
 - During exercise, increased cardiac output recruits more capillaries at the apex, improving blood flow distribution and potentially bringing the V/Q ratio closer to the ideal of 1.0.
 
 ---
@@ -357,11 +357,11 @@ $$\dot{Q} = HR \times SV$$
 ### V/Q Heterogeneity Across the Lung
 
 - This graph illustrates how both ventilation and blood flow vary across lung regions, and how their ratio determines V/Q matching.
-- **Blood flow** (red line) declines steeply from base to apex — the base receives much more blood flow than the apex.
-- **Ventilation** (blue line) also declines from base to apex, but the slope is shallower — ventilation is more evenly distributed than blood flow.
-- The **V/Q ratio** (purple line) is the ratio of these two curves:
-  - At the **base**: V/Q < 1.0 — overperfused, representing functional **shunt**
-  - At the **apex**: V/Q > 1.0 — underperfused, representing **dead space ventilation**
+- Blood flow (red line) declines steeply from base to apex — the base receives much more blood flow than the apex.
+- Ventilation (blue line) also declines from base to apex, but the slope is shallower — ventilation is more evenly distributed than blood flow.
+- The V/Q ratio (purple line) is the ratio of these two curves:
+  - At the base: V/Q < 1.0 — overperfused, representing functional shunt
+  - At the apex: V/Q > 1.0 — underperfused, representing dead space ventilation
 - The **V/Q heterogeneity** — the spread between the highest and lowest V/Q values — determines gas-exchange efficiency. An ideal lung would have V/Q = 1.0 across all regions.
 - Greater heterogeneity means less efficient O<sub>2</sub> uptake overall.
 
@@ -378,7 +378,7 @@ $$\dot{Q} = HR \times SV$$
 - In a shunt, blood bypasses the gas-exchange surface entirely and exits the pulmonary circuit still deoxygenated (blue arrow).
 - Shunts reduce the overall efficiency of O<sub>2</sub> uptake because the shunted blood mixes with oxygenated blood in the left heart, lowering arterial O<sub>2</sub> content.
 - Some degree of shunt occurs normally in the human lung at rest, particularly in the base regions where V/Q < 1.0.
-- Shunts are more pronounced in some non-mammalian vertebrates due to **incomplete ventricular division**.
+- Shunts are more pronounced in some non-mammalian vertebrates due to incomplete ventricular division.
 
 ---
 
@@ -389,10 +389,10 @@ $$\dot{Q} = HR \times SV$$
 ### Diversity in Vertebrate Cardiorespiratory Systems
 
 - Vertebrate groups show fundamentally different cardiovascular architectures:
-  - **Fish** — single-loop circulation with a **two-chambered heart** (one atrium, one ventricle); blood passes through gill capillaries then directly to systemic capillaries.
+  - **Fish** — single-loop circulation with a two-chambered heart (one atrium, one ventricle); blood passes through gill capillaries then directly to systemic capillaries.
   - **Amphibians** — three-chambered heart with a shared ventricle; a **pulmocutaneous circuit** (lungs and skin) and a systemic circuit exist, but oxygenated and deoxygenated blood mix in the ventricle.
   - **Reptiles** — partially divided ventricle with incomplete septum; mixing of oxygenated and deoxygenated blood creates a **cardiac shunt** at rest.
-  - **Mammals and birds** — fully divided **four-chambered heart** with completely separate pulmonary and systemic circuits, allowing different pressures on each side.
+  - **Mammals and birds** — fully divided four-chambered heart with completely separate pulmonary and systemic circuits, allowing different pressures on each side.
 - Mammals and birds independently evolved complete ventricular division — a case of **convergent evolution** associated with high aerobic capacity.
 
 ---
@@ -404,8 +404,8 @@ $$\dot{Q} = HR \times SV$$
 ### V/Q Heterogeneity at Rest Across Species
 
 - V/Q distributions vary substantially across vertebrate species at rest.
-- The **tegu** (lizard) and **turtle** show high V/Q heterogeneity (log SD<sub>Q</sub> ≈ 1.0), with distributions skewed to the left of 1.0 — indicating significant **shunt** at rest.
-- The **human** shows lower heterogeneity (log SD<sub>Q</sub> ≈ 0.5), with the distribution centered closer to the ideal ratio of 1.0.
+- The tegu (lizard) and turtle show high V/Q heterogeneity (log SD<sub>Q</sub> ≈ 1.0), with distributions skewed to the left of 1.0 — indicating significant shunt at rest.
+- The human shows lower heterogeneity (log SD<sub>Q</sub> ≈ 0.5), with the distribution centered closer to the ideal ratio of 1.0.
 - Open circles represent ventilation distribution; closed circles represent perfusion distribution.
 - The higher heterogeneity in reptiles reflects their incompletely divided hearts, which allow mixing of oxygenated and deoxygenated blood — a functional cardiac shunt.
 - Surprisingly, V/Q heterogeneity is greater in some reptile species than in mammals, reaching nearly twice the human value.
@@ -419,11 +419,11 @@ $$\dot{Q} = HR \times SV$$
 ### V/Q Heterogeneity Changes During Exercise
 
 - V/Q distributions shift between rest and exercise differently across species:
-  - **Human athletes** — light exercise improves V/Q matching (lowers heterogeneity), but heavy exercise **increases heterogeneity**, contributing to EIAH.
-  - **Horses** — V/Q heterogeneity increases during exercise, consistent with EIAH observed in thoroughbred racehorses.
-  - **Varanid lizards** — the resting shunt decreases during exercise, shifting the V/Q distribution rightward toward 1.0, improving gas-exchange efficiency.
-  - **Emus** (birds) — the distribution becomes centered near 1.0 during exercise, maintaining **low heterogeneity**. V/Q heterogeneity does not increase during exercise in birds.
-- In elite human athletes, V/Q heterogeneity may explain approximately **60%** of the alveolar-arterial P<sub>O₂</sub> difference associated with EIAH.
+  - Human athletes — light exercise improves V/Q matching (lowers heterogeneity), but heavy exercise increases heterogeneity, contributing to EIAH.
+  - Horses — V/Q heterogeneity increases during exercise, consistent with EIAH observed in thoroughbred racehorses.
+  - Varanid lizards — the resting shunt decreases during exercise, shifting the V/Q distribution rightward toward 1.0, improving gas-exchange efficiency.
+  - Emus (birds) — the distribution becomes centered near 1.0 during exercise, maintaining low heterogeneity. V/Q heterogeneity does not increase during exercise in birds.
+- In elite human athletes, V/Q heterogeneity may explain approximately 60% of the alveolar-arterial P<sub>O₂</sub> difference associated with EIAH.
 - Birds' superior V/Q matching during exercise is linked to the structural separation of ventilation and gas exchange in the parabronchial lung — a topic explored in detail in [Week 2 Lecture 6: Comparative Pulmonary Function](/E183_ExercisePhysiology/week02/lecture06-comparative-pulmonary-function).
 
 ---
@@ -434,10 +434,10 @@ $$\dot{Q} = HR \times SV$$
 
 ### Lecture 7 — Key Takeaways
 
-1. **Pulmonary function** is not typically the limiting factor for exercise performance in most individuals, but it does limit 40–50% of elite athletes who experience exercise-induced arterial hypoxemia (EIAH). Training has limited effect on lung structure due to the lung's passive tissue composition.
-2. **Ventilation is controlled** by brainstem respiratory centers receiving input from central chemoreceptors (CO<sub>2</sub>/pH in CSF), peripheral chemoreceptors (P<sub>O₂</sub>, P<sub>CO₂</sub>, pH, K<sup>+</sup>), motor cortex (anticipatory drive), and muscle mechanoreceptors/chemoreceptors (fine-tuning during exercise).
-3. The **Fick principle applied to blood gas transport** ($\dot{V}O\_2 = \dot{Q}(C\_aO\_2 - C\_{\bar{v}}O\_2)$) parallels the ventilatory Fick equation, with cardiac output ($\dot{Q} = HR \times SV$) and the arteriovenous O<sub>2</sub> difference as key variables.
-4. The **ventilation-perfusion ratio** (V/Q) must be near 1.0 for optimal gas exchange; V/Q < 1.0 represents shunt and V/Q > 1.0 represents dead space ventilation. V/Q heterogeneity across lung regions reduces gas-exchange efficiency, and is greater in elite human athletes during heavy exercise (contributing to EIAH) but lower in birds, whose parabronchial lungs maintain efficient matching even during exercise.
+1. Pulmonary function is not typically the limiting factor for exercise performance in most individuals, but it does limit 40–50% of elite athletes who experience exercise-induced arterial hypoxemia (EIAH). Training has limited effect on lung structure due to the lung's passive tissue composition.
+2. Ventilation is controlled by brainstem respiratory centers receiving input from central chemoreceptors (CO<sub>2</sub>/pH in CSF), peripheral chemoreceptors (P<sub>O₂</sub>, P<sub>CO₂</sub>, pH, K<sup>+</sup>), motor cortex (anticipatory drive), and muscle mechanoreceptors/chemoreceptors (fine-tuning during exercise).
+3. The Fick principle applied to blood gas transport ($\dot{V}O\_2 = \dot{Q}(C\_aO\_2 - C\_{\bar{v}}O\_2)$) parallels the ventilatory Fick equation, with cardiac output ($\dot{Q} = HR \times SV$) and the arteriovenous O<sub>2</sub> difference as key variables.
+4. The ventilation-perfusion ratio (V/Q) must be near 1.0 for optimal gas exchange; V/Q < 1.0 represents shunt and V/Q > 1.0 represents dead space ventilation. V/Q heterogeneity across lung regions reduces gas-exchange efficiency, and is greater in elite human athletes during heavy exercise (contributing to EIAH) but lower in birds, whose parabronchial lungs maintain efficient matching even during exercise.
 
 ---
 

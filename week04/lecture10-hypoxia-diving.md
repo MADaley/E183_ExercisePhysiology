@@ -14,9 +14,9 @@ next_lecture: /week04/friday-review
 
 ![Title slide for "Exercise in hypoxia part 2: Oxygen delivery and exercise in acute hypoxia during diving" by Dr. Monica A. Daley, Professor, Ecology and Evolutionary Biology, University of California, Irvine. Background collage shows diverse animals and humans exercising: a cyclist, water polo ball, sea turtle, runner, parrot, fish, and runners.](images/lec10/slide-001.png)
 
-- This lecture is the second of two **case studies in hypoxia**, continuing the examination of the **oxygen supply cascade** under low-O<sub>2</sub> conditions.
-- Part 1 (Lecture 9) focused on **chronic hypoxia at high altitude**; Part 2 (this lecture) focuses on **acute hypoxia during breath-hold diving** in mammals (including humans).
-- Begins with a recap of the high-altitude story — human highlander populations, avian high-flyers (bar-headed geese) — then transitions to the **diving** case study, where the limiting condition is intermittent loss of alveolar ventilation rather than chronic low inspired P<sub>O₂</sub>.
+- This lecture is the second of two case studies in hypoxia, continuing the examination of the oxygen supply cascade under low-O<sub>2</sub> conditions.
+- Part 1 (Lecture 9) focused on chronic hypoxia at high altitude; Part 2 (this lecture) focuses on acute hypoxia during breath-hold diving in mammals (including humans).
+- Begins with a recap of the high-altitude story — human highlander populations, avian high-flyers (bar-headed geese) — then transitions to the diving case study, where the limiting condition is intermittent loss of alveolar ventilation rather than chronic low inspired P<sub>O₂</sub>.
 
 ---
 
@@ -26,15 +26,15 @@ next_lecture: /week04/friday-review
 
 ### High-Altitude Section — Overview and Learning Objectives Recap
 
-- **Overview topics:**
-  - **Plasticity** in the oxygen supply cascade
-  - **Human and comparative case studies** of hypoxia adaptation
-- **Learning objectives** guiding the high-altitude recap:
-  1. Describe the **physiological effects of hypoxia** on the oxygen supply cascade.
-  2. List the **acute** and **chronic** responses to hypoxia experienced by **lowlanders**.
-  3. Discuss the **adaptations to chronic hypoxia** observed in **highlanders**, compared with lowlander responses.
-  4. Compare and contrast responses observed in **Tibetan** and **Andean** populations and relate them to **functional trade-offs** in the cardiovascular system.
-  5. Discuss the **general avian** and **adaptive specialized** features that enable **bar-headed geese** to perform at high altitudes.
+- Overview topics:
+  - Plasticity in the oxygen supply cascade
+  - Human and comparative case studies of hypoxia adaptation
+- Learning objectives guiding the high-altitude recap:
+  1. Describe the physiological effects of hypoxia on the oxygen supply cascade.
+  2. List the acute and chronic responses to hypoxia experienced by lowlanders.
+  3. Discuss the adaptations to chronic hypoxia observed in highlanders, compared with lowlander responses.
+  4. Compare and contrast responses observed in Tibetan and Andean populations and relate them to functional trade-offs in the cardiovascular system.
+  5. Discuss the general avian and adaptive specialized features that enable bar-headed geese to perform at high altitudes.
 
 ---
 
@@ -44,13 +44,13 @@ next_lecture: /week04/friday-review
 
 ### Why Tibetans and Andeans Converged on Different Solutions
 
-- **Trade-off** at the heart of high-altitude adaptation: increasing **cardiac output** and **[Hb]** simultaneously raises blood **viscosity**, increasing the work of pumping and limiting cardiac output.
-- **Tibetans** solve the problem with **high ventilation and high cardiac output** — and remain mildly hypoxemic (arterial Hb not fully saturated).
-- **Andeans** solve it with **high [Hb] and high arterial saturation** — and use lower ventilation rates.
+- Trade-off at the heart of high-altitude adaptation: increasing cardiac output and [Hb] simultaneously raises blood viscosity, increasing the work of pumping and limiting cardiac output.
+- Tibetans solve the problem with high ventilation and high cardiac output — and remain mildly hypoxemic (arterial Hb not fully saturated).
+- Andeans solve it with high [Hb] and high arterial saturation — and use lower ventilation rates.
 - Why two different solutions?
   - The cascade has many tunable steps
   - Mutations arise randomly, so different founding populations had different starting variation
-  - Strong **selection pressure** comes from **infant mortality**: higher blood circulation and higher blood oxygenation **independently** improve infant survival, but combining both drives viscosity high enough to cause its own mortality risk — so each population converged on one solution rather than both.
+  - Strong selection pressure comes from infant mortality: higher blood circulation and higher blood oxygenation independently improve infant survival, but combining both drives viscosity high enough to cause its own mortality risk — so each population converged on one solution rather than both.
 
 ---
 
@@ -60,16 +60,16 @@ next_lecture: /week04/friday-review
 
 ### Pregnancy and Childbirth at High Altitude
 
-- The **fetal environment is naturally hypoxic** — even at sea level it has been likened to "Everest in utero" because the fetus receives partially deoxygenated systemic blood.
-- **Fetal hemoglobin** has a **leftward-shifted** dissociation curve relative to adult hemoglobin, enabling O<sub>2</sub> uptake from maternal blood at low P<sub>O₂</sub> (analogous to the bar-headed goose Hb shift).
-- At high altitude, the homeostatic responses that protect the **mother** (e.g., systemic vasoconstriction) **restrict placental blood flow**, causing:
-  - **Low birth weight**
-  - **Impaired brain development**
-  - High **infant mortality**
-- **Indigenous high-altitude populations** show evolved compensations:
+- The fetal environment is naturally hypoxic — even at sea level it has been likened to "Everest in utero" because the fetus receives partially deoxygenated systemic blood.
+- **Fetal hemoglobin** has a leftward-shifted dissociation curve relative to adult hemoglobin, enabling O<sub>2</sub> uptake from maternal blood at low P<sub>O₂</sub> (analogous to the bar-headed goose Hb shift).
+- At high altitude, the homeostatic responses that protect the mother (e.g., systemic vasoconstriction) restrict placental blood flow, causing:
+  - Low birth weight
+  - Impaired brain development
+  - High infant mortality
+- Indigenous high-altitude populations show evolved compensations:
   - Higher placental blood flow than European-ancestry mothers at similar altitudes
   - Higher birth weights at altitude than babies of European ancestry
-- Historical observation: when European colonizers first arrived in Andean mining regions, **no child of European descent survived birth for many decades**, while indigenous infant survival was much higher.
+- Historical observation: when European colonizers first arrived in Andean mining regions, no child of European descent survived birth for many decades, while indigenous infant survival was much higher.
 - In mixed populations the distribution of outcomes overlaps continuously between the two ancestral endpoints.
 
 ---
@@ -80,12 +80,12 @@ next_lecture: /week04/friday-review
 
 ### Tidal Volume Capacity in Highland Natives
 
-- A study of **Quechua** indigenous people of South America addressed an open question from the previous lecture: do high-altitude natives have **higher maximum ventilation**?
-- Answer: **yes** — Quechua individuals have **larger thoracic volume capacity** (differently shaped rib cage) and reach **higher tidal volumes** than lowlanders.
+- A study of Quechua indigenous people of South America addressed an open question from the previous lecture: do high-altitude natives have higher maximum ventilation?
+- Answer: yes — Quechua individuals have larger thoracic volume capacity (differently shaped rib cage) and reach higher tidal volumes than lowlanders.
 - Comparing those born and raised at high altitude vs. born at low altitude and moved to high altitude vs. lifelong lowlanders revealed:
-  - Higher tidal volume occurs **regardless of birth or testing altitude** — suggesting a **genetic / population-level** component (~2–2.2× greater thoracic expansion than lowlanders).
-  - But individuals from hypoxic environments have an **even greater** tidal volume capacity (~1.3× deeper chests than sea-level Quechua), indicating additional **developmental plasticity**.
-- Conclusion: increased thoracic expansion reflects a combination of **acclimatization**, **developmental adaptation**, and **population-level genetic adaptation** to aerobic demand in different oxygen environments.
+  - Higher tidal volume occurs regardless of birth or testing altitude — suggesting a genetic / population-level component (~2–2.2× greater thoracic expansion than lowlanders).
+  - But individuals from hypoxic environments have an even greater tidal volume capacity (~1.3× deeper chests than sea-level Quechua), indicating additional developmental plasticity.
+- Conclusion: increased thoracic expansion reflects a combination of acclimatization, developmental adaptation, and population-level genetic adaptation to aerobic demand in different oxygen environments.
 
 ---
 
@@ -97,12 +97,12 @@ next_lecture: /week04/friday-review
 
 | Adaptation | Time scale |
 |------------|------------|
-| Ventilation, hematocrit | **1–14 days** |
-| Metabolic adaptations | **14–21 days** |
-| Athletic performance plateau | **~20 days** |
-| Mitochondrial volume changes | **4–6+ weeks** |
+| Ventilation, hematocrit | 1–14 days |
+| Metabolic adaptations | 14–21 days |
+| Athletic performance plateau | ~20 days |
+| Mitochondrial volume changes | 4–6+ weeks |
 
-- Athletes who train at altitude tend to **plateau in performance around 20 days** because over longer time scales **mitochondrial density falls** (lower O<sub>2</sub> availability suppresses mitochondrial volume), eventually offsetting some of the hematological gains.
+- Athletes who train at altitude tend to plateau in performance around 20 days because over longer time scales mitochondrial density falls (lower O<sub>2</sub> availability suppresses mitochondrial volume), eventually offsetting some of the hematological gains.
 - Variation across studies reflects differences in training regimens and individual responses.
 
 ---
@@ -114,8 +114,8 @@ next_lecture: /week04/friday-review
 ### Transition — From Humans to Avian High-Flyers
 
 - Humans attempting to summit Everest without supplemental O<sub>2</sub> are operating near the physiological limit of lowland mammalian cascade capacity — even with acclimatization.
-- The **bar-headed goose**, by contrast, routinely flies over the Himalaya on migration — a case study in how an organism can be **evolutionarily specialized** for performance in severe hypoxia.
-- The next several slides revisit the bar-headed goose story with a focus on **which steps of the oxygen supply cascade** have been modified, and what **experimental methods** were used to measure them.
+- The bar-headed goose, by contrast, routinely flies over the Himalaya on migration — a case study in how an organism can be evolutionarily specialized for performance in severe hypoxia.
+- The next several slides revisit the bar-headed goose story with a focus on which steps of the oxygen supply cascade have been modified, and what experimental methods were used to measure them.
 
 ---
 
@@ -125,19 +125,19 @@ next_lecture: /week04/friday-review
 
 ### General Avian Features vs. High-Flyer Specializations (by Cascade Step)
 
-- Bar-headed goose specializations **increase P<sub>O₂</sub> at every step** of the cascade relative to lowland geese: the gap between the bar-headed goose and lowland curves widens with each step.
+- Bar-headed goose specializations increase P<sub>O₂</sub> at every step of the cascade relative to lowland geese: the gap between the bar-headed goose and lowland curves widens with each step.
 
 | Step | General avian feature | Bar-headed goose specialization |
 |------|----------------------|--------------------------------|
-| **1. Alveolar ventilation** | Tolerance to **hypocapnia** caused by hyperventilation | **Higher ventilation rates** than lowland birds |
-| **2. Alveolar gas exchange** | Thin blood–gas barrier, large surface area, **cross-current** exchange | **Larger lungs** (more tidal volume and surface area) |
-| **3. Blood gas transport** | **Large hearts** with high capillary density | Hemoglobin with **higher O<sub>2</sub> affinity** (leftward-shifted curve) |
-| **4. Systemic gas exchange** | **High capillary density** in muscle (vs. mammals) | **Increased capillarity** in heart and muscle; altered **mitochondrial distribution** |
-| **5. Cellular respiration** | **High aerobic capacity**; fast-contracting aerobic fibers | Shifts in **metabolic pathways**, higher-efficiency electron transport chain |
+| **1. Alveolar ventilation** | Tolerance to **hypocapnia** caused by hyperventilation | Higher ventilation rates than lowland birds |
+| **2. Alveolar gas exchange** | Thin blood–gas barrier, large surface area, **cross-current** exchange | Larger lungs (more tidal volume and surface area) |
+| **3. Blood gas transport** | Large hearts with high capillary density | Hemoglobin with higher O<sub>2</sub> affinity (leftward-shifted curve) |
+| **4. Systemic gas exchange** | High capillary density in muscle (vs. mammals) | Increased capillarity in heart and muscle; altered mitochondrial distribution |
+| **5. Cellular respiration** | High aerobic capacity; fast-contracting aerobic fibers | Shifts in metabolic pathways, higher-efficiency electron transport chain |
 
-- **Hypocapnia tolerance**: hyperventilation blows off CO<sub>2</sub>; birds tolerate low P<sub>CO₂</sub> better than mammals (relevant to brain vasoconstriction/dilation responses that would limit mammalian hyperventilation).
-- **Leftward-shifted Hb** (like the fetal Hb case on Slide 4) keeps hemoglobin nearly saturated at the low P<sub>O₂</sub> found at altitude — bar-headed geese have Hb with higher O<sub>2</sub> affinity than closely related lowland species (Canada goose, Peking duck).
-- **Mitochondrial distribution**: clustering of mitochondria near capillaries shortens the diffusion path and maximizes O<sub>2</sub> delivery to sites of demand.
+- Hypocapnia tolerance: hyperventilation blows off CO<sub>2</sub>; birds tolerate low P<sub>CO₂</sub> better than mammals (relevant to brain vasoconstriction/dilation responses that would limit mammalian hyperventilation).
+- Leftward-shifted Hb (like the fetal Hb case on Slide 4) keeps hemoglobin nearly saturated at the low P<sub>O₂</sub> found at altitude — bar-headed geese have Hb with higher O<sub>2</sub> affinity than closely related lowland species (Canada goose, Peking duck).
+- Mitochondrial distribution: clustering of mitochondria near capillaries shortens the diffusion path and maximizes O<sub>2</sub> delivery to sites of demand.
 
 ---
 
@@ -147,9 +147,9 @@ next_lecture: /week04/friday-review
 
 ### Jessica Meir — From Comparative Physiologist to Astronaut
 
-- Dr. **Jessica Meir** completed a NASA astronaut career including the **first all-female spacewalk** with Christina Koch.
-- Before becoming an astronaut, Meir was a **comparative physiologist** — and her PhD research on bar-headed geese is the source of much of the in-flight physiological data in the next slides.
-- The backstory is a reminder that the data underlying textbook statements about high-altitude physiology came from **specific, technically demanding experiments** that required years of preparation.
+- Dr. Jessica Meir completed a NASA astronaut career including the first all-female spacewalk with Christina Koch.
+- Before becoming an astronaut, Meir was a comparative physiologist — and her PhD research on bar-headed geese is the source of much of the in-flight physiological data in the next slides.
+- The backstory is a reminder that the data underlying textbook statements about high-altitude physiology came from specific, technically demanding experiments that required years of preparation.
 
 ---
 
@@ -159,9 +159,9 @@ next_lecture: /week04/friday-review
 
 ### Hand-Rearing and Training Bar-Headed Geese to Fly
 
-- To study bar-headed goose flight physiology, Meir **hand-reared the birds from hatchlings** so they would be **imprinted** on her.
-- She then had to **teach the geese to fly** — and learned to fly alongside them (via scooter, ultralight, etc.) — so they would follow her on cue.
-- The training also had to prepare the geese to fly **in a wind tunnel** while **wearing a face mask** for continuous gas exchange measurements.
+- To study bar-headed goose flight physiology, Meir hand-reared the birds from hatchlings so they would be imprinted on her.
+- She then had to teach the geese to fly — and learned to fly alongside them (via scooter, ultralight, etc.) — so they would follow her on cue.
+- The training also had to prepare the geese to fly in a wind tunnel while wearing a face mask for continuous gas exchange measurements.
 - The scale of the behavioral preparation highlights that obtaining in-flight physiological measurements from a wild migratory species is a major research undertaking.
 
 ---
@@ -172,12 +172,12 @@ next_lecture: /week04/friday-review
 
 ### Wind-Tunnel Flight Experiments Under Controlled Hypoxia
 
-- The **wind tunnel** acts as a "treadmill for birds": constant air speed lets researchers keep the animal in a fixed spot while measuring physiology.
-- The fractional O<sub>2</sub> concentration of the tunnel air can be **artificially reduced** to simulate any target altitude — e.g., 10.5% O<sub>2</sub> ≈ 5,500 m above sea level.
+- The wind tunnel acts as a "treadmill for birds": constant air speed lets researchers keep the animal in a fixed spot while measuring physiology.
+- The fractional O<sub>2</sub> concentration of the tunnel air can be artificially reduced to simulate any target altitude — e.g., 10.5% O<sub>2</sub> ≈ 5,500 m above sea level.
 - Instrumentation continuously recorded:
-  - **Heart rate** (HR)
-  - **VO<sub>2</sub>** (oxygen uptake) and **VCO<sub>2</sub>** (CO<sub>2</sub> production) via the facemask
-  - **Blood gases** (partial pressures of O<sub>2</sub>, CO<sub>2</sub>)
+  - Heart rate (HR)
+  - VO<sub>2</sub> (oxygen uptake) and VCO<sub>2</sub> (CO<sub>2</sub> production) via the facemask
+  - Blood gases (partial pressures of O<sub>2</sub>, CO<sub>2</sub>)
 - Two people were required in the tunnel: one encouraged flight; Meir held the tubing outside the airflow so mask weight did not drag on the bird.
 - The birds could be measured not only during flight but also during **rest, walking, and running** for comparison.
 
@@ -189,12 +189,12 @@ next_lecture: /week04/friday-review
 
 ### Energy Cost of Flight Across Hypoxia Levels
 
-- Behaviors arrange in a predictable order of energetic cost: **rest < walk < run < flight**. Flight is the most energetically demanding behavior by a wide margin.
-- The expected near-linear relationship between **VO<sub>2</sub>** and **heart rate** is evident within each behavior but is **messy for flight** — high variability in in-flight VO<sub>2</sub> even at similar heart rates.
+- Behaviors arrange in a predictable order of energetic cost: rest < walk < run < flight. Flight is the most energetically demanding behavior by a wide margin.
+- The expected near-linear relationship between VO<sub>2</sub> and heart rate is evident within each behavior but is messy for flight — high variability in in-flight VO<sub>2</sub> even at similar heart rates.
 - Two main sources of the scatter:
-  - **Behavioral variability**: birds can fly more or less efficiently (bouncing vs. shuffling analogue in running), which changes the metabolic cost.
-  - **Environmental/substrate effects** (grass vs. treadmill analogue).
-- Key observation: the **minimum flight VO<sub>2</sub>** is similar across normoxia (black, 21%), moderate hypoxia (blue, 10.5%), and severe hypoxia (red, 7%) — so the **most efficient way to fly costs about the same** in any O<sub>2</sub> environment; severe hypoxia simply **restricts the bird to flying in that most efficient way**.
+  - Behavioral variability: birds can fly more or less efficiently (bouncing vs. shuffling analogue in running), which changes the metabolic cost.
+  - Environmental/substrate effects (grass vs. treadmill analogue).
+- Key observation: the minimum flight VO<sub>2</sub> is similar across normoxia (black, 21%), moderate hypoxia (blue, 10.5%), and severe hypoxia (red, 7%) — so the most efficient way to fly costs about the same in any O<sub>2</sub> environment; severe hypoxia simply restricts the bird to flying in that most efficient way.
 
 ---
 
@@ -204,13 +204,13 @@ next_lecture: /week04/friday-review
 
 ### Mixed Venous P<sub>O₂</sub> — Increased Tissue Extraction in Hypoxia
 
-- **Mixed venous P<sub>O₂</sub>** (the partial pressure of O<sub>2</sub> in blood returning to the heart) **decreases in hypoxia** compared with normoxia, at every phase of flight.
-- A lower venous P<sub>O₂</sub> means the **a–v O<sub>2</sub> difference** (extraction) is **wider** — tissues are removing a larger fraction of the O<sub>2</sub> delivered per unit blood.
-- Flight in severe hypoxia is achieved largely through a **reduction in metabolic rate** compared with normoxia. Contributing mechanisms:
-  - **Restricting blood flow** (and thus O<sub>2</sub> supply) to **non-essential organs** to preserve supply for flight muscle, heart, and brain.
-  - **Optimizing flight biomechanics for efficiency** — e.g., shorter wing strokes, slightly higher flapping frequency than in normoxia.
-  - The **minimum metabolic rate for flight** is similar in normoxia and hypoxia, but in severe hypoxia the bird is **forced** to fly at that minimum.
-- In combination with the leftward-shifted Hb, the result is **unchanged or increased arterial loading** paired with **greater tissue extraction**, keeping mitochondrial supply adequate despite a much lower inspired P<sub>O₂</sub>.
+- **Mixed venous P<sub>O₂</sub>** (the partial pressure of O<sub>2</sub> in blood returning to the heart) decreases in hypoxia compared with normoxia, at every phase of flight.
+- A lower venous P<sub>O₂</sub> means the **a–v O<sub>2</sub> difference** (extraction) is wider — tissues are removing a larger fraction of the O<sub>2</sub> delivered per unit blood.
+- Flight in severe hypoxia is achieved largely through a reduction in metabolic rate compared with normoxia. Contributing mechanisms:
+  - Restricting blood flow (and thus O<sub>2</sub> supply) to non-essential organs to preserve supply for flight muscle, heart, and brain.
+  - Optimizing flight biomechanics for efficiency — e.g., shorter wing strokes, slightly higher flapping frequency than in normoxia.
+  - The minimum metabolic rate for flight is similar in normoxia and hypoxia, but in severe hypoxia the bird is forced to fly at that minimum.
+- In combination with the leftward-shifted Hb, the result is unchanged or increased arterial loading paired with greater tissue extraction, keeping mitochondrial supply adequate despite a much lower inspired P<sub>O₂</sub>.
 
 ---
 
@@ -220,10 +220,10 @@ next_lecture: /week04/friday-review
 
 ### Summary of the High-Altitude Story
 
-- Physiological **responses** and **adaptations** to high-altitude hypoxia occur along the **entire oxygen supply cascade** — no single step is rate-limiting in isolation.
-- **Metabolic adaptations** increase anaerobic energy supply, enhance mitochondrial efficiency, and minimize oxygen demand.
-- **Movement efficiency** (e.g., flight biomechanics in geese, slow climbing in summiteers) is itself a hypoxia strategy because it lowers the energy that must be supplied aerobically.
-- Closing recap before the lecture transitions from **chronic** hypoxia (high altitude) to **acute** hypoxia (breath-hold diving). The same cascade framework will now be used to organize the diving adaptations.
+- Physiological responses and adaptations to high-altitude hypoxia occur along the entire oxygen supply cascade — no single step is rate-limiting in isolation.
+- Metabolic adaptations increase anaerobic energy supply, enhance mitochondrial efficiency, and minimize oxygen demand.
+- Movement efficiency (e.g., flight biomechanics in geese, slow climbing in summiteers) is itself a hypoxia strategy because it lowers the energy that must be supplied aerobically.
+- Closing recap before the lecture transitions from chronic hypoxia (high altitude) to acute hypoxia (breath-hold diving). The same cascade framework will now be used to organize the diving adaptations.
 
 ---
 
@@ -233,8 +233,8 @@ next_lecture: /week04/friday-review
 
 ### Diving Section — Learning Objectives
 
-1. Describe the physiological features that are **most critical for performance** in acute hypoxia during diving.
-2. Provide examples of adaptations that **enable extended dive times** and relate these to the **oxygen supply cascade**.
+1. Describe the physiological features that are most critical for performance in acute hypoxia during diving.
+2. Provide examples of adaptations that enable extended dive times and relate these to the oxygen supply cascade.
 
 ---
 
@@ -244,9 +244,9 @@ next_lecture: /week04/friday-review
 
 ### Independent Evolutionary Origins of Diving in Mammals
 
-- **Diving lifestyles have evolved multiple times** independently in mammals — cetaceans, pinnipeds, sirenians, otters, and others.
-- All these lineages show **convergent** physiological adaptations to acute hypoxia despite separate evolutionary origins.
-- Studying convergence highlights which features of the oxygen supply cascade are **most useful** for breath-hold performance.
+- Diving lifestyles have evolved multiple times independently in mammals — cetaceans, pinnipeds, sirenians, otters, and others.
+- All these lineages show convergent physiological adaptations to acute hypoxia despite separate evolutionary origins.
+- Studying convergence highlights which features of the oxygen supply cascade are most useful for breath-hold performance.
 
 ---
 
@@ -256,9 +256,9 @@ next_lecture: /week04/friday-review
 
 ### Why Diving Is an Acute-Hypoxia Problem
 
-- Vertebrates first evolved in **aquatic** environments, then **tetrapods** diversified on land where high atmospheric O<sub>2</sub> supported the evolution of **endothermy** and **high aerobic scope**.
-- When mammalian lineages **secondarily returned to water**, they did **not** revert to gills — water cannot support the metabolic demands of an athletic endotherm.
-- Diving mammals therefore **surface intermittently** to breathe, and dives are episodes of **acute, repeated hypoxia** with completely shut-down alveolar ventilation.
+- Vertebrates first evolved in aquatic environments, then tetrapods diversified on land where high atmospheric O<sub>2</sub> supported the evolution of **endothermy** and high aerobic scope.
+- When mammalian lineages secondarily returned to water, they did not revert to gills — water cannot support the metabolic demands of an athletic endotherm.
+- Diving mammals therefore surface intermittently to breathe, and dives are episodes of acute, repeated hypoxia with completely shut-down alveolar ventilation.
 
 ---
 
@@ -268,12 +268,12 @@ next_lecture: /week04/friday-review
 
 ### Which Cascade Steps Matter for Diving?
 
-- During a breath-hold dive, **alveolar ventilation is shut off** — the diver depends entirely on **stored O<sub>2</sub>** distributed across the rest of the cascade.
+- During a breath-hold dive, alveolar ventilation is shut off — the diver depends entirely on stored O<sub>2</sub> distributed across the rest of the cascade.
 - Critical factors during a dive:
-  - **O<sub>2</sub>-hemoglobin** binding and total blood O<sub>2</sub> store
-  - **Myoglobin** binding and muscle O<sub>2</sub> store
-  - **Capillary distribution** in muscle (regulating where blood flow goes)
-  - **Mitochondrial distribution** (matching diffusion distance)
+  - O<sub>2</sub>-hemoglobin binding and total blood O<sub>2</sub> store
+  - Myoglobin binding and muscle O<sub>2</sub> store
+  - Capillary distribution in muscle (regulating where blood flow goes)
+  - Mitochondrial distribution (matching diffusion distance)
 
 ---
 
@@ -283,10 +283,10 @@ next_lecture: /week04/friday-review
 
 ### Myoglobin: The Intramuscular O<sub>2</sub> Store
 
-- **Myoglobin (Mb)** is a single-subunit O<sub>2</sub>-binding protein in muscle cells, with much **higher O<sub>2</sub> affinity** than hemoglobin (its dissociation curve is hyperbolic and **leftward shifted**).
+- **Myoglobin (Mb)** is a single-subunit O<sub>2</sub>-binding protein in muscle cells, with much higher O<sub>2</sub> affinity than hemoglobin (its dissociation curve is hyperbolic and leftward shifted).
 - Functions:
-  - **Shuttle** O<sub>2</sub> from capillaries to mitochondria across the very low intracellular P<sub>O₂</sub>.
-  - Act as an **intramuscular O<sub>2</sub> store** that buffers the start of exercise and, in divers, the duration of breath holds.
+  - Shuttle O<sub>2</sub> from capillaries to mitochondria across the very low intracellular P<sub>O₂</sub>.
+  - Act as an intramuscular O<sub>2</sub> store that buffers the start of exercise and, in divers, the duration of breath holds.
 
 ---
 
@@ -296,9 +296,9 @@ next_lecture: /week04/friday-review
 
 ### Dive Duration Scales With Body Size — But Specialists Outperform
 
-- Across mammals, **maximum dive duration** scales positively with **body mass** (log-log) — larger animals can store more total O<sub>2</sub>.
-- **Specialized divers** (e.g., elephant seal, sperm whale) lie **well above** the general scaling line: their dive durations are far longer than would be predicted from body size alone.
-- This points to species-specific **physiological specializations** beyond simple body-size scaling.
+- Across mammals, maximum dive duration scales positively with body mass (log-log) — larger animals can store more total O<sub>2</sub>.
+- Specialized divers (e.g., elephant seal, sperm whale) lie well above the general scaling line: their dive durations are far longer than would be predicted from body size alone.
+- This points to species-specific physiological specializations beyond simple body-size scaling.
 
 ---
 
@@ -310,14 +310,14 @@ next_lecture: /week04/friday-review
 
 | Species | Body mass | Max dive | Distribution of O<sub>2</sub> stores |
 |---------|-----------|----------|--------------------------------------|
-| Human | 50 kg | ~2.5 min | Mostly **lung**; very little in blood or muscle |
+| Human | 50 kg | ~2.5 min | Mostly lung; very little in blood or muscle |
 | Bottlenose dolphin | 189 kg | ~8 min | Higher blood and muscle |
 | Harbor seal | 113 kg | ~32 min | Much higher blood and muscle |
 | Sperm whale | 45,000 kg | ~73 min | Very high blood and muscle |
-| Northern elephant seal | 370 kg | ~119 min | Highest mass-specific stores; mostly **blood** and **muscle** |
+| Northern elephant seal | 370 kg | ~119 min | Highest mass-specific stores; mostly blood and muscle |
 
-- Humans store O<sub>2</sub> primarily in the **lungs**, sufficient only for ~2 minutes at basal metabolic rate.
-- Specialized divers store much more O<sub>2</sub> in **blood** ([Hb]) and **muscle** ([Mb]), enabling far longer dives.
+- Humans store O<sub>2</sub> primarily in the lungs, sufficient only for ~2 minutes at basal metabolic rate.
+- Specialized divers store much more O<sub>2</sub> in blood ([Hb]) and muscle ([Mb]), enabling far longer dives.
 - The amount of storage and how it is partitioned reflects the animal's ecology (e.g., how deep and how long they need to dive to find prey).
 
 ---
@@ -328,10 +328,10 @@ next_lecture: /week04/friday-review
 
 ### The Spleen as an On-Demand O<sub>2</sub> Reservoir — Weddell Seal Data
 
-- **[Hb] rises rapidly during a dive** in Weddell seals, then returns to baseline 12–16 minutes after surfacing.
-- Mechanism: **systemic peripheral vasoconstriction** during the dive squeezes the **spleen**, **injecting stored red blood cells** into circulation.
-- The Weddell seal has the **largest spleen** as a fraction of body weight of any mammal (~**7% of body mass**).
-- An estimated **60% of total RBC mass is stored in the spleen at rest**, available on demand for diving.
+- [Hb] rises rapidly during a dive in Weddell seals, then returns to baseline 12–16 minutes after surfacing.
+- Mechanism: **systemic peripheral vasoconstriction** during the dive squeezes the spleen, injecting stored red blood cells into circulation.
+- The Weddell seal has the largest spleen as a fraction of body weight of any mammal (~7% of body mass).
+- An estimated 60% of total RBC mass is stored in the spleen at rest, available on demand for diving.
 
 ---
 
@@ -341,13 +341,13 @@ next_lecture: /week04/friday-review
 
 ### Arterial P<sub>aO₂</sub> During Long Dives — Severe Arterial Hypoxemia
 
-- The same Qvist et al. Weddell seal study measured **arterial P<sub>aO₂</sub>** during dive and recovery.
-- **P<sub>aO₂</sub> falls steeply** through the dive, with the longest dives (>17 min) reaching values that would be lethal to a terrestrial mammal.
+- The same Qvist et al. Weddell seal study measured arterial P<sub>aO₂</sub> during dive and recovery.
+- P<sub>aO₂</sub> falls steeply through the dive, with the longest dives (>17 min) reaching values that would be lethal to a terrestrial mammal.
 - The Weddell seal tolerates this severe arterial hypoxemia because:
-  - **Vital organs** (brain, heart) are selectively perfused via peripheral vasoconstriction.
-  - **Muscle** depends on **myoglobin-bound O<sub>2</sub>**, decoupling muscle function from arterial P<sub>O₂</sub>.
-  - The **steep portion of the Hb dissociation curve** dumps a large fraction of the remaining O<sub>2</sub> into tissue at low P<sub>O₂</sub>.
-- During recovery, **P<sub>aO₂</sub> rebounds rapidly** when surface breathing resumes and the RBC reservoir in the spleen is replenished between dives.
+  - Vital organs (brain, heart) are selectively perfused via peripheral vasoconstriction.
+  - Muscle depends on myoglobin-bound O<sub>2</sub>, decoupling muscle function from arterial P<sub>O₂</sub>.
+  - The steep portion of the Hb dissociation curve dumps a large fraction of the remaining O<sub>2</sub> into tissue at low P<sub>O₂</sub>.
+- During recovery, P<sub>aO₂</sub> rebounds rapidly when surface breathing resumes and the RBC reservoir in the spleen is replenished between dives.
 
 ---
 
@@ -357,12 +357,12 @@ next_lecture: /week04/friday-review
 
 ### Dynamic Spleen Function
 
-- The **spleen functions dynamically** as a contractile O<sub>2</sub> reservoir:
-  - **At rest**: spleen is large (~24 L in a 350-kg Weddell seal), packed with RBCs at ~60% HCT; systemic blood HCT ~38%; total circulating blood volume ~10% of body mass.
-  - **During a dive**: spleen **contracts**, **injects red blood cells** into the systemic circulation; HCT rises to ~60%; circulating blood volume expands to ~30% of body mass.
-  - **Refills** during the recovery interval between dives.
-- This allows the seal to **defend C<sub>aO₂</sub>** for an extended period despite the absence of pulmonary gas exchange — aortic arterial O<sub>2</sub> content is maintained until the splenic RBC reservoir is depleted.
-- The combination of large blood volume + concentrated erythrocyte reservoir is a **distinctive cardiovascular** adaptation of long-duration divers.
+- The spleen functions dynamically as a contractile O<sub>2</sub> reservoir:
+  - At rest: spleen is large (~24 L in a 350-kg Weddell seal), packed with RBCs at ~60% HCT; systemic blood HCT ~38%; total circulating blood volume ~10% of body mass.
+  - During a dive: spleen contracts, injects red blood cells into the systemic circulation; HCT rises to ~60%; circulating blood volume expands to ~30% of body mass.
+  - Refills during the recovery interval between dives.
+- This allows the seal to defend C<sub>aO₂</sub> for an extended period despite the absence of pulmonary gas exchange — aortic arterial O<sub>2</sub> content is maintained until the splenic RBC reservoir is depleted.
+- The combination of large blood volume + concentrated erythrocyte reservoir is a distinctive cardiovascular adaptation of long-duration divers.
 
 ---
 
@@ -377,11 +377,11 @@ next_lecture: /week04/friday-review
 $$C_aO_2 = 1.39 \cdot [Hb] \cdot s_{O_2} + 0.03 \cdot P_aO_2$$
 
 - Where:
-  - **1.39** mL O<sub>2</sub>/g Hb = O<sub>2</sub> binding capacity at full saturation
-  - **s<sub>O₂</sub>** = fractional saturation of hemoglobin
-  - **P<sub>aO₂</sub>** = arterial O<sub>2</sub> partial pressure
-  - **0.03** = O<sub>2</sub> solubility coefficient (small contribution from dissolved O<sub>2</sub>)
-- For divers, **increasing [Hb]** (via splenic release) is the dominant lever for raising C<sub>aO₂</sub>, since s<sub>O₂</sub> cannot be raised above ~100%.
+  - 1.39 mL O<sub>2</sub>/g Hb = O<sub>2</sub> binding capacity at full saturation
+  - s<sub>O₂</sub> = fractional saturation of hemoglobin
+  - P<sub>aO₂</sub> = arterial O<sub>2</sub> partial pressure
+  - 0.03 = O<sub>2</sub> solubility coefficient (small contribution from dissolved O<sub>2</sub>)
+- For divers, increasing [Hb] (via splenic release) is the dominant lever for raising C<sub>aO₂</sub>, since s<sub>O₂</sub> cannot be raised above ~100%.
 
 ---
 
@@ -391,13 +391,13 @@ $$C_aO_2 = 1.39 \cdot [Hb] \cdot s_{O_2} + 0.03 \cdot P_aO_2$$
 
 ### Reduced Capillary Density and Anatomic Shunting
 
-- Counterintuitive at first: diving mammals have **lower** muscle capillary density (<**60%** of typical terrestrial mammals).
-- The combination of **systemic peripheral vasoconstriction + low capillary density** acts as an **anatomical shunt**:
-  - **Reduces convective O<sub>2</sub> transport** to muscle
-  - **Preserves O<sub>2</sub> delivery to vital organs** (brain, heart) and non-Mb tissues
-- The **ischemic muscle environment** drops local P<sub>O₂</sub> to where the steep portion of the Hb dissociation curve dumps a much larger fraction of bound O<sub>2</sub> into the tissue — e.g., venous Hb saturation falling from ~50% to ~20%.
-- **Mitochondria are distributed uniformly** through the muscle to minimize diffusion distance to myoglobin.
-- Notably, **Hb and Mb binding affinity curves are not consistently shifted** in diving species — the regulation is in **vascular control**, not in the binding proteins themselves (a key contrast with high-altitude species).
+- Counterintuitive at first: diving mammals have lower muscle capillary density (<60% of typical terrestrial mammals).
+- The combination of systemic peripheral vasoconstriction + low capillary density acts as an **anatomical shunt**:
+  - Reduces convective O<sub>2</sub> transport to muscle
+  - Preserves O<sub>2</sub> delivery to vital organs (brain, heart) and non-Mb tissues
+- The ischemic muscle environment drops local P<sub>O₂</sub> to where the steep portion of the Hb dissociation curve dumps a much larger fraction of bound O<sub>2</sub> into the tissue — e.g., venous Hb saturation falling from ~50% to ~20%.
+- Mitochondria are distributed uniformly through the muscle to minimize diffusion distance to myoglobin.
+- Notably, Hb and Mb binding affinity curves are not consistently shifted in diving species — the regulation is in vascular control, not in the binding proteins themselves (a key contrast with high-altitude species).
 
 ---
 
@@ -407,10 +407,10 @@ $$C_aO_2 = 1.39 \cdot [Hb] \cdot s_{O_2} + 0.03 \cdot P_aO_2$$
 
 ### Myoglobin Surface Charge as an Adaptation
 
-- Across mammals, **muscle [Mb] correlates with myoglobin net surface charge (|Z<sub>Mb</sub>|)**.
-- Higher net positive charge enables **higher [Mb]** in muscle without aggregation.
-- Sperm whales and other deep divers have **much higher Z<sub>Mb</sub>** than terrestrial mammals like pigs.
-- This is an example of adaptation in the **molecular properties** of myoglobin rather than in its **O<sub>2</sub>-binding affinity**.
+- Across mammals, muscle [Mb] correlates with myoglobin net surface charge (|Z<sub>Mb</sub>|).
+- Higher net positive charge enables higher [Mb] in muscle without aggregation.
+- Sperm whales and other deep divers have much higher Z<sub>Mb</sub> than terrestrial mammals like pigs.
+- This is an example of adaptation in the molecular properties of myoglobin rather than in its O<sub>2</sub>-binding affinity.
 
 ---
 
@@ -420,9 +420,9 @@ $$C_aO_2 = 1.39 \cdot [Hb] \cdot s_{O_2} + 0.03 \cdot P_aO_2$$
 
 ### Why Charge Allows Higher Myoglobin Concentrations
 
-- A higher **net surface charge** causes Mb molecules to **electrostatically repel** each other, preventing aggregation at very high intracellular concentrations.
-- This permits **whale muscle** to carry far more Mb per gram than pig or cattle muscle, visible as a much **darker red** color.
-- This is a clear example of a **molecular-level** adaptation enabling a **macroscopic** physiological capability (longer dive duration).
+- A higher net surface charge causes Mb molecules to electrostatically repel each other, preventing aggregation at very high intracellular concentrations.
+- This permits whale muscle to carry far more Mb per gram than pig or cattle muscle, visible as a much darker red color.
+- This is a clear example of a molecular-level adaptation enabling a macroscopic physiological capability (longer dive duration).
 
 ---
 
@@ -432,12 +432,12 @@ $$C_aO_2 = 1.39 \cdot [Hb] \cdot s_{O_2} + 0.03 \cdot P_aO_2$$
 
 ### Independent Evolution of High-Charge Myoglobin
 
-- Phylogenetic mapping of reconstructed **Z<sub>Mb</sub>** shows **high-charge myoglobin** has evolved **independently** in multiple diving lineages (e.g., cetaceans within Cetartiodactyla; pinnipeds within Carnivora).
+- Phylogenetic mapping of reconstructed Z<sub>Mb</sub> shows high-charge myoglobin has evolved independently in multiple diving lineages (e.g., cetaceans within Cetartiodactyla; pinnipeds within Carnivora).
 - This **convergent evolution** highlights the importance of muscle O<sub>2</sub> storage in diving performance.
 - Each independent origin enables:
-  - Increased **myoglobin concentration**
-  - Increased **muscle O<sub>2</sub> storage**
-  - Increased **maximum dive duration**
+  - Increased myoglobin concentration
+  - Increased muscle O<sub>2</sub> storage
+  - Increased maximum dive duration
 
 ---
 
@@ -447,10 +447,10 @@ $$C_aO_2 = 1.39 \cdot [Hb] \cdot s_{O_2} + 0.03 \cdot P_aO_2$$
 
 ### Bajau "Sea Nomads" — A Human Diving Adaptation Case Study
 
-- The **Bajau** people of Southeast Asia have lived for many generations on a subsistence economy based on **breath-hold diving** for seafood.
-- They are renowned for **extraordinary breath-holding** abilities — among the best human divers in the world.
-- The **Saluan** people are a closely related neighboring population that subsists on **farming and agriculture** rather than diving — they serve as the comparison group.
-- Researchers used **whole-genome sequencing** and **ultrasound** (to measure spleen size) to ask whether the Bajau show genetic and anatomical adaptations to diving.
+- The **Bajau** people of Southeast Asia have lived for many generations on a subsistence economy based on breath-hold diving for seafood.
+- They are renowned for extraordinary breath-holding abilities — among the best human divers in the world.
+- The **Saluan** people are a closely related neighboring population that subsists on farming and agriculture rather than diving — they serve as the comparison group.
+- Researchers used whole-genome sequencing and ultrasound (to measure spleen size) to ask whether the Bajau show genetic and anatomical adaptations to diving.
 
 ---
 
@@ -460,9 +460,9 @@ $$C_aO_2 = 1.39 \cdot [Hb] \cdot s_{O_2} + 0.03 \cdot P_aO_2$$
 
 ### Bajau vs. Saluan Spleen Size
 
-- The Bajau have **significantly larger spleens** than the closely related **Saluan** population.
-- Distributions overlap, but the **upper end** of the Bajau distribution is much higher — highlighting the substantial genetic variability in human populations, with selection for larger spleens acting on that variation.
-- This parallels the **Weddell seal** finding: an enlarged spleen acts as an **on-demand red blood cell reservoir**, mobilized by vasoconstriction at the start of a dive.
+- The Bajau have significantly larger spleens than the closely related Saluan population.
+- Distributions overlap, but the upper end of the Bajau distribution is much higher — highlighting the substantial genetic variability in human populations, with selection for larger spleens acting on that variation.
+- This parallels the Weddell seal finding: an enlarged spleen acts as an on-demand red blood cell reservoir, mobilized by vasoconstriction at the start of a dive.
 
 ---
 
@@ -472,10 +472,10 @@ $$C_aO_2 = 1.39 \cdot [Hb] \cdot s_{O_2} + 0.03 \cdot P_aO_2$$
 
 ### A Specific Gene: PDE10A and Spleen Size
 
-- A mutation in the **PDE10A** gene is associated with **larger spleen size** in the Bajau.
-- PDE10A regulates **thyroid hormone** levels, which in turn influence **spleen size** (developmental link).
-- Within the Bajau population, individuals with more copies of the variant allele have **larger spleens** (dose-dependent: 0 → 1 → 2 T alleles).
-- This is a clean example of a **specific genetic variant** linked to a **diving-relevant phenotype** in a human population, discovered by combining genome sequencing with physiological measurements.
+- A mutation in the **PDE10A** gene is associated with larger spleen size in the Bajau.
+- PDE10A regulates thyroid hormone levels, which in turn influence spleen size (developmental link).
+- Within the Bajau population, individuals with more copies of the variant allele have larger spleens (dose-dependent: 0 → 1 → 2 T alleles).
+- This is a clean example of a specific genetic variant linked to a diving-relevant phenotype in a human population, discovered by combining genome sequencing with physiological measurements.
 
 ---
 
@@ -485,14 +485,14 @@ $$C_aO_2 = 1.39 \cdot [Hb] \cdot s_{O_2} + 0.03 \cdot P_aO_2$$
 
 ### Lecture 10 — Key Takeaways
 
-1. **Diving is acute hypoxia**: alveolar ventilation is shut off, so divers depend on **stored O<sub>2</sub>** in blood and muscle. Pulmonary gas exchange and inspired P<sub>O₂</sub> are temporarily irrelevant during the dive itself.
-2. **Diving has evolved independently** in many mammalian lineages, and the convergent adaptations point to which steps of the cascade are most critical for breath-hold performance.
-3. **Myoglobin** is the dominant intramuscular O<sub>2</sub> store; its leftward-shifted dissociation curve makes it a perfect short-term reservoir near mitochondria.
-4. **O<sub>2</sub>-store distribution** differs sharply between humans (mostly lung) and specialized divers (mostly **blood and muscle**); humans can sustain BMR only for ~2 minutes from internal stores.
-5. **The spleen acts as an RBC reservoir** in Weddell seals (~7% body mass) and, on a smaller but real scale, in **Bajau** human divers (PDE10A genetic association).
-6. **Systemic peripheral vasoconstriction** + **reduced muscle capillary density** create an **anatomical shunt** that preserves O<sub>2</sub> for the brain and heart and maximally exploits the steep portion of the Hb dissociation curve to dump O<sub>2</sub> at active tissue.
-7. **High-charge myoglobin** evolved independently in cetaceans and pinnipeds, allowing extreme intramuscular [Mb] without aggregation — a molecular adaptation behind the **dark red muscle** of deep divers.
-8. **Hb and Mb binding curves themselves are not shifted** in most diving species — adaptation is in **vascular regulation, total store, and protein concentration**, not in O<sub>2</sub> affinity (a contrast with high-altitude species).
+1. Diving is acute hypoxia: alveolar ventilation is shut off, so divers depend on stored O<sub>2</sub> in blood and muscle. Pulmonary gas exchange and inspired P<sub>O₂</sub> are temporarily irrelevant during the dive itself.
+2. Diving has evolved independently in many mammalian lineages, and the convergent adaptations point to which steps of the cascade are most critical for breath-hold performance.
+3. Myoglobin is the dominant intramuscular O<sub>2</sub> store; its leftward-shifted dissociation curve makes it a perfect short-term reservoir near mitochondria.
+4. O<sub>2</sub>-store distribution differs sharply between humans (mostly lung) and specialized divers (mostly blood and muscle); humans can sustain BMR only for ~2 minutes from internal stores.
+5. The spleen acts as an RBC reservoir in Weddell seals (~7% body mass) and, on a smaller but real scale, in Bajau human divers (PDE10A genetic association).
+6. Systemic peripheral vasoconstriction + reduced muscle capillary density create an anatomical shunt that preserves O<sub>2</sub> for the brain and heart and maximally exploits the steep portion of the Hb dissociation curve to dump O<sub>2</sub> at active tissue.
+7. High-charge myoglobin evolved independently in cetaceans and pinnipeds, allowing extreme intramuscular [Mb] without aggregation — a molecular adaptation behind the dark red muscle of deep divers.
+8. Hb and Mb binding curves themselves are not shifted in most diving species — adaptation is in vascular regulation, total store, and protein concentration, not in O<sub>2</sub> affinity (a contrast with high-altitude species).
 
 ---
 

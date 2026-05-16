@@ -10,16 +10,12 @@ prev_lecture: /week07/lecture15-training-effects-muscle
 next_lecture: /week07/friday-review
 ---
 
-This lecture builds the link from **whole-body movement dynamics** to the **force and mechanical-energy demands** placed on muscles. It introduces ground reaction forces, the inverted-pendulum and bouncing-spring models of walking and running, the "collisional" perspective on step-to-step transitions, and how forces scale with speed and body size — the foundation for next week's lectures on the **metabolic cost of locomotion**.
-
----
-
 ## Slide 1
 
 ![Title slide for "Forces and energy cost in locomotion" by Dr. Monica A. Daley, Professor, Ecology and Evolutionary Biology, University of California, Irvine. The same background collage from earlier lectures shows a cyclist, water polo player, swimmer, sprinter, an oxygen cascade schematic, and a row of comparative species.](images/lec16/slide-001.png)
 
-- Bridges the muscle physiology unit (Lectures 11–15) to the **whole-organism mechanics of locomotion**.
-- Goal: connect **force and mechanical energy demands** of movement to the **muscular and metabolic energy demands** that follow.
+- Bridges the muscle physiology unit (Lectures 11–15) to the whole-organism mechanics of locomotion.
+- Goal: connect force and mechanical energy demands of movement to the muscular and metabolic energy demands that follow.
 
 ---
 
@@ -29,9 +25,9 @@ This lecture builds the link from **whole-body movement dynamics** to the **forc
 
 ### Learning Objectives
 
-1. Describe the basic **mechanical demands of legged locomotion** and how they relate to the **force and mechanical work** demands of bipedal gaits.
-2. Describe how **force demands** of gait vary with **speed** and **body size**.
-3. Discuss how **leg posture** influences the **muscle force required** relative to the external ground reaction force.
+1. Describe the basic mechanical demands of legged locomotion and how they relate to the force and mechanical work demands of bipedal gaits.
+2. Describe how force demands of gait vary with speed and body size.
+3. Discuss how leg posture influences the muscle force required relative to the external **ground reaction force**.
 
 ---
 
@@ -41,8 +37,8 @@ This lecture builds the link from **whole-body movement dynamics** to the **forc
 
 ### Why Do We Move the Way We Move?
 
-- Animals exhibit a **surprisingly small** number of characteristic terrestrial gaits — most can be identified from a single snapshot.
-- The convergence on a few stereotyped patterns suggests that **physical principles** (not just anatomy or development) constrain efficient locomotion.
+- Animals exhibit a surprisingly small number of characteristic terrestrial gaits — most can be identified from a single snapshot.
+- The convergence on a few stereotyped patterns suggests that physical principles (not just anatomy or development) constrain efficient locomotion.
 
 ---
 
@@ -52,8 +48,8 @@ This lecture builds the link from **whole-body movement dynamics** to the **forc
 
 ### The Ministry of Silly Walks
 
-- Humans are not **physically constrained** to walk the way we do — many other patterns are mechanically possible.
-- The fact that we converge on a narrow set of gaits underscores that the patterns we use are **energetically favored**, not anatomically forced.
+- Humans are not physically constrained to walk the way we do — many other patterns are mechanically possible.
+- The fact that we converge on a narrow set of gaits underscores that the patterns we use are energetically favored, not anatomically forced.
 - Modern AI-based gait recognition exploits the small individual signature embedded in the otherwise stereotyped pattern.
 
 ---
@@ -64,7 +60,7 @@ This lecture builds the link from **whole-body movement dynamics** to the **forc
 
 ### Walking and Running — Same Patterns Across Species
 
-- Despite very different morphologies, **humans and ostriches** show essentially the same dynamics for walking and for running.
+- Despite very different morphologies, humans and ostriches show essentially the same dynamics for walking and for running.
 - The schematics introduce the **mass-spring model** of locomotion that will recur throughout the lecture.
 
 ---
@@ -75,9 +71,9 @@ This lecture builds the link from **whole-body movement dynamics** to the **forc
 
 ### Convergence Despite Different Development
 
-- A young ostrich (a few weeks old) shows the same gait dynamics as the adult — only **scaled in body size**.
-- Humans take many months and many practice steps to learn to walk, yet **converge on similar mechanics** as a precocial bird that walks shortly after hatching.
-- Strong evidence that **fundamental physical principles** — not just developmental learning — drive the choice of gait.
+- A young ostrich (a few weeks old) shows the same gait dynamics as the adult — only scaled in body size.
+- Humans take many months and many practice steps to learn to walk, yet converge on similar mechanics as a precocial bird that walks shortly after hatching.
+- Strong evidence that fundamental physical principles — not just developmental learning — drive the choice of gait.
 
 ---
 
@@ -87,7 +83,7 @@ This lecture builds the link from **whole-body movement dynamics** to the **forc
 
 ### Setting Up the Physical Framework
 
-- Transition slide. The remainder of the lecture develops the **basic physical demands** of legged movement and uses them to predict gait mechanics.
+- Transition slide. The remainder of the lecture develops the basic physical demands of legged movement and uses them to predict gait mechanics.
 
 ---
 
@@ -97,9 +93,9 @@ This lecture builds the link from **whole-body movement dynamics** to the **forc
 
 ### Three Basic Demands
 
-- **Move the center of mass** from point A to point B.
-- **Support body weight** against gravity throughout each stance.
-- **Oscillate the legs** to position them for the next stance phase.
+- Move the **center of mass** from point A to point B.
+- Support body weight against gravity throughout each stance.
+- Oscillate the legs to position them for the next stance phase.
 - These three constraints are the foundation for understanding all the force and energy patterns of gait.
 
 ---
@@ -115,7 +111,7 @@ This lecture builds the link from **whole-body movement dynamics** to the **forc
 $$\sum F_{vertical} = Mg + F_{legs} = 0 \quad \Rightarrow \quad F_{legs} = -Mg$$
 
 - The **ground reaction force (GRF)** is the equal-and-opposite force the ground exerts on the foot — measured directly by a **force platform**.
-- Averaged over an integer number of strides, vertical GRF must equal body weight; horizontal GRF must average **zero** at constant speed.
+- Averaged over an integer number of strides, vertical GRF must equal body weight; horizontal GRF must average zero at constant speed.
 
 ---
 
@@ -125,8 +121,8 @@ $$\sum F_{vertical} = Mg + F_{legs} = 0 \quad \Rightarrow \quad F_{legs} = -Mg$$
 
 ### Why Legs Are Different from Wheels
 
-- Legs involve **intermittent ground contact**: each step decelerates and re-accelerates the body.
-- This creates **collisional energy losses** at each foot-down event — a key driver of the muscular work demand explored later in the lecture.
+- Legs involve intermittent ground contact: each step decelerates and re-accelerates the body.
+- This creates collisional energy losses at each foot-down event — a key driver of the muscular work demand explored later in the lecture.
 
 ---
 
@@ -136,9 +132,9 @@ $$\sum F_{vertical} = Mg + F_{legs} = 0 \quad \Rightarrow \quad F_{legs} = -Mg$$
 
 ### Measuring Ground Reaction Forces
 
-- A **force platform** embedded in the track measures the GRF during one stance phase.
-- The vertical GRF is **largest** in magnitude (multiple body weights at peak).
-- The horizontal GRF is **biphasic**: negative (decelerating) at heel strike, positive (accelerating) at push-off.
+- A force platform embedded in the track measures the GRF during one stance phase.
+- The vertical GRF is largest in magnitude (multiple body weights at peak).
+- The horizontal GRF is biphasic: negative (decelerating) at heel strike, positive (accelerating) at push-off.
 
 ---
 
@@ -148,7 +144,7 @@ $$\sum F_{vertical} = Mg + F_{legs} = 0 \quad \Rightarrow \quad F_{legs} = -Mg$$
 
 ### Multi-Plate Force Measurement Setup
 
-- Sequential force plates allow measurement of GRF across **several consecutive steps**, enabling analysis of the full stride cycle and any unsteady (accelerating, perturbed) movements.
+- Sequential force plates allow measurement of GRF across several consecutive steps, enabling analysis of the full stride cycle and any unsteady (accelerating, perturbed) movements.
 - The same paradigm is used in animal experiments and in human gait labs.
 
 ---
@@ -159,9 +155,9 @@ $$\sum F_{vertical} = Mg + F_{legs} = 0 \quad \Rightarrow \quad F_{legs} = -Mg$$
 
 ### The Mass-Spring Model of Bouncing Gaits
 
-- A **single point mass on a massless springy leg** reproduces both the **magnitude** and the **timing** of GRF in steady locomotion.
+- A single point mass on a massless springy leg reproduces both the magnitude and the timing of GRF in steady locomotion.
 - Holds across an enormous range of legged animals — cockroach, dog, ostrich, human — for **bouncing** (running, hopping, trotting) gaits.
-- For multi-legged animals, all stance limbs are approximated as a single **virtual leg**.
+- For multi-legged animals, all stance limbs are approximated as a single virtual leg.
 
 ---
 
@@ -171,9 +167,9 @@ $$\sum F_{vertical} = Mg + F_{legs} = 0 \quad \Rightarrow \quad F_{legs} = -Mg$$
 
 ### Walk vs. Grounded Run vs. Aerial Run
 
-- **Walking**: characteristic **M-shaped** vertical GRF with a **double-support** phase (both feet on the ground).
-- **Grounded run** (e.g., race-walking): single GRF peak, but **no aerial phase** — duty factor still > 0.5.
-- **Aerial run**: tall single GRF peak with a true **aerial phase** between steps; peak force grows because **stance duration shrinks** as speed increases (Slide 27).
+- **Walking**: characteristic M-shaped vertical GRF with a **double-support** phase (both feet on the ground).
+- **Grounded run** (e.g., race-walking): single GRF peak, but no aerial phase — duty factor still > 0.5.
+- **Aerial run**: tall single GRF peak with a true **aerial phase** between steps; peak force grows because stance duration shrinks as speed increases (Slide 27).
 
 ---
 
@@ -183,9 +179,9 @@ $$\sum F_{vertical} = Mg + F_{legs} = 0 \quad \Rightarrow \quad F_{legs} = -Mg$$
 
 ### Foot-Strike Pattern and Impact Peaks
 
-- **Rear-foot strikers** (heel contact first) show a **brief early impact peak** in the vertical GRF — caused by the abrupt collision of a relatively rigid heel.
-- **Forefoot strikers** show a smoother rise because the foot's **arch acts as a spring** to cushion the contact.
-- Rear-foot striking became common with the **invention of running shoes** — most barefoot running is forefoot-strike.
+- **Rear-foot strikers** (heel contact first) show a brief early impact peak in the vertical GRF — caused by the abrupt collision of a relatively rigid heel.
+- **Forefoot strikers** show a smoother rise because the foot's arch acts as a spring to cushion the contact.
+- Rear-foot striking became common with the invention of running shoes — most barefoot running is forefoot-strike.
 
 ---
 
@@ -195,8 +191,8 @@ $$\sum F_{vertical} = Mg + F_{legs} = 0 \quad \Rightarrow \quad F_{legs} = -Mg$$
 
 ### Walk = Inverted Pendulum; Run = Bouncing Spring
 
-- **Walking**: E<sub>g</sub> and E<sub>k</sub> are **out of phase** — the body **vaults** over a stiff leg, exchanging gravitational potential and kinetic energy like an inverted pendulum. Little muscular work needed within stance.
-- **Running**: E<sub>g</sub> and E<sub>k</sub> are **in phase** — the body **bounces** on a compliant leg. The mechanical energy lost from the body is **stored elastically** in tendons and ligaments and **returned** at push-off.
+- **Walking**: E<sub>g</sub> and E<sub>k</sub> are out of phase — the body vaults over a stiff leg, exchanging gravitational potential and kinetic energy like an **inverted pendulum**. Little muscular work needed within stance.
+- **Running**: E<sub>g</sub> and E<sub>k</sub> are in phase — the body bounces on a compliant leg. The mechanical energy lost from the body is stored elastically in tendons and ligaments and returned at push-off.
 
 ---
 
@@ -206,11 +202,11 @@ $$\sum F_{vertical} = Mg + F_{legs} = 0 \quad \Rightarrow \quad F_{legs} = -Mg$$
 
 ### What Passive Cycling Cannot Eliminate
 
-- Both inverted-pendulum (walk) and elastic-spring (run) mechanisms **minimize** the mechanical work the muscles must do **within** the stance phase.
+- Both inverted-pendulum (walk) and elastic-spring (run) mechanisms minimize the mechanical work the muscles must do within the stance phase.
 - They cannot eliminate two demands:
-  1. **Force demands** to support body weight.
-  2. **Energy losses at step-to-step transitions** (collisions when the next foot lands).
-- These two unavoidable demands set the **minimum muscular work** of locomotion.
+  1. Force demands to support body weight.
+  2. Energy losses at step-to-step transitions (collisions when the next foot lands).
+- These two unavoidable demands set the minimum muscular work of locomotion.
 
 ---
 
@@ -220,7 +216,7 @@ $$\sum F_{vertical} = Mg + F_{legs} = 0 \quad \Rightarrow \quad F_{legs} = -Mg$$
 
 ### Prosthetic Limbs as Mass-Spring Systems
 
-- The mass-spring model of running motivates the design of **carbon-fiber running blades** for athletes with transtibial amputations.
+- The mass-spring model of running motivates the design of carbon-fiber running blades for athletes with transtibial amputations.
 - Three blade designs (1E90 Sprinter, Catapult FX6, Cheetah Xtend) have very different stiffnesses, which can be tested directly against the model.
 
 ---
@@ -231,8 +227,8 @@ $$\sum F_{vertical} = Mg + F_{legs} = 0 \quad \Rightarrow \quad F_{legs} = -Mg$$
 
 ### Lower Prosthetic Stiffness Lowers Running Cost
 
-- Across three blade types, **stiffer prostheses raise the net cost of transport** for running.
-- A more compliant blade allows greater **elastic energy cycling**, mimicking the natural Achilles tendon's energy-storage function.
+- Across three blade types, stiffer prostheses raise the net cost of transport for running.
+- A more compliant blade allows greater elastic energy cycling, mimicking the natural Achilles tendon's energy-storage function.
 - A direct application of the mass-spring framework: simple physics-based models can guide assistive-device design.
 
 ---
@@ -243,9 +239,9 @@ $$\sum F_{vertical} = Mg + F_{legs} = 0 \quad \Rightarrow \quad F_{legs} = -Mg$$
 
 ### The Collisional Perspective
 
-- During the **double-support** phase of walking, the trailing leg **pushes off** while the leading leg **collides** with the ground.
-- Push-off **adds** mechanical energy; the collision **dissipates** energy.
-- The amount of push-off work needed is **directly proportional** to the collisional energy loss — making **collisions the central determinant** of muscular work in walking.
+- During the double-support phase of walking, the trailing leg pushes off while the leading leg collides with the ground.
+- Push-off adds mechanical energy; the collision dissipates energy.
+- The amount of push-off work needed is directly proportional to the collisional energy loss — making collisions the central determinant of muscular work in walking.
 
 ---
 
@@ -255,8 +251,8 @@ $$\sum F_{vertical} = Mg + F_{legs} = 0 \quad \Rightarrow \quad F_{legs} = -Mg$$
 
 ### Collision Cost Scales as Step Length to the Fourth Power
 
-- Center-of-mass work scales **roughly as step length to the fourth power**, with R² = 0.96.
-- As walking speed (and step length) increases, the collisional cost **explodes** — a major reason humans **switch to running** at higher speeds, where elastic mechanisms can offset some of the cost.
+- Center-of-mass work scales roughly as step length to the fourth power, with R² = 0.96.
+- As walking speed (and step length) increases, the collisional cost explodes — a major reason humans switch to running at higher speeds, where elastic mechanisms can offset some of the cost.
 
 ---
 
@@ -266,10 +262,10 @@ $$\sum F_{vertical} = Mg + F_{legs} = 0 \quad \Rightarrow \quad F_{legs} = -Mg$$
 
 ### Rimless Wheel — A Mechanical Demonstration of Collisions
 
-- A **rimless wheel** with n spikes rolling down a fixed slope is a simple physical model of legged walking.
-- With **fewer spokes** (longer effective step length), more energy is lost at each collision and the wheel rolls **slower**.
-- With **more spokes** (shorter steps), collisions are smaller and the wheel rolls **faster**.
-- The slope is constant, so this isolates the effect of **collision geometry** on speed.
+- A rimless wheel with n spikes rolling down a fixed slope is a simple physical model of legged walking.
+- With fewer spokes (longer effective step length), more energy is lost at each collision and the wheel rolls slower.
+- With more spokes (shorter steps), collisions are smaller and the wheel rolls faster.
+- The slope is constant, so this isolates the effect of collision geometry on speed.
 
 ---
 
@@ -279,9 +275,9 @@ $$\sum F_{vertical} = Mg + F_{legs} = 0 \quad \Rightarrow \quad F_{legs} = -Mg$$
 
 ### Two Ways to Reduce Collisional Cost
 
-- **Ankle push-off** by the trailing leg **just before** heel strike of the leading leg reverses some of the body's downward velocity, **shrinking** the upcoming collision.
+- **Ankle push-off** by the trailing leg just before heel strike of the leading leg reverses some of the body's downward velocity, shrinking the upcoming collision.
 - **Foot rolling** during stance — the human foot's plantar geometry acts like a wheel, translating the center of pressure smoothly from heel to toe.
-- A demonstration with two seven-sided polygons (one with concave sides, one with convex sides) shows that even small **convex curvature** on the contact surface dramatically reduces collisional losses — a simple mechanical explanation for why human feet are large and curved (see also Adamczyk, Collins & Kuo studies of foot curvature).
+- A demonstration with two seven-sided polygons (one with concave sides, one with convex sides) shows that even small convex curvature on the contact surface dramatically reduces collisional losses — a simple mechanical explanation for why human feet are large and curved (see also Adamczyk, Collins & Kuo studies of foot curvature).
 
 ---
 
@@ -291,9 +287,9 @@ $$\sum F_{vertical} = Mg + F_{legs} = 0 \quad \Rightarrow \quad F_{legs} = -Mg$$
 
 ### Passive-Dynamic Walking Robots
 
-- Robots designed around the same principles — minimal actuation, **rolling foot contact**, **ankle push-off**, **locked knees** during mid-stance — can walk reasonably well on essentially **no power**.
-- McGeer's classic **passive walkers** descend a slope powered only by gravity.
-- Concrete demonstration that the **physics of collisions and elastic cycling** are the dominant determinants of bipedal walking — not active neural control.
+- Robots designed around the same principles — minimal actuation, rolling foot contact, ankle push-off, locked knees during mid-stance — can walk reasonably well on essentially no power.
+- McGeer's classic passive walkers descend a slope powered only by gravity.
+- Concrete demonstration that the physics of collisions and elastic cycling are the dominant determinants of bipedal walking — not active neural control.
 
 ---
 
@@ -303,7 +299,7 @@ $$\sum F_{vertical} = Mg + F_{legs} = 0 \quad \Rightarrow \quad F_{legs} = -Mg$$
 
 ### Transition — Forces and Speed
 
-- Transition into the next section: how **GRF magnitudes** scale with **running speed**.
+- Transition into the next section: how GRF magnitudes scale with running speed.
 
 ---
 
@@ -313,8 +309,8 @@ $$\sum F_{vertical} = Mg + F_{legs} = 0 \quad \Rightarrow \quad F_{legs} = -Mg$$
 
 ### Acceleration vs. Steady Speed
 
-- During the acceleration phase, the **fore-aft GRF** is **net positive** at every step — the runner is adding energy.
-- As the runner reaches a steady speed, the fore-aft GRF shifts to its standard **biphasic** pattern (negative then positive, net zero).
+- During the acceleration phase, the fore-aft GRF is net positive at every step — the runner is adding energy.
+- As the runner reaches a steady speed, the fore-aft GRF shifts to its standard biphasic pattern (negative then positive, net zero).
 - Posture also shifts — a forward lean during acceleration straightens out at steady speed.
 
 ---
@@ -325,8 +321,8 @@ $$\sum F_{vertical} = Mg + F_{legs} = 0 \quad \Rightarrow \quad F_{legs} = -Mg$$
 
 ### Why Peak Force Grows with Speed
 
-- Average vertical GRF must equal **body weight** across each step.
-- As speed rises, the **stance time t<sub>c</sub> shrinks** and the **aerial time grows** — so the **peak vertical force** must rise to keep the time-integrated average constant.
+- Average vertical GRF must equal body weight across each step.
+- As speed rises, the stance time t<sub>c</sub> shrinks and the aerial time grows — so the peak vertical force must rise to keep the time-integrated average constant.
 - Roughly: peak GRF $\propto 1/t_c$.
 
 ---
@@ -337,15 +333,15 @@ $$\sum F_{vertical} = Mg + F_{legs} = 0 \quad \Rightarrow \quad F_{legs} = -Mg$$
 
 ### What Limits Top Running Speed
 
-- The required **average vertical GRF** can be predicted from gait timing alone:
+- The required average vertical GRF can be predicted from gait timing alone:
 
 $$\dfrac{F\_{avg}}{W_b} = \dfrac{T\_{step}}{T_c} = \dfrac{L\_{step}}{L_c}$$
 
 - Across normal running, one-legged hopping, and backward running, this relationship holds.
-- **Top speed is set by**:
-  1. The **minimum achievable contact time** to apply the necessary force.
-  2. The **fastest achievable swing frequency**.
-- Force demands come from **physics**; force *limits* come from **muscle strength and contraction frequency**.
+- Top speed is set by:
+  1. The minimum achievable contact time to apply the necessary force.
+  2. The fastest achievable swing frequency.
+- Force demands come from physics; force *limits* come from muscle strength and contraction frequency.
 
 ---
 
@@ -355,8 +351,8 @@ $$\dfrac{F\_{avg}}{W_b} = \dfrac{T\_{step}}{T_c} = \dfrac{L\_{step}}{L_c}$$
 
 ### Scaling Across Body Size
 
-- Terrestrial mammals span a **~10<sup>6</sup>-fold** range in body mass (mouse to elephant).
-- Across this enormous range, the **physics of legged locomotion** demands very different **postural and architectural** solutions — the topic of the next slides.
+- Terrestrial mammals span a ~10<sup>6</sup>-fold range in body mass (mouse to elephant).
+- Across this enormous range, the physics of legged locomotion demands very different postural and architectural solutions — the topic of the next slides.
 
 ---
 
@@ -366,9 +362,9 @@ $$\dfrac{F\_{avg}}{W_b} = \dfrac{T\_{step}}{T_c} = \dfrac{L\_{step}}{L_c}$$
 
 ### Geometric Scaling — Why Bigger Animals Are Relatively Weaker
 
-- **Strength** scales with **cross-sectional area** (length<sup>2</sup>).
-- **Body mass** (and weight loading) scales with **volume** (length<sup>3</sup>).
-- The ratio **CSA / mass ∝ 1/length** — so larger isometric animals are **relatively weaker**.
+- Strength scales with cross-sectional area (length<sup>2</sup>).
+- Body mass (and weight loading) scales with volume (length<sup>3</sup>).
+- The ratio CSA / mass ∝ 1/length — so larger isometric animals are relatively weaker.
 - Without compensating shape change, an elephant-sized animal would lack the structural margin to support its own weight.
 
 ---
@@ -379,8 +375,8 @@ $$\dfrac{F\_{avg}}{W_b} = \dfrac{T\_{step}}{T_c} = \dfrac{L\_{step}}{L_c}$$
 
 ### How Animals Solve the Scaling Problem
 
-- Larger animals **change shape** rather than scaling isometrically — bones become **proportionally thicker**, and limb postures become **more upright**.
-- Sets up the key scaling relationship of the next slide: **effective mechanical advantage**.
+- Larger animals change shape rather than scaling isometrically — bones become proportionally thicker, and limb postures become more upright.
+- Sets up the key scaling relationship of the next slide: effective mechanical advantage.
 
 ---
 
@@ -394,8 +390,8 @@ $$\dfrac{F\_{avg}}{W_b} = \dfrac{T\_{step}}{T_c} = \dfrac{L\_{step}}{L_c}$$
 
 $$\text{EMA} = \dfrac{r}{R}$$
 
-- Larger animals adopt **straighter limb postures** that **increase EMA** — moving the GRF closer to the joint center, reducing the muscle force required.
-- Across mammals, **EMA scales positively with body mass** — allowing peak muscle (and bone) forces to scale with cross-sectional area, preventing structural failure.
+- Larger animals adopt straighter limb postures that increase EMA — moving the GRF closer to the joint center, reducing the muscle force required.
+- Across mammals, EMA scales positively with body mass — allowing peak muscle (and bone) forces to scale with cross-sectional area, preventing structural failure.
 - (This is the same Biewener 1989 result reviewed in Lecture 14.)
 
 ---
@@ -407,7 +403,7 @@ $$\text{EMA} = \dfrac{r}{R}$$
 ### Crouched Posture Raises Muscular Effort
 
 - McMahon's classic **Groucho running** experiment: subjects run with deliberately flexed knees.
-- Crouched posture moves the **GRF moment arm R** further from the joint center → larger muscle force required for the same GRF.
+- Crouched posture moves the GRF moment arm R further from the joint center → larger muscle force required for the same GRF.
 - Vertical GRF profiles also become smoother (reduced impact peak) — but at a steep metabolic cost.
 
 ---
@@ -418,9 +414,9 @@ $$\text{EMA} = \dfrac{r}{R}$$
 
 ### Groucho Running Costs ~50% More Energy
 
-- Running with a deeply flexed knee raises the metabolic cost of running by **~50%** above normal upright posture.
+- Running with a deeply flexed knee raises the metabolic cost of running by ~50% above normal upright posture.
 - The mechanism is exactly the lever-system equation $F_{muscle} = F_g \times R/r$ — a larger R demands a larger muscle force, which costs more ATP per stride.
-- A direct demonstration that **leg posture is a primary determinant** of the energy cost of locomotion.
+- A direct demonstration that leg posture is a primary determinant of the energy cost of locomotion.
 
 ---
 
@@ -430,10 +426,10 @@ $$\text{EMA} = \dfrac{r}{R}$$
 
 ### Why GRF Matters
 
-- GRF magnitude sets the **muscle force demand** — and hence the **metabolic energy cost**.
-- **Maximum force capacity** can be **performance-limiting** (top speed, sharpest turn radius).
-- Skeletal **safety factor** is typically **2–4** — peak bone stress is normally 25–50% of failure strength; **unexpectedly high loads** cause injury.
-- **Muscle force can't be avoided**, but **muscle work** can be minimized through passive-dynamic energy cycling (springs, pendulums).
+- GRF magnitude sets the muscle force demand — and hence the metabolic energy cost.
+- Maximum force capacity can be performance-limiting (top speed, sharpest turn radius).
+- Skeletal **safety factor** is typically 2–4 — peak bone stress is normally 25–50% of failure strength; unexpectedly high loads cause injury.
+- Muscle force can't be avoided, but muscle work can be minimized through passive-dynamic energy cycling (springs, pendulums).
 
 ---
 
@@ -443,12 +439,12 @@ $$\text{EMA} = \dfrac{r}{R}$$
 
 ### Tissue Remodeling Across the Lifespan
 
-- Musculoskeletal tissues **remodel in response to applied loads** — both during training (Lecture 15) and across the lifespan.
+- Musculoskeletal tissues remodel in response to applied loads — both during training (Lecture 15) and across the lifespan.
 - The MRI cross-sections compare three subjects at the same anatomical level:
-  - **40-year-old triathlete**: large quadriceps, minimal adipose.
-  - **74-year-old sedentary**: small quadriceps, extensive intramuscular and subcutaneous adipose.
-  - **70-year-old triathlete**: quadriceps essentially indistinguishable from the 40-year-old.
-- **Chronic exercise preserves lean muscle mass** into older age — strong evidence for the role of mechanical loading in long-term tissue maintenance.
+  - 40-year-old triathlete: large quadriceps, minimal adipose.
+  - 74-year-old sedentary: small quadriceps, extensive intramuscular and subcutaneous adipose.
+  - 70-year-old triathlete: quadriceps essentially indistinguishable from the 40-year-old.
+- Chronic exercise preserves lean muscle mass into older age — strong evidence for the role of mechanical loading in long-term tissue maintenance.
 
 ---
 
@@ -458,14 +454,14 @@ $$\text{EMA} = \dfrac{r}{R}$$
 
 ### Summary
 
-- The **regulation of GRFs** is the central principle of terrestrial locomotion. Newton's laws are unavoidable.
-- **Body-weight support** against gravity is a fundamental demand; peak GRFs **rise with speed** because contact time shrinks.
-- **Muscle force capacity** can limit running speed and turning ability.
-- GRFs translate into muscle force demands through **skeletal lever systems** (Lecture 13–14 EMA framework).
-- **Passive-dynamic energy cycling** (inverted pendulum, elastic spring) reduces muscle work *within* stance — but cannot eliminate force demands or step-to-step collisions.
-- **Collisions** at step-to-step transitions are the dominant source of mechanical work demand; they **grow with step length** (~s<sup>4</sup>) and with speed.
-- **Ankle push-off** and **foot rolling** reduce collision losses.
-- **Larger animals are relatively weaker** by isometric scaling and compensate with **straighter limb postures** (higher EMA).
+- The regulation of GRFs is the central principle of terrestrial locomotion. Newton's laws are unavoidable.
+- Body-weight support against gravity is a fundamental demand; peak GRFs rise with speed because contact time shrinks.
+- Muscle force capacity can limit running speed and turning ability.
+- GRFs translate into muscle force demands through skeletal lever systems (Lecture 13–14 EMA framework).
+- Passive-dynamic energy cycling (inverted pendulum, elastic spring) reduces muscle work *within* stance — but cannot eliminate force demands or step-to-step collisions.
+- Collisions at step-to-step transitions are the dominant source of mechanical work demand; they grow with step length (~s<sup>4</sup>) and with speed.
+- Ankle push-off and foot rolling reduce collision losses.
+- Larger animals are relatively weaker by isometric scaling and compensate with straighter limb postures (higher EMA).
 
 ---
 
@@ -476,9 +472,9 @@ $$\text{EMA} = \dfrac{r}{R}$$
 | $\sum F\_{vertical} = Mg + F\_{legs} = 0$ | Vertical force balance | Average vertical force from the legs equals body weight across an integer number of strides. |
 | $F\_{avg}/W_b = T\_{step}/T_c = L\_{step}/L_c$ | Weyand step-cycle equation | Predicts the average vertical GRF (in body weights) from the ratio of step duration to stance duration. |
 | $F\_{peak} \propto 1/t_c$ | Peak force vs. contact time | As speed rises, contact time shrinks and peak vertical GRF must rise to maintain weight support. |
-| $\text{COM work} \propto s^4$ | Kuo step-length scaling | Center-of-mass work rate at step transitions scales approximately as the **fourth power of step length**. |
+| $\text{COM work} \propto s^4$ | Kuo step-length scaling | Center-of-mass work rate at step transitions scales approximately as the fourth power of step length. |
 | $F\_{muscle} = F_g \times R/r$ | Limb lever equation | Muscle force needed to balance the GRF at a joint, with r = muscle moment arm and R = GRF moment arm. |
-| $\text{EMA} = r/R$ | Effective mechanical advantage | Ratio of muscle to GRF moment arms; **rises with body mass** as posture straightens. |
+| $\text{EMA} = r/R$ | Effective mechanical advantage | Ratio of muscle to GRF moment arms; rises with body mass as posture straightens. |
 | Strength $\propto L^2$, Mass $\propto L^3$ | Isometric scaling | Strength grows with surface area, mass with volume — larger isometric animals are relatively weaker. |
 
 ---

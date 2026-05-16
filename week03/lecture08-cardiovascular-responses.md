@@ -48,10 +48,10 @@ next_lecture: /week03/friday-review
 ### Review: Steps in the Oxygen Supply Cascade
 
 - The oxygen supply cascade consists of four steps, each governed by specific equations:
-  1. **Pulmonary ventilation** — Fick principle for air convection
-  2. **Alveolar gas exchange** — Fick's law of diffusion
-  3. **Blood gas transport** (highlighted) — Fick principle for blood convection
-  4. **Systemic gas exchange** — Fick's law of diffusion at the tissue level
+  1. Pulmonary ventilation — Fick principle for air convection
+  2. Alveolar gas exchange — Fick's law of diffusion
+  3. Blood gas transport (highlighted) — Fick principle for blood convection
+  4. Systemic gas exchange — Fick's law of diffusion at the tissue level
 - The blood gas transport step uses:
 
 $$\dot{V}O_2 = \dot{Q} \cdot B_{blood}(P_aO_2 - P_vO_2)$$
@@ -71,11 +71,11 @@ $$\dot{V}O_2 = \dot{Q}(C_aO_2 - C_{\bar{v}}O_2)$$
 ### Review: Factors in Gas Transport
 
 - The complete circuit of O<sub>2</sub> transport shows progressive decreases in P<sub>O₂</sub> at each step:
-  - **Inspired air:** P<sub>O₂</sub> = 159 mmHg
-  - **Alveolar air:** P<sub>O₂</sub> = 104 mmHg
-  - **Oxygenated blood:** P<sub>O₂</sub> = 95 mmHg; P<sub>CO₂</sub> = 40 mmHg
-  - **Deoxygenated blood:** P<sub>O₂</sub> = 40 mmHg; P<sub>CO₂</sub> = 46 mmHg
-  - **Tissue fluid:** P<sub>O₂</sub> = 40 mmHg; P<sub>CO₂</sub> = 46 mmHg
+  - Inspired air: P<sub>O₂</sub> = 159 mmHg
+  - Alveolar air: P<sub>O₂</sub> = 104 mmHg
+  - Oxygenated blood: P<sub>O₂</sub> = 95 mmHg; P<sub>CO₂</sub> = 40 mmHg
+  - Deoxygenated blood: P<sub>O₂</sub> = 40 mmHg; P<sub>CO₂</sub> = 46 mmHg
+  - Tissue fluid: P<sub>O₂</sub> = 40 mmHg; P<sub>CO₂</sub> = 46 mmHg
 - Key factors: alveolar ventilation, partial pressure gradients, diffusion conductance, ventilation-perfusion matching, and shunts.
 
 ---
@@ -86,9 +86,9 @@ $$\dot{V}O_2 = \dot{Q}(C_aO_2 - C_{\bar{v}}O_2)$$
 
 ### Review: V/Q Heterogeneity Across the Lung
 
-- **Blood flow** declines steeply from the lung base to the apex; **ventilation** also declines but less steeply.
-- The **V/Q ratio** rises from below 1.0 at the base (overperfused = shunt) to above 3.0 at the apex (underperfused = dead space ventilation).
-- The spread between the highest and lowest V/Q values represents **V/Q heterogeneity** — greater heterogeneity reduces gas-exchange efficiency.
+- Blood flow declines steeply from the lung base to the apex; ventilation also declines but less steeply.
+- The V/Q ratio rises from below 1.0 at the base (overperfused = shunt) to above 3.0 at the apex (underperfused = dead space ventilation).
+- The spread between the highest and lowest V/Q values represents V/Q heterogeneity — greater heterogeneity reduces gas-exchange efficiency.
 - The ideal V/Q ratio is 1.0 across all lung regions.
 
 ---
@@ -99,7 +99,7 @@ $$\dot{V}O_2 = \dot{Q}(C_aO_2 - C_{\bar{v}}O_2)$$
 
 ### Transition: From Pulmonary to Cardiovascular Responses
 
-- This slide marks the transition from the review of ventilation-perfusion matching to the main topic: **cardiovascular responses to exercise**.
+- This slide marks the transition from the review of ventilation-perfusion matching to the main topic: cardiovascular responses to exercise.
 - The remaining learning objectives focus on O<sub>2</sub>-hemoglobin binding, the Bohr effect, myoglobin function, cardiac output during exercise, and comparative cardiovascular physiology.
 
 ---
@@ -111,9 +111,9 @@ $$\dot{V}O_2 = \dot{Q}(C_aO_2 - C_{\bar{v}}O_2)$$
 ### Factors in Gas Transport: New Topics
 
 - Building on previously covered factors, this lecture introduces three additional mechanisms critical for O<sub>2</sub> delivery to tissues:
-  - **O<sub>2</sub>-hemoglobin curve** — the relationship between P<sub>O₂</sub> and hemoglobin saturation
-  - **O<sub>2</sub>-myoglobin curve** — myoglobin's role in intramuscular O<sub>2</sub> transport
-  - **Myoglobin store in muscle** — acting as an O<sub>2</sub> reservoir and shuttle within muscle tissue
+  - O<sub>2</sub>-hemoglobin curve — the relationship between P<sub>O₂</sub> and hemoglobin saturation
+  - O<sub>2</sub>-myoglobin curve — myoglobin's role in intramuscular O<sub>2</sub> transport
+  - Myoglobin store in muscle — acting as an O<sub>2</sub> reservoir and shuttle within muscle tissue
 - These mechanisms operate at the interface between blood gas transport and systemic gas exchange, determining how effectively O<sub>2</sub> moves from capillary blood to mitochondria.
 
 ---
@@ -139,8 +139,8 @@ $$\dot{V}O_2 = \dot{Q}(C_aO_2 - C_{\bar{v}}O_2)$$
 
 $$\%\text{Sat} = \frac{[O_2]}{O_2 \text{ capacity}} \times 100$$
 
-- **O<sub>2</sub> capacity** is the maximum amount of O<sub>2</sub> that can bind hemoglobin per unit volume of blood — normally **1.34 mL O<sub>2</sub> per gram of Hb**, or approximately 20 mL O<sub>2</sub> per 100 mL of blood.
-- The curve has a characteristic **sigmoid (S-shaped)** form:
+- **O<sub>2</sub> capacity** is the maximum amount of O<sub>2</sub> that can bind hemoglobin per unit volume of blood — normally 1.34 mL O<sub>2</sub> per gram of Hb, or approximately 20 mL O<sub>2</sub> per 100 mL of blood.
+- The curve has a characteristic sigmoid (S-shaped) form:
   - Steep rise between ~20–60 mmHg P<sub>O₂</sub> — small changes in P<sub>O₂</sub> cause large changes in saturation
   - Plateau above ~80 mmHg — hemoglobin is nearly fully saturated
 - The y-axis can show either percent saturation or absolute O<sub>2</sub> concentration (mL O<sub>2</sub>/100 mL blood).
@@ -153,10 +153,10 @@ $$\%\text{Sat} = \frac{[O_2]}{O_2 \text{ capacity}} \times 100$$
 
 ### Hemoglobin-Bound vs. Dissolved Oxygen
 
-- The **vast majority** of O<sub>2</sub> in the blood is bound to hemoglobin (solid curve, "O<sub>2</sub> combined with Hb").
+- The vast majority of O<sub>2</sub> in the blood is bound to hemoglobin (solid curve, "O<sub>2</sub> combined with Hb").
 - **Dissolved O<sub>2</sub>** in the plasma (bottom line) is a very small fraction of total blood O<sub>2</sub> — only about 0.3 mL O<sub>2</sub> per 100 mL blood at P<sub>O₂</sub> = 100 mmHg.
 - The dashed "Total O<sub>2</sub>" line is the sum of hemoglobin-bound and dissolved O<sub>2</sub>, running just slightly above the hemoglobin curve.
-- At typical hemoglobin concentrations (~15 g/dL), fully saturated blood carries approximately **20 mL O<sub>2</sub> per 100 mL** — making hemoglobin the dominant O<sub>2</sub> carrier.
+- At typical hemoglobin concentrations (~15 g/dL), fully saturated blood carries approximately 20 mL O<sub>2</sub> per 100 mL — making hemoglobin the dominant O<sub>2</sub> carrier.
 - The properties of hemoglobin — specifically the P<sub>O₂</sub> at which it binds and releases O<sub>2</sub> — are therefore critically important for O<sub>2</sub> delivery.
 
 ---
@@ -167,11 +167,11 @@ $$\%\text{Sat} = \frac{[O_2]}{O_2 \text{ capacity}} \times 100$$
 
 ### O<sub>2</sub> Loading and Unloading In Vivo
 
-- At **arterial P<sub>O₂</sub>** (~100 mmHg), hemoglobin is essentially **100% saturated** with O<sub>2</sub> — this is in the plateau region of the curve.
-- At **resting venous P<sub>O₂</sub>** (~40 mmHg), hemoglobin is approximately **75% saturated**.
-- The difference between arterial and venous saturation represents the **amount of O<sub>2</sub> unloaded to the tissues** — approximately 5 mL O<sub>2</sub> per 100 mL blood at rest (a-v O<sub>2</sub> difference of ~25% of total carrying capacity).
+- At arterial P<sub>O₂</sub> (~100 mmHg), hemoglobin is essentially 100% saturated with O<sub>2</sub> — this is in the plateau region of the curve.
+- At resting venous P<sub>O₂</sub> (~40 mmHg), hemoglobin is approximately 75% saturated.
+- The difference between arterial and venous saturation represents the amount of O<sub>2</sub> unloaded to the tissues — approximately 5 mL O<sub>2</sub> per 100 mL blood at rest (a-v O<sub>2</sub> difference of ~25% of total carrying capacity).
 - At rest, a significant reserve of O<sub>2</sub> remains bound to hemoglobin in the venous blood — this reserve can be tapped during exercise as venous P<sub>O₂</sub> falls further.
-- The steep portion of the sigmoid curve (20–60 mmHg) means that small decreases in venous P<sub>O₂</sub> during exercise release **large amounts** of additional O<sub>2</sub> to the tissues.
+- The steep portion of the sigmoid curve (20–60 mmHg) means that small decreases in venous P<sub>O₂</sub> during exercise release large amounts of additional O<sub>2</sub> to the tissues.
 
 ---
 
@@ -186,7 +186,7 @@ $$\%\text{Sat} = \frac{[O_2]}{O_2 \text{ capacity}} \times 100$$
 - At a given venous P<sub>O₂</sub> (e.g., ~40 mmHg):
   - At pH 7.40 (normal): hemoglobin is ~75% saturated
   - At pH 7.20 (exercising muscle): hemoglobin is ~60% saturated
-- The rightward shift means **more O<sub>2</sub> is released** to the tissues at the same P<sub>O₂</sub>.
+- The rightward shift means more O<sub>2</sub> is released to the tissues at the same P<sub>O₂</sub>.
 - This is a self-regulating feedback: the tissues that are most metabolically active produce the most CO<sub>2</sub> and acid, creating a local rightward shift precisely where O<sub>2</sub> is most needed.
 
 ---
@@ -197,10 +197,10 @@ $$\%\text{Sat} = \frac{[O_2]}{O_2 \text{ capacity}} \times 100$$
 
 ### Temperature Effect on the Dissociation Curve
 
-- Increased temperature also causes a **rightward shift** of the O<sub>2</sub>-hemoglobin dissociation curve, facilitating O<sub>2</sub> release at the tissues.
+- Increased temperature also causes a rightward shift of the O<sub>2</sub>-hemoglobin dissociation curve, facilitating O<sub>2</sub> release at the tissues.
 - Normal body temperature is 37°C. During exercise, active muscles generate heat and can warm to ~42°C locally.
 - At the same venous P<sub>O₂</sub>, the temperature increase shifts hemoglobin saturation from ~65% to ~55%, releasing more O<sub>2</sub>.
-- This temperature effect is **localized** — it is most pronounced in the muscles that are actually working and generating heat.
+- This temperature effect is localized — it is most pronounced in the muscles that are actually working and generating heat.
 - Both the Bohr effect (pH) and the temperature effect act together during exercise to enhance O<sub>2</sub> offloading at the tissue level, directing O<sub>2</sub> preferentially to active muscles.
 - In **ectotherms** (reptiles, amphibians), the temperature effect is even more important because body temperature can vary over a much wider range.
 
@@ -212,7 +212,7 @@ $$\%\text{Sat} = \frac{[O_2]}{O_2 \text{ capacity}} \times 100$$
 
 ### Focus: Myoglobin and Intramuscular O<sub>2</sub> Transport
 
-- The next factors in gas transport are the **O<sub>2</sub>-myoglobin curve** and the **myoglobin store in muscle**.
+- The next factors in gas transport are the O<sub>2</sub>-myoglobin curve and the myoglobin store in muscle.
 - These operate at the final step of the oxygen supply cascade — getting O<sub>2</sub> from the capillary blood across the muscle tissue to the mitochondria.
 
 ---
@@ -223,13 +223,13 @@ $$\%\text{Sat} = \frac{[O_2]}{O_2 \text{ capacity}} \times 100$$
 
 ### Myoglobin vs. Hemoglobin Dissociation Curves
 
-- **Myoglobin (Mb)** has a **left-shifted** dissociation curve compared to hemoglobin — it has a much higher O<sub>2</sub> affinity.
-- At typical **venous P<sub>O₂</sub>** (~40 mmHg):
+- **Myoglobin (Mb)** has a left-shifted dissociation curve compared to hemoglobin — it has a much higher O<sub>2</sub> affinity.
+- At typical venous P<sub>O₂</sub> (~40 mmHg):
   - Hemoglobin is ~75% saturated — it releases O<sub>2</sub>
-  - Myoglobin is **nearly fully saturated** — it accepts and binds the released O<sub>2</sub>
-- Myoglobin only releases O<sub>2</sub> at **very low P<sub>O₂</sub>** values (near actively respiring mitochondria), creating an effective shuttle:
-  - Hemoglobin → releases O<sub>2</sub> at the capillary → **myoglobin** binds it → carries it through the muscle cell → releases it at the mitochondria where P<sub>O₂</sub> is near zero.
-- Myoglobin also acts as an **O<sub>2</sub> store** in muscle tissue, buffering the immediate demand for O<sub>2</sub> at exercise onset before the cardiopulmonary system fully ramps up.
+  - Myoglobin is nearly fully saturated — it accepts and binds the released O<sub>2</sub>
+- Myoglobin only releases O<sub>2</sub> at very low P<sub>O₂</sub> values (near actively respiring mitochondria), creating an effective shuttle:
+  - Hemoglobin → releases O<sub>2</sub> at the capillary → myoglobin binds it → carries it through the muscle cell → releases it at the mitochondria where P<sub>O₂</sub> is near zero.
+- Myoglobin also acts as an O<sub>2</sub> store in muscle tissue, buffering the immediate demand for O<sub>2</sub> at exercise onset before the cardiopulmonary system fully ramps up.
 - Higher myoglobin concentration in trained muscle → greater O<sub>2</sub> shuttling capacity and steeper diffusion gradient from capillary to mitochondria.
 
 ---
@@ -241,14 +241,14 @@ $$\%\text{Sat} = \frac{[O_2]}{O_2 \text{ capacity}} \times 100$$
 ### Summary: All Factors in Gas Transport
 
 - All key factors in gas transport through the oxygen supply cascade have now been covered:
-  1. **Alveolar ventilation** — delivery of fresh air to the gas-exchange surface
-  2. **Partial pressure gradients** — the driving force at each step
-  3. **Diffusion conductance** — membrane thickness and surface area
-  4. **Ventilation-perfusion matching** — coordination of airflow and blood flow
-  5. **Shunts** — blood bypassing gas exchange
-  6. **O<sub>2</sub>-hemoglobin curve** — loading in lungs, unloading at tissues (modulated by pH and temperature)
-  7. **O<sub>2</sub>-myoglobin curve** — intramuscular O<sub>2</sub> shuttle from capillaries to mitochondria
-  8. **Myoglobin store in muscle** — O<sub>2</sub> reserve buffering demand at exercise onset
+  1. Alveolar ventilation — delivery of fresh air to the gas-exchange surface
+  2. Partial pressure gradients — the driving force at each step
+  3. Diffusion conductance — membrane thickness and surface area
+  4. Ventilation-perfusion matching — coordination of airflow and blood flow
+  5. Shunts — blood bypassing gas exchange
+  6. O<sub>2</sub>-hemoglobin curve — loading in lungs, unloading at tissues (modulated by pH and temperature)
+  7. O<sub>2</sub>-myoglobin curve — intramuscular O<sub>2</sub> shuttle from capillaries to mitochondria
+  8. Myoglobin store in muscle — O<sub>2</sub> reserve buffering demand at exercise onset
 
 ---
 
@@ -264,10 +264,10 @@ $$\%\text{Sat} = \frac{[O_2]}{O_2 \text{ capacity}} \times 100$$
 
 ### Review: Diversity in Vertebrate Cardiovascular Systems
 
-- **Fish** — two-chambered heart (one atrium, one ventricle); single-loop circulation through gills then to systemic capillaries.
-- **Amphibians** — three-chambered heart; mixing of oxygenated and deoxygenated blood in a shared ventricle (pulmocutaneous + systemic circuits).
-- **Reptiles** — partially divided ventricle; a functional **cardiac shunt** allows mixing at rest.
-- **Mammals and birds** — fully divided four-chambered heart; completely separate pulmonary and systemic circuits with different pressures.
+- Fish — two-chambered heart (one atrium, one ventricle); single-loop circulation through gills then to systemic capillaries.
+- Amphibians — three-chambered heart; mixing of oxygenated and deoxygenated blood in a shared ventricle (pulmocutaneous + systemic circuits).
+- Reptiles — partially divided ventricle; a functional **cardiac shunt** allows mixing at rest.
+- Mammals and birds — fully divided four-chambered heart; completely separate pulmonary and systemic circuits with different pressures.
 - Mammals and birds independently evolved complete ventricular division — convergent evolution associated with high aerobic demand.
 - Animals with incomplete ventricular division can reduce their shunt during exercise, rapidly increasing arterial O<sub>2</sub> saturation.
 
@@ -279,8 +279,8 @@ $$\%\text{Sat} = \frac{[O_2]}{O_2 \text{ capacity}} \times 100$$
 
 ### Changes in Blood O<sub>2</sub> Content with Exercise
 
-- **Arterial O<sub>2</sub> content** remains relatively constant at ~20 mL O<sub>2</sub>/100 mL blood across the full range of exercise intensities — hemoglobin remains nearly fully saturated.
-- **Mixed venous O<sub>2</sub> content** decreases progressively with increasing work rate — from ~15 mL/100 mL at rest to ~4 mL/100 mL at maximal exercise.
+- Arterial O<sub>2</sub> content remains relatively constant at ~20 mL O<sub>2</sub>/100 mL blood across the full range of exercise intensities — hemoglobin remains nearly fully saturated.
+- Mixed venous O<sub>2</sub> content decreases progressively with increasing work rate — from ~15 mL/100 mL at rest to ~4 mL/100 mL at maximal exercise.
 - The **a-v O<sub>2</sub> difference** (the gap between the two lines) expands dramatically with exercise:
   - At rest: ~5 mL O<sub>2</sub>/100 mL blood
   - At maximal exercise: ~16 mL O<sub>2</sub>/100 mL blood
@@ -299,12 +299,12 @@ $$\%\text{Sat} = \frac{[O_2]}{O_2 \text{ capacity}} \times 100$$
 ### Graphical Fick Solution: Mammals and Birds
 
 - The **graphical solution** to the Fick principle visualizes total O<sub>2</sub> delivery as a rectangle:
-  - **Width** = cardiac output ($\dot{Q}$)
-  - **Height** = a-v O<sub>2</sub> content difference ($C\_aO\_2 - C\_{\bar{v}}O\_2$)
-  - **Area** = $\dot{V}O\_2$ (total O<sub>2</sub> consumption)
-- At **rest (BMR):** A small rectangle — low cardiac output and modest a-v O<sub>2</sub> difference.
-- During **exercise:** The rectangle expands in both dimensions — cardiac output increases dramatically and the a-v O<sub>2</sub> difference widens as venous saturation drops further along the sigmoid curve.
-- In **mammals and birds** (with fully divided hearts), the arterial side remains ~100% saturated, so the increase comes from:
+  - Width = cardiac output ($\dot{Q}$)
+  - Height = a-v O<sub>2</sub> content difference ($C\_aO\_2 - C\_{\bar{v}}O\_2$)
+  - Area = $\dot{V}O\_2$ (total O<sub>2</sub> consumption)
+- At rest (BMR): a small rectangle — low cardiac output and modest a-v O<sub>2</sub> difference.
+- During exercise: the rectangle expands in both dimensions — cardiac output increases dramatically and the a-v O<sub>2</sub> difference widens as venous saturation drops further along the sigmoid curve.
+- In mammals and birds (with fully divided hearts), the arterial side remains ~100% saturated, so the increase comes from:
   1. Higher cardiac output (wider rectangle)
   2. Greater O<sub>2</sub> extraction — venous P<sub>O₂</sub> drops into the steep portion of the curve, releasing large amounts of O<sub>2</sub>
 
@@ -316,11 +316,11 @@ $$\%\text{Sat} = \frac{[O_2]}{O_2 \text{ capacity}} \times 100$$
 
 ### Graphical Fick Solution: Fish (Ectotherms)
 
-- The same graphical principle applies to **fish and other ectotherms**, but with the terminology **SMR (standard metabolic rate)** instead of BMR.
-- SMR must be measured at a **standard ambient temperature** because ectotherm metabolic rate varies dramatically with temperature.
+- The same graphical principle applies to fish and other ectotherms, but with the terminology **SMR (standard metabolic rate)** instead of BMR.
+- SMR must be measured at a standard ambient temperature because ectotherm metabolic rate varies dramatically with temperature.
 - In fish, O<sub>2</sub> is extracted from water (not air) through gill countercurrent exchange. The fundamental Fick principle is identical — $\dot{V}O\_2 = \dot{Q}(C\_aO\_2 - C\_{\bar{v}}O\_2)$.
 - The same graphical solution applies: the rectangle expands with exercise as both cardiac output and the a-v O<sub>2</sub> difference increase.
-- This illustrates that the **same physical principles** of O<sub>2</sub> delivery govern gas exchange across all vertebrates, from fish to mammals.
+- This illustrates that the same physical principles of O<sub>2</sub> delivery govern gas exchange across all vertebrates, from fish to mammals.
 
 ---
 
@@ -330,13 +330,13 @@ $$\%\text{Sat} = \frac{[O_2]}{O_2 \text{ capacity}} \times 100$$
 
 ### Graphical Fick Solution: Animals with Cardiac Shunts
 
-- In animals with **incomplete ventricular division** (amphibians, non-crocodilian reptiles), a right-to-left shunt exists at rest.
-- At rest: Arterial blood is **not fully oxygenated** because deoxygenated blood mixes in the ventricle — the arterial point falls below 100% on the curve.
-- During exercise: The shunt is **reduced** due to changes in cardiac fluid dynamics as the heart pumps harder. This means:
-  - **Arterial saturation increases** (moves up the curve toward full saturation)
-  - **Venous saturation decreases** (more O<sub>2</sub> extracted by active tissues)
-- The a-v O<sub>2</sub> difference can therefore expand from **both ends** — a unique advantage.
-- This enables a **large increase in O<sub>2</sub> delivery** even with a relatively modest change in cardiac output.
+- In animals with incomplete ventricular division (amphibians, non-crocodilian reptiles), a right-to-left shunt exists at rest.
+- At rest: arterial blood is not fully oxygenated because deoxygenated blood mixes in the ventricle — the arterial point falls below 100% on the curve.
+- During exercise: the shunt is reduced due to changes in cardiac fluid dynamics as the heart pumps harder. This means:
+  - Arterial saturation increases (moves up the curve toward full saturation)
+  - Venous saturation decreases (more O<sub>2</sub> extracted by active tissues)
+- The a-v O<sub>2</sub> difference can therefore expand from both ends — a unique advantage.
+- This enables a large increase in O<sub>2</sub> delivery even with a relatively modest change in cardiac output.
 - The shunt acts as a functional switch: costly at rest (lower arterial saturation) but enabling a rapid boost in O<sub>2</sub> delivery during exercise.
 
 ---
@@ -349,7 +349,7 @@ $$\%\text{Sat} = \frac{[O_2]}{O_2 \text{ capacity}} \times 100$$
 
 - Bar graphs compare cardiovascular parameters (heart rate, stroke volume, cardiac output) across diverse vertebrate species at rest and during exercise.
 - Species are grouped by color: fish/amphibians, reptiles, birds, and mammals.
-- The **factorial change in heart rate** between rest and exercise (bottom-right panel) shows that **birds exhibit the largest increases** — consistent with their exceptionally efficient respiratory and cardiovascular systems.
+- The factorial change in heart rate between rest and exercise (bottom-right panel) shows that birds exhibit the largest increases — consistent with their exceptionally efficient respiratory and cardiovascular systems.
 - Birds not only have more efficient lungs but also show a greater increase in cardiac output during exercise, which is one reason they are among the most impressive vertebrate athletes.
 - Flight is an extremely energy-demanding activity, requiring both high cardiac output and efficient gas exchange.
 
@@ -361,9 +361,9 @@ $$\%\text{Sat} = \frac{[O_2]}{O_2 \text{ capacity}} \times 100$$
 
 ### Arterial Blood Gases During Exercise Across Species
 
-- **P<sub>a</sub>O<sub>2</sub>** (red lines) typically remains high during exercise across most vertebrate species — the lungs maintain adequate oxygenation of arterial blood.
-  - Exception: The **horse** shows a significant decline in P<sub>a</sub>O<sub>2</sub> during exercise — one of the elite athletes experiencing EIAH, most likely due to **diffusion limitation** in the lungs.
-- **P<sub>a</sub>CO<sub>2</sub>** (blue lines) typically **declines** during exercise in most species, suggesting that most vertebrates **hyperventilate** relative to their metabolic CO<sub>2</sub> production.
+- P<sub>a</sub>O<sub>2</sub> (red lines) typically remains high during exercise across most vertebrate species — the lungs maintain adequate oxygenation of arterial blood.
+  - Exception: the horse shows a significant decline in P<sub>a</sub>O<sub>2</sub> during exercise — one of the elite athletes experiencing EIAH, most likely due to **diffusion limitation** in the lungs.
+- P<sub>a</sub>CO<sub>2</sub> (blue lines) typically declines during exercise in most species, suggesting that most vertebrates hyperventilate relative to their metabolic CO<sub>2</sub> production.
   - The horse is again an exception — maintaining or slightly increasing P<sub>a</sub>CO<sub>2</sub>.
 - P<sub>a</sub>CO<sub>2</sub> in fish is particularly variable due to the low O<sub>2</sub> solubility of water, which imposes additional constraints on the hyperventilation response.
 
@@ -379,12 +379,12 @@ $$\%\text{Sat} = \frac{[O_2]}{O_2 \text{ capacity}} \times 100$$
 
 $$fAS = \frac{\dot{V}O_2\text{max}}{SMR}$$
 
-- Most vertebrates have a fAS of **5–10×**, meaning maximum O<sub>2</sub> uptake is 5–10 times the resting rate.
-- Factorial aerobic scope shows a **positive correlation with body mass** — larger animals tend to have higher aerobic scope.
+- Most vertebrates have a fAS of 5–10×, meaning maximum O<sub>2</sub> uptake is 5–10 times the resting rate.
+- Factorial aerobic scope shows a positive correlation with body mass — larger animals tend to have higher aerobic scope.
 - The most athletic species (horses, birds in flight) can reach fAS values up to ~50×.
 - Animals with high aerobic scope tend to have:
-  1. A relatively **large heart** relative to body mass — enabling high cardiac output
-  2. Higher **hemoglobin concentrations** — increasing blood O<sub>2</sub>-carrying capacity
+  1. A relatively large heart relative to body mass — enabling high cardiac output
+  2. Higher hemoglobin concentrations — increasing blood O<sub>2</sub>-carrying capacity
 - Some species (e.g., horses) have large spleens that release stored red blood cells during exercise, rapidly boosting hemoglobin concentration.
 
 ---
@@ -395,7 +395,7 @@ $$fAS = \frac{\dot{V}O_2\text{max}}{SMR}$$
 
 ### Transition: Cardiovascular Responses to Exercise
 
-- The lecture now transitions from the comparative and mechanistic overview to the specific **cardiovascular adjustments** that occur during exercise in humans and other vertebrates.
+- The lecture now transitions from the comparative and mechanistic overview to the specific cardiovascular adjustments that occur during exercise in humans and other vertebrates.
 - Topics include: heart rate and stroke volume dynamics, the Frank-Starling mechanism, effects of training, blood flow redistribution, and cardiovascular drift.
 
 ---
@@ -406,13 +406,13 @@ $$fAS = \frac{\dot{V}O_2\text{max}}{SMR}$$
 
 ### Transition from Rest to Steady Exercise to Recovery
 
-- At exercise onset, all three components show a **rapid increase**:
-  - **Cardiac output** rises sharply from ~5 to ~15 L/min
-  - **Stroke volume** increases modestly from ~80 to ~120 mL and then plateaus
-  - **Heart rate** rises sharply from ~70 to ~160 beats/min
-- During **steady-state exercise**, cardiac output and stroke volume maintain relatively stable levels.
-- During **recovery**, all parameters gradually return toward resting values, with a characteristic lag.
-- The **rate of heart rate recovery** after exercise is an indicator of cardiovascular fitness — faster recovery indicates better fitness. This is one of the metrics tracked by modern fitness watches.
+- At exercise onset, all three components show a rapid increase:
+  - Cardiac output rises sharply from ~5 to ~15 L/min
+  - Stroke volume increases modestly from ~80 to ~120 mL and then plateaus
+  - Heart rate rises sharply from ~70 to ~160 beats/min
+- During steady-state exercise, cardiac output and stroke volume maintain relatively stable levels.
+- During recovery, all parameters gradually return toward resting values, with a characteristic lag.
+- The rate of heart rate recovery after exercise is an indicator of cardiovascular fitness — faster recovery indicates better fitness. This is one of the metrics tracked by modern fitness watches.
 
 ---
 
@@ -422,10 +422,10 @@ $$fAS = \frac{\dot{V}O_2\text{max}}{SMR}$$
 
 ### Heart Rate, Stroke Volume, and Cardiac Output During Incremental Exercise
 
-- **Heart rate (HR)** increases approximately **linearly** with exercise intensity across the full range of % VO<sub>2</sub>max.
-- **Stroke volume (SV)** increases at low work rates but **plateaus** at approximately **40% VO<sub>2</sub>max**. At very high heart rates, diastolic filling time shortens, limiting further SV increases.
-- **Cardiac output** ($\dot{Q} = HR \times SV$) rises linearly at low work rates. Above the SV plateau, continued increases in $\dot{Q}$ depend primarily on rising HR.
-- **Maximum heart rate** declines slightly with age and can be estimated:
+- **Heart rate (HR)** increases approximately linearly with exercise intensity across the full range of % VO<sub>2</sub>max.
+- **Stroke volume (SV)** increases at low work rates but plateaus at approximately 40% VO<sub>2</sub>max. At very high heart rates, diastolic filling time shortens, limiting further SV increases.
+- Cardiac output ($\dot{Q} = HR \times SV$) rises linearly at low work rates. Above the SV plateau, continued increases in $\dot{Q}$ depend primarily on rising HR.
+- Maximum heart rate declines slightly with age and can be estimated:
 
 $$HR_{max} \approx 208 - (0.7 \times \text{Age})$$
 
@@ -439,9 +439,9 @@ $$HR_{max} \approx 208 - (0.7 \times \text{Age})$$
 
 ### Stroke Volume at Very High Work Rates
 
-- At very high work rates, stroke volume may actually **decrease slightly** — this occurs because extremely fast heart rates reduce diastolic filling time.
+- At very high work rates, stroke volume may actually decrease slightly — this occurs because extremely fast heart rates reduce diastolic filling time.
 - The **Frank-Starling mechanism** depends on adequate venous return filling the ventricle during diastole. At extreme heart rates, the interval between beats becomes too short for complete filling, reducing end-diastolic volume and therefore SV.
-- This represents operating at the **limits of the cardiovascular system** for that individual.
+- This represents operating at the limits of the cardiovascular system for that individual.
 - Despite the SV plateau (or slight decline), cardiac output continues to increase because heart rate continues to rise — but the rate of $\dot{Q}$ increase slows.
 
 ---
@@ -459,10 +459,10 @@ $$HR_{max} \approx 208 - (0.7 \times \text{Age})$$
 | Trained male | 50 | 100 | 5.00 | 190 | 180 | 34.2 |
 | Trained female | 55 | 80 | 4.40 | 190 | 125 | 23.8 |
 
-- **Resting cardiac output** is similar between trained and untrained individuals — the same blood flow is needed at rest regardless of fitness.
-- Trained individuals have a **lower resting heart rate** because their **stroke volume is higher** (cardiac hypertrophy increases the volume of blood ejected per beat).
-- **Maximum heart rate** changes very little with training (~190 vs. 200 b/min).
-- The main training effect is a **large increase in maximum stroke volume** — trained males can achieve 180 mL vs. 110 mL untrained — which drives the increase in maximum cardiac output (34.2 vs. 22.0 L/min).
+- Resting cardiac output is similar between trained and untrained individuals — the same blood flow is needed at rest regardless of fitness.
+- Trained individuals have a lower resting heart rate because their stroke volume is higher (cardiac hypertrophy increases the volume of blood ejected per beat).
+- Maximum heart rate changes very little with training (~190 vs. 200 b/min).
+- The main training effect is a large increase in maximum stroke volume — trained males can achieve 180 mL vs. 110 mL untrained — which drives the increase in maximum cardiac output (34.2 vs. 22.0 L/min).
 
 ---
 
@@ -472,10 +472,10 @@ $$HR_{max} \approx 208 - (0.7 \times \text{Age})$$
 
 ### Correlation Between Heart Rate and VO<sub>2</sub>
 
-- There is a strong **linear relationship** between heart rate and % VO<sub>2</sub>max (R² = 0.97).
-- This linear correlation is physiologically useful because **VO<sub>2</sub> is difficult to measure directly** during exercise (requires a mask and metabolic cart).
+- There is a strong linear relationship between heart rate and % VO<sub>2</sub>max (R² = 0.97).
+- This linear correlation is physiologically useful because VO<sub>2</sub> is difficult to measure directly during exercise (requires a mask and metabolic cart).
 - Heart rate is easily and continuously measurable using fitness watches and heart rate monitors.
-- Modern fitness watches exploit this relationship to **estimate VO<sub>2</sub>** from heart rate data, using population-level normative data sets.
+- Modern fitness watches exploit this relationship to estimate VO<sub>2</sub> from heart rate data, using population-level normative data sets.
 - The accuracy of these estimates depends on individual variability in the HR–VO<sub>2</sub> relationship, which is influenced by training history, body size, and genetics.
 
 ---
@@ -486,8 +486,8 @@ $$HR_{max} \approx 208 - (0.7 \times \text{Age})$$
 
 ### HR–VO<sub>2</sub> Correlation in Ectotherms
 
-- The linear relationship between heart rate and VO<sub>2</sub> holds not just for humans but also for other vertebrates, including **Galápagos marine iguanas**.
-- However, in ectotherms the relationship is **temperature-dependent** — different regression lines for 27°C vs. 36°C body temperature.
+- The linear relationship between heart rate and VO<sub>2</sub> holds not just for humans but also for other vertebrates, including Galápagos marine iguanas.
+- However, in ectotherms the relationship is temperature-dependent — different regression lines for 27°C vs. 36°C body temperature.
 - At higher body temperature, the metabolic rate is higher at any given heart rate, shifting the relationship upward.
 - This temperature dependence is expected because ectotherm metabolic rate varies directly with body temperature, unlike endotherms where core temperature is tightly regulated.
 - This comparative finding reinforces the fundamental physiological principle that heart rate tracks metabolic demand, but the specific relationship varies with species and environmental conditions.
@@ -500,9 +500,9 @@ $$HR_{max} \approx 208 - (0.7 \times \text{Age})$$
 
 ### Redistribution of Blood Flow During Exercise
 
-- During exercise, blood flow is dramatically **redistributed** from non-essential organs to working muscles:
-  - **Muscle blood flow** increases steeply — from ~400 mL at rest to ~1500 mL at maximal exercise.
-  - **Splanchnic (digestive organ) blood flow** decreases from ~100 mL to near 20 mL.
+- During exercise, blood flow is dramatically redistributed from non-essential organs to working muscles:
+  - Muscle blood flow increases steeply — from ~400 mL at rest to ~1500 mL at maximal exercise.
+  - Splanchnic (digestive organ) blood flow decreases from ~100 mL to near 20 mL.
 - This redistribution is mediated by:
   - **Sympathetic vasoconstriction** — norepinephrine acting on α-adrenergic receptors constricts arterioles in non-essential organs (gut, kidney, inactive muscle).
   - **Local metabolic vasodilation** — CO<sub>2</sub>, H<sup>+</sup>, adenosine, nitric oxide, and K<sup>+</sup> accumulating in active muscles dilate local arterioles, overriding sympathetic tone.
@@ -516,7 +516,7 @@ $$HR_{max} \approx 208 - (0.7 \times \text{Age})$$
 
 ### Blood Flow Distribution: Rest vs. Heavy Exercise
 
-- At **rest** (cardiac output ~5 L/min):
+- At rest (cardiac output ~5 L/min):
   - Skeletal muscle: ~15–20%
   - Splanchnic organs: ~20–25%
   - Kidneys: ~20%
@@ -524,14 +524,14 @@ $$HR_{max} \approx 208 - (0.7 \times \text{Age})$$
   - Heart: ~4–5%
   - Skin and other organs: remaining share
 
-- During **heavy exercise** (cardiac output ~25 L/min):
-  - Skeletal muscle: **80–85%**
+- During heavy exercise (cardiac output ~25 L/min):
+  - Skeletal muscle: 80–85%
   - Splanchnic organs: ~3–5%
   - Kidneys: ~3–5%
   - Brain and heart: absolute flow maintained, but a smaller percentage of the much larger total cardiac output
   - Skin: initially reduced, then increases as core temperature rises (thermoregulatory competition for cardiac output)
 
-- Brain and heart circulations are **never vasoconstricted** — they are protected at all intensities.
+- Brain and heart circulations are never vasoconstricted — they are protected at all intensities.
 
 ---
 
@@ -541,16 +541,16 @@ $$HR_{max} \approx 208 - (0.7 \times \text{Age})$$
 
 ### Summary: Cardiovascular Responses to Exercise
 
-- **Cardiac output** increases through two mechanisms:
-  - **Heart rate** — increased by the sympatho-adrenal system (sympathetic stimulation + circulating epinephrine) and parasympathetic withdrawal
-  - **Stroke volume** — increased by:
-    - Improved **venous return** via the skeletal muscle pump (contracting muscles compress veins) and the respiratory pump (deeper breathing creates greater intrathoracic pressure swings)
+- Cardiac output increases through two mechanisms:
+  - Heart rate — increased by the sympatho-adrenal system (sympathetic stimulation + circulating epinephrine) and parasympathetic withdrawal
+  - Stroke volume — increased by:
+    - Improved venous return via the skeletal muscle pump (contracting muscles compress veins) and the respiratory pump (deeper breathing creates greater intrathoracic pressure swings)
     - **Frank-Starling mechanism** — greater venous return stretches the ventricle, producing stronger contractions
     - Increased contractility from sympathetic stimulation (positive inotropy)
 
-- **Blood flow to skeletal muscles** increases through:
-  - **Metabolic vasodilation** in active muscles (local accumulation of CO<sub>2</sub>, H<sup>+</sup>, adenosine, NO, K<sup>+</sup>)
-  - **Sympathetic vasoconstriction** in visceral organs (gut, kidney) diverts blood to muscles
+- Blood flow to skeletal muscles increases through:
+  - Metabolic vasodilation in active muscles (local accumulation of CO<sub>2</sub>, H<sup>+</sup>, adenosine, NO, K<sup>+</sup>)
+  - Sympathetic vasoconstriction in visceral organs (gut, kidney) diverts blood to muscles
 
 ---
 
@@ -560,11 +560,11 @@ $$HR_{max} \approx 208 - (0.7 \times \text{Age})$$
 
 ### Cardiovascular Drift During Prolonged Exercise
 
-- During **prolonged exercise** (especially in warm environments), a characteristic pattern called **cardiovascular drift** emerges:
-  - **Cardiac output** is maintained at a relatively stable level
-  - **Stroke volume** gradually **decreases** — from ~120 mL to ~95 mL over 50 minutes
-  - **Heart rate** progressively **increases** to compensate — from ~150 to ~180 beats/min
-- The mechanism: **dehydration from sweating** reduces plasma volume → less venous return → lower end-diastolic volume → reduced stroke volume (Frank-Starling mechanism).
+- During prolonged exercise (especially in warm environments), a characteristic pattern called **cardiovascular drift** emerges:
+  - Cardiac output is maintained at a relatively stable level
+  - Stroke volume gradually decreases — from ~120 mL to ~95 mL over 50 minutes
+  - Heart rate progressively increases to compensate — from ~150 to ~180 beats/min
+- The mechanism: dehydration from sweating reduces plasma volume → less venous return → lower end-diastolic volume → reduced stroke volume (Frank-Starling mechanism).
 - Heart rate increases reflexively to maintain the cardiac output needed for the constant work rate.
 - Practical consequence: athletes using heart rate to regulate pace must slow down to maintain a target HR in a dehydrated state, because the same work rate now requires a higher HR.
 
@@ -577,14 +577,14 @@ $$HR_{max} \approx 208 - (0.7 \times \text{Age})$$
 ### Cardiovascular Control in Exercise
 
 - The **cardiovascular (CV) control center** integrates multiple inputs to coordinate the cardiovascular response:
-  - **Central command** (higher brain centers) — anticipatory, feed-forward drive at exercise onset (parallel to ventilatory central command)
-  - **Baroreceptors** — sense arterial blood pressure and adjust to maintain appropriate MAP
+  - Central command (higher brain centers) — anticipatory, feed-forward drive at exercise onset (parallel to ventilatory central command)
+  - Baroreceptors — sense arterial blood pressure and adjust to maintain appropriate MAP
 - The CV control center modulates:
-  - **Blood vessels** — vasoconstriction/vasodilation to redirect blood flow
-  - **Heart** — heart rate (chronotropy) and contractility (inotropy)
-- **Skeletal muscle** provides feedback via:
-  - **Chemoreceptors** — detect metabolic byproducts (H<sup>+</sup>, K<sup>+</sup>, adenosine) — the **exercise pressor reflex**
-  - **Mechanoreceptors** — detect mechanical activity and contribute to the rapid cardiovascular response at exercise onset
+  - Blood vessels — vasoconstriction/vasodilation to redirect blood flow
+  - Heart — heart rate (chronotropy) and contractility (inotropy)
+- Skeletal muscle provides feedback via:
+  - Chemoreceptors — detect metabolic byproducts (H<sup>+</sup>, K<sup>+</sup>, adenosine) — the **exercise pressor reflex**
+  - Mechanoreceptors — detect mechanical activity and contribute to the rapid cardiovascular response at exercise onset
 - This control scheme parallels the ventilatory control system, reflecting the tight coordination required between breathing and circulation.
 
 ---
@@ -605,13 +605,13 @@ $$HR_{max} \approx 208 - (0.7 \times \text{Age})$$
 
 ### Lecture 7 — Key Takeaways
 
-1. The **oxygen-hemoglobin dissociation curve** has a sigmoid shape. The steep portion (~20–60 mmHg) enables efficient O<sub>2</sub> loading in the lungs and unloading at the tissues. At rest, venous blood is still ~75% saturated — a large reserve exists for exercise.
-2. The **Bohr effect** (decreased pH → rightward shift) and **temperature effect** (increased temperature → rightward shift) both enhance O<sub>2</sub> unloading at active muscle tissue during exercise. These effects are localized, directing O<sub>2</sub> where it is most needed.
-3. **Myoglobin** acts as an intramuscular O<sub>2</sub> shuttle (capillary → mitochondria) and as an O<sub>2</sub> store that buffers demand at exercise onset before the cardiopulmonary system ramps up.
-4. The **graphical Fick solution** shows that total O<sub>2</sub> delivery = cardiac output × a-v O<sub>2</sub> difference. In mammals/birds, expansion comes from both higher $\dot{Q}$ and a wider a-v difference. In animals with cardiac shunts, the arterial side can also increase during exercise.
-5. **Heart rate** increases linearly with exercise intensity; **stroke volume** plateaus at ~40% VO<sub>2</sub>max. Training primarily increases maximum stroke volume, not maximum heart rate.
-6. **Blood flow redistribution** during exercise directs up to 80–85% of cardiac output to working muscles via sympathetic vasoconstriction of non-essential organs and local metabolic vasodilation in active muscles.
-7. **Cardiovascular drift** during prolonged exercise reflects dehydration-induced reduction in stroke volume compensated by rising heart rate to maintain cardiac output.
+1. The oxygen-hemoglobin dissociation curve has a sigmoid shape. The steep portion (~20–60 mmHg) enables efficient O<sub>2</sub> loading in the lungs and unloading at the tissues. At rest, venous blood is still ~75% saturated — a large reserve exists for exercise.
+2. The Bohr effect (decreased pH → rightward shift) and temperature effect (increased temperature → rightward shift) both enhance O<sub>2</sub> unloading at active muscle tissue during exercise. These effects are localized, directing O<sub>2</sub> where it is most needed.
+3. Myoglobin acts as an intramuscular O<sub>2</sub> shuttle (capillary → mitochondria) and as an O<sub>2</sub> store that buffers demand at exercise onset before the cardiopulmonary system ramps up.
+4. The graphical Fick solution shows that total O<sub>2</sub> delivery = cardiac output × a-v O<sub>2</sub> difference. In mammals/birds, expansion comes from both higher $\dot{Q}$ and a wider a-v difference. In animals with cardiac shunts, the arterial side can also increase during exercise.
+5. Heart rate increases linearly with exercise intensity; stroke volume plateaus at ~40% VO<sub>2</sub>max. Training primarily increases maximum stroke volume, not maximum heart rate.
+6. Blood flow redistribution during exercise directs up to 80–85% of cardiac output to working muscles via sympathetic vasoconstriction of non-essential organs and local metabolic vasodilation in active muscles.
+7. Cardiovascular drift during prolonged exercise reflects dehydration-induced reduction in stroke volume compensated by rising heart rate to maintain cardiac output.
 
 ---
 

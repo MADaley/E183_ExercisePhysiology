@@ -5,7 +5,7 @@ title: "Week 7: Training Effects on Muscle and Forces in Locomotion"
 
 # Week 7: Training Effects on Muscle and Forces in Locomotion
 
-This week closes the muscle physiology unit with the **plastic adaptive responses** of muscle to training and detraining, then begins the locomotion unit with the **mechanical demands** of walking and running and how those demands set the stage for the metabolic energy cost of locomotion.
+This week closes the muscle physiology unit with the plastic adaptive responses of muscle to training and detraining, then begins the locomotion unit with the mechanical demands of walking and running and how those demands set the stage for the metabolic energy cost of locomotion.
 
 ## Lectures
 

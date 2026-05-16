@@ -10,15 +10,11 @@ prev_lecture: /week07/friday-review
 next_lecture: /week08/lecture18-humans-comparative
 ---
 
-This lecture continues from Lecture 16 by completing the picture of **force demands in gait** and then connecting those force demands to the **metabolic energy cost of locomotion**. The first half wraps up walking ground reaction forces, the scaling of force capacity with body size, and how leg posture sets the muscle force required to support body weight. The second half develops **mass-specific metabolic rate** and **cost of transport (CoT)**, introduces the **Kram and Taylor 1/T<sub>c</sub>** framework that explains why small animals are metabolically expensive runners, surveys CoT–speed curves across **walking, trotting, and galloping**, and ends with **reduced-gravity** experiments and **real-world wearable** measurements that test the steady-state laboratory paradigm.
-
----
-
 ## Slide 1
 
 ![Title slide for "Forces and energy cost in locomotion" by Dr. Monica A. Daley, Professor, Ecology and Evolutionary Biology, University of California, Irvine. The same background collage used in earlier lectures shows a cyclist, water polo player, swimmer, sprinter, an oxygen cascade schematic, and a row of comparative species.](images/lec17/slide-001.png)
 
-- Continues directly from Lecture 16. Same overall theme — **forces and mechanical energy demands of locomotion** — now extending into the **metabolic energy cost** that follows from those force demands.
+- Continues directly from Lecture 16. Same overall theme — forces and mechanical energy demands of locomotion — now extending into the metabolic energy cost that follows from those force demands.
 
 ---
 
@@ -28,12 +24,12 @@ This lecture continues from Lecture 16 by completing the picture of **force dema
 
 ### Recap — Mechanical Energy Patterns of Walking and Running
 
-- **Walking** = **inverted pendulum**: stiff leg vaults the body up and over, exchanging **gravitational potential (E<sub>g</sub>)** and **kinetic energy (E<sub>k</sub>)** out of phase.
-- **Running** = **bouncing spring**: compliant leg cycles mechanical energy through **elastic springs** in tendons and ligaments; E<sub>g</sub> and E<sub>k</sub> fluctuate in phase.
-- These passive mechanisms **minimize the muscular work within a stance**, but they cannot eliminate:
-  1. **Force demands** to support body weight against gravity.
+- **Walking** = **inverted pendulum**: stiff leg vaults the body up and over, exchanging gravitational potential (E<sub>g</sub>) and kinetic energy (E<sub>k</sub>) out of phase.
+- **Running** = **bouncing spring**: compliant leg cycles mechanical energy through elastic springs in tendons and ligaments; E<sub>g</sub> and E<sub>k</sub> fluctuate in phase.
+- These passive mechanisms minimize the muscular work within a stance, but they cannot eliminate:
+  1. Force demands to support body weight against gravity.
   2. **Collisional energy losses** at step-to-step transitions.
-- These two irreducible demands are what drive the **metabolic energy cost** of legged locomotion.
+- These two irreducible demands are what drive the metabolic energy cost of legged locomotion.
 
 ---
 
@@ -43,12 +39,12 @@ This lecture continues from Lecture 16 by completing the picture of **force dema
 
 ### Walking GRF — Shape Variations with Speed, Strategy, and Footwear
 
-- **Speed dependence (Hubel & Usherwood 2015)**: the **M-shape** vertical GRF of walking deepens as speed rises. At very high walking speeds, the mid-stance trough can reach zero — and the body would be in **aerial phase** if walking continued, which is why a real walker switches gait first.
-- **Asymmetric M-shape (Usherwood et al. 2018)**: at high walking speeds the M-shape can become **asymmetric**. The shape depends on whether the gait is **minimizing peak power** (second peak smaller — prolongs the late-stance push-off so muscle-tendon units deliver power over longer time) or **minimizing work** (symmetric M — maintains passive inverted-pendulum motion).
-- **Foot morphology and footwear**: the trace shape changes with how the foot meets the ground.
-  - **Plantigrade barefoot heel strike** (typical human walking): an early **impact peak** appears, caused by the rapid heel-deceleration collision.
-  - **Forefoot or ball-of-foot contact** (e.g., a human walking on the balls of the feet, or an ostrich digitigrade foot): the impact peak is **smoothed out** — collisional energy is absorbed by the longitudinal arch and elastic structures.
-  - **High-heel shoes**: a stiletto removes the natural foot-roll, producing **two sharp collisions** (heel then toe) with no rolling in between, raising collisional cost. Platform heels are less disruptive than stilettos.
+- Speed dependence (Hubel & Usherwood 2015): the M-shape vertical GRF of walking deepens as speed rises. At very high walking speeds, the mid-stance trough can reach zero — and the body would be in aerial phase if walking continued, which is why a real walker switches gait first.
+- Asymmetric M-shape (Usherwood et al. 2018): at high walking speeds the M-shape can become asymmetric. The shape depends on whether the gait is minimizing peak power (second peak smaller — prolongs the late-stance push-off so muscle-tendon units deliver power over longer time) or minimizing work (symmetric M — maintains passive inverted-pendulum motion).
+- Foot morphology and footwear: the trace shape changes with how the foot meets the ground.
+  - **Plantigrade** barefoot heel strike (typical human walking): an early impact peak appears, caused by the rapid heel-deceleration collision.
+  - Forefoot or ball-of-foot contact (e.g., a human walking on the balls of the feet, or an ostrich digitigrade foot): the impact peak is smoothed out — collisional energy is absorbed by the longitudinal arch and elastic structures.
+  - High-heel shoes: a stiletto removes the natural foot-roll, producing two sharp collisions (heel then toe) with no rolling in between, raising collisional cost. Platform heels are less disruptive than stilettos.
 
 ---
 
@@ -58,8 +54,8 @@ This lecture continues from Lecture 16 by completing the picture of **force dema
 
 ### Body Size — A 10<sup>6</sup>-Fold Range Across Mammals
 
-- Terrestrial mammals span **~10<sup>6</sup>-fold** in body mass — from a few grams to several thousand kilograms.
-- Different sizes pose **different mechanical problems**, and animals across this range show systematic differences in posture, limb proportions, and metabolic cost. These trends are explained by **simple scaling arguments** developed in the next slides.
+- Terrestrial mammals span ~10<sup>6</sup>-fold in body mass — from a few grams to several thousand kilograms.
+- Different sizes pose different mechanical problems, and animals across this range show systematic differences in posture, limb proportions, and metabolic cost. These trends are explained by simple scaling arguments developed in the next slides.
 
 ---
 
@@ -69,12 +65,12 @@ This lecture continues from Lecture 16 by completing the picture of **force dema
 
 ### Isometric Scaling — Why Bigger Means Relatively Weaker
 
-- **Geometric (isometric) scaling**: if a body doubles in linear dimension (L) without changing shape:
-  - **Cross-sectional area (CSA)** ∝ L<sup>2</sup> → strength of bones and muscles increases by **4×**.
-  - **Volume and mass** ∝ L<sup>3</sup> → loading increases by **8×**.
-  - **Ratio CSA/mass** halves.
-- Conclusion: **strength scales with L<sup>2</sup>**, **loading scales with L<sup>3</sup>** — so if animals enlarged without changing shape, **larger animals would be relatively weaker**.
-- Real animals do not scale isometrically — they **change shape** with size (next slides). An elephant the size of a mouse with the same posture and bone proportions would simply be unable to support itself.
+- **Isometric scaling** — if a body doubles in linear dimension (L) without changing shape:
+  - **Cross-sectional area (CSA)** ∝ L<sup>2</sup> → strength of bones and muscles increases by 4×.
+  - Volume and mass ∝ L<sup>3</sup> → loading increases by 8×.
+  - Ratio CSA/mass halves.
+- Conclusion: strength scales with L<sup>2</sup>, loading scales with L<sup>3</sup> — so if animals enlarged without changing shape, larger animals would be relatively weaker.
+- Real animals do not scale isometrically — they change shape with size (next slides). An elephant the size of a mouse with the same posture and bone proportions would simply be unable to support itself.
 
 ---
 
@@ -84,9 +80,9 @@ This lecture continues from Lecture 16 by completing the picture of **force dema
 
 ### Posture Must Change with Size
 
-- Because **weight scales faster than musculoskeletal strength**, larger animals cannot use the same posture as small animals.
-- **Solution**: as body size increases, **limb posture shifts to a more upright (extended) configuration**, aligning the limb more closely with the ground reaction force.
-- This raises the **effective mechanical advantage** of the limb so that a given muscle force can resist a much larger GRF.
+- Because weight scales faster than musculoskeletal strength, larger animals cannot use the same posture as small animals.
+- Solution: as body size increases, limb posture shifts to a more upright (extended) configuration, aligning the limb more closely with the ground reaction force.
+- This raises the **effective mechanical advantage (EMA)** of the limb so that a given muscle force can resist a much larger GRF.
 
 ---
 
@@ -96,11 +92,11 @@ This lecture continues from Lecture 16 by completing the picture of **force dema
 
 ### Effective Mechanical Advantage Scales with Body Size
 
-- The **effective mechanical advantage (EMA)**, defined as $r/R$ — the ratio of muscle moment arm $r$ to GRF moment arm $R$ — increases systematically with body mass across mammals.
+- The EMA, defined as $r/R$ — the ratio of muscle moment arm $r$ to GRF moment arm $R$ — increases systematically with body mass across mammals.
 - Quantitative result (Biewener and colleagues): EMA rises from ~0.1 in small rodents to ~1.0 in horses on a log-log line spanning four orders of magnitude in body mass.
-- **Mechanism — posture shift**: large animals stand with a more **upright (extended)** limb; small animals with a **crouched** limb. The upright posture aligns the limb with the GRF, raising EMA.
-- **Functional consequence**: with higher EMA, **a given muscle force can resist a larger GRF**. This allows muscle force capacity to keep up with body weight as size increases — so muscle and bone do not have to scale impossibly fast with body mass.
-- **Trade-off** (revisited in the human-context lecture): a crouched posture, while metabolically expensive, gives **greater range of joint motion** and is therefore better for **acceleration and maneuvering** — which is why small animals run with crouched legs even though it is energetically costly.
+- Mechanism — posture shift: large animals stand with a more upright (extended) limb; small animals with a crouched limb. The upright posture aligns the limb with the GRF, raising EMA.
+- Functional consequence: with higher EMA, a given muscle force can resist a larger GRF. This allows muscle force capacity to keep up with body weight as size increases — so muscle and bone do not have to scale impossibly fast with body mass.
+- Trade-off (revisited in the human-context lecture): a crouched posture, while metabolically expensive, gives greater range of joint motion and is therefore better for acceleration and maneuvering — which is why small animals run with crouched legs even though it is energetically costly.
 
 ---
 
@@ -110,11 +106,11 @@ This lecture continues from Lecture 16 by completing the picture of **force dema
 
 ### Groucho Running — Manipulating Posture in Humans
 
-- Classic experiment (McMahon, Valiant & Frederick 1987): humans were asked to run with an **artificially flexed (crouched) knee posture** — the "Groucho" run — and compared with their normal running.
-- **GRF effects** of crouched posture:
-  - **Longer contact time** (broader force trace).
-  - **Lower peak vertical force** but **larger fore-aft (horizontal) excursions**.
-  - **Greater joint flexion-extension** range and more **mechanical work** at the joints.
+- Classic experiment (McMahon, Valiant & Frederick 1987): humans were asked to run with an artificially flexed (crouched) knee posture — the "Groucho" run — and compared with their normal running.
+- GRF effects of crouched posture:
+  - Longer contact time (broader force trace).
+  - Lower peak vertical force but larger fore-aft (horizontal) excursions.
+  - Greater joint flexion-extension range and more mechanical work at the joints.
 
 ---
 
@@ -124,10 +120,10 @@ This lecture continues from Lecture 16 by completing the picture of **force dema
 
 ### Crouched Running Costs ~50% More Metabolic Energy
 
-- Same experiment, metabolic side: normalized VO<sub>2</sub> rose with the **degree of knee flexion** at mid-stance.
-- At the most flexed postures, **metabolic cost increased by ~50%** above normal running.
-- Demonstrates a tight link from **posture → muscle force demand → metabolic cost**: even small changes in geometry produce large changes in energy cost.
-- Begs the question of why small animals voluntarily use crouched postures if they could save so much energy by extending their legs — addressed in the lecture by the trade-off between **economy** and **maneuverability/acceleration**.
+- Same experiment, metabolic side: normalized VO<sub>2</sub> rose with the degree of knee flexion at mid-stance.
+- At the most flexed postures, metabolic cost increased by ~50% above normal running.
+- Demonstrates a tight link from posture → muscle force demand → metabolic cost: even small changes in geometry produce large changes in energy cost.
+- Begs the question of why small animals voluntarily use crouched postures if they could save so much energy by extending their legs — addressed in the lecture by the trade-off between economy and maneuverability/acceleration.
 
 ---
 
@@ -138,11 +134,11 @@ This lecture continues from Lecture 16 by completing the picture of **force dema
 ### Why GRF Matters
 
 - Four reasons to care about ground reaction forces in gait:
-  1. **GRF is a major determinant of muscle force demand**, and therefore a major source of **metabolic energy cost**.
-  2. **Maximum force capacity is performance limiting**. Leg-extensor strength predicts **top running speed** in elite athletes and **turn radius** in rapid maneuvering.
-  3. **Bone safety factor** (Biewener 1990): peak bone stresses in everyday locomotion are **25–50% of failure strength**, giving a **safety factor of 2–4** that is **remarkably constant across vertebrates** because bone remodels to match typical loads.
-  4. **Unexpectedly high loads cause injury**. Knowing the typical loading helps explain which activities are most injury-prone.
-- **Force cannot be avoided** (gravity is non-negotiable); **muscle work can be minimized** through inverted-pendulum and elastic-spring mechanisms (Slide 2).
+  1. GRF is a major determinant of muscle force demand, and therefore a major source of metabolic energy cost.
+  2. Maximum force capacity is performance limiting. Leg-extensor strength predicts top running speed in elite athletes and turn radius in rapid maneuvering.
+  3. **Bone safety factor** (Biewener 1990): peak bone stresses in everyday locomotion are 25–50% of failure strength, giving a safety factor of 2–4 that is remarkably constant across vertebrates because bone remodels to match typical loads.
+  4. Unexpectedly high loads cause injury. Knowing the typical loading helps explain which activities are most injury-prone.
+- Force cannot be avoided (gravity is non-negotiable); muscle work can be minimized through inverted-pendulum and elastic-spring mechanisms (Slide 2).
 
 ---
 
@@ -153,9 +149,9 @@ This lecture continues from Lecture 16 by completing the picture of **force dema
 ### Tissues Remodel with Applied Load
 
 - Cross-sectional MRI from Wroblewski et al. 2011 of three thighs: a 40-year-old triathlete, a 74-year-old sedentary man, and a 70-year-old triathlete.
-- The **70-year-old triathlete** has muscle and bone architecture nearly indistinguishable from the **40-year-old triathlete** — and dramatically different from the **74-year-old sedentary** subject.
-- **Take-home**: the biggest difference is not **age** but **activity level**. Chronic exercise preserves muscle mass and bone density by maintaining the **mechanical loads** that drive tissue remodeling.
-- A practical motivation for the rest of the lecture: understanding the **forces and energy costs** of exercise lets us predict how training and lifestyle shape tissue health over the lifespan.
+- The 70-year-old triathlete has muscle and bone architecture nearly indistinguishable from the 40-year-old triathlete — and dramatically different from the 74-year-old sedentary subject.
+- The biggest difference is not age but activity level. Chronic exercise preserves muscle mass and bone density by maintaining the mechanical loads that drive tissue remodeling.
+- A practical motivation for the rest of the lecture: understanding the forces and energy costs of exercise lets us predict how training and lifestyle shape tissue health over the lifespan.
 
 ---
 
@@ -167,11 +163,11 @@ This lecture continues from Lecture 16 by completing the picture of **force dema
 
 - The lecture covers six related objectives — the first three were largely set up in Lecture 16, and the last three are the focus of Lecture 17:
   1. Mechanical demands → force/work demands of bipedal gaits.
-  2. Force demands vary with **speed and body size**.
+  2. Force demands vary with speed and body size.
   3. Leg posture sets the muscle force required for a given GRF.
   4. **Cost of transport (CoT)** varies with body size.
-  5. Metabolic rate predicted from **contact time (T<sub>c</sub>)**; CoT predicted from **step length (L<sub>c</sub>)**.
-  6. **CoT curves vs. speed** in quadrupeds and bipeds, and how those curves drive **gait selection**.
+  5. Metabolic rate predicted from contact time (T<sub>c</sub>); CoT predicted from step length (L<sub>c</sub>).
+  6. CoT curves vs. speed in quadrupeds and bipeds, and how those curves drive gait selection.
 
 ---
 
@@ -186,8 +182,8 @@ This lecture continues from Lecture 16 by completing the picture of **force dema
 $$\dot{V}O_2 = \dot{V}_E (F_I O_2 - F_E O_2)$$
 
   where $\dot{V}_E$ is the rate of expired air, and $F_I O_2$ and $F_E O_2$ are the inspired and expired oxygen fractions.
-- **Human set-ups** use a face mask (or hood) sampling exhaled gases into an oxygen analyzer; **small-animal set-ups** seal the animal inside a chamber with a continuous airflow and sampled output.
-- **Key methodological constraint**: respirometry requires **steady-state conditions for at least ~6 minutes**. This rules out instantaneous measurements during rapid maneuvers and limits classical CoT data to **steady-state** treadmill or overground locomotion.
+- Human set-ups use a face mask (or hood) sampling exhaled gases into an oxygen analyzer; small-animal set-ups seal the animal inside a chamber with a continuous airflow and sampled output.
+- Key methodological constraint: respirometry requires steady-state conditions for at least ~6 minutes. This rules out instantaneous measurements during rapid maneuvers and limits classical CoT data to steady-state treadmill or overground locomotion.
 
 ---
 
@@ -197,7 +193,7 @@ $$\dot{V}O_2 = \dot{V}_E (F_I O_2 - F_E O_2)$$
 
 ### Respirometry — Even on an Elephant
 
-- Brief and humorous: respirometry has been done on **elephants** by mounting a custom mask, putting the analysis equipment on a **golf cart**, and walking the cart-elephant pair around the zoo.
+- Brief and humorous: respirometry has been done on elephants by mounting a custom mask, putting the analysis equipment on a golf cart, and walking the cart-elephant pair around the zoo.
 - Demonstrates that respirometry is in principle applicable across the full vertebrate body-size range — though logistically far easier in some species than others.
 
 ---
@@ -208,13 +204,13 @@ $$\dot{V}O_2 = \dot{V}_E (F_I O_2 - F_E O_2)$$
 
 ### Mass-Specific Metabolic Rate and CoT
 
-- **Mass-specific metabolic rate** $\dot{V}O_2/kg$ increases approximately **linearly with speed** within a gait.
-- The **slope** of that line is the **cost of transport**:
+- **Mass-specific metabolic rate** $\dot{V}O_2/kg$ increases approximately linearly with speed within a gait.
+- The slope of that line is the cost of transport:
 
 $$\text{CoT} = \frac{\dot{V}O_2}{\text{speed}} = \frac{\text{ml }O_2}{\text{kg} \cdot \text{s}} \times \frac{1}{\text{m/s}} = \frac{\text{ml }O_2}{\text{kg} \cdot \text{m}}$$
 
-- CoT is **energy used per meter travelled per kg of body mass** — the standard metric for comparing locomotor economy across species of very different size.
-- Across mammals, the slope is **steeper in small animals** (mouse) and **shallower in large animals** (horse) — small animals are metabolically expensive per unit distance.
+- CoT is energy used per meter travelled per kg of body mass — the standard metric for comparing locomotor economy across species of very different size.
+- Across mammals, the slope is steeper in small animals (mouse) and shallower in large animals (horse) — small animals are metabolically expensive per unit distance.
 
 ---
 
@@ -224,13 +220,13 @@ $$\text{CoT} = \frac{\dot{V}O_2}{\text{speed}} = \frac{\text{ml }O_2}{\text{kg} 
 
 ### Cost of Transport Across Locomotor Modes
 
-- The **Tucker–Schmidt-Nielsen** compilation places **fliers, runners, and swimmers** on a single log–log CoT vs. body-mass plot.
-- **Three universal patterns**:
-  - **Swimmers are cheapest** per unit distance — water supports body weight, eliminating the cost of weight-support.
-  - **Fliers are next** — flapping is expensive but they cover distance fast.
-  - **Runners are most expensive** per unit distance — full support against gravity plus collisional losses.
-- Within each mode, **larger animals have lower CoT**.
-- **Humans sit above the runner trend line** — our running is **expensive for our body size** (revisited in Lecture 18). We are not metabolically specialized runners — but our large body size still places us at a relatively low absolute CoT.
+- The Tucker–Schmidt-Nielsen compilation places fliers, runners, and swimmers on a single log–log CoT vs. body-mass plot.
+- Three universal patterns:
+  - Swimmers are cheapest per unit distance — water supports body weight, eliminating the cost of weight-support.
+  - Fliers are next — flapping is expensive but they cover distance fast.
+  - Runners are most expensive per unit distance — full support against gravity plus collisional losses.
+- Within each mode, larger animals have lower CoT.
+- Humans sit above the runner trend line — our running is expensive for our body size (revisited in Lecture 18). We are not metabolically specialized runners — but our large body size still places us at a relatively low absolute CoT.
 - Engineered machines (cars, trains, jets, hovercraft, helicopters) plotted in grey for comparison — most have higher CoT than animals in their size range.
 
 ---
@@ -241,14 +237,14 @@ $$\text{CoT} = \frac{\dot{V}O_2}{\text{speed}} = \frac{\text{ml }O_2}{\text{kg} 
 
 ### Kram & Taylor 1990 — Cost Predicted by 1/T<sub>c</sub>
 
-- **Insight (Kram & Taylor 1990)**: across diverse species and speeds, **mass-specific metabolic rate per body weight** is predicted by a strikingly simple equation:
+- Insight (Kram & Taylor 1990): across diverse species and speeds, mass-specific metabolic rate per body weight is predicted by a strikingly simple equation:
 
 $$\frac{\dot{E}_{\text{metab}}}{W_b} = C \cdot \frac{1}{T_c}$$
 
-  where $T_c$ is the **stance contact time** of one foot per stride, and $C$ is a near-constant **cost coefficient**.
-- **C ≈ 0.189 J per N of body weight supported** (assuming 20.1 J per mL O<sub>2</sub>).
-- **Interpretation**: the **cost of generating force** per Newton of support is relatively constant across species, but **smaller animals must turn their muscles on and off at higher frequencies** (shorter T<sub>c</sub>) to keep up with the gait — and pay accordingly more energy per second.
-- Bottom three panels (right): when plotted vs. speed, $\dot{E}_{\text{metab}}/W_b$ and $1/T_c$ both rise with speed and with decreasing body size, while **C remains nearly constant** — the equation captures most of the species-and-speed variation.
+  where $T_c$ is the stance contact time of one foot per stride, and $C$ is a near-constant **cost coefficient**.
+- C ≈ 0.189 J per N of body weight supported (assuming 20.1 J per mL O<sub>2</sub>).
+- Interpretation: the cost of generating force per Newton of support is relatively constant across species, but smaller animals must turn their muscles on and off at higher frequencies (shorter T<sub>c</sub>) to keep up with the gait — and pay accordingly more energy per second.
+- Bottom three panels (right): when plotted vs. speed, $\dot{E}_{\text{metab}}/W_b$ and $1/T_c$ both rise with speed and with decreasing body size, while C remains nearly constant — the equation captures most of the species-and-speed variation.
 
 ---
 
@@ -258,13 +254,13 @@ $$\frac{\dot{E}_{\text{metab}}}{W_b} = C \cdot \frac{1}{T_c}$$
 
 ### Oxycaloric Coefficients — Converting O<sub>2</sub> to Joules
 
-- Conversion factor used in the Kram-Taylor framework: **~20.1 J per mL O<sub>2</sub>** — the average **oxycaloric coefficient**.
-- The coefficient varies modestly with the **substrate** being oxidized:
-  - **Carbohydrate**: ~21.1 J/mL O<sub>2</sub>.
-  - **Lipid**: ~19.6 J/mL O<sub>2</sub>.
-  - **Protein**: ~19.4 J/mL O<sub>2</sub>.
-  - **Average**: ~20.1 J/mL O<sub>2</sub>.
-- Differences are small because all aerobic pathways extract similar energy per oxygen atom consumed. **20.1 J/mL O<sub>2</sub>** is the default conversion factor used throughout comparative energetics.
+- Conversion factor used in the Kram-Taylor framework: ~20.1 J per mL O<sub>2</sub> — the average **oxycaloric coefficient**.
+- The coefficient varies modestly with the substrate being oxidized:
+  - Carbohydrate: ~21.1 J/mL O<sub>2</sub>.
+  - Lipid: ~19.6 J/mL O<sub>2</sub>.
+  - Protein: ~19.4 J/mL O<sub>2</sub>.
+  - Average: ~20.1 J/mL O<sub>2</sub>.
+- Differences are small because all aerobic pathways extract similar energy per oxygen atom consumed. 20.1 J/mL O<sub>2</sub> is the default conversion factor used throughout comparative energetics.
 
 ---
 
@@ -274,9 +270,9 @@ $$\frac{\dot{E}_{\text{metab}}}{W_b} = C \cdot \frac{1}{T_c}$$
 
 ### Larger Animals Travel Farther Per Stride
 
-- **Step length (L<sub>c</sub>)** — the distance the body moves forward during one stance — is **proportional to body size**.
-- A pony covers ~0.8 m per step; a kangaroo rat about 0.1 m. Within any species, L<sub>c</sub> rises modestly with speed; **across species, the dominant predictor is body size**.
-- This is the second half of the Kram-Taylor explanation for the **decrease in CoT with body size**: large animals not only contract muscles less frequently, but each contraction also moves them farther.
+- **Step length (L<sub>c</sub>)** — the distance the body moves forward during one stance — is proportional to body size.
+- A pony covers ~0.8 m per step; a kangaroo rat about 0.1 m. Within any species, L<sub>c</sub> rises modestly with speed; across species, the dominant predictor is body size.
+- This is the second half of the Kram-Taylor explanation for the decrease in CoT with body size: large animals not only contract muscles less frequently, but each contraction also moves them farther.
 
 ---
 
@@ -291,14 +287,14 @@ $$\frac{\dot{E}_{\text{metab}}}{W_b} = C \cdot \frac{1}{T_c}$$
 $$\frac{E_{\text{cot}}}{W_b} = C \cdot \frac{1}{L_c}$$
 
   CoT per Newton of body weight equals the cost coefficient divided by step length.
-- **Scaling exponents**:
-  - **CoT vs. body weight**: slope ≈ **−0.25** (CoT falls with size).
-  - **L<sub>c</sub> vs. body weight**: slope ≈ **+0.30** (step length rises with size).
-  - **C vs. body weight**: slope ≈ **+0.04** (cost coefficient is essentially constant).
-- **Take-home (Kram & Taylor)**: larger animals have lower CoT for two compounding reasons:
-  1. They **travel farther per stride** (larger L<sub>c</sub>).
-  2. They **activate muscles at lower frequencies** (longer T<sub>c</sub>).
-- The same logic applies **within humans**: individuals with longer legs tend to have lower CoT than shorter-legged individuals.
+- Scaling exponents:
+  - CoT vs. body weight: slope ≈ −0.25 (CoT falls with size).
+  - L<sub>c</sub> vs. body weight: slope ≈ +0.30 (step length rises with size).
+  - C vs. body weight: slope ≈ +0.04 (cost coefficient is essentially constant).
+- Take-home (Kram & Taylor): larger animals have lower CoT for two compounding reasons:
+  1. They travel farther per stride (larger L<sub>c</sub>).
+  2. They activate muscles at lower frequencies (longer T<sub>c</sub>).
+- The same logic applies within humans: individuals with longer legs tend to have lower CoT than shorter-legged individuals.
 
 ---
 
@@ -308,7 +304,7 @@ $$\frac{E_{\text{cot}}}{W_b} = C \cdot \frac{1}{L_c}$$
 
 ### Transition — CoT vs. Speed Within Gait
 
-- Section transition. The previous slides covered **how CoT scales with body size at a preferred speed**. The next set asks **how CoT changes with speed within each gait**, and how it sets the **gait-transition speeds**.
+- Section transition. The previous slides covered how CoT scales with body size at a preferred speed. The next set asks how CoT changes with speed within each gait, and how it sets the gait-transition speeds.
 
 ---
 
@@ -318,9 +314,9 @@ $$\frac{E_{\text{cot}}}{W_b} = C \cdot \frac{1}{L_c}$$
 
 ### Horses — Energy Cost Across Walk, Trot, and Gallop
 
-- Hoyt & Taylor 1981 trained horses to use **walk, trot, and gallop over wide speed ranges**, including speeds they would not naturally use for each gait.
-- The classic linear $\dot{E}_{\text{metab}}$-vs-speed relationships of earlier studies were based on **preferred (self-selected) speeds only** — and so missed within-gait curvature.
-- When horses were forced to use a gait at non-preferred speeds, $\dot{V}O_2$ rose **non-linearly**: energy cost was **higher outside the preferred speed range** of each gait.
+- Hoyt & Taylor 1981 trained horses to use walk, trot, and gallop over wide speed ranges, including speeds they would not naturally use for each gait.
+- The classic linear $\dot{E}_{\text{metab}}$-vs-speed relationships of earlier studies were based on preferred (self-selected) speeds only — and so missed within-gait curvature.
+- When horses were forced to use a gait at non-preferred speeds, $\dot{V}O_2$ rose non-linearly: energy cost was higher outside the preferred speed range of each gait.
 
 ---
 
@@ -330,9 +326,9 @@ $$\frac{E_{\text{cot}}}{W_b} = C \cdot \frac{1}{L_c}$$
 
 ### CoT Within Each Gait — U-Shaped Curves
 
-- For each gait, CoT vs. speed forms a **U-shaped curve** with a clear minimum.
-- The **slope of a line from the origin** to a point on the $\dot{V}O_2$-vs-speed curve **equals CoT** at that speed. The line tangent from the origin marks the **minimum-CoT speed** for that gait.
-- For horses, the **minimum-CoT speed** within each gait corresponds closely to the **preferred (voluntarily chosen) speed** — confirmed by overground speed histograms aligning with the U-curve minima.
+- For each gait, CoT vs. speed forms a U-shaped curve with a clear minimum.
+- The slope of a line from the origin to a point on the $\dot{V}O_2$-vs-speed curve equals CoT at that speed. The line tangent from the origin marks the minimum-CoT speed for that gait.
+- For horses, the minimum-CoT speed within each gait corresponds closely to the preferred (voluntarily chosen) speed — confirmed by overground speed histograms aligning with the U-curve minima.
 
 ---
 
@@ -343,9 +339,9 @@ $$\frac{E_{\text{cot}}}{W_b} = C \cdot \frac{1}{L_c}$$
 ### Two Rules of Gait Selection
 
 - Two simple rules emerge from the Hoyt-Taylor curves:
-  1. **Gait transitions occur near the intersections of the CoT curves** — the speed at which one gait becomes more expensive than the next.
-  2. **Animals choose speeds within each gait that minimize CoT** — preferred speed sits near the U-curve minimum.
-- Energetics is a strong (though not the only) driver of **voluntary gait and speed selection** in steady locomotion.
+  1. Gait transitions occur near the intersections of the CoT curves — the speed at which one gait becomes more expensive than the next.
+  2. Animals choose speeds within each gait that minimize CoT — preferred speed sits near the U-curve minimum.
+- Energetics is a strong (though not the only) driver of voluntary gait and speed selection in steady locomotion.
 
 ---
 
@@ -355,11 +351,11 @@ $$\frac{E_{\text{cot}}}{W_b} = C \cdot \frac{1}{L_c}$$
 
 ### Bipeds vs. Quadrupeds — Walking U, Running Flat
 
-- A composite CoT-vs-speed plot from Bramble & Lieberman 2004 places **humans** and **horses** on the same axes.
-- **Walking** (in both humans and horses): a **steep U-shaped curve** with a clear minimum.
-- **Running** in humans: **nearly flat** — CoT changes very little with running speed, an unusual feature relative to quadrupeds.
-- **Quadrupeds** show three overlapping U-shaped curves (walk, trot, gallop), with **gait transitions at the curve intersections** — exactly the Hoyt-Taylor pattern.
-- **Human running has no comparable equivalent**. We commit to a single bouncing gait (running) and can use a wide speed range without paying much extra energy.
+- A composite CoT-vs-speed plot from Bramble & Lieberman 2004 places humans and horses on the same axes.
+- Walking (in both humans and horses): a steep U-shaped curve with a clear minimum.
+- Running in humans: nearly flat — CoT changes very little with running speed, an unusual feature relative to quadrupeds.
+- Quadrupeds show three overlapping U-shaped curves (walk, trot, gallop), with gait transitions at the curve intersections — exactly the Hoyt-Taylor pattern.
+- Human running has no comparable equivalent. We commit to a single bouncing gait (running) and can use a wide speed range without paying much extra energy.
 
 ---
 
@@ -370,9 +366,9 @@ $$\frac{E_{\text{cot}}}{W_b} = C \cdot \frac{1}{L_c}$$
 ### Avian Bipeds — Flat Running CoT, Ostriches Especially Cheap
 
 - Watson et al. 2011 measured net CoT for emus, ostriches, and rheas over a wide speed range, alongside human walk and run reference curves.
-- **All bipeds — human and avian — show flat running CoT** at running speeds. The plateau is a general feature of bipedal running, not just a human quirk.
-- **Ostriches** sit at **especially low running CoT** (~1.5–2 J kg<sup>−1</sup> m<sup>−1</sup>) — they are exceptional running specialists.
-- Voluntary overground speeds (bottom panel) cluster near the **minimum of the CoT curve** — the same Hoyt-Taylor pattern, now in birds.
+- All bipeds — human and avian — show flat running CoT at running speeds. The plateau is a general feature of bipedal running, not just a human quirk.
+- Ostriches sit at especially low running CoT (~1.5–2 J kg<sup>−1</sup> m<sup>−1</sup>) — they are exceptional running specialists.
+- Voluntary overground speeds (bottom panel) cluster near the minimum of the CoT curve — the same Hoyt-Taylor pattern, now in birds.
 
 ---
 
@@ -382,12 +378,12 @@ $$\frac{E_{\text{cot}}}{W_b} = C \cdot \frac{1}{L_c}$$
 
 ### Reduced-Gravity Experiments — Method
 
-- **Farley & McMahon 1992**: human subjects ran on a treadmill while a ceiling-mounted **spring system** applied a constant upward force, effectively **lowering apparent gravity** (and therefore body weight).
-- Manipulating gravity isolates the **weight-support cost** from other components of locomotion: at the same speed, a runner at 0.5g supports half as much weight against gravity.
+- Farley & McMahon 1992: human subjects ran on a treadmill while a ceiling-mounted spring system applied a constant upward force, effectively lowering apparent gravity (and therefore body weight).
+- Manipulating gravity isolates the weight-support cost from other components of locomotion: at the same speed, a runner at 0.5g supports half as much weight against gravity.
 - The right-hand plots show:
-  - **Mass-specific metabolic rate** (Panel A) is **much lower at 0.5g** than at 1g across all speeds.
-  - **CoT** (Panel B) is roughly **halved** at 0.5g.
-- A direct experimental confirmation of the Kram-Taylor framework: when body weight is reduced, **force demand drops**, and **metabolic cost falls in proportion**.
+  - Mass-specific metabolic rate (Panel A) is much lower at 0.5g than at 1g across all speeds.
+  - CoT (Panel B) is roughly halved at 0.5g.
+- A direct experimental confirmation of the Kram-Taylor framework: when body weight is reduced, force demand drops, and metabolic cost falls in proportion.
 
 ---
 
@@ -397,13 +393,13 @@ $$\frac{E_{\text{cot}}}{W_b} = C \cdot \frac{1}{L_c}$$
 
 ### Reduced-Gravity — Walking vs. Running Have Different Sensitivities
 
-- Plotting metabolic rate and CoT against **gravity (g)** at fixed speed reveals a striking dissociation:
-  - **Running cost falls in near-direct proportion to gravity** (slope ≈ 9.9 W kg<sup>−1</sup> per g, R<sup>2</sup> = 0.96). Reducing weight support by half cuts running cost nearly in half.
-  - **Walking cost falls only modestly** with reduced gravity (slope ≈ 0.93 W kg<sup>−1</sup> per g, R<sup>2</sup> = 0.55).
-- **Mechanistic interpretation**:
-  - **Running** cost is dominated by the **force demand** to support body weight at each landing — reducing weight directly reduces force.
-  - **Walking** cost is dominated by **mechanical work to redirect the center of mass** (collisional losses at step-to-step transitions) — this work depends weakly on weight support.
-- Powerful confirmation that **running and walking are limited by different physical demands**, and that the Kram-Taylor force-cost framework applies specifically to running and other bouncing gaits.
+- Plotting metabolic rate and CoT against gravity (g) at fixed speed reveals a striking dissociation:
+  - Running cost falls in near-direct proportion to gravity (slope ≈ 9.9 W kg<sup>−1</sup> per g, R<sup>2</sup> = 0.96). Reducing weight support by half cuts running cost nearly in half.
+  - Walking cost falls only modestly with reduced gravity (slope ≈ 0.93 W kg<sup>−1</sup> per g, R<sup>2</sup> = 0.55).
+- Mechanistic interpretation:
+  - Running cost is dominated by the force demand to support body weight at each landing — reducing weight directly reduces force.
+  - Walking cost is dominated by mechanical work to redirect the center of mass (collisional losses at step-to-step transitions) — this work depends weakly on weight support.
+- Powerful confirmation that running and walking are limited by different physical demands, and that the Kram-Taylor force-cost framework applies specifically to running and other bouncing gaits.
 
 ---
 
@@ -413,10 +409,10 @@ $$\frac{E_{\text{cot}}}{W_b} = C \cdot \frac{1}{L_c}$$
 
 ### Limitations of Classic Steady-State Locomotion Studies
 
-- The classic respirometry framework requires **steady-state locomotion** for at least ~6 minutes — so all of the data on Slides 13–28 are from **constant-speed treadmill or controlled overground** trials.
+- The classic respirometry framework requires steady-state locomotion for at least ~6 minutes — so all of the data on Slides 13–28 are from constant-speed treadmill or controlled overground trials.
 - Two important limits:
-  - **Real-world locomotion is rarely steady-state**. Foraging, commuting, sport, and everyday walking involve frequent **starts, stops, turns, and terrain changes** that the steady-state framework cannot directly assess.
-  - **Sample sizes are small** and rarely capture **individual variation** in size, leg length, fitness, age, or terrain experience.
+  - Real-world locomotion is rarely steady-state. Foraging, commuting, sport, and everyday walking involve frequent starts, stops, turns, and terrain changes that the steady-state framework cannot directly assess.
+  - Sample sizes are small and rarely capture individual variation in size, leg length, fitness, age, or terrain experience.
 - Modern wearables and IMU/respirometry systems make it possible to address both limits (next slides).
 
 ---
@@ -427,9 +423,9 @@ $$\frac{E_{\text{cot}}}{W_b} = C \cdot \frac{1}{L_c}$$
 
 ### Tracking Real-World Movement — Ostriches
 
-- Daley et al. 2016 instrumented free-ranging ostriches with **IMU and GPS sensors** to track foot trajectories and speeds across a large outdoor enclosure.
-- The trajectory map shows that real movement is **highly variable** in speed, direction, and turning — nothing like the constant-treadmill paradigm.
-- **Why this matters**: real locomotor energetics may differ substantially from steady-state lab estimates, especially in habitats with frequent turns, terrain variation, or social interactions.
+- Daley et al. 2016 instrumented free-ranging ostriches with IMU and GPS sensors to track foot trajectories and speeds across a large outdoor enclosure.
+- The trajectory map shows that real movement is highly variable in speed, direction, and turning — nothing like the constant-treadmill paradigm.
+- Real locomotor energetics may differ substantially from steady-state lab estimates, especially in habitats with frequent turns, terrain variation, or social interactions.
 
 ---
 
@@ -440,10 +436,10 @@ $$\frac{E_{\text{cot}}}{W_b} = C \cdot \frac{1}{L_c}$$
 ### Real-World Speed Distributions and CoT
 
 - For free-ranging ostriches, the distribution of step relative speeds (V / √(L<sub>leg</sub> · g)) shows that:
-  - Most steps fall in the **slow walking range** (relative speed ~0.3) — corresponding to the **minimum-CoT walking speed**.
-  - There is a broad **running distribution** centered at higher relative speeds — corresponding to the **flat-CoT running plateau**.
-  - **Transitional gaits** (run-walk, walk-run) are rare and brief.
-- The CoT data overlaid on the histogram confirm that ostriches **voluntarily choose the relative speeds that minimize CoT within each gait** — Hoyt-Taylor extended to free-ranging birds.
+  - Most steps fall in the slow walking range (relative speed ~0.3) — corresponding to the minimum-CoT walking speed.
+  - There is a broad running distribution centered at higher relative speeds — corresponding to the flat-CoT running plateau.
+  - Transitional gaits (run-walk, walk-run) are rare and brief.
+- The CoT data overlaid on the histogram confirm that ostriches voluntarily choose the relative speeds that minimize CoT within each gait — Hoyt-Taylor extended to free-ranging birds.
 
 ---
 
@@ -453,8 +449,8 @@ $$\frac{E_{\text{cot}}}{W_b} = C \cdot \frac{1}{L_c}$$
 
 ### Wearable Tools for Real-World Energetics
 
-- Kowalsky et al. 2021 used a **portable respirometer + GPS + IMU** setup to measure energy expenditure during walking across five real terrains: **sidewalk, dirt, gravel, grass, woodchips**.
-- This is the modern answer to the classical lab limitation: wearable instrumentation lets researchers measure CoT and gait variability **in the field**, across **varying terrain**, and in **larger and more diverse subject populations**.
+- Kowalsky et al. 2021 used a portable respirometer + GPS + IMU setup to measure energy expenditure during walking across five real terrains: sidewalk, dirt, gravel, grass, woodchips.
+- This is the modern answer to the classical lab limitation: wearable instrumentation lets researchers measure CoT and gait variability in the field, across varying terrain, and in larger and more diverse subject populations.
 
 ---
 
@@ -464,11 +460,11 @@ $$\frac{E_{\text{cot}}}{W_b} = C \cdot \frac{1}{L_c}$$
 
 ### Uneven Terrain Raises CoT in Proportion to Gait Variability
 
-- Across the five terrains, **both stride-height variability and stride-width variability increase** going from sidewalk to woodchips.
-- **Net CoT increases in parallel**, by ~25% from sidewalk to woodchips.
-- **Take-home**:
-  - **Gait variability is itself a metabolic cost**. Stabilizing each step on uneven ground demands additional muscle activation that adds to the steady-state baseline.
-  - **Wearable + big-data** approaches enable comparisons across individuals (training status, age, medical condition, intervention) — extending the comparative-energetics framework from species to individuals.
+- Across the five terrains, both stride-height variability and stride-width variability increase going from sidewalk to woodchips.
+- Net CoT increases in parallel, by ~25% from sidewalk to woodchips.
+- Two implications:
+  - Gait variability is itself a metabolic cost. Stabilizing each step on uneven ground demands additional muscle activation that adds to the steady-state baseline.
+  - Wearable + big-data approaches enable comparisons across individuals (training status, age, medical condition, intervention) — extending the comparative-energetics framework from species to individuals.
 
 ---
 
@@ -495,15 +491,15 @@ $$\frac{E_{\text{cot}}}{W_b} = C \cdot \frac{1}{L_c}$$
 ### Summary
 
 - Final summary of the lecture in ten bullets:
-  - **Respirometry and the Fick principle** measure the metabolic energy cost.
-  - **Mass-specific metabolic rate** increases with speed, more steeply in small animals.
-  - The **slope** of metabolic rate vs. speed **is the CoT**.
-  - **Running is more expensive** per distance than flying or swimming, but CoT **decreases with body size** in all three modes.
-  - In terrestrial gaits, metabolic rate is predicted by **1/T<sub>c</sub>** and CoT by **1/L<sub>c</sub>**, with a near-constant cost per Newton of force.
-  - **Quadrupeds show U-shaped CoT curves** within each gait.
-  - **Bipeds (humans and birds) have flat running CoT curves**, possibly because long strides and elastic cycling rise together with speed.
-  - **Walking and running have different physics** — inverted pendulum vs. elastic bouncing — and respond differently to weight support (reduced-gravity experiments).
-  - **Real-world gait variability** raises CoT — captured by modern wearable studies of free locomotion.
+  - Respirometry and the Fick principle measure the metabolic energy cost.
+  - Mass-specific metabolic rate increases with speed, more steeply in small animals.
+  - The slope of metabolic rate vs. speed is the CoT.
+  - Running is more expensive per distance than flying or swimming, but CoT decreases with body size in all three modes.
+  - In terrestrial gaits, metabolic rate is predicted by 1/T<sub>c</sub> and CoT by 1/L<sub>c</sub>, with a near-constant cost per Newton of force.
+  - Quadrupeds show U-shaped CoT curves within each gait.
+  - Bipeds (humans and birds) have flat running CoT curves, possibly because long strides and elastic cycling rise together with speed.
+  - Walking and running have different physics — inverted pendulum vs. elastic bouncing — and respond differently to weight support (reduced-gravity experiments).
+  - Real-world gait variability raises CoT — captured by modern wearable studies of free locomotion.
 
 ---
 

@@ -25,12 +25,12 @@ next_lecture: /week02/lecture05-ventilation-rest-exercise
 
 ### Overview and Learning Objectives
 
-- **Overview topics**: Fundamentals of gas exchange and the oxygen supply cascade; lung structure and function; ventilation at rest and responses to exercise.
-- **Learning objectives**:
+- Overview topics: Fundamentals of gas exchange and the oxygen supply cascade; lung structure and function; ventilation at rest and responses to exercise.
+- Learning objectives:
   1. Review factors that contribute to **alveolar ventilation**.
   2. Use the **Fick principle** to calculate gas transport by ventilatory convection.
   3. Use **Fick's law of diffusion** to calculate gas transport from alveoli to blood.
-  4. Discuss conditions that may lead to **pulmonary limitations** in gas exchange.
+  4. Discuss conditions that may lead to pulmonary limitations in gas exchange.
 
 ---
 
@@ -41,8 +41,8 @@ next_lecture: /week02/lecture05-ventilation-rest-exercise
 ### Oxygen Supply Cascade Review
 
 - The **oxygen supply cascade** traces the progressive decrease in P<sub>O2</sub> from the environment to the mitochondria through alternating **convection** and **diffusion** steps.
-- **Convection** (bulk flow) moves gases over long distances: ventilation moves air into the lungs, and the circulatory system transports O<sub>2</sub> in the blood.
-- **Diffusion** moves gases across thin barriers at the lung surface and at tissue capillaries.
+- Convection (bulk flow) moves gases over long distances: ventilation moves air into the lungs, and the circulatory system transports O<sub>2</sub> in the blood.
+- Diffusion moves gases across thin barriers at the lung surface and at tissue capillaries.
 - CO<sub>2</sub> flows in the reverse direction, from cells back to the environment.
 - This lecture focuses on building up the governing equations for pulmonary convection and diffusion.
 
@@ -57,7 +57,7 @@ next_lecture: /week02/lecture05-ventilation-rest-exercise
 - Vertebrate gas exchange systems vary widely in design, but all must accomplish the same fundamental task of exchanging O<sub>2</sub> and CO<sub>2</sub>.
 - **Fish** use gills with **countercurrent** exchange (water and blood flow in opposite directions).
 - **Birds** have **parabronchial lungs** with unidirectional airflow and cross-current exchange -- no anatomical dead space.
-- **Mammals, amphibians and non-crocodilian reptiles** use **tidal ventilation** where air moves in and out through the same passages, creating a "pool" exchange system with **anatomical dead space**.
+- Mammals, amphibians and non-crocodilian reptiles use **tidal ventilation** where air moves in and out through the same passages, creating a "pool" exchange system with **anatomical dead space**.
 - The human tidal ventilation system means not all air is refreshed on each breath, and alveolar gas composition varies depending on metabolic rate, tidal volumes, and breathing frequency.
 
 ---
@@ -69,11 +69,11 @@ next_lecture: /week02/lecture05-ventilation-rest-exercise
 ### Gas Exchange Steps in the Oxygen Supply Cascade
 
 - The oxygen supply cascade consists of five sequential steps:
-  1. **Ventilatory air convection** -- moving air into the lungs
-  2. **Pulmonary oxygen diffusion** -- O<sub>2</sub> crosses the blood-gas barrier
-  3. **Blood oxygen transport** -- convection via the circulatory system
-  4. **Capillary-tissue diffusion** -- O<sub>2</sub> crosses into tissues
-  5. **Cellular respiration** -- O<sub>2</sub> used by mitochondria
+  1. Ventilatory air convection -- moving air into the lungs
+  2. Pulmonary oxygen diffusion -- O<sub>2</sub> crosses the blood-gas barrier
+  3. Blood oxygen transport -- convection via the circulatory system
+  4. Capillary-tissue diffusion -- O<sub>2</sub> crosses into tissues
+  5. Cellular respiration -- O<sub>2</sub> used by mitochondria
 - This lecture builds the equations governing Steps 1 and 2, which together determine pulmonary gas exchange.
 
 ---
@@ -134,7 +134,7 @@ $$\dot{V}O_2 = \dot{V}_A \times \beta_{gO_2} \times (P_IO_2 - P_EO_2)$$
 
 - $\beta\_{gO\_2}$ is the **capacitance coefficient** for O<sub>2</sub> in air.
 - The third equation calculates $\dot{V}$O<sub>2</sub> but relies on internal variables (alveolar partial pressures) that are difficult to measure directly.
-- The **Fick principle** will be used to reformulate these equations in terms of externally measurable quantities.
+- The Fick principle will be used to reformulate these equations in terms of externally measurable quantities.
 
 ---
 
@@ -174,7 +174,7 @@ $$\dot{V}O_2 = \dot{V}_I \times F_IO_2 - \dot{V}_E \times F_EO_2$$
 
 $$\dot{V}O_2 = \dot{V}_E \times (F_IO_2 - F_EO_2)$$
 
-- This simplified form uses **externally measurable quantities** (exhaled flow rate and gas concentrations) rather than internal alveolar states, making it practical for laboratory and clinical use.
+- This simplified form uses externally measurable quantities (exhaled flow rate and gas concentrations) rather than internal alveolar states, making it practical for laboratory and clinical use.
 - Typically, only a few percent of inhaled O<sub>2</sub> is extracted per breath (e.g., from ~21% to ~19%).
 
 ---
@@ -186,9 +186,9 @@ $$\dot{V}O_2 = \dot{V}_E \times (F_IO_2 - F_EO_2)$$
 ### Human VO<sub>2</sub> Max Testing
 
 - **$\dot{V}$O<sub>2</sub> max** is a central measure of maximal aerobic capacity and athletic performance, widely used in exercise physiology and sports science.
-- Modern **metabolic measurement systems** use the Fick-principle-based equations to measure O<sub>2</sub> consumption non-invasively.
+- Modern metabolic measurement systems use the Fick-principle-based equations to measure O<sub>2</sub> consumption non-invasively.
 - The subject wears a sealed mask over the nose and mouth; the system measures the expired flow rate ($\dot{V}\_E$) and the fractional concentrations of O<sub>2</sub> and CO<sub>2</sub> in the exhaled air.
-- Earlier systems required bulky laboratory carts, but **portable systems** are now available, enabling metabolic rate measurement during diverse exercise conditions in the field.
+- Earlier systems required bulky laboratory carts, but portable systems are now available, enabling metabolic rate measurement during diverse exercise conditions in the field.
 
 ---
 
@@ -199,9 +199,9 @@ $$\dot{V}O_2 = \dot{V}_E \times (F_IO_2 - F_EO_2)$$
 ### Summary: Ventilatory Convection Equations
 
 - Two equivalent forms for calculating $\dot{V}$O<sub>2</sub> at Step 1 have been developed:
-  - **Internal variables form**: $\dot{V}O\_2 = \dot{V}\_A \times \beta\_{gO\_2} \times (P\_IO\_2 - P\_EO\_2)$ — requires measuring alveolar partial pressures (impractical).
-  - **External variables form**: $\dot{V}O\_2 = \dot{V}\_E \times (F\_IO\_2 - F\_EO\_2)$ — uses expired ventilation rate and gas fractions (practical, non-invasive).
-- The Fick-principle-based external equation is the foundation for all modern **respiratory gas exchange measurement** in exercise physiology and clinical settings.
+  - Internal variables form: $\dot{V}O\_2 = \dot{V}\_A \times \beta\_{gO\_2} \times (P\_IO\_2 - P\_EO\_2)$ — requires measuring alveolar partial pressures (impractical).
+  - External variables form: $\dot{V}O\_2 = \dot{V}\_E \times (F\_IO\_2 - F\_EO\_2)$ — uses expired ventilation rate and gas fractions (practical, non-invasive).
+- The Fick-principle-based external equation is the foundation for all modern respiratory gas exchange measurement in exercise physiology and clinical settings.
 
 ---
 
@@ -211,7 +211,7 @@ $$\dot{V}O_2 = \dot{V}_E \times (F_IO_2 - F_EO_2)$$
 
 ### Step 2: Pulmonary Oxygen Diffusion
 
-- After air reaches the alveoli by convection (Step 1), oxygen must cross the **blood-gas barrier** by **diffusion** (Step 2).
+- After air reaches the alveoli by convection (Step 1), oxygen must cross the **blood-gas barrier** by diffusion (Step 2).
 - The rate of diffusion across the alveolar membrane is the next critical factor determining how much O<sub>2</sub> enters the blood.
 - **Fick's law of diffusion** provides the governing equation for this step.
 
@@ -234,10 +234,10 @@ $$\dot{V}O_2 = \frac{A \times D \times \Delta P_{O_2}}{T}$$
   - $\Delta P\_{O\_2}$ = partial pressure difference across the barrier (P<sub>A</sub>O<sub>2</sub> - P<sub>a</sub>O<sub>2</sub>)
   - $T$ = thickness of the tissue barrier
 - The diffusion rate is:
-  - **Proportional** to surface area ($A$)
-  - **Proportional** to the partial pressure gradient ($\Delta P\_{O\_2}$)
-  - **Inversely proportional** to barrier thickness ($T$)
-- $D$ differs between gases: **CO<sub>2</sub> diffuses approximately 20 times faster** than O<sub>2</sub> across the blood-gas barrier, meaning CO<sub>2</sub> transfer is nearly instantaneous while O<sub>2</sub> transfer may be rate-limiting.
+  - Proportional to surface area ($A$)
+  - Proportional to the partial pressure gradient ($\Delta P\_{O\_2}$)
+  - Inversely proportional to barrier thickness ($T$)
+- $D$ differs between gases: CO<sub>2</sub> diffuses approximately 20 times faster than O<sub>2</sub> across the blood-gas barrier, meaning CO<sub>2</sub> transfer is nearly instantaneous while O<sub>2</sub> transfer may be rate-limiting.
 
 ---
 
@@ -248,7 +248,7 @@ $$\dot{V}O_2 = \frac{A \times D \times \Delta P_{O_2}}{T}$$
 ### The Alveolar Respiratory Membrane
 
 - Gas exchange occurs across the **alveolar respiratory membrane**, which separates alveolar air from capillary blood.
-- The membrane consists of multiple thin layers: the alveolar epithelium, fused basement membranes, and the capillary endothelium, with a total thickness of approximately **0.2 micrometers**.
+- The membrane consists of multiple thin layers: the alveolar epithelium, fused basement membranes, and the capillary endothelium, with a total thickness of approximately 0.2 micrometers.
 - Typical partial pressure values at rest:
   - P<sub>O2</sub> in the alveolus: ~104 mmHg; in deoxygenated blood: ~40 mmHg (gradient of ~64 mmHg drives O<sub>2</sub> into blood)
   - P<sub>CO2</sub> in the blood: ~45 mmHg; in the alveolus: ~40 mmHg (gradient of ~5 mmHg drives CO<sub>2</sub> into alveolus)
@@ -275,8 +275,8 @@ $$D_LO_2 = \frac{A \times D}{T}$$
 $$\dot{V}O_2 = D_LO_2 \times \Delta P_{O_2}$$
 
 - This formulation highlights the two key determinants of pulmonary O<sub>2</sub> transfer:
-  1. **Diffusion capacity** (D<sub>L</sub>O<sub>2</sub>) -- determined by lung structure (surface area, membrane thickness, gas properties)
-  2. **Partial pressure gradient** ($\Delta P\_{O\_2}$) -- determined by alveolar ventilation, inspired O<sub>2</sub>, and blood perfusion
+  1. Diffusion capacity (D<sub>L</sub>O<sub>2</sub>) -- determined by lung structure (surface area, membrane thickness, gas properties)
+  2. Partial pressure gradient ($\Delta P\_{O\_2}$) -- determined by alveolar ventilation, inspired O<sub>2</sub>, and blood perfusion
 
 ---
 
@@ -292,8 +292,8 @@ $$\dot{V}O_2 = D_{O_2} \times \Delta P_{O_2}$$
 
 $$\dot{V}CO_2 = D_{CO_2} \times \Delta P_{CO_2}$$
 
-- O<sub>2</sub> diffuses **from** the alveoli **into** the pulmonary capillary blood (down the P<sub>O2</sub> gradient).
-- CO<sub>2</sub> diffuses **from** the blood **into** the alveoli (down the P<sub>CO2</sub> gradient).
+- O<sub>2</sub> diffuses from the alveoli into the pulmonary capillary blood (down the P<sub>O2</sub> gradient).
+- CO<sub>2</sub> diffuses from the blood into the alveoli (down the P<sub>CO2</sub> gradient).
 - Because CO<sub>2</sub> has a much higher diffusion coefficient, equilibrium between blood and alveolar CO<sub>2</sub> is achieved nearly instantaneously. O<sub>2</sub> equilibration takes longer and can become a limiting factor under certain conditions (e.g., high-intensity exercise, altitude).
 
 ---
@@ -305,11 +305,11 @@ $$\dot{V}CO_2 = D_{CO_2} \times \Delta P_{CO_2}$$
 ### Integrated Model of Alveolar Gas Exchange
 
 - This schematic integrates the convective and diffusive components of pulmonary gas exchange for both O<sub>2</sub> and CO<sub>2</sub>.
-- **Oxygen (left panel)**:
+- Oxygen (left panel):
   - Inspired air with fractional concentration $F\_IO\_2$ and partial pressure $P\_IO\_2$ enters the alveolus.
-  - **Alveolar ventilation** ($\dot{V}\_A$) refreshes alveolar gas.
+  - Alveolar ventilation ($\dot{V}\_A$) refreshes alveolar gas.
   - O<sub>2</sub> diffuses across the membrane into the capillary blood (perfusion $\dot{Q}$), driven by the gradient between P<sub>A</sub>O<sub>2</sub> and P<sub>c</sub>O<sub>2</sub>.
-- **Carbon dioxide (right panel)**:
+- Carbon dioxide (right panel):
   - CO<sub>2</sub> diffuses from blood (P<sub>c</sub>CO<sub>2</sub>) into the alveolus.
   - Exhaled ventilation removes CO<sub>2</sub> from the lung.
 - Ventilation, perfusion, and diffusion all influence the alveolar partial pressures of both gases.
@@ -323,9 +323,9 @@ $$\dot{V}CO_2 = D_{CO_2} \times \Delta P_{CO_2}$$
 ### Factors Contributing to Alveolar Partial Pressure Gradients
 
 - Three primary factors influence alveolar P<sub>O2</sub> and P<sub>CO2</sub>:
-  1. **P<sub>O2</sub> and P<sub>CO2</sub> of the inspired air** -- determined primarily by altitude and environmental conditions.
-  2. **Minute ventilation** ($\dot{V}\_E = f\_b \times V\_T$) and **alveolar ventilation** ($\dot{V}\_A = f\_b \times (V\_T - V\_D)$) -- how much fresh air reaches the gas exchange surfaces.
-  3. **Metabolic rate** -- the rate of O<sub>2</sub> consumption and CO<sub>2</sub> production by the tissues, which creates the demand for gas exchange.
+  1. P<sub>O2</sub> and P<sub>CO2</sub> of the inspired air -- determined primarily by altitude and environmental conditions.
+  2. Minute ventilation ($\dot{V}\_E = f\_b \times V\_T$) and alveolar ventilation ($\dot{V}\_A = f\_b \times (V\_T - V\_D)$) -- how much fresh air reaches the gas exchange surfaces.
+  3. Metabolic rate -- the rate of O<sub>2</sub> consumption and CO<sub>2</sub> production by the tissues, which creates the demand for gas exchange.
 - Altering any of these three factors changes the gas composition in the alveoli and therefore the partial pressure gradients driving diffusion. We walk through each of these factors over the next several slides. 
 
 ---
@@ -336,8 +336,8 @@ $$\dot{V}CO_2 = D_{CO_2} \times \Delta P_{CO_2}$$
 
 ### Factor 1: Inspired Air Composition
 
-- The **partial pressure of O<sub>2</sub> in the inspired air** (P<sub>I</sub>O<sub>2</sub>) sets the upper limit of alveolar P<sub>O2</sub>.
-- At **high altitude**, barometric pressure decreases, reducing P<sub>I</sub>O<sub>2</sub> and thereby lowering alveolar P<sub>O2</sub>.
+- The partial pressure of O<sub>2</sub> in the inspired air (P<sub>I</sub>O<sub>2</sub>) sets the upper limit of alveolar P<sub>O2</sub>.
+- At high altitude, barometric pressure decreases, reducing P<sub>I</sub>O<sub>2</sub> and thereby lowering alveolar P<sub>O2</sub>.
 - In enclosed or poorly ventilated spaces, exhaled CO<sub>2</sub> can accumulate in the ambient air, which may also alter inspired gas composition.
 - Under normal sea-level conditions, the inspired P<sub>O2</sub> is approximately 149 mmHg and is not typically a limiting factor.
 
@@ -350,8 +350,8 @@ $$\dot{V}CO_2 = D_{CO_2} \times \Delta P_{CO_2}$$
 ### Factor 2: Minute and Alveolar Ventilation
 
 - The rate at which fresh air is delivered to the alveoli directly determines how well alveolar gases are renewed.
-- **Minute ventilation** ($\dot{V}\_E = f\_b \times V\_T$) is the total volume of air moved per minute.
-- **Alveolar ventilation** ($\dot{V}\_A = f\_b \times (V\_T - V\_D)$) is the fraction that actually reaches gas exchange surfaces.
+- Minute ventilation ($\dot{V}\_E = f\_b \times V\_T$) is the total volume of air moved per minute.
+- Alveolar ventilation ($\dot{V}\_A = f\_b \times (V\_T - V\_D)$) is the fraction that actually reaches gas exchange surfaces.
 - Increasing ventilation brings more fresh air into the alveoli, raising alveolar P<sub>O2</sub> and lowering alveolar P<sub>CO2</sub>.
 - Decreasing ventilation has the opposite effect, allowing CO<sub>2</sub> to accumulate and O<sub>2</sub> to drop.
 
@@ -363,9 +363,9 @@ $$\dot{V}CO_2 = D_{CO_2} \times \Delta P_{CO_2}$$
 
 ### Effects of Ventilation Rate on Lung Gases
 
-- At a **constant metabolic rate**, changing the alveolar ventilation rate alters the gas mixture in the lungs:
-  - **Increasing ventilation** raises alveolar P<sub>O2</sub> and lowers alveolar P<sub>CO2</sub> (more fresh air dilutes CO<sub>2</sub> and replenishes O<sub>2</sub>).
-  - **Decreasing ventilation** lowers alveolar P<sub>O2</sub> and raises alveolar P<sub>CO2</sub>.
+- At a constant metabolic rate, changing the alveolar ventilation rate alters the gas mixture in the lungs:
+  - Increasing ventilation raises alveolar P<sub>O2</sub> and lowers alveolar P<sub>CO2</sub> (more fresh air dilutes CO<sub>2</sub> and replenishes O<sub>2</sub>).
+  - Decreasing ventilation lowers alveolar P<sub>O2</sub> and raises alveolar P<sub>CO2</sub>.
 - **Hyperventilation** (breathing too fast relative to metabolic demand) blows off CO<sub>2</sub> faster than it is produced, lowering blood CO<sub>2</sub> and raising blood pH. This disrupts acid-base balance and can cause dizziness and, if prolonged, loss of consciousness.
 - **Hypoventilation** (breathing too slowly) causes CO<sub>2</sub> accumulation and O<sub>2</sub> depletion, leading to poor gas exchange. It is seen clinically with respiratory depression from drugs, sedation, or obstructive pulmonary diseases.
 - Normal breathing is regulated by homeostatic mechanisms to maintain appropriate alveolar gas concentrations for the current metabolic demand.
@@ -378,10 +378,10 @@ $$\dot{V}CO_2 = D_{CO_2} \times \Delta P_{CO_2}$$
 
 ### Factor 3: Metabolic Rate
 
-- The third factor influencing alveolar gas composition is the **metabolic rate** of the tissues -- the rate of O<sub>2</sub> consumption ($\dot{V}$O<sub>2</sub>) and CO<sub>2</sub> production ($\dot{V}$CO<sub>2</sub>).
+- The third factor influencing alveolar gas composition is the metabolic rate of the tissues -- the rate of O<sub>2</sub> consumption ($\dot{V}$O<sub>2</sub>) and CO<sub>2</sub> production ($\dot{V}$CO<sub>2</sub>).
 - As metabolic rate increases (e.g., during exercise), tissues consume more O<sub>2</sub> and produce more CO<sub>2</sub>.
 - If ventilation does not increase proportionally, alveolar P<sub>O2</sub> drops and alveolar P<sub>CO2</sub> rises.
-- Under normal conditions, **homeostatic regulation** rapidly adjusts breathing rate and depth in response to changes in metabolic rate, maintaining appropriate alveolar gas composition.
+- Under normal conditions, homeostatic regulation rapidly adjusts breathing rate and depth in response to changes in metabolic rate, maintaining appropriate alveolar gas composition.
 
 ---
 
@@ -391,11 +391,11 @@ $$\dot{V}CO_2 = D_{CO_2} \times \Delta P_{CO_2}$$
 
 ### Effects of Metabolic Rate on Lung Gases
 
-- At **constant alveolar ventilation**, increasing metabolic rate changes alveolar gas composition:
-  - **P<sub>O2</sub> decreases** because O<sub>2</sub> is consumed by tissues faster than ventilation can replenish it.
-  - **P<sub>CO2</sub> increases** because CO<sub>2</sub> is produced faster than ventilation can remove it.
+- At constant alveolar ventilation, increasing metabolic rate changes alveolar gas composition:
+  - P<sub>O2</sub> decreases because O<sub>2</sub> is consumed by tissues faster than ventilation can replenish it.
+  - P<sub>CO2</sub> increases because CO<sub>2</sub> is produced faster than ventilation can remove it.
 - This is a hypothetical scenario -- in practice, ventilation rate increases rapidly when exercise begins, driven by homeostatic regulation.
-- The relationship illustrates why **ventilation and metabolism must be closely matched**: a mismatch in either direction disrupts the alveolar gas environment and can impair gas exchange.
+- The relationship illustrates why ventilation and metabolism must be closely matched: a mismatch in either direction disrupts the alveolar gas environment and can impair gas exchange.
 - The **respiratory exchange ratio** (R = $\dot{V}$CO<sub>2</sub> / $\dot{V}$O<sub>2</sub>) reflects the balance between CO<sub>2</sub> production and O<sub>2</sub> consumption and depends on the metabolic substrates being used.
 
 ---
@@ -444,9 +444,9 @@ $$P_AO_2 = P_IO_2 - \frac{P_ACO_2}{R}$$
 
 $$R = \frac{\dot{V}CO_2}{\dot{V}O_2}$$
 
-- This equation accounts for the fact that CO<sub>2</sub> released into the alveoli **dilutes** the O<sub>2</sub> present there.
+- This equation accounts for the fact that CO<sub>2</sub> released into the alveoli dilutes the O<sub>2</sub> present there.
 - P<sub>A</sub>CO<sub>2</sub> is obtained from the clinical alveolar ventilation equation (Slide 25).
-- R typically ranges from **0.7 to 1.0** depending on the metabolic substrate:
+- R typically ranges from 0.7 to 1.0 depending on the metabolic substrate:
   - R $\approx$ 0.7 for fat metabolism
   - R $\approx$ 1.0 for carbohydrate metabolism
   - R $\approx$ 0.8 is commonly assumed when the actual value is unknown.
@@ -462,15 +462,15 @@ $$R = \frac{\dot{V}CO_2}{\dot{V}O_2}$$
 
 - The two clinical equations work together to determine alveolar gas composition from external measurements:
 
-**Clinical alveolar ventilation equation** (for P<sub>A</sub>CO<sub>2</sub>):
+Clinical alveolar ventilation equation (for P<sub>A</sub>CO<sub>2</sub>):
 
 $$P_ACO_2 = \frac{\dot{V}CO_2}{\dot{V}_A} \times K \qquad K = 863 \text{ mmHg}$$
 
-**Alveolar gas equation** (for P<sub>A</sub>O<sub>2</sub>):
+Alveolar gas equation (for P<sub>A</sub>O<sub>2</sub>):
 
 $$P_AO_2 = P_IO_2 - \frac{P_ACO_2}{R} \qquad R = \frac{\dot{V}CO_2}{\dot{V}O_2}$$
 
-- Together, these allow calculation of **alveolar P<sub>O2</sub> and P<sub>CO2</sub>** from non-invasive external measures (spirometry-based gas analysis).
+- Together, these allow calculation of alveolar P<sub>O2</sub> and P<sub>CO2</sub> from non-invasive external measures (spirometry-based gas analysis).
 - This is clinically important because direct measurement of alveolar gas concentrations is impractical, but these values are needed to assess pulmonary function and gas exchange efficiency.
 
 ---
@@ -482,11 +482,11 @@ $$P_AO_2 = P_IO_2 - \frac{P_ACO_2}{R} \qquad R = \frac{\dot{V}CO_2}{\dot{V}O_2}$
 ### Alternative Clinical Calculations
 
 - In clinical practice, several readily available measurements feed into these equations:
-  - **Fraction of inspired O<sub>2</sub>** (F<sub>I</sub>O<sub>2</sub> = 0.21 at sea level) and **barometric pressure** (760 mmHg at sea level) give the **partial pressure of inspired O<sub>2</sub>**.
+  - Fraction of inspired O<sub>2</sub> (F<sub>I</sub>O<sub>2</sub> = 0.21 at sea level) and barometric pressure (760 mmHg at sea level) give the partial pressure of inspired O<sub>2</sub>.
   - **Arterial blood gas (ABG)** sampling can directly provide P<sub>a</sub>CO<sub>2</sub>, which approximates P<sub>A</sub>CO<sub>2</sub>.
   - **Pulse oximetry** provides O<sub>2</sub> saturation (SpO<sub>2</sub>), a non-invasive measure.
-- The **clinical alveolar ventilation equation** is a non-invasive alternative for estimating P<sub>A</sub>CO<sub>2</sub> when arterial blood gas data are unavailable.
-- The **alveolar gas equation** then uses P<sub>A</sub>CO<sub>2</sub> to estimate P<sub>A</sub>O<sub>2</sub>.
+- The clinical alveolar ventilation equation is a non-invasive alternative for estimating P<sub>A</sub>CO<sub>2</sub> when arterial blood gas data are unavailable.
+- The alveolar gas equation then uses P<sub>A</sub>CO<sub>2</sub> to estimate P<sub>A</sub>O<sub>2</sub>.
 - These tools allow clinicians to assess ventilatory function in two different ways, depending on the measurements available.
 
 ---
@@ -498,8 +498,8 @@ $$P_AO_2 = P_IO_2 - \frac{P_ACO_2}{R} \qquad R = \frac{\dot{V}CO_2}{\dot{V}O_2}$
 ### Partial Pressure Gradient for Gas Transport
 
 - The partial pressure gradient between the alveoli and the pulmonary capillary blood is the driving force for O<sub>2</sub> diffusion.
-- At rest, the alveolar-to-capillary P<sub>O2</sub> gradient is approximately **~60-64 mmHg** (P<sub>A</sub>O<sub>2</sub> ~100 mmHg minus P<sub>v</sub>O<sub>2</sub> ~40 mmHg in mixed venous blood).
-- The value **P<sub>deox</sub>O<sub>2</sub> $\approx$ 40 mmHg** shown represents the approximate mixed venous (deoxygenated) P<sub>O2</sub> entering the pulmonary capillary bed -- the "starting point" for oxygenation.
+- At rest, the alveolar-to-capillary P<sub>O2</sub> gradient is approximately ~60-64 mmHg (P<sub>A</sub>O<sub>2</sub> ~100 mmHg minus P<sub>v</sub>O<sub>2</sub> ~40 mmHg in mixed venous blood).
+- The value P<sub>deox</sub>O<sub>2</sub> $\approx$ 40 mmHg shown represents the approximate mixed venous (deoxygenated) P<sub>O2</sub> entering the pulmonary capillary bed -- the "starting point" for oxygenation.
 - All the equations developed in this lecture -- for ventilatory convection, diffusion, and alveolar gas composition -- determine the magnitude of this gradient and therefore the rate of O<sub>2</sub> transfer into the blood.
 
 ---
@@ -551,12 +551,12 @@ $$P_AO_2 = P_IO_2 - \frac{P_ACO_2}{R} \qquad R = \frac{\dot{V}CO_2}{\dot{V}O_2}$
 
 ### Lecture 4 -- Key Takeaways
 
-1. **Alveolar ventilation** ($\dot{V}\_A = f\_b \times (V\_T - V\_D)$) is the physiologically relevant measure of ventilation, accounting for dead space that does not contribute to gas exchange.
-2. The **Fick principle** (conservation of mass) enables calculation of $\dot{V}$O<sub>2</sub> from externally measurable expired gas concentrations and flow rates: $\dot{V}O\_2 = \dot{V}\_E \times (F\_IO\_2 - F\_EO\_2)$. This is the basis for all modern metabolic testing.
-3. **Fick's law of diffusion** governs O<sub>2</sub> transfer across the blood-gas barrier: $\dot{V}O\_2 = D\_LO\_2 \times \Delta P\_{O\_2}$. Diffusion capacity depends on surface area, membrane thickness, and the gas-specific diffusion coefficient.
-4. CO<sub>2</sub> diffuses **~20 times faster** than O<sub>2</sub>, so O<sub>2</sub> diffusion is typically the rate-limiting step in pulmonary gas exchange.
+1. Alveolar ventilation ($\dot{V}\_A = f\_b \times (V\_T - V\_D)$) is the physiologically relevant measure of ventilation, accounting for dead space that does not contribute to gas exchange.
+2. The Fick principle (conservation of mass) enables calculation of $\dot{V}$O<sub>2</sub> from externally measurable expired gas concentrations and flow rates: $\dot{V}O\_2 = \dot{V}\_E \times (F\_IO\_2 - F\_EO\_2)$. This is the basis for all modern metabolic testing.
+3. Fick's law of diffusion governs O<sub>2</sub> transfer across the blood-gas barrier: $\dot{V}O\_2 = D\_LO\_2 \times \Delta P\_{O\_2}$. Diffusion capacity depends on surface area, membrane thickness, and the gas-specific diffusion coefficient.
+4. CO<sub>2</sub> diffuses ~20 times faster than O<sub>2</sub>, so O<sub>2</sub> diffusion is typically the rate-limiting step in pulmonary gas exchange.
 5. Factors that can impair pulmonary diffusion include: decreased lung surface area (fibrosis, emphysema), increased membrane thickness (inflammation, edema, fluid buildup), reduced perfusion, loss of surfactant, and reduced inspired P<sub>O2</sub> (altitude).
-6. The **clinical alveolar ventilation equation** and the **alveolar gas equation** together allow estimation of alveolar P<sub>CO2</sub> and P<sub>O2</sub> from non-invasive measurements.
+6. The clinical alveolar ventilation equation and the alveolar gas equation together allow estimation of alveolar P<sub>CO2</sub> and P<sub>O2</sub> from non-invasive measurements.
 
 ---
 
@@ -566,14 +566,14 @@ $$P_AO_2 = P_IO_2 - \frac{P_ACO_2}{R} \qquad R = \frac{\dot{V}CO_2}{\dot{V}O_2}$
 
 ### Practice Problem: Alveolar P<sub>O2</sub> on 100% O<sub>2</sub>
 
-**Problem.** Calculate the alveolar partial pressure of oxygen ($P\_AO\_2$) for a ventilated patient receiving **100% O<sub>2</sub>** through a mask, given:
+**Problem.** Calculate the alveolar partial pressure of oxygen ($P\_AO\_2$) for a ventilated patient receiving 100% O<sub>2</sub> through a mask, given:
 
 - $P\_{atm} = 760$ mmHg
 - Normal metabolic state with $P\_ACO\_2 = 40$ mmHg
 
 **What equations are needed?**
 
-The **alveolar gas equation**, combined with the equation for the **inspired partial pressure of O<sub>2</sub>** (corrected for water vapor in the conducting airways):
+The alveolar gas equation, combined with the equation for the inspired partial pressure of O<sub>2</sub> (corrected for water vapor in the conducting airways):
 
 $$P_AO_2 = P_IO_2 - \frac{P_ACO_2}{R}$$
 
@@ -593,7 +593,7 @@ $$P_IO_2 = 1.0 \times (760 - 47) = 713 \text{ mmHg}$$
 
 $$P_AO_2 = 713 - \frac{40}{0.8} = 713 - 50 = 663 \text{ mmHg}$$
 
-**Result.** The alveolar P<sub>O2</sub> for a patient breathing 100% O<sub>2</sub> is approximately **663 mmHg** -- roughly **6-fold higher** than the typical ~100 mmHg on room air. This illustrates how supplemental O<sub>2</sub> dramatically increases the alveolar-to-capillary P<sub>O2</sub> gradient, which is the driving force for O<sub>2</sub> diffusion across the blood-gas barrier and a primary therapeutic strategy for patients with impaired pulmonary gas exchange.
+**Result.** The alveolar P<sub>O2</sub> for a patient breathing 100% O<sub>2</sub> is approximately 663 mmHg -- roughly 6-fold higher than the typical ~100 mmHg on room air. This illustrates how supplemental O<sub>2</sub> dramatically increases the alveolar-to-capillary P<sub>O2</sub> gradient, which is the driving force for O<sub>2</sub> diffusion across the blood-gas barrier and a primary therapeutic strategy for patients with impaired pulmonary gas exchange.
 
 ---
 

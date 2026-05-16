@@ -14,7 +14,7 @@ next_lecture: /week02/lecture06-comparative-pulmonary-function
 
 ![Title slide for "Metabolic dynamics and ventilation during rest and exercise" by Dr. Monica A. Daley, Professor, Ecology and Evolutionary Biology, University of California, Irvine. Background collage shows diverse animals and humans exercising: a sea turtle, swimmer, cyclist, parrot, fish, horse, and runners.](images/lec05/slide-001.png)
 
-- This lecture examines how **metabolic energy supply** and **ventilation** change dynamically during the transition from rest to exercise and back to recovery.
+- This lecture examines how metabolic energy supply and ventilation change dynamically during the transition from rest to exercise and back to recovery.
 - Topics include measurement of oxygen consumption (VO<sub>2</sub>), the relationship between exercise intensity and metabolic rate, the oxygen deficit and excess post-exercise oxygen consumption (EPOC), ATP production pathways, ventilatory dynamics, and exercise-induced hypoxemia in elite athletes.
 
 ---
@@ -31,9 +31,9 @@ next_lecture: /week02/lecture06-comparative-pulmonary-function
 - Ventilatory responses to exercise
 
 **Learning objectives:**
-1. Describe how **metabolic energy supply** changes during exercise.
-2. Describe **ventilatory responses** to exercise.
-3. Discuss conditions that may lead to **pulmonary limitations** in gas exchange.
+1. Describe how metabolic energy supply changes during exercise.
+2. Describe ventilatory responses to exercise.
+3. Discuss conditions that may lead to pulmonary limitations in gas exchange.
 4. Define **ventilation-perfusion ratio (V/Q)** and discuss how variation in V/Q may limit gas exchange.
 
 ---
@@ -44,7 +44,7 @@ next_lecture: /week02/lecture06-comparative-pulmonary-function
 
 ### Review: Steps in the Oxygen Supply Cascade
 
-- **Step 1 — Pulmonary ventilation** (environment to alveoli): Governed by gas laws and the **Fick principle**.
+- Step 1 — Pulmonary ventilation (environment to alveoli): Governed by gas laws and the **Fick principle**.
   - The equation based on internal (alveolar) variables:
 
 $$\dot{V}O_2 = \dot{V}_A \times F_AO_2 - F_{\overline{v}}O_2$$
@@ -53,11 +53,11 @@ $$\dot{V}O_2 = \dot{V}_A \times F_AO_2 - F_{\overline{v}}O_2$$
 
 $$\dot{V}O_2 = \dot{V}_E \times (F_IO_2 - F_EO_2)$$
 
-- **Step 2 — Alveolar gas exchange** (lungs to capillary blood): Governed by **Fick's law of diffusion** and the **diffusion capacity** of the lungs.
+- Step 2 — Alveolar gas exchange (lungs to capillary blood): Governed by **Fick's law of diffusion** and the **diffusion capacity** of the lungs.
 
 $$\dot{V}O_2 = D_L(P_AO_2 - P_aO_2)$$
 
-- The key principle is that **partial pressure gradients** drive gas transport from the lungs into the blood.
+- The key principle is that partial pressure gradients drive gas transport from the lungs into the blood.
 
 ---
 
@@ -67,10 +67,10 @@ $$\dot{V}O_2 = D_L(P_AO_2 - P_aO_2)$$
 
 ### Factors Influencing Alveolar Partial Pressures: Inspired Air
 
-- The **partial pressures of inspired air** (P<sub>O₂</sub> and P<sub>CO₂</sub>) are a key factor affecting alveolar gas composition.
-- **Altitude** reduces atmospheric pressure and therefore reduces P<sub>I</sub>O<sub>2</sub>, resulting in lower alveolar P<sub>O₂</sub>.
-- **Indoor air quality** affects P<sub>CO₂</sub> — inadequate ventilation in enclosed spaces causes CO<sub>2</sub> to build up from exhaled air.
-  - Portable **CO<sub>2</sub> monitors** became popular during the COVID-19 pandemic to assess indoor ventilation adequacy.
+- The partial pressures of inspired air (P<sub>O₂</sub> and P<sub>CO₂</sub>) are a key factor affecting alveolar gas composition.
+- Altitude reduces atmospheric pressure and therefore reduces P<sub>I</sub>O<sub>2</sub>, resulting in lower alveolar P<sub>O₂</sub>.
+- Indoor air quality affects P<sub>CO₂</sub> — inadequate ventilation in enclosed spaces causes CO<sub>2</sub> to build up from exhaled air.
+  - Portable CO<sub>2</sub> monitors became popular during the COVID-19 pandemic to assess indoor ventilation adequacy.
   - Elevated indoor CO<sub>2</sub> reflects poor air circulation and can also influence breathing dynamics by altering sensed CO<sub>2</sub> partial pressures.
 
 ---
@@ -81,13 +81,13 @@ $$\dot{V}O_2 = D_L(P_AO_2 - P_aO_2)$$
 
 ### Factors Influencing Alveolar Partial Pressures: Ventilation Rate
 
-- At a **constant metabolic rate**, the alveolar partial pressures depend on the ventilation rate.
+- At a constant metabolic rate, the alveolar partial pressures depend on the ventilation rate.
 - As ventilation increases:
-  - **P<sub>A</sub>O<sub>2</sub> rises** (more fresh air replaces consumed O<sub>2</sub>).
-  - **P<sub>A</sub>CO<sub>2</sub> falls** (CO<sub>2</sub> is washed out more efficiently).
+  - P<sub>A</sub>O<sub>2</sub> rises (more fresh air replaces consumed O<sub>2</sub>).
+  - P<sub>A</sub>CO<sub>2</sub> falls (CO<sub>2</sub> is washed out more efficiently).
 - **Hyperventilation**: Ventilation exceeding metabolic demands — leads to elevated P<sub>A</sub>O<sub>2</sub> and reduced P<sub>A</sub>CO<sub>2</sub>.
 - **Hypoventilation**: Ventilation below metabolic demands — leads to reduced P<sub>A</sub>O<sub>2</sub> and elevated P<sub>A</sub>CO<sub>2</sub>.
-- Homeostatic control mechanisms normally **match ventilation rate to metabolic demands**, maintaining equilibrium.
+- Homeostatic control mechanisms normally match ventilation rate to metabolic demands, maintaining equilibrium.
 
 ---
 
@@ -97,11 +97,11 @@ $$\dot{V}O_2 = D_L(P_AO_2 - P_aO_2)$$
 
 ### Factors Influencing Alveolar Partial Pressures: Metabolic Rate
 
-- At a **constant alveolar ventilation**, changes in metabolic rate alter alveolar partial pressures.
+- At a constant alveolar ventilation, changes in metabolic rate alter alveolar partial pressures.
 - As metabolic rate increases:
-  - **P<sub>A</sub>O<sub>2</sub> decreases** because O<sub>2</sub> is consumed faster by the mitochondria, creating a larger oxygen sink in the tissues.
-  - **P<sub>A</sub>CO<sub>2</sub> increases** because more CO<sub>2</sub> is produced and must be removed.
-- In practice, homeostatic processes **match ventilation to metabolic demand**, so that ventilation also increases when metabolic rate rises.
+  - P<sub>A</sub>O<sub>2</sub> decreases because O<sub>2</sub> is consumed faster by the mitochondria, creating a larger oxygen sink in the tissues.
+  - P<sub>A</sub>CO<sub>2</sub> increases because more CO<sub>2</sub> is produced and must be removed.
+- In practice, homeostatic processes match ventilation to metabolic demand, so that ventilation also increases when metabolic rate rises.
 - If ventilation fails to keep pace with metabolic demand, alveolar gas composition shifts unfavorably.
 
 ---
@@ -122,7 +122,7 @@ $$P_ACO_2 = \frac{\dot{V}CO_2}{\dot{V}_A} \times K$$
 
 $$P_AO_2 = P_IO_2 - \frac{P_ACO_2}{R} \times \left(1 - F_IO_2 \times \frac{1 - R}{R}\right)$$
 
-- Together, these equations allow the calculation of alveolar P<sub>O₂</sub> and P<sub>CO₂</sub> from **non-invasive external measurements**.
+- Together, these equations allow the calculation of alveolar P<sub>O₂</sub> and P<sub>CO₂</sub> from non-invasive external measurements.
 - The constant $K$ depends on the units used — always verify unit consistency when performing calculations.
 
 ---
@@ -153,7 +153,7 @@ $$P_AO_2 = P_IO_2 - \frac{P_ACO_2}{R} \times \left(1 - F_IO_2 \times \frac{1 - R
 
 $$\dot{V}O_2 = \dot{V}_E \times (F_IO_2 - F_EO_2)$$
 
-- **Example calculation**: Given $\dot{V}\_E = 60$ L/min, $F\_IO\_2 = 0.21$, $F\_EO\_2 = 0.17$, and body mass = 60 kg:
+- Example calculation: Given $\dot{V}\_E = 60$ L/min, $F\_IO\_2 = 0.21$, $F\_EO\_2 = 0.17$, and body mass = 60 kg:
 
 $$\dot{V}O_2 = 60 \times (0.21 - 0.17) = 60 \times 0.04 = 2.4 \text{ L/min} = 2400 \text{ mL/min}$$
 
@@ -161,7 +161,7 @@ $$\dot{V}O_2 = 60 \times (0.21 - 0.17) = 60 \times 0.04 = 2.4 \text{ L/min} = 24
 
 $$\dot{V}O_2 = \frac{2400 \text{ mL/min}}{60 \text{ kg}} = 40 \text{ mL/kg/min}$$
 
-- Mass-specific values (mL/kg/min) are the **standard units** for comparing VO<sub>2</sub> across subjects and species.
+- Mass-specific values (mL/kg/min) are the standard units for comparing VO<sub>2</sub> across subjects and species.
 - Problems can be posed in different ways — students should practice solving for any unknown variable in the equation (e.g., given VO<sub>2</sub> and ventilation rate, solve for exhaled fractional concentration).
 
 ---
@@ -172,14 +172,14 @@ $$\dot{V}O_2 = \frac{2400 \text{ mL/min}}{60 \text{ kg}} = 40 \text{ mL/kg/min}$
 
 ### Walking and Running Speed vs. Steady-State VO<sub>2</sub>
 
-- Within the **aerobic range**, VO<sub>2</sub> increases approximately **linearly** with speed for both walking and running.
-- **Walking**: $\dot{V}O\_2 = 0.1x + 3.5$ (mL/kg/min), where $x$ is speed in m/min.
-- **Running**: $\dot{V}O\_2 = 0.2x + 3.5$ (mL/kg/min).
+- Within the aerobic range, VO<sub>2</sub> increases approximately linearly with speed for both walking and running.
+- Walking: $\dot{V}O\_2 = 0.1x + 3.5$ (mL/kg/min), where $x$ is speed in m/min.
+- Running: $\dot{V}O\_2 = 0.2x + 3.5$ (mL/kg/min).
 - Key observations:
-  - Running is **more metabolically expensive** than walking at any given speed (higher intercept when extrapolated).
-  - The **slope** for running (0.2) is steeper than for walking (0.1), meaning metabolic cost increases faster with speed during running.
-  - The y-intercept of 3.5 mL/kg/min represents the approximate **resting metabolic rate**.
-- These are **steady-state** values, measured after sufficient time (3-5 minutes) at each speed for metabolic equilibrium to be reached.
+  - Running is more metabolically expensive than walking at any given speed (higher intercept when extrapolated).
+  - The slope for running (0.2) is steeper than for walking (0.1), meaning metabolic cost increases faster with speed during running.
+  - The y-intercept of 3.5 mL/kg/min represents the approximate resting metabolic rate.
+- These are steady-state values, measured after sufficient time (3-5 minutes) at each speed for metabolic equilibrium to be reached.
 
 ---
 
@@ -189,9 +189,9 @@ $$\dot{V}O_2 = \frac{2400 \text{ mL/min}}{60 \text{ kg}} = 40 \text{ mL/kg/min}$
 
 ### Cycling Work Rate vs. VO<sub>2</sub>
 
-- During **cycle ergometry**, there is an approximately **linear relationship** between work rate (watts) and steady-state VO<sub>2</sub>.
+- During cycle ergometry, there is an approximately linear relationship between work rate (watts) and steady-state VO<sub>2</sub>.
 - VO<sub>2</sub> increases from approximately 15 mL/kg/min at 50 W to approximately 37 mL/kg/min at 200 W.
-- These measurements represent **steady-state** values — the metabolic machinery requires time to ramp up at each work rate.
+- These measurements represent steady-state values — the metabolic machinery requires time to ramp up at each work rate.
   - Each data point is measured after at least 3-5 minutes at a constant work rate to reach a plateau.
 - In real-world exercise (e.g., a bicycle race), work rate fluctuates constantly, so VO<sub>2</sub> would also fluctuate rather than remaining at a constant steady state.
 
@@ -203,11 +203,11 @@ $$\dot{V}O_2 = \frac{2400 \text{ mL/min}}{60 \text{ kg}} = 40 \text{ mL/kg/min}$
 
 ### Metabolic Cost of Running Varies Among Individuals
 
-- The **metabolic cost of running** (measured in mL O<sub>2</sub>/kg/km) varies significantly among individuals.
-- **Elite runners** have the lowest cost (~180 mL/kg/km), **good runners** are intermediate (~192 mL/kg/km), and **untrained runners** have the highest cost (~200 mL/kg/km).
-- There is approximately a **10% difference** in running economy between elite and untrained runners.
+- The metabolic cost of running (measured in mL O<sub>2</sub>/kg/km) varies significantly among individuals.
+- Elite runners have the lowest cost (~180 mL/kg/km), good runners are intermediate (~192 mL/kg/km), and untrained runners have the highest cost (~200 mL/kg/km).
+- There is approximately a 10% difference in running economy between elite and untrained runners.
 - **Running economy** improves with training because trained individuals develop more efficient movement patterns, reducing overall energetic cost for the same speed.
-- This concept is known as **running economy** or **locomotor economy** — a key factor in endurance performance.
+- This concept is known as running economy or locomotor economy — a key factor in endurance performance.
 
 ---
 
@@ -217,13 +217,13 @@ $$\dot{V}O_2 = \frac{2400 \text{ mL/min}}{60 \text{ kg}} = 40 \text{ mL/kg/min}$
 
 ### Metabolic Dynamics: Rest-to-Exercise Transition
 
-- When exercise begins at a constant work rate, the **ATP demand increases immediately** (square-wave step).
-- However, **oxygen uptake (VO<sub>2</sub>) increases gradually**, taking 1-4 minutes to reach steady state.
+- When exercise begins at a constant work rate, the ATP demand increases immediately (square-wave step).
+- However, oxygen uptake (VO<sub>2</sub>) increases gradually, taking 1-4 minutes to reach steady state.
 - The **oxygen deficit** is the difference between the total energy demand and the energy supplied by aerobic metabolism during this ramp-up period (the dark shaded area between the square wave and the VO<sub>2</sub> curve).
-- The oxygen deficit represents energy produced through **anaerobic pathways** (phosphocreatine and anaerobic glycolysis) while the oxidative machinery ramps up.
+- The oxygen deficit represents energy produced through anaerobic pathways (phosphocreatine and anaerobic glycolysis) while the oxidative machinery ramps up.
 - The time to reach steady state varies based on:
-  - **Training status** — highly trained athletes ramp up aerobic metabolism faster.
-  - **Exercise type and intensity**.
+  - Training status — highly trained athletes ramp up aerobic metabolism faster.
+  - Exercise type and intensity.
 
 ---
 
@@ -233,13 +233,13 @@ $$\dot{V}O_2 = \frac{2400 \text{ mL/min}}{60 \text{ kg}} = 40 \text{ mL/kg/min}$
 
 ### Metabolic Dynamics: Key Points
 
-- **At rest**: Almost all ATP is produced through **aerobic metabolism**, which can easily meet steady-state resting demands.
-- **At the onset of exercise**:
-  - ATP use and production **increase immediately**.
-  - Initial ATP production is through **anaerobic pathways** because aerobic metabolism requires time to ramp up.
-- **Oxygen uptake** takes 1-4 minutes to reach steady state.
-- The **oxygen deficit** reflects the energy gap caused by the lag in oxygen uptake at the start of exercise.
-- Once **steady state** is reached for sub-maximal exercise, almost all ATP is supplied by **aerobic metabolism**.
+- At rest: Almost all ATP is produced through **aerobic metabolism**, which can easily meet steady-state resting demands.
+- At the onset of exercise:
+  - ATP use and production increase immediately.
+  - Initial ATP production is through anaerobic pathways because aerobic metabolism requires time to ramp up.
+- Oxygen uptake takes 1-4 minutes to reach steady state.
+- The oxygen deficit reflects the energy gap caused by the lag in oxygen uptake at the start of exercise.
+- Once steady state is reached for sub-maximal exercise, almost all ATP is supplied by aerobic metabolism.
 - If exercise intensity exceeds **VO<sub>2</sub>max**, anaerobic pathways continue to be used throughout the exercise bout, increasing the oxygen deficit.
 
 ---
@@ -281,9 +281,9 @@ $$C_6H_{12}O_6 + 6O_2 \rightarrow 6CO_2 + 6H_2O + 36\,ATP$$
 ### Mapping ATP Pathways to the VO<sub>2</sub> Curve
 
 - Each ATP production pathway corresponds to a specific phase of the rest-to-exercise transition:
-  1. **Phase 1 (immediate jump)** — The **phosphocreatine pathway** provides instantaneous ATP from PCr stores within muscle. This accounts for the initial spike in energy supply.
-  2. **Phase 2 (rising curve)** — **Anaerobic glycolysis** converts glucose to pyruvate and then to lactate, producing ATP without oxygen. This pathway fills the energy gap during the O<sub>2</sub> deficit period and results in **lactic acid accumulation**.
-  3. **Phase 3 (steady state)** — **Aerobic metabolism** (oxidative phosphorylation) takes over once the oxidative machinery is fully operational. Pyruvate enters the mitochondria for complete oxidation, meeting the entire energy demand.
+  1. Phase 1 (immediate jump) — The phosphocreatine pathway provides instantaneous ATP from PCr stores within muscle. This accounts for the initial spike in energy supply.
+  2. Phase 2 (rising curve) — Anaerobic glycolysis converts glucose to pyruvate and then to lactate, producing ATP without oxygen. This pathway fills the energy gap during the O<sub>2</sub> deficit period and results in lactic acid accumulation.
+  3. Phase 3 (steady state) — Aerobic metabolism (oxidative phosphorylation) takes over once the oxidative machinery is fully operational. Pyruvate enters the mitochondria for complete oxidation, meeting the entire energy demand.
 - The transition from anaerobic to aerobic pathways explains the shape of the VO<sub>2</sub> curve during the onset of exercise.
 
 ---
@@ -297,25 +297,25 @@ $$C_6H_{12}O_6 + 6O_2 \rightarrow 6CO_2 + 6H_2O + 36\,ATP$$
 #### Left graph: Submaximal exercise (below VO<sub>2</sub>max)
 
 - The graph plots VO<sub>2</sub> (L/min) on the y-axis against time (minutes) on the x-axis, spanning rest, exercise, and recovery.
-- At rest, VO<sub>2</sub> is at a low baseline. At exercise onset, VO<sub>2</sub> rises in a curving trajectory over approximately 1–4 minutes before reaching a **steady-state plateau** that meets the energy demand of the exercise.
-- The **oxygen deficit** is the shaded area between the horizontal line representing the actual energy demand and the rising VO<sub>2</sub> curve during the transition to steady state. This area represents energy that was supplied by anaerobic pathways (phosphocreatine and anaerobic glycolysis) while aerobic metabolism was ramping up.
+- At rest, VO<sub>2</sub> is at a low baseline. At exercise onset, VO<sub>2</sub> rises in a curving trajectory over approximately 1–4 minutes before reaching a steady-state plateau that meets the energy demand of the exercise.
+- The oxygen deficit is the shaded area between the horizontal line representing the actual energy demand and the rising VO<sub>2</sub> curve during the transition to steady state. This area represents energy that was supplied by anaerobic pathways (phosphocreatine and anaerobic glycolysis) while aerobic metabolism was ramping up.
 - Because the exercise is submaximal, VO<sub>2</sub> eventually reaches the demand level and almost all ATP is produced aerobically at steady state.
-- At exercise cessation, VO<sub>2</sub> does **not drop immediately** to resting levels. Instead, it declines in two phases:
-  - A **rapid component** — a steep drop over the first ~2 minutes, primarily reflecting PCr resynthesis and replenishment of O<sub>2</sub> stores in myoglobin and hemoglobin.
-  - A **slow component** — a gradual exponential decline back to baseline over several additional minutes, driven by thermoregulation, gluconeogenesis, and elevated hormone levels.
+- At exercise cessation, VO<sub>2</sub> does not drop immediately to resting levels. Instead, it declines in two phases:
+  - A rapid component — a steep drop over the first ~2 minutes, primarily reflecting PCr resynthesis and replenishment of O<sub>2</sub> stores in myoglobin and hemoglobin.
+  - A slow component — a gradual exponential decline back to baseline over several additional minutes, driven by thermoregulation, gluconeogenesis, and elevated hormone levels.
 - The total shaded area above resting baseline during recovery is the **excess post-exercise oxygen consumption (EPOC)**.
-- Historically, EPOC was called **"oxygen debt"**, implying the body was "paying back" the deficit. However, the EPOC area is typically **larger** than the oxygen deficit for complex physiological reasons (the slow component reflects processes beyond simple repayment of the deficit).
+- Historically, EPOC was called "oxygen debt", implying the body was "paying back" the deficit. However, the EPOC area is typically larger than the oxygen deficit for complex physiological reasons (the slow component reflects processes beyond simple repayment of the deficit).
 
 #### Right graph: Supramaximal exercise (exceeds VO<sub>2</sub>max)
 
-- The right graph shows the same axes but depicts exercise at an intensity where the energy demand (dashed horizontal line) **exceeds the individual's VO<sub>2</sub>max** (marked as a second horizontal line below the demand line).
-- VO<sub>2</sub> rises but **plateaus at VO<sub>2</sub>max** and cannot reach the energy demand level. The gap between the demand line and the VO<sub>2</sub>max plateau persists throughout the exercise bout.
-- The **oxygen deficit is substantially larger** than in submaximal exercise because:
+- The right graph shows the same axes but depicts exercise at an intensity where the energy demand (dashed horizontal line) exceeds the individual's VO<sub>2</sub>max (marked as a second horizontal line below the demand line).
+- VO<sub>2</sub> rises but plateaus at VO<sub>2</sub>max and cannot reach the energy demand level. The gap between the demand line and the VO<sub>2</sub>max plateau persists throughout the exercise bout.
+- The oxygen deficit is substantially larger than in submaximal exercise because:
   - There is the same initial ramp-up deficit during the transition period.
   - An additional deficit accumulates continuously for the entire duration of exercise, since aerobic metabolism cannot meet the full demand even at steady state.
   - Anaerobic pathways (phosphocreatine and anaerobic glycolysis) must continue to supplement aerobic metabolism throughout the exercise bout.
-- Upon exercise cessation, **EPOC magnitude and duration are markedly increased** compared to the submaximal graph, reflecting the greater physiological disruption: larger PCr depletion, greater lactate accumulation requiring gluconeogenesis, more heat production, and stronger hormonal responses.
-- This illustrates the principle that **oxygen deficit increases with exercise intensity**, approximately linearly up to VO<sub>2</sub>max and then more steeply beyond it.
+- Upon exercise cessation, EPOC magnitude and duration are markedly increased compared to the submaximal graph, reflecting the greater physiological disruption: larger PCr depletion, greater lactate accumulation requiring gluconeogenesis, more heat production, and stronger hormonal responses.
+- This illustrates the principle that oxygen deficit increases with exercise intensity, approximately linearly up to VO<sub>2</sub>max and then more steeply beyond it.
 
 ---
 
@@ -326,14 +326,14 @@ $$C_6H_{12}O_6 + 6O_2 \rightarrow 6CO_2 + 6H_2O + 36\,ATP$$
 ### Rapid and Slow Portions of EPOC
 
 **Rapid portion of EPOC:**
-- **Resynthesis of phosphocreatine (PCr)** stores in muscle — this is a reversible reaction that can be rapidly restored.
-- **Replenishing oxygen stores in myoglobin** — myoglobin in muscle serves as an oxygen store and buffer that is depleted during exercise.
-- **Replenishing hemoglobin O<sub>2</sub> stores** in the blood — ensuring full saturation of hemoglobin after exercise.
+- Resynthesis of phosphocreatine (PCr) stores in muscle — this is a reversible reaction that can be rapidly restored.
+- Replenishing oxygen stores in myoglobin — myoglobin in muscle serves as an oxygen store and buffer that is depleted during exercise.
+- Replenishing hemoglobin O<sub>2</sub> stores in the blood — ensuring full saturation of hemoglobin after exercise.
 
 **Slow portion of EPOC:**
-- **Increased body temperature** — thermoregulation requires energy to return body temperature to equilibrium. Environmental conditions (exercising in heat vs. cold) affect the magnitude of this component.
-- **Conversion of lactic acid to glucose** — **gluconeogenesis** in the liver converts accumulated lactate back to glucose.
-- **Elevated hormones** — increased blood levels of **epinephrine and norepinephrine** keep metabolic rate elevated above baseline.
+- Increased body temperature — thermoregulation requires energy to return body temperature to equilibrium. Environmental conditions (exercising in heat vs. cold) affect the magnitude of this component.
+- Conversion of lactic acid to glucose — **gluconeogenesis** in the liver converts accumulated lactate back to glucose.
+- Elevated hormones — increased blood levels of epinephrine and norepinephrine keep metabolic rate elevated above baseline.
 - The slow portion does not relate directly to the oxygen deficit; it reflects broader physiological changes induced by exercise that take time to resolve.
 - EPOC is one reason why regular exercise helps maintain elevated metabolic rate beyond the exercise bout itself.
 
@@ -345,14 +345,14 @@ $$C_6H_{12}O_6 + 6O_2 \rightarrow 6CO_2 + 6H_2O + 36\,ATP$$
 
 ### Measuring VO<sub>2</sub>max with an Incremental Exercise Test
 
-- **VO<sub>2</sub>max** is determined using an **incremental exercise test** on a treadmill or cycle ergometer.
+- VO<sub>2</sub>max is determined using an **incremental exercise test** on a treadmill or cycle ergometer.
 - The protocol involves progressively increasing work rate at regular intervals (3-5 minutes per stage) to allow steady-state VO<sub>2</sub> at each level.
-- Each data point represents the **steady-state VO<sub>2</sub>** measured after a plateau is reached at that work rate.
-- VO<sub>2</sub> increases **linearly** with work rate up to a point where it begins to **plateau** — this inflection point defines **VO<sub>2</sub>max**.
+- Each data point represents the steady-state VO<sub>2</sub> measured after a plateau is reached at that work rate.
+- VO<sub>2</sub> increases linearly with work rate up to a point where it begins to plateau — this inflection point defines VO<sub>2</sub>max.
 - Beyond VO<sub>2</sub>max, further increases in work rate do not produce additional increases in VO<sub>2</sub>.
-- **Challenges of VO<sub>2</sub>max testing**:
-  - Subjects often **give up before reaching true VO<sub>2</sub>max** due to exhaustion.
-  - **Elite athletes** tend to produce more reliable VO<sub>2</sub>max measurements because they are accustomed to pushing their physical limits.
+- Challenges of VO<sub>2</sub>max testing:
+  - Subjects often give up before reaching true VO<sub>2</sub>max due to exhaustion.
+  - Elite athletes tend to produce more reliable VO<sub>2</sub>max measurements because they are accustomed to pushing their physical limits.
   - In untrained individuals, the test may need to be terminated before a clear plateau is observed, requiring VO<sub>2</sub>max to be estimated.
 
 ---
@@ -363,11 +363,11 @@ $$C_6H_{12}O_6 + 6O_2 \rightarrow 6CO_2 + 6H_2O + 36\,ATP$$
 
 ### Ventilatory Responses in Steady-State Exercise
 
-- The ventilatory response to a fixed level of **submaximal exercise** follows four phases:
-  - **Phase I** — A **sudden increase** in ventilation at exercise onset, driven by immediate sensing of increased ATP use and CO<sub>2</sub> production.
-  - **Phase II** — Ventilation **gradually increases** further as the metabolic machinery ramps up, creating a deeper oxygen sink in the supply cascade.
-  - **Phase III** — **Steady-state ventilation** is maintained, matching metabolic demand. This corresponds to steady-state VO<sub>2</sub>.
-  - **Phase IV** — After exercise cessation, ventilation drops rapidly but does not immediately return to resting levels; it then **gradually returns to baseline**, mirroring the EPOC period.
+- The ventilatory response to a fixed level of submaximal exercise follows four phases:
+  - Phase I — A sudden increase in ventilation at exercise onset, driven by immediate sensing of increased ATP use and CO<sub>2</sub> production.
+  - Phase II — Ventilation gradually increases further as the metabolic machinery ramps up, creating a deeper oxygen sink in the supply cascade.
+  - Phase III — Steady-state ventilation is maintained, matching metabolic demand. This corresponds to steady-state VO<sub>2</sub>.
+  - Phase IV — After exercise cessation, ventilation drops rapidly but does not immediately return to resting levels; it then gradually returns to baseline, mirroring the EPOC period.
 - Phase IV reflects the EPOC — the body's continued elevated metabolic needs during recovery, including PCr resynthesis, myoglobin and hemoglobin reoxygenation, thermoregulation, and metabolic clearance.
 
 ---
@@ -379,14 +379,14 @@ $$C_6H_{12}O_6 + 6O_2 \rightarrow 6CO_2 + 6H_2O + 36\,ATP$$
 ### Changes in Breathing Pattern During Exercise
 
 - **Minute ventilation** ($\dot{V}\_E$) is the product of **breathing frequency** ($f\_b$) and **tidal volume** ($V\_T$).
-- At **rest**: Breathing frequency is approximately 12 breaths/min, and tidal volume uses a small fraction of total lung capacity.
+- At rest: Breathing frequency is approximately 12 breaths/min, and tidal volume uses a small fraction of total lung capacity.
 - As exercise intensity increases:
-  - **Both tidal volume and breathing frequency increase** initially.
+  - Both tidal volume and breathing frequency increase initially.
   - Tidal volume increases by using both the **inspiratory reserve volume** (deeper inhalations) and the **expiratory reserve volume** (more forceful exhalations).
-- At **moderate exercise** ($f$ ~ 18): Both $V\_T$ and $f\_b$ increase.
-- At **heavy exercise** ($f$ ~ 35): Tidal volume approaches its **physical limit** — further increases in ventilation rely more heavily on increases in frequency.
-- At **very heavy exercise** ($f$ ~ 45, approaching 100% VO<sub>2</sub>max): **Breathing frequency increases disproportionately** compared to tidal volume because the muscular effort to further expand tidal volume becomes prohibitive.
-- This shift from volume-dominated to frequency-dominated ventilation increases reflects the **mechanical limits of the lung and respiratory muscles**.
+- At moderate exercise ($f$ ~ 18): Both $V\_T$ and $f\_b$ increase.
+- At heavy exercise ($f$ ~ 35): Tidal volume approaches its physical limit — further increases in ventilation rely more heavily on increases in frequency.
+- At very heavy exercise ($f$ ~ 45, approaching 100% VO<sub>2</sub>max): Breathing frequency increases disproportionately compared to tidal volume because the muscular effort to further expand tidal volume becomes prohibitive.
+- This shift from volume-dominated to frequency-dominated ventilation increases reflects the mechanical limits of the lung and respiratory muscles.
 
 ---
 
@@ -397,16 +397,16 @@ $$C_6H_{12}O_6 + 6O_2 \rightarrow 6CO_2 + 6H_2O + 36\,ATP$$
 ### Ventilation Data During Steady-State Exercise
 
 - Real ventilation data from a published study (Mateika and Duffin, 1995) illustrates breath-by-breath measurements during light, moderate, and heavy exercise.
-- Each dot on the ventilation trace represents **one measured breath**.
-- **Light and moderate exercise**:
-  - Ventilation rate reaches an approximate **steady state**.
+- Each dot on the ventilation trace represents one measured breath.
+- Light and moderate exercise:
+  - Ventilation rate reaches an approximate steady state.
   - P<sub>CO₂</sub> stabilizes at a relatively constant level.
   - P<sub>O₂</sub> also stabilizes — the system achieves homeostatic balance.
-- **Heavy exercise**:
-  - Ventilation continues to **increase progressively** without reaching a plateau.
-  - P<sub>CO₂</sub> **decreases** over time, suggesting that ventilation is exceeding metabolic CO<sub>2</sub> production (a relative hyperventilation).
+- Heavy exercise:
+  - Ventilation continues to increase progressively without reaching a plateau.
+  - P<sub>CO₂</sub> decreases over time, suggesting that ventilation is exceeding metabolic CO<sub>2</sub> production (a relative hyperventilation).
   - P<sub>O₂</sub> dynamics also do not stabilize.
-- In very intense exercise, the **homeostatic steady state breaks down** because the steps in the oxygen supply cascade are no longer fully matched, and the specific limiting factors depend on individual physiology.
+- In very intense exercise, the homeostatic steady state breaks down because the steps in the oxygen supply cascade are no longer fully matched, and the specific limiting factors depend on individual physiology.
 
 ---
 
@@ -416,14 +416,14 @@ $$C_6H_{12}O_6 + 6O_2 \rightarrow 6CO_2 + 6H_2O + 36\,ATP$$
 
 ### Ventilation and Blood Gases During Incremental Exercise
 
-- During an **incremental workload test**, ventilation increases **linearly** with work rate up to approximately 50-70% of VO<sub>2</sub>max.
+- During an incremental workload test, ventilation increases linearly with work rate up to approximately 50-70% of VO<sub>2</sub>max.
 - The point at which ventilation begins to increase rapidly is called the **ventilatory threshold**.
-- Beyond the ventilatory threshold, ventilation rate increases **exponentially**.
-- The exponential increase is **more pronounced in elite athletes** compared to untrained individuals.
-- **Arterial oxygen saturation (P<sub>a</sub>O<sub>2</sub>)**:
-  - In **untrained individuals**: P<sub>a</sub>O<sub>2</sub> remains relatively stable across all work rates.
-  - In **elite athletes**: P<sub>a</sub>O<sub>2</sub> **drops significantly** at the highest work rates, reflecting a phenomenon called **exercise-induced hypoxemia (EIAH)**.
-- This means that in elite athletes, metabolic demands at peak exercise intensity **exceed the lungs' ability to maintain adequate oxygenation** of the blood.
+- Beyond the ventilatory threshold, ventilation rate increases exponentially.
+- The exponential increase is more pronounced in elite athletes compared to untrained individuals.
+- Arterial oxygen saturation (P<sub>a</sub>O<sub>2</sub>):
+  - In untrained individuals: P<sub>a</sub>O<sub>2</sub> remains relatively stable across all work rates.
+  - In elite athletes: P<sub>a</sub>O<sub>2</sub> drops significantly at the highest work rates, reflecting a phenomenon called **exercise-induced hypoxemia (EIAH)**.
+- This means that in elite athletes, metabolic demands at peak exercise intensity exceed the lungs' ability to maintain adequate oxygenation of the blood.
 
 ---
 
@@ -433,13 +433,13 @@ $$C_6H_{12}O_6 + 6O_2 \rightarrow 6CO_2 + 6H_2O + 36\,ATP$$
 
 ### Impact of Endurance Training on Ventilation
 
-- After **endurance training**, ventilation rate at any given work rate is **reduced** compared to pre-training values.
-- **Mechanism**:
-  - Training increases the **aerobic capacity of locomotor muscles**.
-  - Greater aerobic capacity reduces reliance on anaerobic pathways, resulting in **lower hydrogen ion (H<sup>+</sup>) production** during exercise.
-  - Reduced H<sup>+</sup> production **shifts the sensory (afferent) feedback** from muscles that stimulates breathing.
-  - Since the control of breathing is highly sensitive to **blood pH**, lower acid production means less stimulation of ventilation.
-- The result is that trained individuals can perform the same work rate with **less ventilatory effort**, reflecting improved metabolic efficiency.
+- After endurance training, ventilation rate at any given work rate is reduced compared to pre-training values.
+- Mechanism:
+  - Training increases the aerobic capacity of locomotor muscles.
+  - Greater aerobic capacity reduces reliance on anaerobic pathways, resulting in lower hydrogen ion (H<sup>+</sup>) production during exercise.
+  - Reduced H<sup>+</sup> production shifts the sensory (afferent) feedback from muscles that stimulates breathing.
+  - Since the control of breathing is highly sensitive to blood pH, lower acid production means less stimulation of ventilation.
+- The result is that trained individuals can perform the same work rate with less ventilatory effort, reflecting improved metabolic efficiency.
 
 ---
 
@@ -450,14 +450,14 @@ $$C_6H_{12}O_6 + 6O_2 \rightarrow 6CO_2 + 6H_2O + 36\,ATP$$
 ### Exercise-Induced Hypoxemia in Elite Athletes (EIAH) — Human Data
 
 - A study by Dempsey and Wagner (1999) investigated EIAH by measuring elite athletes under three oxygen conditions:
-  - **Hyperoxia** ($F\_IO\_2 = 0.26$) — supplemental oxygen.
-  - **Normoxia** ($F\_IO\_2 = 0.21$) — normal room air.
-  - **Hypoxia** ($F\_IO\_2 = 0.15$) — reduced oxygen.
+  - Hyperoxia ($F\_IO\_2 = 0.26$) — supplemental oxygen.
+  - Normoxia ($F\_IO\_2 = 0.21$) — normal room air.
+  - Hypoxia ($F\_IO\_2 = 0.15$) — reduced oxygen.
 - Key findings:
-  - In **normoxia**, arterial oxygen saturation **drops at high work rates** in elite athletes.
-  - **Supplemental oxygen (hyperoxia) corrects the desaturation**, confirming that the limitation is **pulmonary** — the lungs cannot deliver enough oxygen to meet demand.
-  - In **hypoxia**, the desaturation occurs at **lower work rates**, shifting the onset earlier.
-- This demonstrates that the limitation in EIAH resides in the **pulmonary gas exchange** step of the oxygen supply cascade, not in cardiac output or muscle oxygen extraction.
+  - In normoxia, arterial oxygen saturation drops at high work rates in elite athletes.
+  - Supplemental oxygen (hyperoxia) corrects the desaturation, confirming that the limitation is pulmonary — the lungs cannot deliver enough oxygen to meet demand.
+  - In hypoxia, the desaturation occurs at lower work rates, shifting the onset earlier.
+- This demonstrates that the limitation in EIAH resides in the pulmonary gas exchange step of the oxygen supply cascade, not in cardiac output or muscle oxygen extraction.
 
 ---
 
@@ -467,10 +467,10 @@ $$C_6H_{12}O_6 + 6O_2 \rightarrow 6CO_2 + 6H_2O + 36\,ATP$$
 
 ### Exercise-Induced Hypoxemia — Comparative Evidence from Thoroughbred Racehorses
 
-- The same EIAH phenomenon has been demonstrated in **thoroughbred racehorses**, which are also elite athletes bred for maximal aerobic performance.
-- Under **normoxia**, horses show a significant drop in arterial O<sub>2</sub> saturation at high treadmill speeds.
-- **Supplemental oxygen mostly corrects** the desaturation, confirming a pulmonary limitation.
-- This cross-species comparison demonstrates that EIAH is a **general physiological phenomenon** in elite athletes — not unique to humans — occurring when cardiovascular capacity outpaces pulmonary capacity at peak exercise intensities.
+- The same EIAH phenomenon has been demonstrated in thoroughbred racehorses, which are also elite athletes bred for maximal aerobic performance.
+- Under normoxia, horses show a significant drop in arterial O<sub>2</sub> saturation at high treadmill speeds.
+- Supplemental oxygen mostly corrects the desaturation, confirming a pulmonary limitation.
+- This cross-species comparison demonstrates that EIAH is a general physiological phenomenon in elite athletes — not unique to humans — occurring when cardiovascular capacity outpaces pulmonary capacity at peak exercise intensities.
 
 ---
 
@@ -480,11 +480,11 @@ $$C_6H_{12}O_6 + 6O_2 \rightarrow 6CO_2 + 6H_2O + 36\,ATP$$
 
 ### Negative Correlation Between VO<sub>2</sub>max and Arterial P<sub>O₂</sub>
 
-- A study by Hopkins (2006) measured **arterial P<sub>a</sub>O<sub>2</sub>** at 90-100% VO<sub>2</sub>max across a population of athletes.
-- The data show a **negative correlation** ($R = -0.64$) between VO<sub>2</sub>max and P<sub>a</sub>O<sub>2</sub>:
-  - Athletes with the **highest VO<sub>2</sub>max** values show the **most pronounced exercise-induced hypoxemia** (lowest P<sub>a</sub>O<sub>2</sub>).
+- A study by Hopkins (2006) measured arterial P<sub>a</sub>O<sub>2</sub> at 90-100% VO<sub>2</sub>max across a population of athletes.
+- The data show a negative correlation ($R = -0.64$) between VO<sub>2</sub>max and P<sub>a</sub>O<sub>2</sub>:
+  - Athletes with the highest VO<sub>2</sub>max values show the most pronounced exercise-induced hypoxemia (lowest P<sub>a</sub>O<sub>2</sub>).
   - Athletes with lower VO<sub>2</sub>max values maintain relatively higher arterial oxygenation.
-- This finding reinforces the concept that **pulmonary gas exchange** becomes a limiting factor specifically in the most elite, highly trained athletes whose cardiovascular and muscular adaptations have outpaced the capacity of the respiratory system.
+- This finding reinforces the concept that pulmonary gas exchange becomes a limiting factor specifically in the most elite, highly trained athletes whose cardiovascular and muscular adaptations have outpaced the capacity of the respiratory system.
 
 ---
 
@@ -494,17 +494,17 @@ $$C_6H_{12}O_6 + 6O_2 \rightarrow 6CO_2 + 6H_2O + 36\,ATP$$
 
 ### Does Pulmonary Function Limit Performance?
 
-- In **most healthy individuals** at sea level and at most exercise intensities, pulmonary function is **NOT the limiting factor** in oxygen delivery.
-- **Exception — Endurance events**: During very long endurance events (marathons, ultra-marathons), **respiratory muscle fatigue** can limit ventilatory capacity and thus limit performance.
-- **Exception — Elite athletes**: Pulmonary gas exchange **does limit performance** in some elite endurance athletes.
-  - An estimated **40-50% of elite athletes** experience exercise-induced hypoxemia (EIAH).
+- In most healthy individuals at sea level and at most exercise intensities, pulmonary function is NOT the limiting factor in oxygen delivery.
+- Exception — Endurance events: During very long endurance events (marathons, ultra-marathons), respiratory muscle fatigue can limit ventilatory capacity and thus limit performance.
+- Exception — Elite athletes: Pulmonary gas exchange does limit performance in some elite endurance athletes.
+  - An estimated 40-50% of elite athletes experience exercise-induced hypoxemia (EIAH).
   - Specific mechanisms remain debated, but multiple possible factors include:
-    1. **Inadequate hyperventilation** — failure to increase ventilation sufficiently to match extreme metabolic demands.
-    2. **Mechanical constraints on lung capacity** — physical limits on maximum tidal volume range.
-    3. **Changes in chemosensitivity** — altered breathing control responses.
-    4. **Ventilation/perfusion (V/Q) mismatch** and heterogeneity — uneven matching of airflow and blood flow in different lung regions.
-    5. **Short red blood cell transit time** — extremely high cardiac output in elite athletes reduces the time available for O<sub>2</sub> diffusion in pulmonary capillaries.
-- The heart is highly **trainable** (it can adapt to pump more blood), but the lungs have a more **limited capacity for adaptation** — creating a potential mismatch in elite athletes.
+    1. Inadequate hyperventilation — failure to increase ventilation sufficiently to match extreme metabolic demands.
+    2. Mechanical constraints on lung capacity — physical limits on maximum tidal volume range.
+    3. Changes in chemosensitivity — altered breathing control responses.
+    4. Ventilation/perfusion (V/Q) mismatch and heterogeneity — uneven matching of airflow and blood flow in different lung regions.
+    5. Short red blood cell transit time — extremely high cardiac output in elite athletes reduces the time available for O<sub>2</sub> diffusion in pulmonary capillaries.
+- The heart is highly trainable (it can adapt to pump more blood), but the lungs have a more limited capacity for adaptation — creating a potential mismatch in elite athletes.
 
 ---
 
@@ -514,12 +514,12 @@ $$C_6H_{12}O_6 + 6O_2 \rightarrow 6CO_2 + 6H_2O + 36\,ATP$$
 
 ### Lecture 5 — Key Takeaways
 
-1. **VO<sub>2</sub>** is the fundamental measure of metabolic rate, calculated from ventilation rate and the difference in inspired vs. expired oxygen fractions. Mass-specific VO<sub>2</sub> (mL/kg/min) allows comparison across individuals and species.
-2. VO<sub>2</sub> increases **linearly** with exercise intensity (speed or work rate) in the aerobic range, and **running economy** varies among individuals, improving with training.
-3. The transition from rest to exercise involves an **oxygen deficit** — the period during which anaerobic pathways (phosphocreatine, anaerobic glycolysis) supplement aerobic metabolism until oxidative phosphorylation reaches steady state.
-4. **EPOC** (excess post-exercise oxygen consumption) has rapid and slow components reflecting PCr resynthesis, oxygen store replenishment, thermoregulation, gluconeogenesis, and hormonal effects.
-5. Ventilatory responses to exercise follow four phases, with both **tidal volume and breathing frequency** increasing, though frequency dominates at very high intensities.
-6. **Exercise-induced hypoxemia (EIAH)** occurs in 40-50% of elite athletes, demonstrating that pulmonary gas exchange — not cardiac output — becomes the limiting factor at peak performance levels.
+1. VO<sub>2</sub> is the fundamental measure of metabolic rate, calculated from ventilation rate and the difference in inspired vs. expired oxygen fractions. Mass-specific VO<sub>2</sub> (mL/kg/min) allows comparison across individuals and species.
+2. VO<sub>2</sub> increases linearly with exercise intensity (speed or work rate) in the aerobic range, and running economy varies among individuals, improving with training.
+3. The transition from rest to exercise involves an oxygen deficit — the period during which anaerobic pathways (phosphocreatine, anaerobic glycolysis) supplement aerobic metabolism until oxidative phosphorylation reaches steady state.
+4. EPOC (excess post-exercise oxygen consumption) has rapid and slow components reflecting PCr resynthesis, oxygen store replenishment, thermoregulation, gluconeogenesis, and hormonal effects.
+5. Ventilatory responses to exercise follow four phases, with both tidal volume and breathing frequency increasing, though frequency dominates at very high intensities.
+6. Exercise-induced hypoxemia (EIAH) occurs in 40-50% of elite athletes, demonstrating that pulmonary gas exchange — not cardiac output — becomes the limiting factor at peak performance levels.
 
 ---
 

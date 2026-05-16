@@ -14,9 +14,9 @@ next_lecture: /week05/lecture12-muscle-tissue
 
 ![Title slide for "Introduction to muscle structure & function" by Dr. Monica A. Daley, Professor, Ecology and Evolutionary Biology, University of California, Irvine. Background collage shows diverse animals and humans exercising: a cyclist, water polo ball, sea turtle, a rendered figure of a runner, fish, and other athletes.](images/lec11/slide-001.png)
 
-- Opens the **muscle physiology** section of the course, shifting focus from the **oxygen supply cascade** to the structures that actually generate movement.
-- Builds from the **subcellular** scale (contractile proteins, calcium handling) toward the **whole-body** scale across the next several lectures.
-- Central theme: **trade-offs are present at every structural level** — between speed, force, fatigue resistance, and economy.
+- Opens the **muscle physiology** section of the course, shifting focus from the oxygen supply cascade to the structures that actually generate movement.
+- Builds from the subcellular scale (contractile proteins, calcium handling) toward the whole-body scale across the next several lectures.
+- Central theme: trade-offs are present at every structural level — between speed, force, fatigue resistance, and economy.
 
 ---
 
@@ -26,10 +26,10 @@ next_lecture: /week05/lecture12-muscle-tissue
 
 ### Learning Objectives
 
-1. Describe the **microstructure and functional components** of muscle cells (fibers).
-2. Outline the **events of muscle contraction** and relate them to **force generation**, **displacement**, and **ATP** energy use.
-3. Define the components of muscle cells that are essential for **contractile function** (force, work), **activation control**, and **aerobic energy supply**.
-4. Discuss how these components relate to **functional trade-offs** in muscle design for **force, speed, and endurance**.
+1. Describe the microstructure and functional components of muscle cells (fibers).
+2. Outline the events of muscle contraction and relate them to force generation, displacement, and ATP energy use.
+3. Define the components of muscle cells that are essential for contractile function (force, work), activation control, and aerobic energy supply.
+4. Discuss how these components relate to functional trade-offs in muscle design for force, speed, and endurance.
 
 ---
 
@@ -40,12 +40,12 @@ next_lecture: /week05/lecture12-muscle-tissue
 ### The Hierarchical Organization of Skeletal Muscle
 
 - **Skeletal muscle** is organized hierarchically: whole muscle → **fascicles** → **muscle fibers (myofibers)** → **myofibrils** → **sarcomeres** (actin + myosin).
-- The human body contains **over 600 skeletal muscles**, accounting for **40–50% of total body weight**.
-- Skeletal muscle serves **multiple functions**:
-  - **Force and power** for movement and **breathing** (e.g., diaphragm — failure is life-threatening).
-  - **Postural and balance** control via small **tonic** force production.
+- The human body contains over 600 skeletal muscles, accounting for 40–50% of total body weight.
+- Skeletal muscle serves multiple functions:
+  - Force and power for movement and breathing (e.g., diaphragm — failure is life-threatening).
+  - Postural and balance control via small **tonic** force production.
   - **Thermoregulation** via shivering and basal heat production.
-- Muscle function is also strongly **temperature-dependent**: outside its physiological temperature range, force, power, and efficiency all decline.
+- Muscle function is also strongly temperature-dependent: outside its physiological temperature range, force, power, and efficiency all decline.
 
 ---
 
@@ -55,16 +55,16 @@ next_lecture: /week05/lecture12-muscle-tissue
 
 ### Muscle Fiber Anatomy and Specialized Terminology
 
-- Skeletal muscle cells (**myofibers**) are **highly specialized** for actuating movement, with much of the cell volume devoted to contractile machinery rather than typical organelles.
+- Skeletal muscle cells (**myofibers**) are highly specialized for actuating movement, with much of the cell volume devoted to contractile machinery rather than typical organelles.
 - Specialized terminology for muscle cells:
   - **Sarcolemma** — the muscle cell membrane (specialized for transmitting action potentials).
   - **Sarcoplasm** — the muscle cytoplasm.
   - **Sarcoplasmic reticulum (SR)** — Ca<sup>2+</sup> storage organelle (analogous to ER).
-- Skeletal muscle is **multi-nucleated** with nuclei distributed along the fiber length, enabling **rapid local regulation of protein synthesis** in response to changing mechanical or metabolic demand.
+- Skeletal muscle is multi-nucleated with nuclei distributed along the fiber length, enabling rapid local regulation of protein synthesis in response to changing mechanical or metabolic demand.
 - The sarcoplasm is packed with:
-  - **Contractile proteins**: **actin**, **myosin**, plus structural and regulatory proteins (titin, troponin).
-  - **Mitochondria** in two distinct populations (see next slide).
-  - **Sarcoplasmic reticulum** for Ca<sup>2+</sup> handling.
+  - Contractile proteins: **actin**, **myosin**, plus structural and regulatory proteins (titin, troponin).
+  - Mitochondria in two distinct populations (see next slide).
+  - Sarcoplasmic reticulum for Ca<sup>2+</sup> handling.
 
 ---
 
@@ -74,10 +74,10 @@ next_lecture: /week05/lecture12-muscle-tissue
 
 ### Two Populations of Mitochondria
 
-- Skeletal muscle has **two morphologically and functionally distinct mitochondrial populations**:
-  - **Intermyofibrillar mitochondria** — distributed in arrays between contractile filaments; supply ATP for **cross-bridge cycling**.
-  - **Subsarcolemmal mitochondria** — packed beneath the sarcolemma; supply ATP for **Ca<sup>2+</sup> uptake into the SR by the Ca<sup>2+</sup>-ATPase pump**.
-- This **spatial partitioning** matches ATP production sites to local ATP-consuming machinery.
+- Skeletal muscle has two morphologically and functionally distinct mitochondrial populations:
+  - **Intermyofibrillar mitochondria** — distributed in arrays between contractile filaments; supply ATP for cross-bridge cycling.
+  - **Subsarcolemmal mitochondria** — packed beneath the sarcolemma; supply ATP for Ca<sup>2+</sup> uptake into the SR by the Ca<sup>2+</sup>-ATPase pump.
+- This spatial partitioning matches ATP production sites to local ATP-consuming machinery.
 
 ---
 
@@ -87,9 +87,9 @@ next_lecture: /week05/lecture12-muscle-tissue
 
 ### Sarcoplasmic Reticulum and Excitation–Contraction Coupling
 
-- The **sarcoplasmic reticulum (SR)** is a dense network of tubules that **stores Ca<sup>2+</sup>** and contains **Ca<sup>2+</sup>-ATPase pumps** for re-sequestering Ca<sup>2+</sup> after each contraction.
+- The sarcoplasmic reticulum (SR) is a dense network of tubules that stores Ca<sup>2+</sup> and contains Ca<sup>2+</sup>-ATPase pumps for re-sequestering Ca<sup>2+</sup> after each contraction.
 - **T-tubules** are invaginations of the sarcolemma that extend into the cell interior, contacting the SR at the **triad** (T-tubule + two terminal cisternae).
-- **Excitation–contraction coupling**: action potentials originate at the **neuromuscular junction**, propagate along the sarcolemma, are carried into the cell via T-tubules, depolarize the SR, and trigger **Ca<sup>2+</sup> release** into the sarcoplasm.
+- **Excitation–contraction coupling**: action potentials originate at the **neuromuscular junction**, propagate along the sarcolemma, are carried into the cell via T-tubules, depolarize the SR, and trigger Ca<sup>2+</sup> release into the sarcoplasm.
 
 ---
 
@@ -99,11 +99,11 @@ next_lecture: /week05/lecture12-muscle-tissue
 
 ### Sarcomeres — The Functional Unit of Force and Displacement
 
-- The **sarcomere** is the functional contractile unit of muscle, defined between two **Z-discs** with overlapping **actin (thin)** and **myosin (thick)** filaments and the structural protein **titin**.
-- Myofibrillar proteins typically occupy **70–80%** (up to **90%**) of muscle cell volume — leaving little room for organelles.
+- The **sarcomere** is the functional contractile unit of muscle, defined between two **Z-discs** with overlapping actin (thin) and myosin (thick) filaments and the structural protein **titin**.
+- Myofibrillar proteins typically occupy 70–80% (up to 90%) of muscle cell volume — leaving little room for organelles.
 - Architectural rules linking sarcomere arrangement to function:
-  - **Sarcomeres in series** → determine **maximum displacement** (range of shortening).
-  - **Sarcomeres in parallel** (cross-section) → determine **maximum force**.
+  - Sarcomeres in series → determine maximum displacement (range of shortening).
+  - Sarcomeres in parallel (cross-section) → determine maximum force.
 
 ---
 
@@ -114,9 +114,9 @@ next_lecture: /week05/lecture12-muscle-tissue
 ### The Sliding Filament Model
 
 - The **sliding filament** (or **swinging lever-arm**) model explains how molecular cross-bridge cycling produces sarcomere shortening.
-- **Cross-bridges** form between **myosin heads** and **actin** binding sites; the myosin head undergoes a **power stroke** that ratchets actin past myosin.
-- The result is **shortening of the sarcomere** — the **Z-discs are pulled closer** to the M-line — without any change in the length of the actin or myosin filaments themselves.
-- The molecular flux is enormous: a contracting muscle can cycle ~**$8 \times 10^{21}$** molecules of ATP per second across all of its myosin heads.
+- **Cross-bridges** form between myosin heads and actin binding sites; the myosin head undergoes a **power stroke** that ratchets actin past myosin.
+- The result is shortening of the sarcomere — the Z-discs are pulled closer to the M-line — without any change in the length of the actin or myosin filaments themselves.
+- The molecular flux is enormous: a contracting muscle can cycle ~$8 \times 10^{21}$ molecules of ATP per second across all of its myosin heads.
 
 ---
 
@@ -126,9 +126,9 @@ next_lecture: /week05/lecture12-muscle-tissue
 
 ### Crystalline Order Enables X-ray Diffraction in Living Muscle
 
-- Muscle's near-crystalline subcellular organization (a regular hexagonal **lattice** of actin and myosin filaments) makes it uniquely amenable to **X-ray diffraction**, an experimental technique normally used for crystallized molecules.
-- Diffraction patterns from intact muscle (cobra, barnacle leg) show **intense reflections** corresponding to the regular spacing of contractile proteins.
-- This allows direct measurement of **molecular dynamics** in **living, intact muscle tissue** — something impossible for almost any other vertebrate tissue.
+- Muscle's near-crystalline subcellular organization (a regular hexagonal lattice of actin and myosin filaments) makes it uniquely amenable to **X-ray diffraction**, an experimental technique normally used for crystallized molecules.
+- Diffraction patterns from intact muscle (cobra, barnacle leg) show intense reflections corresponding to the regular spacing of contractile proteins.
+- This allows direct measurement of molecular dynamics in living, intact muscle tissue — something impossible for almost any other vertebrate tissue.
 
 ---
 
@@ -138,9 +138,9 @@ next_lecture: /week05/lecture12-muscle-tissue
 
 ### In Vivo X-ray Diffraction in Flying Insects
 
-- Tethered insects such as **hawkmoths** can be flown inside an X-ray beam while their **flight muscles** (DLMs and DVMs) are simultaneously imaged and EMG-recorded.
-- This setup reveals the **time course of myofilament lattice dilation** and **filament stretch** during real-time contractions.
-- Demonstrates how muscle's molecular organization allows researchers to **integrate molecular dynamics with whole-body movement** in a single experiment.
+- Tethered insects such as **hawkmoths** can be flown inside an X-ray beam while their flight muscles (DLMs and DVMs) are simultaneously imaged and EMG-recorded.
+- This setup reveals the time course of myofilament lattice dilation and filament stretch during real-time contractions.
+- Demonstrates how muscle's molecular organization allows researchers to integrate molecular dynamics with whole-body movement in a single experiment.
 
 ---
 
@@ -150,14 +150,14 @@ next_lecture: /week05/lecture12-muscle-tissue
 
 ### The Cross-Bridge Cycle (Six Classical Steps)
 
-1. **Resting fiber**: myosin head bound to **ADP + P<sub>i</sub>**, not attached to actin.
-2. In the **presence of Ca<sup>2+</sup>**, troponin moves tropomyosin off actin's binding sites; **myosin binds to actin** and forms a cross-bridge.
-3. **P<sub>i</sub> released** from myosin → conformational change.
-4. **Power stroke**: actin slides past myosin, **ADP released**; myosin remains tightly bound (the **rigor** state).
-5. A **new ATP binds** to myosin → cross-bridge **releases** from actin.
-6. **ATP is hydrolyzed** to ADP + P<sub>i</sub>, re-energizing the myosin head and returning it to its original orientation. Cycle repeats.
+1. Resting fiber: myosin head bound to ADP + P<sub>i</sub>, not attached to actin.
+2. In the presence of Ca<sup>2+</sup>, **troponin** moves **tropomyosin** off actin's binding sites; myosin binds to actin and forms a cross-bridge.
+3. P<sub>i</sub> released from myosin → conformational change.
+4. **Power stroke**: actin slides past myosin, ADP released; myosin remains tightly bound (the **rigor** state).
+5. A new ATP binds to myosin → cross-bridge releases from actin.
+6. ATP is hydrolyzed to ADP + P<sub>i</sub>, re-energizing the myosin head and returning it to its original orientation. Cycle repeats.
 
-- **Key point**: ATP is required to **release** the cross-bridge, not to form it. This is why **rigor mortis** occurs after death — without ATP, cross-bridges remain bound until proteins denature.
+- ATP is required to release the cross-bridge, not to form it. This is why **rigor mortis** occurs after death — without ATP, cross-bridges remain bound until proteins denature.
 
 ---
 
@@ -167,15 +167,15 @@ next_lecture: /week05/lecture12-muscle-tissue
 
 ### The Activation–Relaxation Cycle (Calcium Cycling)
 
-1. Action potential → **Ca<sup>2+</sup> released from SR** into the sarcoplasm.
-2. Ca<sup>2+</sup> **binds troponin**, displacing tropomyosin and **exposing actin binding sites**.
-3. **Cross-bridges form**, generate force, and cycle (links to Slide 11).
-4. **Ca<sup>2+</sup> is re-sequestered** into the SR by **Ca<sup>2+</sup>-ATPase pumps** (SERCA).
-5. As sarcoplasmic [Ca<sup>2+</sup>] falls, **Ca<sup>2+</sup> dissociates from troponin** → tropomyosin re-blocks binding sites → **no new cross-bridges** form.
-6. Existing cross-bridges complete their cycles and detach → **relaxation**.
+1. Action potential → Ca<sup>2+</sup> released from SR into the sarcoplasm.
+2. Ca<sup>2+</sup> binds troponin, displacing tropomyosin and exposing actin binding sites.
+3. Cross-bridges form, generate force, and cycle (links to Slide 11).
+4. Ca<sup>2+</sup> is re-sequestered into the SR by Ca<sup>2+</sup>-ATPase pumps (SERCA).
+5. As sarcoplasmic [Ca<sup>2+</sup>] falls, Ca<sup>2+</sup> dissociates from troponin → tropomyosin re-blocks binding sites → no new cross-bridges form.
+6. Existing cross-bridges complete their cycles and detach → relaxation.
 
-- **Speed of relaxation depends on steps 4–6** — that is, on Ca<sup>2+</sup> re-sequestration kinetics.
-- The Ca<sup>2+</sup>-ATPase pump is a **major ATP consumer**: an estimated **30–40% of the total energetic cost of isometric contraction** is spent on **calcium cycling** (not cross-bridge cycling itself; Barclay et al. 2007).
+- Speed of relaxation depends on steps 4–6 — that is, on Ca<sup>2+</sup> re-sequestration kinetics.
+- The Ca<sup>2+</sup>-ATPase pump is a major ATP consumer: an estimated 30–40% of the total energetic cost of isometric contraction is spent on calcium cycling (not cross-bridge cycling itself; Barclay et al. 2007).
 
 ---
 
@@ -185,16 +185,16 @@ next_lecture: /week05/lecture12-muscle-tissue
 
 ### Twitch Kinetics Vary By Fiber Type
 
-- Single-fiber experiments allow simultaneous measurement of **force** and **free [Ca<sup>2+</sup>]** following an action potential.
-- Across toadfish red, white, and superfast fibers, twitch duration spans more than an order of magnitude:
-  - **Red (slow oxidative)**: long, slow twitch.
-  - **White (fast glycolytic)**: shorter twitch.
-  - **Superfast / sonic** (toadfish swim bladder, rattlesnake tail-shaker): **extraordinarily rapid** Ca<sup>2+</sup> release and reuptake — twitches complete in ~10–20 ms.
-- **Three molecular determinants** of contraction speed:
-  1. **SR Ca<sup>2+</sup>-ATPase** isoforms → Ca<sup>2+</sup> cycling dynamics, activation/relaxation rate.
-  2. **Troponin** isoforms → actin–myosin binding regulation.
-  3. **Myosin** isoforms → cross-bridge cycling and detachment rate.
-- Historically, **myosin isoforms** were the focus of fiber-type classification; modern work shows that **all three** vary together and contribute to fiber speed.
+- Single-fiber experiments allow simultaneous measurement of force and free [Ca<sup>2+</sup>] following an action potential.
+- Across toadfish red, white, and superfast fibers, **twitch** duration spans more than an order of magnitude:
+  - Red (slow oxidative): long, slow twitch.
+  - White (fast glycolytic): shorter twitch.
+  - **Superfast / sonic** (toadfish swim bladder, rattlesnake tail-shaker): extraordinarily rapid Ca<sup>2+</sup> release and reuptake — twitches complete in ~10–20 ms.
+- Three molecular determinants of contraction speed:
+  1. SR Ca<sup>2+</sup>-ATPase isoforms → Ca<sup>2+</sup> cycling dynamics, activation/relaxation rate.
+  2. Troponin isoforms → actin–myosin binding regulation.
+  3. Myosin isoforms → cross-bridge cycling and detachment rate.
+- Historically, myosin isoforms were the focus of fiber-type classification; modern work shows that all three vary together and contribute to fiber speed.
 
 ---
 
@@ -204,15 +204,15 @@ next_lecture: /week05/lecture12-muscle-tissue
 
 ### The "Zero-Sum Game" of Muscle Volume Fractions
 
-- A given **muscle fiber volume** must be partitioned among three competing components:
-  - **Myofibrils** → **force capacity**
-  - **Sarcoplasmic reticulum (SR)** → **activation/relaxation speed**
-  - **Mitochondria** → **aerobic energy supply**
+- A given muscle fiber volume must be partitioned among three competing components:
+  - Myofibrils → force capacity
+  - Sarcoplasmic reticulum (SR) → activation/relaxation speed
+  - Mitochondria → aerobic energy supply
 - Increasing one component necessarily reduces space available for the others — the **"zero-sum game"** (Rome & Lindstedt 1998).
 - Approximate ranges:
-  - **SR**: ~5% (slower fibers) up to ~30% (superfast specialists).
-  - **Mitochondria**: ~5% (anaerobic fibers) up to ~30% (highly aerobic fibers).
-  - The **remainder** is myofibrils (70–90%).
+  - SR: ~5% (slower fibers) up to ~30% (superfast specialists).
+  - Mitochondria: ~5% (anaerobic fibers) up to ~30% (highly aerobic fibers).
+  - The remainder is myofibrils (70–90%).
 - Result: muscle fibers occupy a continuum on this trade-off surface depending on their functional specialization.
 
 ---
@@ -225,13 +225,13 @@ next_lecture: /week05/lecture12-muscle-tissue
 
 | Muscle type | Myofibrils | Mitochondria | SR | Functional profile |
 |---|---|---|---|---|
-| **Anaerobic, high-force** (e.g., white fiber) | ~85% | ~5% | ~10% | **High force**, fast, **rapid fatigue** |
-| **Aerobic** (e.g., type I red fiber) | ~70% | ~25% | ~5% | **Lower force**, slow, **fatigue-resistant** |
-| **Super fast** (e.g., rattlesnake tail-shaker) | ~50% | ~20% | ~30% | **Super fast**, **very low force**, fatigue-resistant |
+| **Anaerobic, high-force** (e.g., white fiber) | ~85% | ~5% | ~10% | High force, fast, rapid fatigue |
+| **Aerobic** (e.g., type I red fiber) | ~70% | ~25% | ~5% | Lower force, slow, fatigue-resistant |
+| **Super fast** (e.g., rattlesnake tail-shaker) | ~50% | ~20% | ~30% | Super fast, very low force, fatigue-resistant |
 
 - Each design reflects a different solution to the volume-fraction trade-off, optimized for a different functional role.
-- **Most vertebrate muscles are mixed fiber types** — fish are an exception (red and white muscle in distinct anatomical compartments).
-- Fiber type is **highly plastic** — cross-reinnervation experiments (transplanting nerves between fast and slow muscles) demonstrate that fiber type can switch in response to neural activation pattern.
+- Most vertebrate muscles are mixed fiber types — fish are an exception (red and white muscle in distinct anatomical compartments).
+- Fiber type is highly plastic — **cross-reinnervation** experiments (transplanting nerves between fast and slow muscles) demonstrate that fiber type can switch in response to neural activation pattern.
 
 ---
 
@@ -242,9 +242,9 @@ next_lecture: /week05/lecture12-muscle-tissue
 ### Traditional Fiber Type Classifications
 
 - Three textbook categories, based on histochemical staining:
-  - **Type I** — **slow oxidative**
-  - **Type IIa** — **fast oxidative/glycolytic**
-  - **Type IIx** (also IIb in rodents) — **fast glycolytic**
+  - **Type I** — slow oxidative
+  - **Type IIa** — fast oxidative/glycolytic
+  - **Type IIx** (also IIb in rodents) — fast glycolytic
 - Maximum shortening velocity scales: Type IIx > IIa > I.
 
 | Characteristic | Type IIx (fast glycolytic) | Type IIa (fast oxidative) | Type I (slow oxidative) |
@@ -257,7 +257,7 @@ next_lecture: /week05/lecture12-muscle-tissue
 | Efficiency | Low | Moderate | High |
 | Specific tension | High | High | Moderate |
 
-- Categories are useful but represent **points on a continuum** — within-fiber-type variation in mitochondrial, SR, and protein-isoform composition is substantial.
+- Categories are useful but represent points on a continuum — within-fiber-type variation in mitochondrial, SR, and protein-isoform composition is substantial.
 
 ---
 
@@ -267,11 +267,11 @@ next_lecture: /week05/lecture12-muscle-tissue
 
 ### Fiber Type Shifts With Training
 
-- Type II fibers have **higher specific force** and **higher maximum power** than Type I, but at the cost of fatigue resistance.
+- Type II fibers have higher specific force and higher maximum power than Type I, but at the cost of fatigue resistance.
 - Training-induced fiber type shifts:
-  - **Endurance training (low intensity, high reps)** → shift toward **oxidative fibers** (lower force, fatigue-resistant).
-  - **High-intensity, low-rep strength/power training** → shift toward **fast glycolytic fibers** (higher force, more fatigable).
-- These shifts demonstrate the **plasticity** of fiber type within an individual.
+  - Endurance training (low intensity, high reps) → shift toward oxidative fibers (lower force, fatigue-resistant).
+  - High-intensity, low-rep strength/power training → shift toward fast glycolytic fibers (higher force, more fatigable).
+- These shifts demonstrate the plasticity of fiber type within an individual.
 
 ---
 
@@ -287,7 +287,7 @@ next_lecture: /week05/lecture12-muscle-tissue
 | Track sprinters | 25–30 | 70–75 |
 | Nonathletes | 47–53 | 47–53 |
 
-- Differences reflect both **training adaptations** and **genetic predisposition** — these are difficult to disentangle in cross-sectional comparisons.
+- Differences reflect both training adaptations and genetic predisposition — these are difficult to disentangle in cross-sectional comparisons.
 - Self-selection into sport is also a factor: individuals with naturally faster muscles may gravitate toward sprint events and vice versa.
 
 ---
@@ -298,12 +298,12 @@ next_lecture: /week05/lecture12-muscle-tissue
 
 ### Endurance Training Increases Mitochondrial Volume in All Fiber Types
 
-- Endurance training increases **mitochondrial volume density** in **all three fiber types**, not just slow fibers.
-- **Baseline differs**: type I fibers start with higher mitochondrial density than IIA or IIB.
-- **Time course differs**:
-  - Type IIB: rapid increase over 6 weeks, then **plateau**.
-  - Type I: continues to **increase progressively** through 6 months.
-- Reinforces that fiber type is a **continuum** with **substantial within-type plasticity** — even "fast glycolytic" fibers acquire more mitochondria with endurance training.
+- Endurance training increases **mitochondrial volume density** in all three fiber types, not just slow fibers.
+- Baseline differs: type I fibers start with higher mitochondrial density than IIA or IIB.
+- Time course differs:
+  - Type IIB: rapid increase over 6 weeks, then plateau.
+  - Type I: continues to increase progressively through 6 months.
+- Reinforces that fiber type is a continuum with substantial within-type plasticity — even "fast glycolytic" fibers acquire more mitochondria with endurance training.
 
 ---
 
@@ -313,11 +313,11 @@ next_lecture: /week05/lecture12-muscle-tissue
 
 ### Strength Training Shifts SR Calcium Handling
 
-- Eight weeks of strength training in **elite rowers** (under either 10-set or 3-set protocols) increased **both**:
-  - **SR Ca<sup>2+</sup> uptake rate** (P = 0.003)
-  - **SR Ca<sup>2+</sup> release rate** (P = 0.0001)
-- Faster Ca<sup>2+</sup> cycling enables **faster contraction–relaxation** — important when speed and force must be combined (as in rowing).
-- Mechanistically, this likely reflects **changes in SR amount and Ca<sup>2+</sup>-ATPase isoform expression**, providing more rapid activation control.
+- Eight weeks of strength training in elite rowers (under either 10-set or 3-set protocols) increased both:
+  - SR Ca<sup>2+</sup> uptake rate (P = 0.003)
+  - SR Ca<sup>2+</sup> release rate (P = 0.0001)
+- Faster Ca<sup>2+</sup> cycling enables faster contraction–relaxation — important when speed and force must be combined (as in rowing).
+- Mechanistically, this likely reflects changes in SR amount and Ca<sup>2+</sup>-ATPase isoform expression, providing more rapid activation control.
 
 ---
 
@@ -328,10 +328,10 @@ next_lecture: /week05/lecture12-muscle-tissue
 ### Hummingbirds — An Apparent Exception to the Zero-Sum Game
 
 - Hummingbirds are physiological extremes:
-  - **Highest mass-specific metabolic rates** among vertebrates.
+  - Highest mass-specific metabolic rates among vertebrates.
   - Capable of sustained **hovering flight** (highly demanding aerobically and mechanically).
-  - Wingbeat frequencies of **~40–80 Hz** — in the audible range when one is nearby.
-- Their flight muscles seem to combine **high force**, **high speed**, and **high endurance** simultaneously — apparently challenging the zero-sum game framework.
+  - Wingbeat frequencies of ~40–80 Hz — in the audible range when one is nearby.
+- Their flight muscles seem to combine high force, high speed, and high endurance simultaneously — apparently challenging the zero-sum game framework.
 
 ---
 
@@ -341,9 +341,9 @@ next_lecture: /week05/lecture12-muscle-tissue
 
 ### Hovering Aerodynamics Demand Lift on Both Strokes
 
-- Particle-image-velocimetry (PIV) studies of hovering hummingbirds reveal **downward momentum jets** during **both the downstroke and the upstroke**.
-- Most birds generate lift only on the **downstroke**; hummingbirds generate substantial lift on the **upstroke as well**, allowing true **hovering**.
-- This places extreme power demands on **both** the downstroke and upstroke flight muscles.
+- Particle-image-velocimetry (PIV) studies of hovering hummingbirds reveal downward momentum jets during both the downstroke and the upstroke.
+- Most birds generate lift only on the downstroke; hummingbirds generate substantial lift on the upstroke as well, allowing true hovering.
+- This places extreme power demands on both the downstroke and upstroke flight muscles.
 
 ---
 
@@ -354,8 +354,8 @@ next_lecture: /week05/lecture12-muscle-tissue
 ### Hummingbird Flight Muscles Are A Single Specialized Type
 
 - The **pectoralis** (downstroke) and **supracoracoideus** (upstroke) are large flight muscles that together comprise much of the hummingbird's body mass.
-- They are made up **exclusively** of **fast oxidative–glycolytic fibers (type IIa)** — unusual for vertebrate muscle, which is typically a mosaic of fiber types.
-- EMG recordings show **alternating, precisely timed activation** of pectoralis and supracoracoideus across each wingbeat cycle (~80 ms shown).
+- They are made up exclusively of fast oxidative–glycolytic fibers (type IIa) — unusual for vertebrate muscle, which is typically a mosaic of fiber types.
+- EMG recordings show alternating, precisely timed activation of pectoralis and supracoracoideus across each wingbeat cycle (~80 ms shown).
 
 ---
 
@@ -365,10 +365,10 @@ next_lecture: /week05/lecture12-muscle-tissue
 
 ### Hummingbird Mitochondria — Giant and Densely Packed
 
-- Hummingbird flight-muscle **mitochondria are giant** and occupy **~35–50% of cell volume** — far above typical vertebrate muscle (~5–25%).
-- Mitochondria contain **densely "double-packed" cristae**, providing extra inner membrane surface area for oxidative phosphorylation.
-- Hummingbirds also maintain **higher body temperature** than most vertebrates, which **accelerates** ATP synthesis and Ca<sup>2+</sup>-pump kinetics.
-- These specializations expand the cellular envelope — hummingbirds **shift the entire trade-off surface**, rather than violating the zero-sum game.
+- Hummingbird flight-muscle mitochondria are giant and occupy ~35–50% of cell volume — far above typical vertebrate muscle (~5–25%).
+- Mitochondria contain densely "double-packed" cristae, providing extra inner membrane surface area for oxidative phosphorylation.
+- Hummingbirds also maintain higher body temperature than most vertebrates, which accelerates ATP synthesis and Ca<sup>2+</sup>-pump kinetics.
+- These specializations expand the cellular envelope — hummingbirds shift the entire trade-off surface, rather than violating the zero-sum game.
 
 ---
 
@@ -379,11 +379,11 @@ next_lecture: /week05/lecture12-muscle-tissue
 ### Trade-offs Persist: Low Force and High Temperature Sensitivity
 
 - Hummingbird flight muscle has:
-  - **Very low specific tension** (force per cross-sectional area) — a direct consequence of mitochondria taking up so much cell volume that less is available for myofibrils.
-  - **High temperature sensitivity** — force falls steeply at lower temperatures.
+  - Very low **specific tension** (force per cross-sectional area) — a direct consequence of mitochondria taking up so much cell volume that less is available for myofibrils.
+  - High temperature sensitivity — force falls steeply at lower temperatures.
 - Functional consequences:
   - Hummingbirds enter **torpor** in cold weather because their muscles lose function as temperature drops.
-  - The "broken zero-sum game" comes with **its own trade-offs**: extreme aerobic capacity at the cost of low force and a narrow operating temperature range.
+  - The "broken zero-sum game" comes with its own trade-offs: extreme aerobic capacity at the cost of low force and a narrow operating temperature range.
 
 ---
 
@@ -393,10 +393,10 @@ next_lecture: /week05/lecture12-muscle-tissue
 
 ### Regional Endothermy and Heater Organs
 
-- Some fish — **tunas** and **mackerel sharks** — maintain **elevated red-muscle temperature** above ambient water using a vascular **countercurrent heat exchanger** (the **rete mirabile**).
-- The rete is anatomically associated with the **slow-twitch aerobic red muscle** used for sustained swimming, with viscera, and (in some species) with cranial/orbital regions.
-- **Heater organs**: in some tunas, **extraocular muscles** have lost their contractile function and instead perform **futile Ca<sup>2+</sup> cycling** between cytoplasm and SR — generating **large amounts of heat** to warm the eye and brain.
-- Demonstrates that **muscle's molecular machinery can be co-opted purely for thermogenesis**, separating the calcium-cycling and force-generating functions.
+- Some fish — tunas and mackerel sharks — maintain elevated red-muscle temperature above ambient water using a vascular countercurrent heat exchanger (the **rete mirabile**).
+- The rete is anatomically associated with the slow-twitch aerobic red muscle used for sustained swimming, with viscera, and (in some species) with cranial/orbital regions.
+- **Heater organs**: in some tunas, extraocular muscles have lost their contractile function and instead perform futile Ca<sup>2+</sup> cycling between cytoplasm and SR — generating large amounts of heat to warm the eye and brain.
+- Demonstrates that muscle's molecular machinery can be co-opted purely for thermogenesis, separating the calcium-cycling and force-generating functions.
 
 ---
 
@@ -406,13 +406,13 @@ next_lecture: /week05/lecture12-muscle-tissue
 
 ### Thermoregulatory "Breath-Holding" in Hammerhead Sharks
 
-- The **scalloped hammerhead** (*Sphyrna lewini*) makes **rapid deep dives** from ~26°C surface waters to depths >800 m at <5°C.
-- It maintains **muscle temperature** during these excursions by **suspending gill heat exchange** (a kind of thermoregulatory "breath-holding") rather than by endothermy.
+- The scalloped hammerhead (*Sphyrna lewini*) makes rapid deep dives from ~26°C surface waters to depths >800 m at <5°C.
+- It maintains muscle temperature during these excursions by suspending gill heat exchange (a kind of thermoregulatory "breath-holding") rather than by endothermy.
 - Proposed mechanisms:
-  - **Shunting blood away from the gills**.
-  - **Closing gill slits and mouth**.
-  - **Reducing ram-ventilation** to minimize convective heat loss across the gill epithelium.
-- Reinforces the importance of **maintaining muscle temperature** for muscle function — these deep-diving predators must keep their muscle warm enough to function effectively at depth.
+  - Shunting blood away from the gills.
+  - Closing gill slits and mouth.
+  - Reducing ram-ventilation to minimize convective heat loss across the gill epithelium.
+- Reinforces the importance of maintaining muscle temperature for muscle function — these deep-diving predators must keep their muscle warm enough to function effectively at depth.
 
 ---
 
@@ -422,10 +422,10 @@ next_lecture: /week05/lecture12-muscle-tissue
 
 ### Learning Objectives — Recap
 
-1. **Microstructure and functional components** of muscle fibers — sarcolemma, sarcoplasm, SR, T-tubules, two mitochondrial populations, and the sarcomere as the contractile unit.
-2. **Events of muscle contraction** — the cross-bridge cycle (six steps), the role of **ATP** in releasing cross-bridges, and the relationship between cross-bridge cycling and force/displacement.
-3. **Components essential for contractile function, activation control, and aerobic energy supply** — myofibrils, SR + Ca<sup>2+</sup>-ATPase, and intermyofibrillar mitochondria, respectively.
-4. **Functional trade-offs** — the **zero-sum game** of volume fractions and the resulting fiber-type continuum from high-force/anaerobic to slow/aerobic to super-fast/low-force, plus extreme cases (hummingbirds, tunas) that expand or shift the trade-off surface.
+1. Microstructure and functional components of muscle fibers — sarcolemma, sarcoplasm, SR, T-tubules, two mitochondrial populations, and the sarcomere as the contractile unit.
+2. Events of muscle contraction — the cross-bridge cycle (six steps), the role of ATP in releasing cross-bridges, and the relationship between cross-bridge cycling and force/displacement.
+3. Components essential for contractile function, activation control, and aerobic energy supply — myofibrils, SR + Ca<sup>2+</sup>-ATPase, and intermyofibrillar mitochondria, respectively.
+4. Functional trade-offs — the zero-sum game of volume fractions and the resulting fiber-type continuum from high-force/anaerobic to slow/aerobic to super-fast/low-force, plus extreme cases (hummingbirds, tunas) that expand or shift the trade-off surface.
 
 ---
 

@@ -10,16 +10,12 @@ prev_lecture: /week06/friday-review
 next_lecture: /week07/lecture16-forces-energy-cost
 ---
 
-This lecture introduces the basic principles of training and detraining and walks through the physiological mechanisms, signaling events, and time courses of endurance- and resistance-training-induced muscle adaptations. It closes with the interaction between concurrent strength and endurance training.
-
----
-
 ## Slide 1
 
 ![Title slide for "Integrative muscle function: training effects on muscle" by Dr. Monica A. Daley, Professor, Ecology and Evolutionary Biology, University of California, Irvine. The same background collage from earlier lectures shows a cyclist, a water polo player, a swimmer, a sprinter, an oxygen cascade schematic, and a row of comparative species (sea turtle, snake, hummingbird, kangaroo, horse, seal, lizard, croc, whale).](images/lec15/slide-001.png)
 
-- Continuing the integrative muscle sequence — moving from the **structural and architectural levels** of Lectures 11–14 to the **plastic adaptive responses** of muscle.
-- Today's focus: the **basic principles of training**, and how **endurance** and **resistance** training each alter muscle physiology.
+- Continuing the integrative muscle sequence — moving from the structural and architectural levels of Lectures 11–14 to the plastic adaptive responses of muscle.
+- Today's focus: the basic principles of training, and how endurance and resistance training each alter muscle physiology.
 
 ---
 
@@ -29,11 +25,11 @@ This lecture introduces the basic principles of training and detraining and walk
 
 ### Learning Objectives
 
-1. Describe the **basic principles of training and detraining** and their time courses.
-2. Discuss the mechanisms that enable increases in **VO<sub>2</sub> max** with endurance training over **short and longer time periods**.
-3. Describe the physiological mechanisms, **signaling events**, and **time course** of **endurance-training-induced** muscle adaptations.
-4. Describe the physiological mechanisms, signaling events, and time course of **resistance-training-induced** muscle adaptations.
-5. Discuss potential interactions between **strength and endurance training** (concurrent training).
+1. Describe the basic principles of training and detraining and their time courses.
+2. Discuss the mechanisms that enable increases in **VO<sub>2</sub> max** with endurance training over short and longer time periods.
+3. Describe the physiological mechanisms, signaling events, and time course of endurance-training-induced muscle adaptations.
+4. Describe the physiological mechanisms, signaling events, and time course of resistance-training-induced muscle adaptations.
+5. Discuss potential interactions between strength and endurance training (concurrent training).
 
 ---
 
@@ -43,14 +39,14 @@ This lecture introduces the basic principles of training and detraining and walk
 
 ### Four Core Principles of Training
 
-- **Overload** — physical stress placed on a body system must be **greater than usual** in amount or intensity to elicit adaptive plasticity.
-- **Progression** — once a fitness level is reached, the stimulus must **continue to increase** to drive further adaptation; small progressive increases minimize injury risk.
-- **Specificity** — benefits are **specific to the systems under stress**, including:
-  - **Aerobic vs. anaerobic** training.
-  - Specific **muscle groups** (and even specific limbs — see Slide 11).
-  - **Velocity of contraction** and **range of motion**.
-  - **Type of contraction** (eccentric, concentric, isometric).
-- **Reversibility** — gains are **lost when training stops**, but not all adaptations decay at the same rate.
+- **Overload** — physical stress placed on a body system must be greater than usual in amount or intensity to elicit adaptive plasticity.
+- **Progression** — once a fitness level is reached, the stimulus must continue to increase to drive further adaptation; small progressive increases minimize injury risk.
+- **Specificity** — benefits are specific to the systems under stress, including:
+  - Aerobic vs. anaerobic training.
+  - Specific muscle groups (and even specific limbs — see Slide 11).
+  - Velocity of contraction and range of motion.
+  - Type of contraction (eccentric, concentric, isometric).
+- **Reversibility** — gains are lost when training stops, but not all adaptations decay at the same rate.
 
 ---
 
@@ -60,9 +56,9 @@ This lecture introduces the basic principles of training and detraining and walk
 
 ### Strengths and Limitations of Training-Effect Studies
 
-- **Rodent models** allow tight environmental control, gene manipulation, and full-muscle assays — but rodents differ from humans in body size, fiber types, aging timeline, and protein turnover, so results don't always translate.
-- **Human studies** apply directly to humans but have wide variation in baseline fitness, training history, and protocol compliance; biopsies are small and durations are typically short (2–6 months).
-- **Practical takeaway**: published evidence on training effects is mixed in quality and tends to capture **short-term** adaptations; much practical knowledge resides in coaches and athletic trainers.
+- Rodent models allow tight environmental control, gene manipulation, and full-muscle assays — but rodents differ from humans in body size, fiber types, aging timeline, and protein turnover, so results don't always translate.
+- Human studies apply directly to humans but have wide variation in baseline fitness, training history, and protocol compliance; biopsies are small and durations are typically short (2–6 months).
+- Practical takeaway: published evidence on training effects is mixed in quality and tends to capture short-term adaptations; much practical knowledge resides in coaches and athletic trainers.
 
 ---
 
@@ -72,12 +68,12 @@ This lecture introduces the basic principles of training and detraining and walk
 
 ### Training, Detraining, Overtraining, and Muscle Memory
 
-- **Training response** (blue): each bout produces a brief dip from microdamage, followed by recovery to a **new, higher baseline** — the **supercompensation** cycle.
-- **Overtraining** (magenta) occurs when the next bout starts before recovery is complete; performance progressively **declines** over time. Risk increases with poor nutrition, sleep, or high stress.
+- **Training response** (blue): each bout produces a brief dip from microdamage, followed by recovery to a new, higher baseline — the **supercompensation** cycle.
+- **Overtraining** (magenta) occurs when the next bout starts before recovery is complete; performance progressively declines over time. Risk increases with poor nutrition, sleep, or high stress.
 - **Detraining** (green dashed):
-  - Benefits diminish within **~2 weeks** of substantially reduced activity.
-  - Benefits can fully disappear within **2–8 months** without resumption.
-- **Muscle memory** — recovery on retraining is **faster than the original training process** because of long-lasting cellular and epigenetic changes (revisited on Slides 19, 23–24).
+  - Benefits diminish within ~2 weeks of substantially reduced activity.
+  - Benefits can fully disappear within 2–8 months without resumption.
+- **Muscle memory** — recovery on retraining is faster than the original training process because of long-lasting cellular and epigenetic changes (revisited on Slides 19, 23–24).
 
 ---
 
@@ -87,8 +83,8 @@ This lecture introduces the basic principles of training and detraining and walk
 
 ### Short- vs. Long-Term Contributions to VO<sub>2</sub> Max
 
-- After **~4 months** of endurance training, most of the gain in VO<sub>2</sub> max comes from **increased cardiac output** (driven mainly by larger **stroke volume**).
-- After **~32 months**, additional gains come from a larger **a-v O<sub>2</sub> difference**, driven by **higher capillary density** (shorter diffusion distance) and **more mitochondria** (larger tissue O<sub>2</sub> sink).
+- After ~4 months of endurance training, most of the gain in VO<sub>2</sub> max comes from increased **cardiac output** (driven mainly by larger **stroke volume**).
+- After ~32 months, additional gains come from a larger **a-v O<sub>2</sub> difference**, driven by higher capillary density (shorter diffusion distance) and more mitochondria (larger tissue O<sub>2</sub> sink).
 - The longer-term peripheral adaptations require time because new capillaries and mitochondria must be built.
 
 ---
@@ -99,8 +95,8 @@ This lecture introduces the basic principles of training and detraining and walk
 
 ### Genetic Variation in Trainability
 
-- About **50%** of the variation in VO<sub>2</sub> max in sedentary adults is **heritable**.
-- Genetics also influences the **training response**: average improvement is **15–20%**, but **low responders** gain only **2–3%** and **high responders** can gain **~50%**.
+- About 50% of the variation in VO<sub>2</sub> max in sedentary adults is heritable.
+- Genetics also influences the training response: average improvement is 15–20%, but low responders gain only 2–3% and high responders can gain ~50%.
 - Even low responders gain many other benefits from training (cardiovascular health, strength, bone density) — VO<sub>2</sub> max is one metric among many.
 
 ---
@@ -111,8 +107,8 @@ This lecture introduces the basic principles of training and detraining and walk
 
 ### Faster O<sub>2</sub> Kinetics After Training
 
-- After endurance training, VO<sub>2</sub> rises **more quickly** at the onset of exercise — the **O<sub>2</sub> deficit** is smaller.
-- A faster rise means **less anaerobic ATP** is required at the start: lower lactate accumulation and less **phosphocreatine depletion**, reducing the post-exercise excess oxygen consumption.
+- After endurance training, VO<sub>2</sub> rises more quickly at the onset of exercise — the **O<sub>2</sub> deficit** is smaller.
+- A faster rise means less anaerobic ATP is required at the start: lower lactate accumulation and less **phosphocreatine depletion**, reducing the post-exercise excess oxygen consumption.
 
 ---
 
@@ -122,7 +118,7 @@ This lecture introduces the basic principles of training and detraining and walk
 
 ### On-Kinetics Speed Up Across Submaximal Loads
 
-- The faster on-kinetics shown on Slide 8 hold across **all submaximal work rates** after endurance training — t<sub>9/10</sub> drops by roughly **20–30 seconds** at every relative load.
+- The faster on-kinetics shown on Slide 8 hold across all submaximal work rates after endurance training — t<sub>9/10</sub> drops by roughly 20–30 seconds at every relative load.
 - Practical impact: an athlete can transition into a steady metabolic state more quickly during interval work and during the early minutes of any continuous bout.
 
 ---
@@ -133,9 +129,9 @@ This lecture introduces the basic principles of training and detraining and walk
 
 ### Endurance-Training Signaling Cascade
 
-- **Primary signals** (seconds): increases in **Ca<sup>2+</sup>** cycling, **AMP/ATP** ratio, and **free radicals**.
-- **Secondary signals** (minutes–hours): **Calcineurin, CaMK, AMPK, p38, NFκB** — all converging on the master transcriptional coactivator **PGC-1α**.
-- **Long-term outputs** (days–weeks): **mitochondrial biogenesis**, a small **fast-to-slow** fiber-type shift, and increased **antioxidant enzyme** synthesis.
+- Primary signals (seconds): increases in Ca<sup>2+</sup> cycling, AMP/ATP ratio, and free radicals.
+- Secondary signals (minutes–hours): Calcineurin, CaMK, **AMPK**, p38, NFκB — all converging on the master transcriptional coactivator **PGC-1α**.
+- Long-term outputs (days–weeks): **mitochondrial biogenesis**, a small fast-to-slow fiber-type shift, and increased antioxidant enzyme synthesis.
 - The signals are local — only fibers that actually contract receive the stimulus (see Slide 11).
 
 ---
@@ -146,10 +142,10 @@ This lecture introduces the basic principles of training and detraining and walk
 
 ### Training Adaptations Are Local — One-Leg Study
 
-- Subjects trained **one leg** for 13 sessions, then switched to the **other leg**.
-- Whole-body responses (lactate, adrenaline, noradrenaline, ventilation) progressively dropped during one-leg training, then **returned to near-baseline** when the untrained leg began training.
-- Confirms that training adaptations are **specific to the muscles doing the work** — even systemic responses are driven by the trained tissue, not by circulating signals alone.
-- This finding supports the use of one leg as an **internal control** in many training-physiology studies.
+- Subjects trained one leg for 13 sessions, then switched to the other leg.
+- Whole-body responses (lactate, adrenaline, noradrenaline, ventilation) progressively dropped during one-leg training, then returned to near-baseline when the untrained leg began training.
+- Confirms that training adaptations are specific to the muscles doing the work — even systemic responses are driven by the trained tissue, not by circulating signals alone.
+- This finding supports the use of one leg as an internal control in many training-physiology studies.
 
 ---
 
@@ -159,8 +155,8 @@ This lecture introduces the basic principles of training and detraining and walk
 
 ### Detraining — Two Different Decay Rates
 
-- **Stroke volume** and **cardiac output** drop within the first **two weeks** of detraining — the most rapid changes.
-- The **a-v O<sub>2</sub> difference** declines much more slowly, mostly between weeks 8 and 12, because mitochondrial and capillary adaptations take longer to reverse.
+- Stroke volume and cardiac output drop within the first two weeks of detraining — the most rapid changes.
+- The a-v O<sub>2</sub> difference declines much more slowly, mostly between weeks 8 and 12, because mitochondrial and capillary adaptations take longer to reverse.
 - VO<sub>2</sub> max tracks the combined loss of central and peripheral adaptations.
 
 ---
@@ -171,9 +167,9 @@ This lecture introduces the basic principles of training and detraining and walk
 
 ### Mitochondrial Content — Training, Detraining, Retraining
 
-- Mitochondrial content nearly **doubles** in 5 weeks of training, then **plateaus** unless workload is increased.
-- After detraining, the steepest losses occur in the **first ~2 weeks**, with continued slow decay.
-- **Retraining recovers prior content within ~4 weeks** — a clear example of muscle memory at the mitochondrial level.
+- Mitochondrial content nearly doubles in 5 weeks of training, then plateaus unless workload is increased.
+- After detraining, the steepest losses occur in the first ~2 weeks, with continued slow decay.
+- Retraining recovers prior content within ~4 weeks — a clear example of muscle memory at the mitochondrial level.
 
 ---
 
@@ -183,9 +179,9 @@ This lecture introduces the basic principles of training and detraining and walk
 
 ### Two Phases of Strength Gain
 
-- The early strength gains from resistance training (~2–8 weeks) are dominated by the **nervous system** — increased neural drive and improved coordination, not yet by larger fibers.
-- **Hypertrophy** rises more slowly and is the dominant contributor over **longer training durations**.
-- Most short-duration studies (the gray vertical line) capture mostly the **neural phase**, missing later hypertrophy gains.
+- The early strength gains from resistance training (~2–8 weeks) are dominated by the nervous system — increased neural drive and improved coordination, not yet by larger fibers.
+- **Hypertrophy** rises more slowly and is the dominant contributor over longer training durations.
+- Most short-duration studies (the gray vertical line) capture mostly the neural phase, missing later hypertrophy gains.
 
 ---
 
@@ -202,7 +198,7 @@ This lecture introduces the basic principles of training and detraining and walk
 | **Muscle fiber specific force** | Increased specific force in **type I (slow twitch)** fibers |
 | **Muscle fiber type** | Small shift from **type IIx (glycolytic)** to **type IIa (fast oxidative glycolytic)** fibers |
 
-- One reason strength gains can outpace voluntary force capacity: **maximum voluntary contraction** does not recruit 100% of a muscle — the nervous system imposes a **safety factor** to protect bones and tendons. Training (and adrenaline) can partially override this.
+- One reason strength gains can outpace voluntary force capacity: **maximum voluntary contraction** does not recruit 100% of a muscle — the nervous system imposes a safety factor to protect bones and tendons. Training (and adrenaline) can partially override this.
 
 ---
 
@@ -220,7 +216,7 @@ This lecture introduces the basic principles of training and detraining and walk
 | **Tendon and ligament strength** | Increase to **match** rising muscle strength — but **slower** than muscle, so injury risk is highest when muscle gains outpace connective-tissue remodeling |
 | **Bone mineral content** | Increases in mineral density produce stronger bones |
 
-- Many of these tissues **decline with age** — making resistance training a particularly effective intervention for older adults.
+- Many of these tissues decline with age — making resistance training a particularly effective intervention for older adults.
 
 ---
 
@@ -230,9 +226,9 @@ This lecture introduces the basic principles of training and detraining and walk
 
 ### Trained Muscle Synthesizes Protein More Rapidly and Briefly
 
-- In **untrained** subjects, the protein-synthesis response is slow and prolonged (peak at ~20 h, lasting >40 h).
-- In **trained** subjects, the response is **rapid** (peak at 3 h) but **shorter-lived** — a more focused, efficient response that allows **faster recovery** between training bouts.
-- This shift requires **more nuclei per fiber** to support the higher rate of protein synthesis (Slide 19).
+- In untrained subjects, the protein-synthesis response is slow and prolonged (peak at ~20 h, lasting >40 h).
+- In trained subjects, the response is rapid (peak at 3 h) but shorter-lived — a more focused, efficient response that allows faster recovery between training bouts.
+- This shift requires more nuclei per fiber to support the higher rate of protein synthesis (Slide 19).
 
 ---
 
@@ -242,10 +238,10 @@ This lecture introduces the basic principles of training and detraining and walk
 
 ### Resistance-Training Signaling Cascade
 
-- **Primary signal** (seconds): **mechanoreceptor** activation in the muscle membrane.
-- **Secondary signals** (minutes): kinase activation (Erk) inhibits **TSC2**, releasing **Rheb**, which combines with **phosphatidic acid (PA)** to activate **mTOR** (mammalian target of rapamycin). Dietary **leucine** also activates mTOR.
-- **mTOR** drives **protein synthesis** (hours) and ultimately **muscle hypertrophy** (weeks).
-- Compare to the endurance pathway (Slide 10) — the two cascades are **distinct** and, as Slide 22 shows, can **interfere with each other**.
+- Primary signal (seconds): **mechanoreceptor** activation in the muscle membrane.
+- Secondary signals (minutes): kinase activation (Erk) inhibits **TSC2**, releasing Rheb, which combines with phosphatidic acid (PA) to activate **mTOR** (mammalian target of rapamycin). Dietary leucine also activates mTOR.
+- mTOR drives protein synthesis (hours) and ultimately muscle hypertrophy (weeks).
+- Compare to the endurance pathway (Slide 10) — the two cascades are distinct and, as Slide 22 shows, can interfere with each other.
 
 ---
 
@@ -255,9 +251,9 @@ This lecture introduces the basic principles of training and detraining and walk
 
 ### Hypertrophy Adds Both Protein and Nuclei
 
-- Resistance training in humans produces **hypertrophy** (larger fibers) and an **increase in the number of myonuclei** per fiber — but **not** more fibers (no convincing hyperplasia in humans).
-- More nuclei expand each fiber's **myonuclear domain**, increasing its capacity for **rapid protein synthesis** in response to subsequent bouts.
-- These added nuclei are **retained** during detraining — the cellular basis for muscle memory (Slide 23).
+- Resistance training in humans produces hypertrophy (larger fibers) and an increase in the number of myonuclei per fiber — but not more fibers (no convincing hyperplasia in humans).
+- More nuclei expand each fiber's **myonuclear domain**, increasing its capacity for rapid protein synthesis in response to subsequent bouts.
+- These added nuclei are retained during detraining — the cellular basis for muscle memory (Slide 23).
 
 ---
 
@@ -267,9 +263,9 @@ This lecture introduces the basic principles of training and detraining and walk
 
 ### Genetic Variation in Hypertrophy Response
 
-- **~80%** of inter-individual variation in muscle hypertrophy response is heritable — even larger than the genetic component of VO<sub>2</sub> max trainability (Slide 7).
-- **Non-responders** show essentially no fiber growth over 16 weeks; **extreme responders** can gain **+58%** CSA.
-- **Mechanism**: extreme responders show greater **satellite-cell-mediated myonuclear addition**, expanding each fiber's protein-synthesis capacity.
+- ~80% of inter-individual variation in muscle hypertrophy response is heritable — even larger than the genetic component of VO<sub>2</sub> max trainability (Slide 7).
+- Non-responders show essentially no fiber growth over 16 weeks; extreme responders can gain +58% CSA.
+- Mechanism: extreme responders show greater satellite-cell-mediated myonuclear addition, expanding each fiber's protein-synthesis capacity.
 
 ---
 
@@ -279,9 +275,9 @@ This lecture introduces the basic principles of training and detraining and walk
 
 ### Detraining and Retraining of Strength
 
-- **20–30 days** of inactivity can reduce strength by ~30% and shrink fiber CSA across all fiber types — with the largest losses in **type IIx** (−14%).
-- Strength loss is **slower** than VO<sub>2</sub> max loss.
-- **Retraining** restores strength to near-baseline within ~6 weeks — supported by the retained extra myonuclei (Slide 19).
+- 20–30 days of inactivity can reduce strength by ~30% and shrink fiber CSA across all fiber types — with the largest losses in type IIx (−14%).
+- Strength loss is slower than VO<sub>2</sub> max loss.
+- Retraining restores strength to near-baseline within ~6 weeks — supported by the retained extra myonuclei (Slide 19).
 
 ---
 
@@ -291,9 +287,9 @@ This lecture introduces the basic principles of training and detraining and walk
 
 ### Concurrent Training — Endurance Signaling Inhibits Hypertrophy
 
-- Endurance training activates **AMPK**, which activates **TSC1/2**, which **inhibits mTOR**.
-- Combining endurance and resistance training in the same session can therefore **blunt strength gains** relative to resistance training alone.
-- Practical implication: training program design should match the **specific performance goal** (most sports require some balance of both).
+- Endurance training activates AMPK, which activates TSC1/2, which inhibits mTOR.
+- Combining endurance and resistance training in the same session can therefore blunt strength gains relative to resistance training alone.
+- Practical implication: training program design should match the specific performance goal (most sports require some balance of both).
 
 ---
 
@@ -303,9 +299,9 @@ This lecture introduces the basic principles of training and detraining and walk
 
 ### Muscle Memory — Cellular Basis
 
-- During training, satellite cells donate **new myonuclei** to growing fibers.
-- During detraining, fibers shrink but the **extra myonuclei are retained**.
-- On retraining, the retained nuclei give the fiber a "head start" on protein synthesis — producing the **enhanced response** (faster recovery to prior strength) seen in Slide 13 and Slide 21.
+- During training, satellite cells donate new myonuclei to growing fibers.
+- During detraining, fibers shrink but the extra myonuclei are retained.
+- On retraining, the retained nuclei give the fiber a "head start" on protein synthesis — producing the enhanced response (faster recovery to prior strength) seen in Slide 13 and Slide 21.
 
 ---
 
@@ -316,8 +312,8 @@ This lecture introduces the basic principles of training and detraining and walk
 ### Muscle Memory — Epigenetic Basis
 
 - A second mechanism for muscle memory is **DNA methylation** at gene regulatory regions.
-- **Signature 1**: hypomethylation is **retained** through detraining, enabling enhanced gene expression on retraining.
-- **Signature 2**: methylation returns to pre-training levels during detraining but responds more strongly on the next round.
+- Signature 1: hypomethylation is retained through detraining, enabling enhanced gene expression on retraining.
+- Signature 2: methylation returns to pre-training levels during detraining but responds more strongly on the next round.
 - These epigenetic changes complement the cellular (myonuclear) memory — together they explain why prior training accelerates retraining.
 
 ---
@@ -328,8 +324,8 @@ This lecture introduces the basic principles of training and detraining and walk
 
 ### Adapting Training Volume to Prior History
 
-- A within-subject design: each subject's two legs received different protocols — **non-individualized** (22 sets/week) vs. **individualized** (1.2× the subject's logged volume from the prior 2 weeks).
-- Both protocols increased vastus lateralis cross-sectional area over 8 weeks, but the **individualized** protocol was tuned to each subject's **recent training history**.
+- A within-subject design: each subject's two legs received different protocols — non-individualized (22 sets/week) vs. individualized (1.2× the subject's logged volume from the prior 2 weeks).
+- Both protocols increased vastus lateralis cross-sectional area over 8 weeks, but the individualized protocol was tuned to each subject's recent training history.
 - Sets up the next slide, which shows the difference in hypertrophy gain.
 
 ---
@@ -340,9 +336,9 @@ This lecture introduces the basic principles of training and detraining and walk
 
 ### Individualized Volume Yields Greater Hypertrophy
 
-- The **individualized** protocol produced ~**10.5%** ΔCSA vs. ~**6.5%** for non-individualized — a statistically significant advantage.
-- Suggests that for **already-trained** individuals, **matching training volume to recent training history** drives larger hypertrophy than a fixed protocol.
-- Aligns with the principle of **progressive overload**: progress requires stimulus relative to **the individual's current state**, not an absolute target.
+- The individualized protocol produced ~10.5% ΔCSA vs. ~6.5% for non-individualized — a statistically significant advantage.
+- Suggests that for already-trained individuals, matching training volume to recent training history drives larger hypertrophy than a fixed protocol.
+- Aligns with the principle of progressive overload: progress requires stimulus relative to the individual's current state, not an absolute target.
 
 ---
 
@@ -352,9 +348,9 @@ This lecture introduces the basic principles of training and detraining and walk
 
 ### Two Roles for Satellite Cells in Hypertrophy
 
-- **Fusion role** — under chronic overload, satellite cells **donate myonuclei** to existing fibers (the cellular basis of Slide 19).
-- **Non-fusion role** — satellite cells release **exosomes** that modulate gene expression in fibroblasts and endothelial cells, supporting **ECM remodeling** and **angiogenesis** in step with hypertrophy.
-- Both roles position satellite cells as the **central regulator** of long-term muscle adaptation.
+- Fusion role — under chronic overload, satellite cells donate myonuclei to existing fibers (the cellular basis of Slide 19).
+- Non-fusion role — satellite cells release exosomes that modulate gene expression in fibroblasts and endothelial cells, supporting ECM remodeling and angiogenesis in step with hypertrophy.
+- Both roles position satellite cells as the central regulator of long-term muscle adaptation.
 
 ---
 
@@ -375,11 +371,11 @@ This lecture introduces the basic principles of training and detraining and walk
 
 ### Learning Objectives — Recap
 
-1. **Training principles** — overload, progression, specificity, reversibility — set the stimulus and time course of all adaptations. Detraining shows two distinct decay rates, and prior training accelerates retraining ("muscle memory").
-2. **Endurance training** raises VO<sub>2</sub> max in two phases: rapid central gains (cardiac output, stroke volume) over months, and slower peripheral gains (capillary density, mitochondria) over years.
-3. **Endurance signaling** uses Ca<sup>2+</sup>, AMP/ATP, and free radicals → AMPK/CaMK → PGC-1α → mitochondrial biogenesis.
-4. **Resistance signaling** uses mechanoreceptor activation → mTOR → protein synthesis → hypertrophy + myonuclear addition.
-5. **Concurrent training** can blunt strength gains because endurance signaling (AMPK) inhibits mTOR.
+1. Training principles — overload, progression, specificity, reversibility — set the stimulus and time course of all adaptations. Detraining shows two distinct decay rates, and prior training accelerates retraining ("muscle memory").
+2. Endurance training raises VO<sub>2</sub> max in two phases: rapid central gains (cardiac output, stroke volume) over months, and slower peripheral gains (capillary density, mitochondria) over years.
+3. Endurance signaling uses Ca<sup>2+</sup>, AMP/ATP, and free radicals → AMPK/CaMK → PGC-1α → mitochondrial biogenesis.
+4. Resistance signaling uses mechanoreceptor activation → mTOR → protein synthesis → hypertrophy + myonuclear addition.
+5. Concurrent training can blunt strength gains because endurance signaling (AMPK) inhibits mTOR.
 
 ---
 

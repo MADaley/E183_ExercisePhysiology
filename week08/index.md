@@ -5,7 +5,7 @@ title: "Week 8: Energy Cost of Locomotion and Humans in Comparative Context"
 
 # Week 8: Energy Cost of Locomotion and Humans in Comparative Context
 
-This week completes the locomotion unit by connecting **force demands** to the **metabolic energy cost** of moving, and then places **human locomotion** in an evolutionary and comparative framework.
+This week completes the locomotion unit by connecting force demands to the metabolic energy cost of moving, and then places human locomotion in an evolutionary and comparative framework.
 
 ## Lectures
 

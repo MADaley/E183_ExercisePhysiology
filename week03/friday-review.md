@@ -10,10 +10,6 @@ prev_lecture: /week03/lecture08-cardiovascular-responses
 next_lecture: /week04/lecture09-exercise-high-altitude
 ---
 
-This review session consolidates the Week 3 material on ventilation-perfusion matching, the Fick principle for blood gas transport, the oxygen-hemoglobin dissociation curve, and the cardiovascular responses to exercise. It works through the governing equations, applies them in a think-pair-share activity, and concludes with a practice problem on calculating cardiac output and stroke volume.
-
----
-
 ## Slide 1
 
 ![Title slide for "Week 3 Review and Discussion" by Dr. Monica A. Daley, Professor, Ecology and Evolutionary Biology, University of California, Irvine. Background collage shows diverse animals and humans exercising: a cyclist, water polo ball, speed skater, sea turtle, horse, parrot, fish, and runners.](images/friday-review/slide-001.png)
@@ -31,13 +27,13 @@ This review session consolidates the Week 3 material on ventilation-perfusion ma
 ### Factors in Gas Transport — Overview
 
 - Effective transport of O<sub>2</sub> from inspired air to mitochondria depends on several steps and the factors that govern each one:
-  - **Alveolar ventilation** — rate of fresh air delivery to the alveoli
-  - **Partial pressure gradients** — the driving force for diffusion at each interface
-  - **Diffusion conductance** — determined by membrane thickness and surface area
-  - **Ventilation-perfusion matching** — how closely airflow in the alveoli is matched to blood flow in the pulmonary capillaries
-  - **Shunts** — blood flow that bypasses the gas-exchange surface
-  - **O<sub>2</sub>-hemoglobin dissociation curve** — how arterial and venous P<sub>O₂</sub> translate into hemoglobin saturation and blood O<sub>2</sub> content
-  - **O<sub>2</sub>-myoglobin curve** and **myoglobin store in muscle** — facilitate O<sub>2</sub> unloading at the tissue and buffer muscle O<sub>2</sub> demand at exercise onset
+  - Alveolar ventilation — rate of fresh air delivery to the alveoli
+  - Partial pressure gradients — the driving force for diffusion at each interface
+  - Diffusion conductance — determined by membrane thickness and surface area
+  - Ventilation-perfusion matching — how closely airflow in the alveoli is matched to blood flow in the pulmonary capillaries
+  - Shunts — blood flow that bypasses the gas-exchange surface
+  - O<sub>2</sub>-hemoglobin dissociation curve — how arterial and venous P<sub>O₂</sub> translate into hemoglobin saturation and blood O<sub>2</sub> content
+  - O<sub>2</sub>-myoglobin curve and myoglobin store in muscle — facilitate O<sub>2</sub> unloading at the tissue and buffer muscle O<sub>2</sub> demand at exercise onset
 
 ---
 
@@ -47,7 +43,7 @@ This review session consolidates the Week 3 material on ventilation-perfusion ma
 
 ### V/Q Ratio Connects the Two Fick Equations
 
-- The same Fick principle framework applies to both the **ventilatory** and the **circulatory** steps of the oxygen cascade:
+- The same Fick principle framework applies to both the ventilatory and the circulatory steps of the oxygen cascade:
   - Ventilatory Fick: $\dot{V}O\_2 = \dot{V}\_A B\_{gas}(P\_IO\_2 - P\_EO\_2)$
   - Circulatory Fick: $\dot{V}O\_2 = \dot{Q} B\_{blood}(P\_aO\_2 - P\_vO\_2)$
   - Blood-content form: $\dot{V}O\_2 = \dot{Q}(C\_aO\_2 - C\_vO\_2)$
@@ -65,11 +61,11 @@ This review session consolidates the Week 3 material on ventilation-perfusion ma
 
 ### Regional V/Q Heterogeneity in the Upright Lung
 
-- In an upright resting lung, both ventilation and perfusion decline from base to apex, but **blood flow declines more steeply than ventilation** due to the effect of gravity.
+- In an upright resting lung, both ventilation and perfusion decline from base to apex, but blood flow declines more steeply than ventilation due to the effect of gravity.
 - The V/Q ratio therefore varies continuously across the lung:
-  - **Base** (rib 5): V/Q < 1.0 — overperfused relative to ventilation; behaves as functional **shunt**.
-  - **Mid-lung** (rib 3): V/Q ≈ 1.0 — ideal matching.
-  - **Apex** (rib 2): V/Q > 3.0 — underperfused relative to ventilation; behaves as **dead space ventilation**.
+  - Base (rib 5): V/Q < 1.0 — overperfused relative to ventilation; behaves as functional shunt.
+  - Mid-lung (rib 3): V/Q ≈ 1.0 — ideal matching.
+  - Apex (rib 2): V/Q > 3.0 — underperfused relative to ventilation; behaves as dead space ventilation.
 - The spread between the highest and lowest V/Q values defines **V/Q heterogeneity** — greater heterogeneity lowers overall gas-exchange efficiency.
 
 ---
@@ -81,11 +77,11 @@ This review session consolidates the Week 3 material on ventilation-perfusion ma
 ### V/Q Heterogeneity at Rest and During Exercise Across Species
 
 - The direction of the V/Q shift from rest to exercise differs among species:
-  - **Human athletes** — light exercise improves matching, but **heavy exercise increases heterogeneity**, contributing to exercise-induced arterial hypoxemia (EIAH).
-  - **Horses** — heterogeneity increases during exercise, consistent with EIAH in racehorses.
-  - **Varanid lizards** — exercise **reduces** the resting cardiac shunt, shifting the distribution rightward toward 1.0.
-  - **Emus** (birds) — distribution stays narrow and centered near 1.0 at both rest and exercise — the parabronchial lung maintains efficient V/Q matching regardless of exercise intensity.
-- In elite human athletes, V/Q heterogeneity may account for roughly **60% of the alveolar-arterial P<sub>O₂</sub> difference** observed during heavy exercise.
+  - Human athletes — light exercise improves matching, but heavy exercise increases heterogeneity, contributing to exercise-induced arterial hypoxemia (EIAH).
+  - Horses — heterogeneity increases during exercise, consistent with EIAH in racehorses.
+  - Varanid lizards — exercise reduces the resting cardiac shunt, shifting the distribution rightward toward 1.0.
+  - Emus (birds) — distribution stays narrow and centered near 1.0 at both rest and exercise — the parabronchial lung maintains efficient V/Q matching regardless of exercise intensity.
+- In elite human athletes, V/Q heterogeneity may account for roughly 60% of the alveolar-arterial P<sub>O₂</sub> difference observed during heavy exercise.
 
 ---
 
@@ -96,7 +92,7 @@ This review session consolidates the Week 3 material on ventilation-perfusion ma
 ### Transition — Focus Shifts to O<sub>2</sub>-Binding Curves
 
 - Returning to the factors list as a roadmap.
-- The previous slides addressed V/Q matching and shunts; the next slides address **blood O<sub>2</sub> content** — how arterial and venous P<sub>O₂</sub> translate into hemoglobin and myoglobin saturation, and how that determines the a-v O<sub>2</sub> difference used in the Fick equation.
+- The previous slides addressed V/Q matching and shunts; the next slides address blood O<sub>2</sub> content — how arterial and venous P<sub>O₂</sub> translate into hemoglobin and myoglobin saturation, and how that determines the a-v O<sub>2</sub> difference used in the Fick equation.
 
 ---
 
@@ -106,10 +102,10 @@ This review session consolidates the Week 3 material on ventilation-perfusion ma
 
 ### Oxygen-Hemoglobin Dissociation Curve — Core Shape
 
-- The relationship between P<sub>O₂</sub> and hemoglobin saturation is a **sigmoid curve**.
+- The relationship between P<sub>O₂</sub> and hemoglobin saturation is a sigmoid curve.
 - The sigmoidal shape reflects **cooperative binding** of O<sub>2</sub> to the four heme sites — binding of the first O<sub>2</sub> increases the affinity for subsequent O<sub>2</sub> molecules.
-- **Dissolved O<sub>2</sub>** (lower dashed line) rises linearly with P<sub>O₂</sub> but contributes only a very small fraction of total blood O<sub>2</sub> content.
-- **Hemoglobin-bound O<sub>2</sub>** dominates total blood O<sub>2</sub> content across the physiological range.
+- Dissolved O<sub>2</sub> (lower dashed line) rises linearly with P<sub>O₂</sub> but contributes only a very small fraction of total blood O<sub>2</sub> content.
+- Hemoglobin-bound O<sub>2</sub> dominates total blood O<sub>2</sub> content across the physiological range.
 - Above ~60 mmHg, hemoglobin is nearly fully saturated — further increases in arterial P<sub>O₂</sub> produce only modest increases in total blood O<sub>2</sub> content.
 
 ---
@@ -121,11 +117,11 @@ This review session consolidates the Week 3 material on ventilation-perfusion ma
 ### Arterial and Venous Operating Points on the O<sub>2</sub>-Hb Curve
 
 - Typical resting operating points on the curve:
-  - **Arterial blood**: P<sub>O₂</sub> ≈ 100 mmHg → Hb saturation ≈ 98% → ~20 mL O<sub>2</sub>/100 mL blood
-  - **Mixed venous blood (at rest)**: P<sub>O₂</sub> ≈ 40 mmHg → Hb saturation ≈ 75% → ~15 mL O<sub>2</sub>/100 mL blood
-- The vertical bracket shows the **amount of O<sub>2</sub> unloaded to tissues** — this is the **a-v O<sub>2</sub> difference** (~5 mL O<sub>2</sub>/100 mL blood at rest).
+  - Arterial blood: P<sub>O₂</sub> ≈ 100 mmHg → Hb saturation ≈ 98% → ~20 mL O<sub>2</sub>/100 mL blood
+  - Mixed venous blood (at rest): P<sub>O₂</sub> ≈ 40 mmHg → Hb saturation ≈ 75% → ~15 mL O<sub>2</sub>/100 mL blood
+- The vertical bracket shows the amount of O<sub>2</sub> unloaded to tissues — this is the **a-v O<sub>2</sub> difference** (~5 mL O<sub>2</sub>/100 mL blood at rest).
 - To convert a measured P<sub>O₂</sub> to hemoglobin saturation, read across from the curve (either from a standardized curve or, in clinical practice, a computer look-up table).
-- Increases in arterial P<sub>O₂</sub> above ~80 mmHg have **little effect on Hb-bound O<sub>2</sub>** because Hb is already saturated — the plateau is what limits the benefit of hyperoxic inspired air.
+- Increases in arterial P<sub>O₂</sub> above ~80 mmHg have little effect on Hb-bound O<sub>2</sub> because Hb is already saturated — the plateau is what limits the benefit of hyperoxic inspired air.
 
 ---
 
@@ -135,10 +131,10 @@ This review session consolidates the Week 3 material on ventilation-perfusion ma
 
 ### pH and Temperature Shifts — The Bohr Effect
 
-- Both **decreased pH** (rising H<sup>+</sup>, typically from CO<sub>2</sub> and lactate) and **increased temperature** shift the O<sub>2</sub>-Hb curve to the **right**.
-- A rightward shift **lowers Hb affinity** for O<sub>2</sub> at any given P<sub>O₂</sub>, promoting **O<sub>2</sub> unloading** at the tissues — precisely where the local environment is most acidic and warm (i.e., active skeletal muscle).
+- Both decreased pH (rising H<sup>+</sup>, typically from CO<sub>2</sub> and lactate) and increased temperature shift the O<sub>2</sub>-Hb curve to the right.
+- A rightward shift lowers Hb affinity for O<sub>2</sub> at any given P<sub>O₂</sub>, promoting O<sub>2</sub> unloading at the tissues — precisely where the local environment is most acidic and warm (i.e., active skeletal muscle).
 - The **Bohr effect** is the pH/CO<sub>2</sub> component of this rightward shift.
-- A **leftward shift** (higher pH, lower temperature) raises Hb affinity and promotes O<sub>2</sub> **loading** in the lungs.
+- A leftward shift (higher pH, lower temperature) raises Hb affinity and promotes O<sub>2</sub> loading in the lungs.
 - Together, these shifts create a dynamic system that automatically matches O<sub>2</sub> delivery to local metabolic demand during exercise.
 
 ---
@@ -150,11 +146,11 @@ This review session consolidates the Week 3 material on ventilation-perfusion ma
 ### Molecular Basis of Curve Shifts — T and R Conformations
 
 - Hemoglobin exists in two quaternary conformations:
-  - **T (tense) state** — deoxyhemoglobin — **lower** O<sub>2</sub> affinity
-  - **R (relaxed) state** — oxyhemoglobin — **higher** O<sub>2</sub> affinity
-- A **rightward shift** of the dissociation curve corresponds to **stabilization of the T state**, which lowers the probability of O<sub>2</sub> binding at any given P<sub>O₂</sub>.
+  - **T (tense) state** — deoxyhemoglobin — lower O<sub>2</sub> affinity
+  - **R (relaxed) state** — oxyhemoglobin — higher O<sub>2</sub> affinity
+- A rightward shift of the dissociation curve corresponds to stabilization of the T state, which lowers the probability of O<sub>2</sub> binding at any given P<sub>O₂</sub>.
 - Factors that stabilize the T state (and therefore right-shift the curve) include increased H<sup>+</sup>, CO<sub>2</sub>, 2,3-bisphosphoglycerate (2,3-BPG), and temperature.
-- This is a mechanistic answer to a student question from the reading — the curve shift is not just a phenomenological curve, but reflects a **protein conformational equilibrium** that can be perturbed by local chemistry.
+- This is a mechanistic answer to a student question from the reading — the curve shift is not just a phenomenological curve, but reflects a protein conformational equilibrium that can be perturbed by local chemistry.
 
 ---
 
@@ -164,12 +160,12 @@ This review session consolidates the Week 3 material on ventilation-perfusion ma
 
 ### Myoglobin vs. Hemoglobin
 
-- **Myoglobin** (muscle) has a much **higher O<sub>2</sub> affinity** than hemoglobin — its curve is a hyperbola (single binding site, no cooperativity) that saturates at very low P<sub>O₂</sub>.
-- At typical venous P<sub>O₂</sub> (~40 mmHg), myoglobin is still nearly fully saturated (~90%) while hemoglobin is only ~75% saturated — the **affinity difference** ensures O<sub>2</sub> flows from Hb to Mb in the muscle capillary bed.
+- **Myoglobin** (muscle) has a much higher O<sub>2</sub> affinity than hemoglobin — its curve is a hyperbola (single binding site, no cooperativity) that saturates at very low P<sub>O₂</sub>.
+- At typical venous P<sub>O₂</sub> (~40 mmHg), myoglobin is still nearly fully saturated (~90%) while hemoglobin is only ~75% saturated — the affinity difference ensures O<sub>2</sub> flows from Hb to Mb in the muscle capillary bed.
 - Functional roles:
-  - **Shuttle** — transfers O<sub>2</sub> from the capillary to the mitochondrion down a steep local gradient.
-  - **Intracellular O<sub>2</sub> store** — **buffers** muscle O<sub>2</sub> demand at the onset of exercise until the cardiopulmonary response ramps up O<sub>2</sub> delivery.
-- Myoglobin content is higher in **oxidative (slow-twitch) fibers** and in the muscles of diving mammals, reflecting training status and adaptation.
+  - Shuttle — transfers O<sub>2</sub> from the capillary to the mitochondrion down a steep local gradient.
+  - Intracellular O<sub>2</sub> store — buffers muscle O<sub>2</sub> demand at the onset of exercise until the cardiopulmonary response ramps up O<sub>2</sub> delivery.
+- Myoglobin content is higher in oxidative (slow-twitch) fibers and in the muscles of diving mammals, reflecting training status and adaptation.
 
 ---
 
@@ -180,9 +176,9 @@ This review session consolidates the Week 3 material on ventilation-perfusion ma
 ### Arterial and Mixed Venous O<sub>2</sub> Content During Graded Exercise
 
 - As exercise intensity increases:
-  - **Arterial O<sub>2</sub> content** ($C\_aO\_2$) remains nearly constant — the lungs continue to saturate hemoglobin because arterial P<sub>O₂</sub> is maintained near ~100 mmHg.
-  - **Mixed venous O<sub>2</sub> content** ($C\_{\bar{v}}O\_2$) declines substantially — working muscle extracts a larger fraction of the delivered O<sub>2</sub>, dropping venous P<sub>O₂</sub> well below 40 mmHg at peak effort.
-- The **a-v O<sub>2</sub> difference** (the gap between the two lines) **widens** during exercise.
+  - Arterial O<sub>2</sub> content ($C\_aO\_2$) remains nearly constant — the lungs continue to saturate hemoglobin because arterial P<sub>O₂</sub> is maintained near ~100 mmHg.
+  - Mixed venous O<sub>2</sub> content ($C\_{\bar{v}}O\_2$) declines substantially — working muscle extracts a larger fraction of the delivered O<sub>2</sub>, dropping venous P<sub>O₂</sub> well below 40 mmHg at peak effort.
+- The **a-v O<sub>2</sub> difference** (the gap between the two lines) widens during exercise.
 - This widening, combined with increased cardiac output, produces the large rise in $\dot{V}O_2$ seen during exercise — both terms of the Fick equation $\dot{V}O\_2 = \dot{Q}(C\_aO\_2 - C\_{\bar{v}}O\_2)$ increase together.
 
 ---
@@ -193,10 +189,10 @@ This review session consolidates the Week 3 material on ventilation-perfusion ma
 
 ### Graphical Solution to the Fick Principle — Mammals and Birds
 
-- The Fick equation $\dot{V}O\_2 = \dot{Q}(C\_aO\_2 - C\_{\bar{v}}O\_2)$ can be represented **geometrically** as the **area of a rectangle**:
-  - The **vertical dimension** is the a-v O<sub>2</sub> content difference (set by the O<sub>2</sub>-Hb curve and the arterial/venous P<sub>O₂</sub> operating points).
-  - The **horizontal dimension** is cardiac output ($\dot{Q}$).
-- The area inside the small grey box represents **basal** O<sub>2</sub> uptake; the full rectangle represents **exercise** O<sub>2</sub> uptake.
+- The Fick equation $\dot{V}O\_2 = \dot{Q}(C\_aO\_2 - C\_{\bar{v}}O\_2)$ can be represented geometrically as the area of a rectangle:
+  - The vertical dimension is the a-v O<sub>2</sub> content difference (set by the O<sub>2</sub>-Hb curve and the arterial/venous P<sub>O₂</sub> operating points).
+  - The horizontal dimension is cardiac output ($\dot{Q}$).
+- The area inside the small grey box represents basal O<sub>2</sub> uptake; the full rectangle represents exercise O<sub>2</sub> uptake.
 - In mammals and birds with fully divided four-chambered hearts, both dimensions can expand independently during exercise — $\dot{Q}$ increases sharply, and the a-v O<sub>2</sub> difference widens as venous P<sub>O₂</sub> drops.
 
 ---
@@ -207,8 +203,8 @@ This review session consolidates the Week 3 material on ventilation-perfusion ma
 
 ### Graphical Solution — Ectotherms With a Right-to-Left Cardiac Shunt
 
-- In ectotherms with an incompletely divided ventricle (amphibians, non-crocodilian reptiles), a **right-to-left (R-L) cardiac shunt** mixes deoxygenated pulmonary blood with oxygenated systemic blood, **lowering arterial P<sub>O₂</sub>** and shrinking the a-v O<sub>2</sub> content difference.
-- Reducing the shunt during exercise (or by physiological control, as in some reptiles) **raises arterial P<sub>O₂</sub>** and **widens the Fick rectangle vertically**, increasing $\dot{V}O_2$ without necessarily increasing $\dot{Q}$.
+- In ectotherms with an incompletely divided ventricle (amphibians, non-crocodilian reptiles), a **right-to-left (R-L) cardiac shunt** mixes deoxygenated pulmonary blood with oxygenated systemic blood, lowering arterial P<sub>O₂</sub> and shrinking the a-v O<sub>2</sub> content difference.
+- Reducing the shunt during exercise (or by physiological control, as in some reptiles) raises arterial P<sub>O₂</sub> and widens the Fick rectangle vertically, increasing $\dot{V}O_2$ without necessarily increasing $\dot{Q}$.
 - This illustrates that non-mammalian vertebrates can modulate O<sub>2</sub> delivery by regulating cardiac shunt fraction — a lever that is not available to mammals and birds.
 
 ---
@@ -224,7 +220,7 @@ This review session consolidates the Week 3 material on ventilation-perfusion ma
 | Decrease in blood pH during exercise | **Bohr effect** — rightward curve shift, more O<sub>2</sub> unloading at tissues (lowers $C\_{\bar{v}}O\_2$, widens a-v O<sub>2</sub> diff) |
 | Increase in body temperature during exercise | Rightward curve shift facilitates O<sub>2</sub> unloading at tissues |
 | Dehydration during prolonged exercise | Reduced blood volume decreases venous return and stroke volume; HR increases to maintain $\dot{Q}$ (**cardiovascular drift**) |
-| Increase in red blood cell concentration | More hemoglobin per unit volume → **increases blood O<sub>2</sub> content** ($C\_aO\_2$) with no change in partial pressures |
+| Increase in red blood cell concentration | More hemoglobin per unit volume → increases blood O<sub>2</sub> content ($C\_aO\_2$) with no change in partial pressures |
 | Increase in muscle myoglobin concentration | Creates a steeper diffusion gradient by lowering intracellular P<sub>O₂</sub> at the tissue; increases the capillary-to-mitochondrion driving force |
 | Decrease in cardiac shunt in an exercising crocodile | Less mixing of deoxygenated blood → improves arterial saturation, expands the a-v O<sub>2</sub> gradient, increases O<sub>2</sub> delivery |
 
@@ -247,7 +243,7 @@ $$C\_{O_2} = sO_2 \cdot [Hb] \cdot B\_{O_2} + 0.03 \cdot P\_{O_2}$$
   - $[Hb]$ — hemoglobin concentration in the blood (typical value ≈ 140 g/L)
   - $B\_{O_2}$ — maximum O<sub>2</sub> bound per gram of Hb (≈ 1.39 mL O<sub>2</sub>/g)
   - $0.03 \cdot P\_{O_2}$ — directly dissolved O<sub>2</sub> in plasma (small contribution)
-- **Worked calculation (typical resting values):**
+- Worked calculation (typical resting values):
   - $C\_aO\_2 = 1.0 \times 140 \times 1.39 + 0.03 \times 100 = 197.6$ mL O<sub>2</sub>/L blood (arterial, ~100% saturation at P<sub>O₂</sub> = 100 mmHg)
   - $C\_{\bar{v}}O\_2 = 0.75 \times 140 \times 1.39 + 0.03 \times 40 = 147.15$ mL O<sub>2</sub>/L blood (mixed venous, ~75% saturation at P<sub>O₂</sub> = 40 mmHg)
   - $\Delta C\_{O_2} = 197.6 - 147.15 \approx 50.45$ mL O<sub>2</sub>/L blood
@@ -265,9 +261,9 @@ $$C\_{O_2} = sO_2 \cdot [Hb] \cdot B\_{O_2} + 0.03 \cdot P\_{O_2}$$
 
 $$\dot{Q} = \frac{\dot{V}O\_2}{C\_aO\_2 - C\_{\bar{v}}O\_2} = \frac{\dot{V}O\_2}{\Delta C\_{O_2}}$$
 
-- **When to solve for $\dot{V}O_2$** — to understand the **mechanisms** that increase O<sub>2</sub> uptake in exercise and to identify factors that may limit O<sub>2</sub> delivery.
-- **When to solve for $\dot{Q}$** — to **monitor patients** clinically by tracking changes in cardiac output and cardiovascular status.
-- The **required accuracy** depends on context: broad-trend estimates are often sufficient for rapid clinical decision-making, whereas research measurements of mechanisms may demand greater precision and more invasive measurement techniques.
+- When to solve for $\dot{V}O_2$ — to understand the mechanisms that increase O<sub>2</sub> uptake in exercise and to identify factors that may limit O<sub>2</sub> delivery.
+- When to solve for $\dot{Q}$ — to monitor patients clinically by tracking changes in cardiac output and cardiovascular status.
+- The required accuracy depends on context: broad-trend estimates are often sufficient for rapid clinical decision-making, whereas research measurements of mechanisms may demand greater precision and more invasive measurement techniques.
 
 ---
 
@@ -277,16 +273,16 @@ $$\dot{Q} = \frac{\dot{V}O\_2}{C\_aO\_2 - C\_{\bar{v}}O\_2} = \frac{\dot{V}O\_2}
 
 ### Practice Problem — Question
 
-- **Given:**
+- Given:
   - Mass-specific $\dot{V}O_2$ = 45 mL/kg·min
   - Body mass = 60 kg
   - Heart rate (HR) = 150 beats/min
   - $C\_aO\_2$ = 200 mL O<sub>2</sub>/L blood
   - $C\_{\bar{v}}O\_2$ = 150 mL O<sub>2</sub>/L blood
-- **Find:**
+- Find:
   1. Cardiac output ($\dot{Q}$), in L/min
   2. Stroke volume (SV), in L/beat
-- **Strategy:** apply the blood-content form of the Fick principle rearranged for $\dot{Q}$, then use $\dot{Q} = HR \times SV$ to solve for SV.
+- Strategy: apply the blood-content form of the Fick principle rearranged for $\dot{Q}$, then use $\dot{Q} = HR \times SV$ to solve for SV.
 
 ---
 
@@ -296,19 +292,19 @@ $$\dot{Q} = \frac{\dot{V}O\_2}{C\_aO\_2 - C\_{\bar{v}}O\_2} = \frac{\dot{V}O\_2}
 
 ### Practice Problem — Solution
 
-- **Step 1: Convert mass-specific VO<sub>2</sub> to whole-body VO<sub>2</sub>:**
+- Step 1: Convert mass-specific VO<sub>2</sub> to whole-body VO<sub>2</sub>:
 
 $$\dot{V}O\_2 = 45 \text{ mL/kg·min} \times 60 \text{ kg} = 2700 \text{ mL/min} = 2.7 \text{ L/min}$$
 
-- **Step 2: Solve the Fick principle for cardiac output.** Units: with $\dot{V}O_2$ in mL/min and $\Delta C\_{O_2}$ in mL O<sub>2</sub>/L blood, $\dot{Q}$ comes out in L/min.
+- Step 2: Solve the Fick principle for cardiac output. Units: with $\dot{V}O_2$ in mL/min and $\Delta C\_{O_2}$ in mL O<sub>2</sub>/L blood, $\dot{Q}$ comes out in L/min.
 
 $$\dot{Q} = \frac{\dot{V}O\_2}{C\_aO\_2 - C\_{\bar{v}}O\_2} = \frac{45 \times 60}{200 - 150} = \frac{2700}{50} = 54 \text{ L/min}$$
 
-- **Step 3: Solve for stroke volume using $\dot{Q} = HR \times SV$:**
+- Step 3: Solve for stroke volume using $\dot{Q} = HR \times SV$:
 
 $$SV = \frac{\dot{Q}}{HR} = \frac{54}{150} = 0.36 \text{ L/beat}$$
 
-- **Interpretation:** a cardiac output of 54 L/min and a stroke volume of 360 mL/beat are at the very high end of the human range — consistent with a highly trained athlete near VO<sub>2</sub>max. This problem illustrates how the Fick principle, combined with HR and an assumed a-v O<sub>2</sub> difference, lets cardiac output and stroke volume be inferred from readily measurable quantities.
+- Interpretation: a cardiac output of 54 L/min and a stroke volume of 360 mL/beat are at the very high end of the human range — consistent with a highly trained athlete near VO<sub>2</sub>max. This problem illustrates how the Fick principle, combined with HR and an assumed a-v O<sub>2</sub> difference, lets cardiac output and stroke volume be inferred from readily measurable quantities.
 
 ---
 
@@ -318,7 +314,7 @@ $$SV = \frac{\dot{Q}}{HR} = \frac{54}{150} = 0.36 \text{ L/beat}$$
 
 ### Review Activity — Governing Equations at Each Step of the O<sub>2</sub> Supply Cascade
 
-- For each step in the cascade, students should be able to identify the **governing equation** and the **limiting factors**:
+- For each step in the cascade, students should be able to identify the governing equation and the limiting factors:
 
 | Step | Governing Equation | Key Limiting Factors |
 |:---|:---|:---|
@@ -327,7 +323,7 @@ $$SV = \frac{\dot{Q}}{HR} = \frac{54}{150} = 0.36 \text{ L/beat}$$
 | 3. Blood gas transport (pulmonary → systemic capillaries) | $\dot{V}O\_2 = \dot{Q}(C\_aO\_2 - C\_{\bar{v}}O\_2)$; $\dot{Q} = HR \times SV$ | Cardiac output; [Hb]; Hb saturation (arterial and venous); cardiac shunts |
 | 4. Systemic gas exchange (systemic capillaries → mitochondria) | Fick's law of diffusion (at tissue): $\dot{V}O\_2 = D\_t(P\_{blood} - P\_{mito})\_{O_2}$ | Tissue diffusion conductance; capillary density; myoglobin content; mitochondrial P<sub>O₂</sub> |
 
-- The Fick principle and Fick's law of diffusion recur at multiple steps — the **same mathematical framework** describes both bulk flow (ventilation, circulation) and passive diffusion (alveolar and systemic gas exchange).
+- The Fick principle and Fick's law of diffusion recur at multiple steps — the same mathematical framework describes both bulk flow (ventilation, circulation) and passive diffusion (alveolar and systemic gas exchange).
 
 ---
 

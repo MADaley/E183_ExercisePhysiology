@@ -14,9 +14,9 @@ next_lecture: /week04/lecture10-hypoxia-diving
 
 ![Title slide for "Exercise in hypoxia part 1: exercise performance and oxygen delivery at high altitudes" by Dr. Monica A. Daley, Professor, Ecology and Evolutionary Biology, University of California, Irvine. Background collage shows diverse animals and humans exercising: a cyclist, water polo ball, speed skater, sea turtle, horse, parrot, fish, and runners.](images/lec09/slide-001.png)
 
-- This lecture is the first of two **case studies in hypoxia** that bridge from the general oxygen supply cascade to the extremes of physiological performance.
-- Topic: how the **oxygen supply cascade** responds and adapts when atmospheric oxygen is reduced at high altitude.
-- Case studies focus on humans (sea-level natives ascending to altitude, and high-altitude native populations) and **bar-headed geese**, which migrate at extreme altitudes.
+- This lecture is the first of two case studies in hypoxia that bridge from the general oxygen supply cascade to the extremes of physiological performance.
+- Topic: how the oxygen supply cascade responds and adapts when atmospheric oxygen is reduced at high altitude.
+- Case studies focus on humans (sea-level natives ascending to altitude, and high-altitude native populations) and bar-headed geese, which migrate at extreme altitudes.
 
 ---
 
@@ -47,7 +47,7 @@ next_lecture: /week04/lecture10-hypoxia-diving
 
 - The **oxygen supply cascade** describes the sequential steps that transport O<sub>2</sub> from the environmental medium to mitochondria in the cell.
 - Convective and diffusive steps alternate: ventilation (convection) → alveolar gas exchange (diffusion) → blood gas transport (convection) → systemic gas exchange (diffusion).
-- This cascade is the framework for understanding how **plasticity** at each step contributes to (or limits) hypoxia tolerance.
+- This cascade is the framework for understanding how plasticity at each step contributes to (or limits) hypoxia tolerance.
 
 ---
 
@@ -58,8 +58,8 @@ next_lecture: /week04/lecture10-hypoxia-diving
 ### Two Case Studies in Extreme Hypoxia
 
 - The lecture sets up two extreme case studies of exercise in hypoxia:
-  - Human mountaineers summiting **Mt. Everest** without supplemental O<sub>2</sub> — among the most extreme feats of human physiology.
-  - **Bar-headed geese**, which fly at altitudes comparable to jet aircraft during migration over the Himalayas.
+  - Human mountaineers summiting Mt. Everest without supplemental O<sub>2</sub> — among the most extreme feats of human physiology.
+  - Bar-headed geese, which fly at altitudes comparable to jet aircraft during migration over the Himalayas.
 - Both push the limits of oxygen delivery and reveal where the cascade is most plastic — and where it is most limiting.
 
 ---
@@ -70,7 +70,7 @@ next_lecture: /week04/lecture10-hypoxia-diving
 
 ### How Inspired P<sub>O₂</sub> Falls With Altitude
 
-- **Inspired P<sub>O₂</sub>** decreases curvilinearly with altitude as **barometric pressure** drops.
+- **Inspired P<sub>O₂</sub>** decreases curvilinearly with altitude as barometric pressure drops.
 - At sea level, inspired P<sub>O₂</sub> ≈ 159 mmHg (100% reference); by ~6000 m it has fallen to roughly half of sea-level values.
 - This is the upstream driver of every downstream change in the oxygen supply cascade at altitude.
 
@@ -82,9 +82,9 @@ next_lecture: /week04/lecture10-hypoxia-diving
 
 ### The Oxygen Cascade at Sea Level vs. Altitude
 
-- The **stepwise drops in P<sub>O₂</sub>** from inspired air → alveolar air → arterial blood → capillary blood → venous blood occur at both sea level and altitude.
-- At 4540 m the entire cascade is **shifted downward** because inspired P<sub>O₂</sub> starts low.
-- The relative drops at each step are **smaller** at altitude (the curves converge), reflecting compensatory responses such as hyperventilation that partially offset the reduced inspired P<sub>O₂</sub>.
+- The stepwise drops in P<sub>O₂</sub> from inspired air → alveolar air → arterial blood → capillary blood → venous blood occur at both sea level and altitude.
+- At 4540 m the entire cascade is shifted downward because inspired P<sub>O₂</sub> starts low.
+- The relative drops at each step are smaller at altitude (the curves converge), reflecting compensatory responses such as hyperventilation that partially offset the reduced inspired P<sub>O₂</sub>.
 
 ---
 
@@ -94,9 +94,9 @@ next_lecture: /week04/lecture10-hypoxia-diving
 
 ### VO<sub>2</sub>max Falls With Decreasing Barometric Pressure
 
-- **VO<sub>2</sub>max** declines as barometric pressure (and therefore inspired P<sub>O₂</sub>) decreases.
-- At the summit of Everest, the achievable VO<sub>2</sub>max is approximately equal to **basal metabolic rate** — there is essentially **no aerobic scope** left for activity.
-- Climbers who summit without supplemental O<sub>2</sub> must move extraordinarily slowly, **minimize metabolic demand**, and rely on intense **hyperventilation** to elevate alveolar P<sub>O₂</sub>.
+- VO<sub>2</sub>max declines as barometric pressure (and therefore inspired P<sub>O₂</sub>) decreases.
+- At the summit of Everest, the achievable VO<sub>2</sub>max is approximately equal to basal metabolic rate — there is essentially no aerobic scope left for activity.
+- Climbers who summit without supplemental O<sub>2</sub> must move extraordinarily slowly, minimize metabolic demand, and rely on intense hyperventilation to elevate alveolar P<sub>O₂</sub>.
 
 ---
 
@@ -108,7 +108,7 @@ next_lecture: /week04/lecture10-hypoxia-diving
 
 - The **hypoxic ventilatory response (HVR)** is one of the most important acute responses to altitude.
 - As arterial P<sub>O₂</sub> decreases, ventilation rises gradually until a **hypoxic threshold** (~60 mmHg in humans) is crossed, after which V̇<sub>E</sub> increases sharply (approximately exponentially).
-- Mechanism: **hyperventilation** raises alveolar P<sub>O₂</sub> by lowering alveolar P<sub>CO₂</sub>, partially restoring the partial-pressure gradient for diffusion at the lung.
+- Mechanism: hyperventilation raises alveolar P<sub>O₂</sub> by lowering alveolar P<sub>CO₂</sub>, partially restoring the partial-pressure gradient for diffusion at the lung.
 
 ---
 
@@ -119,9 +119,9 @@ next_lecture: /week04/lecture10-hypoxia-diving
 ### HVR Differs in High-Altitude Natives
 
 - **High-altitude natives (HAN)** — humans and bar-headed geese alike — show:
-  - **Higher baseline ventilation** at normoxia.
-  - A **less pronounced HVR** as P<sub>O₂</sub> falls (a flatter curve).
-- This pattern is convergent across very divergent species (humans vs. geese), suggesting it is a **general solution** to chronic hypoxia.
+  - Higher baseline ventilation at normoxia.
+  - A less pronounced HVR as P<sub>O₂</sub> falls (a flatter curve).
+- This pattern is convergent across very divergent species (humans vs. geese), suggesting it is a general solution to chronic hypoxia.
 - In contrast, lowlanders ascending to altitude show a steeper, more reactive HVR.
 
 ---
@@ -132,15 +132,15 @@ next_lecture: /week04/lecture10-hypoxia-diving
 
 ### Gas Exchange on the Everest Summit + Acute Lowlander Responses
 
-- On the summit, **profound hyperventilation** drives alveolar P<sub>CO₂</sub> down to ~7.5 mmHg (vs. 40 mmHg at sea level), pushing arterial pH above 7.7 (severe **respiratory alkalosis**).
+- On the summit, profound hyperventilation drives alveolar P<sub>CO₂</sub> down to ~7.5 mmHg (vs. 40 mmHg at sea level), pushing arterial pH above 7.7 (severe **respiratory alkalosis**).
 - This is necessary because alveolar P<sub>O₂</sub> on the summit (~35 mmHg) would otherwise be lower than typical mixed venous P<sub>O₂</sub> at sea level (~40 mmHg) — the diffusion gradient for O<sub>2</sub> uptake at the lung would collapse.
-- **Acute responses** in lowlanders going to altitude:
-  - **Hyperventilation** (HVR)
-  - Increased **cardiac output**
-  - Increased **red blood cell concentration** ([RBC]/[Hb]) — released from spleen acutely, then erythropoiesis
-  - **Systemic vasodilation** in muscle capillary beds
-  - **Hypoxic pulmonary vasoconstriction** — normally matches perfusion to ventilation, but at altitude raises pulmonary pressure and can drive **pulmonary edema** (a feature of altitude sickness)
-  - Over weeks, **mitochondrial density declines** as oxygen demand falls
+- Acute responses in lowlanders going to altitude:
+  - Hyperventilation (HVR)
+  - Increased cardiac output
+  - Increased red blood cell concentration ([RBC]/[Hb]) — released from spleen acutely, then erythropoiesis
+  - Systemic vasodilation in muscle capillary beds
+  - **Hypoxic pulmonary vasoconstriction** — normally matches perfusion to ventilation, but at altitude raises pulmonary pressure and can drive pulmonary edema (a feature of altitude sickness)
+  - Over weeks, mitochondrial density declines as oxygen demand falls
 
 ---
 
@@ -150,16 +150,16 @@ next_lecture: /week04/lecture10-hypoxia-diving
 
 ### Two Independent Human Adaptations: Tibetan vs. Andean
 
-- Cynthia Beall's work compared two independently evolved high-altitude human populations: **Tibetan** and **Andean** highlanders.
-- **Tibetans:**
-  - **Higher resting ventilation**
-  - **Higher HVR**
+- Cynthia Beall's work compared two independently evolved high-altitude human populations: Tibetan and Andean highlanders.
+- Tibetans:
+  - Higher resting ventilation
+  - Higher HVR
   - Lower [Hb] and lower arterial O<sub>2</sub> saturation
-- **Andeans:**
-  - **Higher hemoglobin concentration** ([Hb])
-  - **Higher arterial O<sub>2</sub> saturation**
+- Andeans:
+  - Higher hemoglobin concentration ([Hb])
+  - Higher arterial O<sub>2</sub> saturation
   - Lower ventilation rates
-- Both populations remain somewhat **chronically hypoxemic** (saturation noticeably below 100%) compared with lowlanders at sea level.
+- Both populations remain somewhat chronically hypoxemic (saturation noticeably below 100%) compared with lowlanders at sea level.
 
 ---
 
@@ -169,9 +169,9 @@ next_lecture: /week04/lecture10-hypoxia-diving
 
 ### Capillary Density and Mitochondrial Volume
 
-- **Tibetan** highlanders have **higher capillary density** in skeletal muscle than Andeans or lowland natives — improving the systemic gas exchange step of the cascade.
-- **Highlanders** generally show **lower mitochondrial volume density** than lowlanders, reflecting a chronic match between mitochondrial supply and reduced O<sub>2</sub> availability.
-- In Tibetans, low mitochondrial volume density **persists even when individuals are born and raised at low altitude**, suggesting a **genetic** basis rather than developmental plasticity.
+- Tibetan highlanders have higher capillary density in skeletal muscle than Andeans or lowland natives — improving the systemic gas exchange step of the cascade.
+- Highlanders generally show lower mitochondrial volume density than lowlanders, reflecting a chronic match between mitochondrial supply and reduced O<sub>2</sub> availability.
+- In Tibetans, low mitochondrial volume density persists even when individuals are born and raised at low altitude, suggesting a genetic basis rather than developmental plasticity.
 - General rule: after ~6 weeks of altitude exposure, mitochondrial density begins to decrease in any individual.
 
 ---
@@ -182,9 +182,9 @@ next_lecture: /week04/lecture10-hypoxia-diving
 
 ### Sherpa vs. Lowlander Field Study Design
 
-- A controlled comparison followed **Sherpa** and **lowland** controls along an **identical ascent profile** to Everest base camp (~5300 m).
+- A controlled comparison followed Sherpa and lowland controls along an identical ascent profile to Everest base camp (~5300 m).
 - Measurements were made at sea level (baseline), during ascent, and after 11+ days at high altitude.
-- This design allowed researchers to attribute differences to **chronic adaptation** in Sherpa rather than to different exposures.
+- This design allowed researchers to attribute differences to chronic adaptation in Sherpa rather than to different exposures.
 
 ---
 
@@ -195,13 +195,13 @@ next_lecture: /week04/lecture10-hypoxia-diving
 ### Sherpa Metabolic Adaptations
 
 - Compared to lowland controls, Sherpas showed:
-  - **Lower fatty acid oxidation** capacity in skeletal muscle
-  - **Higher anaerobic capacity** — buffers acute hypoxic episodes
-  - **Improved mitochondrial coupling efficiency** — more ATP per O<sub>2</sub> consumed (less wasted energy)
-  - **Enhanced efficiency of O<sub>2</sub> use**
-  - **Improved muscle energetics** — less heat waste in mechanical work
-  - **Protection against oxidative stress**
-- Key takeaway: Sherpas achieve adequate aerobic energy supply with **lower mitochondrial volume** by being **more efficient** per mitochondrion.
+  - Lower fatty acid oxidation capacity in skeletal muscle
+  - Higher anaerobic capacity — buffers acute hypoxic episodes
+  - Improved mitochondrial coupling efficiency — more ATP per O<sub>2</sub> consumed (less wasted energy)
+  - Enhanced efficiency of O<sub>2</sub> use
+  - Improved muscle energetics — less heat waste in mechanical work
+  - Protection against oxidative stress
+- Key takeaway: Sherpas achieve adequate aerobic energy supply with lower mitochondrial volume by being more efficient per mitochondrion.
 
 ---
 
@@ -211,17 +211,17 @@ next_lecture: /week04/lecture10-hypoxia-diving
 
 ### Lowlander Responses vs. Highlander Adaptations — Summary
 
-- **Lowlanders ascending to altitude:** HVR, ↑ cardiac output, ↑ [Hb], systemic vasodilation, hypoxic pulmonary vasoconstriction (with edema risk), ↓ mitochondrial density over weeks.
-- **Highlander populations** show divergent solutions:
-  - **Tibetans:** lower [RBC]/[Hb], higher HVR
-  - **Andeans:** higher [RBC]/[Hb], lower HVR
-  - These two solutions reflect a **trade-off**: increasing both cardiac output and [Hb] simultaneously raises **blood viscosity** and the work of pumping, limiting cardiac output.
-- **Common highlander features:**
+- Lowlanders ascending to altitude: HVR, ↑ cardiac output, ↑ [Hb], systemic vasodilation, hypoxic pulmonary vasoconstriction (with edema risk), ↓ mitochondrial density over weeks.
+- Highlander populations show divergent solutions:
+  - Tibetans: lower [RBC]/[Hb], higher HVR
+  - Andeans: higher [RBC]/[Hb], lower HVR
+  - These two solutions reflect a trade-off: increasing both cardiac output and [Hb] simultaneously raises blood viscosity and the work of pumping, limiting cardiac output.
+- Common highlander features:
   - Decreased hypoxic pulmonary vasoconstriction (lower edema risk)
-  - Increased tissue **capillary density**
-  - Lower **mitochondrial density**
-  - Metabolic shift: more **anaerobic glycolysis**, more **efficient mitochondria**
-- **Timescales matter**: ventilatory responses are fast; mitochondrial changes take weeks.
+  - Increased tissue capillary density
+  - Lower mitochondrial density
+  - Metabolic shift: more anaerobic glycolysis, more efficient mitochondria
+- Timescales matter: ventilatory responses are fast; mitochondrial changes take weeks.
 
 ---
 
@@ -231,7 +231,7 @@ next_lecture: /week04/lecture10-hypoxia-diving
 
 ### Transition: From Humans to Bar-Headed Geese
 
-- The lecture transitions from the human case studies to the second case study: **bar-headed geese**, which exemplify extreme exercise performance at high altitude in a non-human vertebrate.
+- The lecture transitions from the human case studies to the second case study: bar-headed geese, which exemplify extreme exercise performance at high altitude in a non-human vertebrate.
 
 ---
 
@@ -241,8 +241,8 @@ next_lecture: /week04/lecture10-hypoxia-diving
 
 ### Review: The Avian Ventilatory System
 
-- Birds use an **air sac system** with **unidirectional airflow** through rigid lungs — fundamentally different from mammalian tidal ventilation.
-- Because lungs are physically separate from the bellows function (the air sacs do the volume changes), the lung tissue does not need to stretch — it can have a **thin blood-gas barrier** and a **large surface area**.
+- Birds use an air sac system with unidirectional airflow through rigid lungs — fundamentally different from mammalian tidal ventilation.
+- Because lungs are physically separate from the bellows function (the air sacs do the volume changes), the lung tissue does not need to stretch — it can have a thin blood-gas barrier and a large surface area.
 - Gas exchange occurs by **cross-current flow** between air capillaries and blood capillaries — more efficient than mammalian tidal-pool exchange.
 
 ---
@@ -253,8 +253,8 @@ next_lecture: /week04/lecture10-hypoxia-diving
 
 ### Bird-Like Lungs Are an Inherited Trait
 
-- The efficient avian lung architecture is **not** a unique evolutionary novelty of flight — it was inherited from **dinosaur ancestors**.
-- This inheritance may have given the dinosaur lineage a long-standing competitive advantage in **oxygen delivery and aerobic capacity**.
+- The efficient avian lung architecture is not a unique evolutionary novelty of flight — it was inherited from dinosaur ancestors.
+- This inheritance may have given the dinosaur lineage a long-standing competitive advantage in oxygen delivery and aerobic capacity.
 
 ---
 
@@ -264,9 +264,9 @@ next_lecture: /week04/lecture10-hypoxia-diving
 
 ### Archosaur Aerobic Diversity
 
-- Within vertebrates, the **archosaur lineage** (crocodilians, dinosaurs, birds) is enriched for animals with **high aerobic scope and endurance**.
+- Within vertebrates, the archosaur lineage (crocodilians, dinosaurs, birds) is enriched for animals with high aerobic scope and endurance.
 - The shared lung architecture may be one factor enabling this evolutionary diversification of athletic species.
-- Mammals have independently evolved high aerobic capacity, but they did so with a **less efficient** ventilatory architecture (tidal flow, alveolar pool).
+- Mammals have independently evolved high aerobic capacity, but they did so with a less efficient ventilatory architecture (tidal flow, alveolar pool).
 
 ---
 
@@ -276,7 +276,7 @@ next_lecture: /week04/lecture10-hypoxia-diving
 
 ### Bar-Headed Geese Fly at Jet-Aircraft Altitudes
 
-- **Bar-headed geese** fly at altitudes near **29,500 ft** (~9000 m) during migration — comparable to commercial jet aircraft and higher than the summit of Everest.
+- **Bar-headed geese** fly at altitudes near 29,500 ft (~9000 m) during migration — comparable to commercial jet aircraft and higher than the summit of Everest.
 - Most ducks and geese stay below ~7000 ft; the bar-headed goose is an outlier in the avian world.
 - A few cranes and swans fly even higher (~33,000 ft), but bar-headed geese are the most extensively studied high-altitude flyer.
 
@@ -289,8 +289,8 @@ next_lecture: /week04/lecture10-hypoxia-diving
 ### Bar-Headed Geese in Flight (Video)
 
 - A BBC video clip illustrates bar-headed geese in active migratory flight at high altitude.
-- Notable features: very **rapid wingbeats** in extremely thin air, an exceptional **aerobic** effort.
-- Unlike Everest summit climbers — who barely walk — these geese sustain very **high metabolic rates** during high-altitude flight.
+- Notable features: very rapid wingbeats in extremely thin air, an exceptional aerobic effort.
+- Unlike Everest summit climbers — who barely walk — these geese sustain very high metabolic rates during high-altitude flight.
 
 ---
 
@@ -300,9 +300,9 @@ next_lecture: /week04/lecture10-hypoxia-diving
 
 ### Migration Route Over the Himalayas
 
-- Bar-headed geese migrate over the **Tibetan Plateau** between wintering grounds in India and breeding grounds in Mongolia.
-- Crossing the high plateau allows a **shorter route** and lets them exploit **tailwinds**.
-- Tracks color-coded by altitude show extended periods at altitudes where atmospheric P<sub>O₂</sub> is roughly **35–60% of sea-level values**.
+- Bar-headed geese migrate over the Tibetan Plateau between wintering grounds in India and breeding grounds in Mongolia.
+- Crossing the high plateau allows a shorter route and lets them exploit tailwinds.
+- Tracks color-coded by altitude show extended periods at altitudes where atmospheric P<sub>O₂</sub> is roughly 35–60% of sea-level values.
 
 ---
 
@@ -312,10 +312,10 @@ next_lecture: /week04/lecture10-hypoxia-diving
 
 ### Two Layers of High-Altitude Adaptation
 
-- Bar-headed goose performance results from **two layers** of features:
-  - **General avian traits** (shared with most birds)
-  - **Specializations** unique to (or strongly enhanced in) bar-headed geese
-- These features span the **entire oxygen supply cascade**: ventilation, alveolar gas exchange, blood gas transport, systemic gas exchange, and mitochondrial respiration.
+- Bar-headed goose performance results from two layers of features:
+  - General avian traits (shared with most birds)
+  - Specializations unique to (or strongly enhanced in) bar-headed geese
+- These features span the entire oxygen supply cascade: ventilation, alveolar gas exchange, blood gas transport, systemic gas exchange, and mitochondrial respiration.
 
 ---
 
@@ -325,19 +325,19 @@ next_lecture: /week04/lecture10-hypoxia-diving
 
 ### Bar-Headed Goose vs. Lowland Goose Across the Cascade
 
-- Compared to a lowland goose, the bar-headed goose maintains **higher P<sub>O₂</sub>** at every step of the oxygen supply cascade.
-- **General avian features** include:
+- Compared to a lowland goose, the bar-headed goose maintains higher P<sub>O₂</sub> at every step of the oxygen supply cascade.
+- General avian features include:
   - Tolerance to **hypocapnia** caused by hyperventilation
-  - **Thin blood-gas barrier** with large surface area (cross-current exchange)
-  - **Large hearts** with high capillary density
+  - Thin blood-gas barrier with large surface area (cross-current exchange)
+  - Large hearts with high capillary density
   - High capillary density in muscle (vs. mammals)
   - High aerobic capacity, fast-contracting aerobic fibers
-- **Bar-headed goose specializations** include:
+- Bar-headed goose specializations include:
   - Higher ventilation rates than lowland birds
   - Larger lungs and increased surface area
-  - **Hemoglobin with higher O<sub>2</sub> affinity**
+  - Hemoglobin with higher O<sub>2</sub> affinity
   - Increased capillary density in heart and muscle
-  - Altered **mitochondrial distribution** in muscle
+  - Altered mitochondrial distribution in muscle
   - Metabolic-pathway shifts and higher-efficiency electron transport
 
 ---
@@ -348,9 +348,9 @@ next_lecture: /week04/lecture10-hypoxia-diving
 
 ### Leftward-Shifted Hemoglobin in Bar-Headed Geese
 
-- **Bar-headed goose hemoglobin** has a **higher oxygen affinity** than lowland species (Canada goose, Pekin duck).
-- The dissociation curve is **leftward shifted**, meaning hemoglobin reaches near-full saturation at the lower P<sub>O₂</sub> values present in high-altitude lungs.
-- Trade-off: higher affinity also means O<sub>2</sub> is held more tightly in the periphery — but this is offset by the geese's **highly capillarized** tissues, which enhance unloading.
+- **Bar-headed goose hemoglobin** has a higher oxygen affinity than lowland species (Canada goose, Pekin duck).
+- The dissociation curve is leftward shifted, meaning hemoglobin reaches near-full saturation at the lower P<sub>O₂</sub> values present in high-altitude lungs.
+- Trade-off: higher affinity also means O<sub>2</sub> is held more tightly in the periphery — but this is offset by the geese's highly capillarized tissues, which enhance unloading.
 
 ---
 
@@ -360,7 +360,7 @@ next_lecture: /week04/lecture10-hypoxia-diving
 
 ### Dr. Jessica Meir — Physiologist Turned Astronaut
 
-- The next several slides describe a remarkable bar-headed goose study by **Dr. Jessica Meir**, who later became a NASA astronaut and was part of the first all-female spacewalk.
+- The next several slides describe a remarkable bar-headed goose study by Dr. Jessica Meir, who later became a NASA astronaut and was part of the first all-female spacewalk.
 - Before becoming an astronaut, Meir trained as a comparative physiologist and studied bar-headed goose flight in hypoxia.
 
 ---
@@ -371,8 +371,8 @@ next_lecture: /week04/lecture10-hypoxia-diving
 
 ### Hand-Rearing and Imprinting Bar-Headed Geese
 
-- To study bar-headed geese in a wind tunnel, Meir had to **hand-rear** the birds from hatchlings so they would **imprint** on her.
-- She then **trained them to fly** alongside her — including learning to fly herself — so they would also fly inside a wind tunnel under controlled conditions.
+- To study bar-headed geese in a wind tunnel, Meir had to hand-rear the birds from hatchlings so they would imprint on her.
+- She then trained them to fly alongside her — including learning to fly herself — so they would also fly inside a wind tunnel under controlled conditions.
 - This is an extreme example of the experimental effort sometimes required to make detailed physiological measurements on a wild species.
 
 ---
@@ -383,12 +383,12 @@ next_lecture: /week04/lecture10-hypoxia-diving
 
 ### Wind Tunnel Experimental Setup
 
-- Geese were trained to fly in a **wind tunnel** (a "treadmill for birds") wearing a custom **face mask**.
+- Geese were trained to fly in a wind tunnel (a "treadmill for birds") wearing a custom face mask.
 - The mask allowed researchers to:
-  - Continuously measure **inhaled and exhaled O<sub>2</sub> and CO<sub>2</sub>** during flight
-  - **Manipulate inspired O<sub>2</sub>** (set above or below ambient) to simulate different altitudes
+  - Continuously measure inhaled and exhaled O<sub>2</sub> and CO<sub>2</sub> during flight
+  - Manipulate inspired O<sub>2</sub> (set above or below ambient) to simulate different altitudes
 - Heart rate and body temperature were also recorded.
-- An accompanying video from Meir et al. (2019, *eLife*) shows **bar-headed goose #32** flying in the **University of British Columbia** wind tunnel at **10.5% O<sub>2</sub>** (≈ 5500 m equivalent altitude). One person to the left encourages flight while a second person on the right supports the gas tubing extending outside the tunnel. Reference link: https://doi.org/10.7554/eLife.44986.013
+- An accompanying video from Meir et al. (2019, *eLife*) shows bar-headed goose #32 flying in the University of British Columbia wind tunnel at 10.5% O<sub>2</sub> (≈ 5500 m equivalent altitude). One person to the left encourages flight while a second person on the right supports the gas tubing extending outside the tunnel. Reference link: https://doi.org/10.7554/eLife.44986.013
 
 ---
 
@@ -398,10 +398,10 @@ next_lecture: /week04/lecture10-hypoxia-diving
 
 ### Heart Rate, VO<sub>2</sub>, and Oxygen Conditions
 
-- During flight in the wind tunnel, **VO<sub>2</sub> and heart rate** are roughly proportional but with substantial variation across trials.
-- The data span **rest, walking, running, and flight** under normoxia and two levels of hypoxia (FI<sub>O₂</sub> = 0.21, 0.105, 0.07).
-- Key observation: the **minimum VO<sub>2</sub> during flight** is similar across normoxic and hypoxic conditions — birds can fly at near-equivalent low costs in either condition, but the **range** of energy use is constrained in hypoxia.
-- Some variability reflects **behavioral flexibility** in flight style — analogous to how a runner can choose a more or less economical gait.
+- During flight in the wind tunnel, VO<sub>2</sub> and heart rate are roughly proportional but with substantial variation across trials.
+- The data span rest, walking, running, and flight under normoxia and two levels of hypoxia (FI<sub>O₂</sub> = 0.21, 0.105, 0.07).
+- Key observation: the minimum VO<sub>2</sub> during flight is similar across normoxic and hypoxic conditions — birds can fly at near-equivalent low costs in either condition, but the range of energy use is constrained in hypoxia.
+- Some variability reflects behavioral flexibility in flight style — analogous to how a runner can choose a more or less economical gait.
 
 ---
 
@@ -411,11 +411,11 @@ next_lecture: /week04/lecture10-hypoxia-diving
 
 ### Mixed Venous P<sub>O₂</sub> and the Flight Strategy in Hypoxia
 
-- **Mixed venous P<sub>O₂</sub>** falls during flight in hypoxia, signaling **greater tissue O<sub>2</sub> extraction** — a wider arterio-venous O<sub>2</sub> difference.
-- The bird's main strategy for flight in hypoxia is to **reduce metabolic rate**:
-  - **Minimize** energy supply to less essential processes
-  - **Optimize** flight biomechanics for efficiency
-- The **minimum cost of flight** is similar in normoxia and hypoxia — but in hypoxia the bird is **forced** into the most efficient flight mode rather than choosing it.
+- **Mixed venous P<sub>O₂</sub>** falls during flight in hypoxia, signaling greater tissue O<sub>2</sub> extraction — a wider arterio-venous O<sub>2</sub> difference.
+- The bird's main strategy for flight in hypoxia is to reduce metabolic rate:
+  - Minimize energy supply to less essential processes
+  - Optimize flight biomechanics for efficiency
+- The minimum cost of flight is similar in normoxia and hypoxia — but in hypoxia the bird is forced into the most efficient flight mode rather than choosing it.
 
 ---
 
@@ -425,13 +425,13 @@ next_lecture: /week04/lecture10-hypoxia-diving
 
 ### Lecture 9 — Key Takeaways
 
-1. **Inspired P<sub>O₂</sub>** falls with altitude, lowering P<sub>O₂</sub> at every step of the oxygen supply cascade. At Everest's summit, achievable VO<sub>2</sub>max ≈ basal metabolic rate.
-2. **Acute lowlander responses** include the **hypoxic ventilatory response** (HVR), increased cardiac output, increased [Hb], systemic vasodilation, hypoxic pulmonary vasoconstriction (with edema risk), and slow loss of mitochondrial density.
-3. **High-altitude human populations** (Tibetan, Andean) have evolved **divergent solutions**: Tibetans favor higher ventilation; Andeans favor higher [Hb] and saturation. These reflect a trade-off between cardiac output and blood viscosity.
-4. **Sherpas** show metabolic rather than structural adaptations — better mitochondrial coupling efficiency and lower fatty-acid oxidation, supporting aerobic supply with low mitochondrial volumes.
-5. **Bar-headed geese** combine general avian traits (cross-current lungs, large hearts, capillarized muscle) with specific adaptations (left-shifted hemoglobin, larger lungs, higher ventilation, mitochondrial redistribution) to maintain higher P<sub>O₂</sub> across the cascade than lowland birds.
-6. In wind-tunnel studies (Meir et al.), bar-headed geese fly at high hypoxia by **reducing metabolic rate** and increasing **tissue O<sub>2</sub> extraction**, not by increasing total O<sub>2</sub> delivery.
-7. **Time scales of adaptation differ**: ventilation and hematocrit shift in days; mitochondrial density in weeks; population-level genetic adaptations across generations.
+1. Inspired P<sub>O₂</sub> falls with altitude, lowering P<sub>O₂</sub> at every step of the oxygen supply cascade. At Everest's summit, achievable VO<sub>2</sub>max ≈ basal metabolic rate.
+2. Acute lowlander responses include the hypoxic ventilatory response (HVR), increased cardiac output, increased [Hb], systemic vasodilation, hypoxic pulmonary vasoconstriction (with edema risk), and slow loss of mitochondrial density.
+3. High-altitude human populations (Tibetan, Andean) have evolved divergent solutions: Tibetans favor higher ventilation; Andeans favor higher [Hb] and saturation. These reflect a trade-off between cardiac output and blood viscosity.
+4. Sherpas show metabolic rather than structural adaptations — better mitochondrial coupling efficiency and lower fatty-acid oxidation, supporting aerobic supply with low mitochondrial volumes.
+5. Bar-headed geese combine general avian traits (cross-current lungs, large hearts, capillarized muscle) with specific adaptations (left-shifted hemoglobin, larger lungs, higher ventilation, mitochondrial redistribution) to maintain higher P<sub>O₂</sub> across the cascade than lowland birds.
+6. In wind-tunnel studies (Meir et al.), bar-headed geese fly at high hypoxia by reducing metabolic rate and increasing tissue O<sub>2</sub> extraction, not by increasing total O<sub>2</sub> delivery.
+7. Time scales of adaptation differ: ventilation and hematocrit shift in days; mitochondrial density in weeks; population-level genetic adaptations across generations.
 
 ---
 

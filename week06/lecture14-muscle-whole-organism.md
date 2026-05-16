@@ -14,9 +14,9 @@ next_lecture: /week06/friday-review
 
 ![Title slide for "Integrative muscle function in locomotion" by Dr. Monica A. Daley, Professor, Ecology and Evolutionary Biology, University of California, Irvine. The same background collage from earlier lectures shows diverse animals and humans exercising: a cyclist, water polo player, swimmer, sprinter, an oxygen cascade schematic, and a row of comparative species (sea turtle, fish, snake, hummingbird, kangaroo, horse, seal, lizard, croc).](images/lec14/slide-001.png)
 
-- Final lecture in the muscle structure-and-function sequence — moving from the **organ and limb scales** of Lecture 13 up to the **whole-organism scale** of muscle function during locomotion.
-- Continues the central theme: **trade-offs at every structural level integrate** to determine how muscles actually work in real movement.
-- Today connects the **intrinsic properties** (Lecture 12) and **architecture/lever systems** (Lecture 13) to **direct measurements** of muscle function during locomotion in animals and humans.
+- Final lecture in the muscle structure-and-function sequence — moving from the organ and limb scales of Lecture 13 up to the whole-organism scale of muscle function during locomotion.
+- Continues the central theme: trade-offs at every structural level integrate to determine how muscles actually work in real movement.
+- Today connects the intrinsic properties (Lecture 12) and architecture/lever systems (Lecture 13) to direct measurements of muscle function during locomotion in animals and humans.
 
 ---
 
@@ -27,9 +27,9 @@ next_lecture: /week06/friday-review
 ### Recap — Lecture 13 Learning Objectives
 
 - Recap of last lecture's three objectives:
-  1. **Relate muscle function to morphology**: fascicle length, pennation angle, **PCSA**, and **tendon length** relative to fascicle length.
-  2. Use the **lever-system equation** to relate **muscle-force demands** to externally applied loads.
-  3. Discuss how **effective mechanical advantage (EMA)** scales with **body size** across diverse vertebrates.
+  1. Relate muscle function to morphology: fascicle length, pennation angle, PCSA, and tendon length relative to fascicle length.
+  2. Use the lever-system equation to relate muscle-force demands to externally applied loads.
+  3. Discuss how effective mechanical advantage (EMA) scales with body size across diverse vertebrates.
 - These set the foundation for today's integrative content.
 
 ---
@@ -40,12 +40,12 @@ next_lecture: /week06/friday-review
 
 ### Recap — Architectural Force–Length and Force–Velocity Trade-offs
 
-- **Specific tension** ~18–30 N/cm² (highly conserved across vertebrates).
-- **Physiological cross-sectional area**: $\text{PCSA} = \text{Volume} / L\_{fiber}$.
-- The **architectural trade-off** at the muscle–tendon unit level:
-  - **Short fibers, large PCSA** → high peak force, narrow operating range, lower V<sub>max</sub>.
-  - **Long fibers, small PCSA** → lower peak force, wider operating range, higher V<sub>max</sub>.
-- This **MTU-level trade-off** is independent of fiber type — both come from the **architecture** of the muscle.
+- Specific tension ~18–30 N/cm² (highly conserved across vertebrates).
+- Physiological cross-sectional area: $\text{PCSA} = \text{Volume} / L\_{fiber}$.
+- The architectural trade-off at the muscle–tendon unit level:
+  - Short fibers, large PCSA → high peak force, narrow operating range, lower V<sub>max</sub>.
+  - Long fibers, small PCSA → lower peak force, wider operating range, higher V<sub>max</sub>.
+- This MTU-level trade-off is independent of fiber type — both come from the architecture of the muscle.
 
 ---
 
@@ -55,14 +55,14 @@ next_lecture: /week06/friday-review
 
 ### Recap — Limb Lever Systems and Inverse Dynamics
 
-- **Inverse dynamics** uses **external measurements** (motion capture / high-speed video; ground reaction force) to **infer internal muscle forces**.
+- **Inverse dynamics** uses external measurements (motion capture / high-speed video; ground reaction force) to infer internal muscle forces.
 - At each joint, the torque balance gives:
 
 $$F\_{muscle} = F_g \times \frac{R_g}{r_m}$$
 
-- **r<sub>m</sub>** (muscle moment arm) is set by **skeletal morphology**.
-- **R<sub>g</sub>** (GRF moment arm) is set by **limb posture** during the gait cycle.
-- This technique is the **workhorse** of musculoskeletal biomechanics — it lets researchers estimate muscle and joint loads non-invasively.
+- r<sub>m</sub> (muscle moment arm) is set by skeletal morphology.
+- R<sub>g</sub> (GRF moment arm) is set by limb posture during the gait cycle.
+- This technique is the workhorse of musculoskeletal biomechanics — it lets researchers estimate muscle and joint loads non-invasively.
 
 ---
 
@@ -72,16 +72,16 @@ $$F\_{muscle} = F_g \times \frac{R_g}{r_m}$$
 
 ### Class Activity — Stance Knee Posture and Muscular Effort
 
-- **Think-pair-share prompt**: how does stance-knee posture influence the muscular effort required to run?
-- **McMahon et al. 1987** classic study: compared normal upright running with **"Groucho running"** (deliberately flexed knees).
-- **Lever-system reasoning**:
-  - More flexed knee → ground reaction force vector falls **further from** the knee joint center.
-  - **R<sub>knee</sub> increases** → muscle force **F<sub>muscle</sub> = F<sub>g</sub> × R<sub>knee</sub> / r<sub>knee</sub>** increases.
-  - Crouched running requires **greater quadriceps force** for the same ground reaction force.
-- **Why one might still crouch**:
-  - **Jumping** — larger angular excursion stores and releases more energy.
-  - **Running downhill** — eccentric contractions can generate large forces economically.
-  - **Uneven terrain** — a more compliant, crouched limb absorbs perturbations and is more **stable** than a stiff straight limb. Trade-off between **economy** and **stability**.
+- Think-pair-share prompt: how does stance-knee posture influence the muscular effort required to run?
+- McMahon et al. 1987 classic study: compared normal upright running with **"Groucho running"** (deliberately flexed knees).
+- Lever-system reasoning:
+  - More flexed knee → ground reaction force vector falls further from the knee joint center.
+  - R<sub>knee</sub> increases → muscle force F<sub>muscle</sub> = F<sub>g</sub> × R<sub>knee</sub> / r<sub>knee</sub> increases.
+  - Crouched running requires greater quadriceps force for the same ground reaction force.
+- Why one might still crouch:
+  - Jumping — larger angular excursion stores and releases more energy.
+  - Running downhill — eccentric contractions can generate large forces economically.
+  - Uneven terrain — a more compliant, crouched limb absorbs perturbations and is more stable than a stiff straight limb. Trade-off between economy and stability.
 
 ---
 
@@ -91,9 +91,9 @@ $$F\_{muscle} = F_g \times \frac{R_g}{r_m}$$
 
 ### Recap — EMA and the Biewener Scaling Result
 
-- The **effective mechanical advantage** EMA = r/R.
-- Across species (horse, dog, ground squirrel), EMA is roughly **constant with running velocity** within a species, but **shifts dramatically with body size** between species.
-- The mechanism is a **postural shift** with body size — small animals adopt crouched postures; large animals stand more upright.
+- The effective mechanical advantage EMA = r/R.
+- Across species (horse, dog, ground squirrel), EMA is roughly constant with running velocity within a species, but shifts dramatically with body size between species.
+- The mechanism is a postural shift with body size — small animals adopt crouched postures; large animals stand more upright.
 
 ---
 
@@ -103,9 +103,9 @@ $$F\_{muscle} = F_g \times \frac{R_g}{r_m}$$
 
 ### Recap — EMA Scales With Body Mass
 
-- **EMA scales positively with body mass** across mammals (mouse → horse).
-- **Functional consequence**: muscle (and bone) forces scale similarly to muscle (and bone) cross-sectional area — preventing large animals from breaking under their own weight.
-- **Without** this postural scaling, an elephant-sized animal would need impossibly proportionally massive muscles and bones to support its weight.
+- EMA scales positively with body mass across mammals (mouse → horse).
+- Muscle (and bone) forces scale similarly to muscle (and bone) cross-sectional area — preventing large animals from breaking under their own weight.
+- Without this postural scaling, an elephant-sized animal would need impossibly proportionally massive muscles and bones to support its weight.
 
 ---
 
@@ -115,12 +115,12 @@ $$F\_{muscle} = F_g \times \frac{R_g}{r_m}$$
 
 ### Recap — Ankle Moment Arm and Running Economy
 
-- Within humans, **shorter ankle moment arm (r)** → **better running economy**.
-- Mechanism is **counterintuitive but important** for today:
+- Within humans, shorter ankle moment arm (r) → better running economy.
+- Mechanism is counterintuitive but important for today:
   - Smaller r → higher muscle–tendon force from the lever equation.
-  - But higher force → more **tendon strain energy storage**.
-  - The tendon's **elastic energy cycling** does work the muscle would otherwise have to do — improving economy.
-- This is the bridge into today's lecture: **muscle, tendon, and skeletal lever systems work together** to produce real *in vivo* function.
+  - But higher force → more tendon strain energy storage.
+  - The tendon's elastic energy cycling does work the muscle would otherwise have to do — improving economy.
+- This is the bridge into today's lecture: muscle, tendon, and skeletal lever systems work together to produce real *in vivo* function.
 
 ---
 
@@ -130,11 +130,11 @@ $$F\_{muscle} = F_g \times \frac{R_g}{r_m}$$
 
 ### Today's Learning Objectives
 
-1. **Describe how muscles function during cyclical contractions** using examples from **comparative and human studies**.
-2. **Sketch a cyclical muscle work-loop** for a muscle that **produces power** and a muscle that **cycles elastic energy**.
-3. Discuss the **role of tendon** in **cyclical (steady-state)**, **power-producing**, and **energy-absorbing** tasks.
+1. Describe how muscles function during cyclical contractions using examples from comparative and human studies.
+2. Sketch a cyclical muscle **work-loop** for a muscle that produces power and a muscle that cycles elastic energy.
+3. Discuss the role of tendon in cyclical (steady-state), power-producing, and energy-absorbing tasks.
 
-- Today's content provides the foundation for next week's material on **metabolic energy cost of locomotion**.
+- Today's content provides the foundation for next week's material on metabolic energy cost of locomotion.
 
 ---
 
@@ -144,13 +144,13 @@ $$F\_{muscle} = F_g \times \frac{R_g}{r_m}$$
 
 ### Two Categories of Experiments
 
-- **Reduced preparation experiments** (Lectures 11–12):
+- Reduced preparation experiments (Lectures 11–12):
   - Isolated muscle on a bench-top apparatus.
-  - Reveal **intrinsic contractile properties** (F–L, F–V, activation).
-- **Integrative experiments** (today):
-  - **In vivo** muscle–tendon, limb–substrate, and whole-body dynamics.
-  - Reveal **how muscles are actually used** during real movement.
-- Both approaches are needed — intrinsic properties define **what the muscle is capable of**; integrative experiments reveal **what it actually does** within the integrated system.
+  - Reveal intrinsic contractile properties (F–L, F–V, activation).
+- Integrative experiments (today):
+  - In vivo muscle–tendon, limb–substrate, and whole-body dynamics.
+  - Reveal how muscles are actually used during real movement.
+- Both approaches are needed — intrinsic properties define what the muscle is capable of; integrative experiments reveal what it actually does within the integrated system.
 
 ---
 
@@ -160,8 +160,8 @@ $$F\_{muscle} = F_g \times \frac{R_g}{r_m}$$
 
 ### Transition — From Intrinsic Properties to In Vivo Function
 
-- Transition slide motivating the central question of the lecture: **how do intrinsic properties and anatomy combine to determine muscle function in locomotion?**
-- Sets up the next section, which surveys **comparative anatomical patterns** in cursorial limbs and the **direct measurements** that connect those patterns to function.
+- Transition slide motivating the central question of the lecture: how do intrinsic properties and anatomy combine to determine muscle function in locomotion?
+- Sets up the next section, which surveys comparative anatomical patterns in cursorial limbs and the direct measurements that connect those patterns to function.
 
 ---
 
@@ -171,13 +171,13 @@ $$F\_{muscle} = F_g \times \frac{R_g}{r_m}$$
 
 ### Proximo-Distal Architectural Gradient
 
-- Comparative observation across **cursorial vertebrates** (horses, ostriches, guinea fowl, humans, dogs, etc.):
-  - **Proximal joints** (hip, shoulder): **large-mass muscles** with **long fibers** and **short tendons** — designed for **high work and power**.
-  - **Distal joints** (ankle, wrist): **small-mass muscles** with **short fibers** and **very long tendons** — designed for **economy** and **elastic energy cycling**.
+- Comparative observation across **cursorial** vertebrates (horses, ostriches, guinea fowl, humans, dogs, etc.):
+  - Proximal joints (hip, shoulder): large-mass muscles with long fibers and short tendons — designed for high work and power.
+  - Distal joints (ankle, wrist): small-mass muscles with short fibers and very long tendons — designed for economy and elastic energy cycling.
 - Extreme examples:
-  - **Horse forelimb**: distal limb is almost entirely tendon and ligament; muscle mass is concentrated proximally.
-  - **Ostrich hindlimb**: very long, highly tendinous distal segment; massive proximal muscles.
-- **Humans are unusual**: relatively heavy distal limbs (calf muscles + foot are non-trivial mass) compared to specialized cursorial animals.
+  - Horse forelimb: distal limb is almost entirely tendon and ligament; muscle mass is concentrated proximally.
+  - Ostrich hindlimb: very long, highly tendinous distal segment; massive proximal muscles.
+- Humans are unusual: relatively heavy distal limbs (calf muscles + foot are non-trivial mass) compared to specialized cursorial animals.
 
 ---
 
@@ -187,12 +187,12 @@ $$F\_{muscle} = F_g \times \frac{R_g}{r_m}$$
 
 ### Inverse Dynamics — Joint Torques and Work
 
-- **Inverse dynamics** workflow:
-  1. Capture **motion** (motion capture or high-speed video) and **ground reaction forces**.
-  2. Track **limb segments** and **joint rotations** through the stance phase.
-  3. Compute **joint torque** at each joint: $T_h = F_g \times R_h$.
-  4. Compute **joint work** by integrating torque × angular displacement: $W_h = T_h \times \Delta\theta\_{hip}$.
-- Net joint work (positive or negative) reveals which joints are **producing energy**, **absorbing energy**, or operating **isometrically**.
+- Inverse dynamics workflow:
+  1. Capture motion (motion capture or high-speed video) and ground reaction forces.
+  2. Track limb segments and joint rotations through the stance phase.
+  3. Compute joint torque at each joint: $T_h = F_g \times R_h$.
+  4. Compute joint work by integrating torque × angular displacement: $W_h = T_h \times \Delta\theta\_{hip}$.
+- Net joint work (positive or negative) reveals which joints are producing energy, absorbing energy, or operating isometrically.
 
 ---
 
@@ -202,14 +202,14 @@ $$F\_{muscle} = F_g \times \frac{R_g}{r_m}$$
 
 ### Proximo-Distal Gradient in Joint Function — Daley et al. 2007
 
-- Inverse-dynamics analysis of the **guinea fowl hindlimb** (Daley et al. 2007 JEB):
-  - **Hip**: produces **large positive net work** (energy generation — power production).
-  - **Knee**: small net work, near isometric.
-  - **Ankle**: small **negative** net work (energy absorption / spring-like cycling).
-  - **Tarsometatarso-phalangeal (TMP)**: **large negative** net work (energy absorption).
-- This gradient maps directly onto the **architectural gradient** from Slide 12:
-  - **Power-producing proximal joints** are driven by **muscles with long fibers and short tendons** (high work capacity).
-  - **Energy-absorbing or spring-like distal joints** are driven by **muscles with short fibers and long tendons** (high elastic-cycling capacity).
+- Inverse-dynamics analysis of the guinea fowl hindlimb (Daley et al. 2007 JEB):
+  - Hip: produces large positive net work (energy generation — power production).
+  - Knee: small net work, near isometric.
+  - Ankle: small negative net work (energy absorption / spring-like cycling).
+  - Tarsometatarso-phalangeal (TMP): large negative net work (energy absorption).
+- This gradient maps directly onto the architectural gradient from Slide 12:
+  - Power-producing proximal joints are driven by muscles with long fibers and short tendons (high work capacity).
+  - Energy-absorbing or spring-like distal joints are driven by muscles with short fibers and long tendons (high elastic-cycling capacity).
 
 ---
 
@@ -219,10 +219,10 @@ $$F\_{muscle} = F_g \times \frac{R_g}{r_m}$$
 
 ### In Vivo Measurement Tools — Sonomicrometry and Tendon Buckles
 
-- **Sonomicrometry crystals**: pairs of small piezoelectric crystals implanted in the muscle. They emit and receive ultrasonic pulses, and the **time of flight** between them gives **muscle fascicle length** with sub-millisecond resolution.
-- **Tendon buckle**: a small strain-gauge transducer surgically attached to the tendon; deformation of the buckle by tendon force is converted to a force signal — yielding **direct in vivo muscle–tendon force**.
-- **EMG electrodes** (Slide 10) record the **timing of activation**.
-- Together, these tools provide simultaneous **length, force, and activation** measurements during real movement — the direct equivalent of the lab F–L and F–V experiments, but **in the moving animal**.
+- **Sonomicrometry crystals**: pairs of small piezoelectric crystals implanted in the muscle. They emit and receive ultrasonic pulses, and the time of flight between them gives muscle fascicle length with sub-millisecond resolution.
+- **Tendon buckle**: a small strain-gauge transducer surgically attached to the tendon; deformation of the buckle by tendon force is converted to a force signal — yielding direct in vivo muscle–tendon force.
+- EMG electrodes (Slide 10) record the timing of activation.
+- Together, these tools provide simultaneous length, force, and activation measurements during real movement — the direct equivalent of the lab F–L and F–V experiments, but in the moving animal.
 
 ---
 
@@ -232,10 +232,10 @@ $$F\_{muscle} = F_g \times \frac{R_g}{r_m}$$
 
 ### Muscle Work Loops — A Tool for Visualizing Energy Flow
 
-- A **work loop** plots **force vs. length** through one complete cycle of contraction. The **area enclosed** is the **net mechanical work per cycle**.
-- **Counterclockwise** loop (force higher during shortening than during lengthening) → **net positive work** — the muscle is acting as a **motor**.
-- **Clockwise** loop (force higher during lengthening than during shortening) → **net negative work** — the muscle is acting as a **brake** (energy absorber).
-- A **narrow, flat** loop with little enclosed area → muscle is acting near-isometrically — operating like a **spring or strut**, with most of the energy cycling through the **tendon** rather than through cross-bridge cycling.
+- A **work loop** plots force vs. length through one complete cycle of contraction. The area enclosed is the net mechanical work per cycle.
+- Counterclockwise loop (force higher during shortening than during lengthening) → net positive work — the muscle is acting as a **motor**.
+- Clockwise loop (force higher during lengthening than during shortening) → net negative work — the muscle is acting as a **brake** (energy absorber).
+- A narrow, flat loop with little enclosed area → muscle is acting near-isometrically — operating like a **spring** or **strut**, with most of the energy cycling through the tendon rather than through cross-bridge cycling.
 
 ---
 
@@ -245,12 +245,12 @@ $$F\_{muscle} = F_g \times \frac{R_g}{r_m}$$
 
 ### Roberts et al. 1997 — Turkey Lateral Gastrocnemius
 
-- **Roberts et al. 1997** *Science* — landmark paper: **"Muscular force in running turkeys: the economy of minimizing work."**
+- Roberts et al. 1997 *Science* — landmark paper: "Muscular force in running turkeys: the economy of minimizing work."
 - Methodology:
-  - **Sonomicrometry crystals** in the lateral gastrocnemius (LG) — measure **fascicle length**.
-  - **Tendon buckle** on the Achilles tendon — measure **muscle–tendon force**.
-  - **EMG** — measure activation timing.
-- This is the prototype experiment for *in vivo* muscle dynamics in cursorial locomotion.
+  - Sonomicrometry crystals in the lateral gastrocnemius (LG) — measure fascicle length.
+  - Tendon buckle on the Achilles tendon — measure muscle–tendon force.
+  - EMG — measure activation timing.
+- This is the prototype experiment for in vivo muscle dynamics in cursorial locomotion.
 
 ---
 
@@ -261,13 +261,13 @@ $$F\_{muscle} = F_g \times \frac{R_g}{r_m}$$
 ### Turkey LG — Level vs. Incline Running
 
 - Two iconic Roberts et al. 1997 work loops:
-  - **Level (steady) running**: force–strain loop is **tall and narrow**, with **near-zero net work** (W ≈ −6 mJ per cycle).
+  - Level (steady) running: force–strain loop is tall and narrow, with near-zero net work (W ≈ −6 mJ per cycle).
     - Muscle generates force at near-constant length — the tendon stretches and recoils.
-    - Muscle acts as a **strut/spring** with most of the work cycling through the **tendon**.
-  - **Incline running** (uphill): force–strain loop is **wide**, with **substantial positive work** (W ≈ +318 mJ per cycle).
+    - Muscle acts as a strut/spring with most of the work cycling through the tendon.
+  - Incline running (uphill): force–strain loop is wide, with substantial positive work (W ≈ +318 mJ per cycle).
     - Muscle actively shortens under high force — performing positive work to lift the body against gravity.
-    - Muscle acts as a **motor**.
-- **Same muscle** can produce dramatically different mechanical outputs depending on the **task**.
+    - Muscle acts as a motor.
+- The same muscle can produce dramatically different mechanical outputs depending on the task.
 
 ---
 
@@ -277,10 +277,10 @@ $$F\_{muscle} = F_g \times \frac{R_g}{r_m}$$
 
 ### Tendon Energy Recovery in the Turkey LG
 
-- During **level running** at all speeds, **muscle shortening work** is much less than **total muscle–tendon shortening work**:
-  - The difference is **tendon strain energy** that is stored on landing and **recovered** during the propulsive phase.
-  - **Most of the work** done by the muscle–tendon unit comes from the **tendon spring**, not the muscle's contractile work.
-- **Trade-off**: muscle work can be **minimized** in steady gait, but the **muscle must still contract isometrically to resist the loads** that stretch the tendon. So the **muscle still costs ATP**, even when doing little mechanical work.
+- During level running at all speeds, muscle shortening work is much less than total muscle–tendon shortening work:
+  - The difference is tendon strain energy that is stored on landing and recovered during the propulsive phase.
+  - Most of the work done by the muscle–tendon unit comes from the tendon spring, not the muscle's contractile work.
+- Muscle work can be minimized in steady gait, but the muscle must still contract isometrically to resist the loads that stretch the tendon. So the muscle still costs ATP, even when doing little mechanical work.
 
 ---
 
@@ -290,12 +290,12 @@ $$F\_{muscle} = F_g \times \frac{R_g}{r_m}$$
 
 ### Why Tendons Are Excellent Springs
 
-- Tendon is composed of **Type I collagen fibers in highly aligned parallel arrays**, with **sparsely distributed fibroblasts** between layers.
+- Tendon is composed of Type I collagen fibers in highly aligned parallel arrays, with sparsely distributed fibroblasts between layers.
 - This near-crystalline organization gives tendon:
-  - **High tensile stiffness** (large force capacity).
-  - **High elastic energy storage** (~95% energy return).
-  - **Low metabolic cost** (no active cellular work to store energy).
-- Across vertebrates (kangaroos, runners, camels), distal-limb tendons act as **passive springs** — drastically reducing the metabolic cost of locomotion.
+  - High tensile stiffness (large force capacity).
+  - High elastic energy storage (~95% energy return).
+  - Low metabolic cost (no active cellular work to store energy).
+- Across vertebrates (kangaroos, runners, camels), distal-limb tendons act as passive springs — drastically reducing the metabolic cost of locomotion.
 
 ---
 
@@ -305,10 +305,10 @@ $$F\_{muscle} = F_g \times \frac{R_g}{r_m}$$
 
 ### Wallaby Plantaris — Even More Spring-Like
 
-- **Biewener et al. (1998)** measurements on the **tammar wallaby plantaris**:
-  - The force–length loop is **even narrower** than the turkey LG — almost a vertical line (300+ N at near-constant length).
-  - Plantaris fascicles **barely change length** during hopping — virtually all length change in the MTU is in the **long, compliant Achilles tendon**.
-- **Functional interpretation**: in hopping marsupials, distal-limb muscles are extreme **isometric force-generators**; tendons do nearly all the mechanical work.
+- Biewener et al. (1998) measurements on the tammar wallaby plantaris:
+  - The force–length loop is even narrower than the turkey LG — almost a vertical line (300+ N at near-constant length).
+  - Plantaris fascicles barely change length during hopping — virtually all length change in the MTU is in the long, compliant Achilles tendon.
+- In hopping marsupials, distal-limb muscles are extreme isometric force-generators; tendons do nearly all the mechanical work.
 
 ---
 
@@ -318,9 +318,9 @@ $$F\_{muscle} = F_g \times \frac{R_g}{r_m}$$
 
 ### Wallaby Plantaris on Inclines
 
-- Unlike the turkey LG (which **shifts** dramatically toward positive work on inclines), the **wallaby plantaris** retains a **near-isometric** loop on inclines (Biewener, McGowan et al. 2004).
-- Net work changes only modestly (−27 mJ level → −19 mJ incline) — the muscle remains **strut-like** even when the animal is climbing.
-- **Implication**: in wallabies, the **proximal muscles** (not the distal plantaris) take on the additional **power-production** task during incline locomotion.
+- Unlike the turkey LG (which shifts dramatically toward positive work on inclines), the wallaby plantaris retains a near-isometric loop on inclines (Biewener, McGowan et al. 2004).
+- Net work changes only modestly (−27 mJ level → −19 mJ incline) — the muscle remains strut-like even when the animal is climbing.
+- In wallabies, the proximal muscles (not the distal plantaris) take on the additional power-production task during incline locomotion.
 
 ---
 
@@ -330,9 +330,9 @@ $$F\_{muscle} = F_g \times \frac{R_g}{r_m}$$
 
 ### Guinea Fowl Lateral Gastrocnemius — Versatile Function
 
-- **Daley and Biewener 2003**: guinea fowl LG behaves like turkey LG on level ground (mostly isometric, some shortening) and **shifts to a much wider loop** on inclines (substantial positive work).
-- The LG comprises **~30% of total hindlimb muscle mass** — a substantial work/power reservoir.
-- Question for the next slide: if level running only requires near-isometric force, **what is all that work capacity used for?** Answer: **non-steady tasks** — accelerating, climbing, and stabilizing on uneven terrain.
+- Daley and Biewener 2003: guinea fowl LG behaves like turkey LG on level ground (mostly isometric, some shortening) and shifts to a much wider loop on inclines (substantial positive work).
+- The LG comprises ~30% of total hindlimb muscle mass — a substantial work/power reservoir.
+- Question for the next slide: if level running only requires near-isometric force, what is all that work capacity used for? Answer: non-steady tasks — accelerating, climbing, and stabilizing on uneven terrain.
 
 ---
 
@@ -342,9 +342,9 @@ $$F\_{muscle} = F_g \times \frac{R_g}{r_m}$$
 
 ### Distal Muscles Stabilize Locomotion on Uneven Terrain
 
-- **Daley and Biewener 2011**: when guinea fowl run over **uneven terrain**, the LG modulates its **work output** stride-by-stride — sometimes acting as a strut, sometimes producing positive work, sometimes absorbing energy.
-- This **reserve work capacity** explains the apparent "over-engineering" of the distal hindlimb muscles for level running.
-- Provides **autonomous mechanical stability** through **intrinsic muscle properties** (force–length, force–velocity) — without requiring fast neural reflexes.
+- Daley and Biewener 2011: when guinea fowl run over uneven terrain, the LG modulates its work output stride-by-stride — sometimes acting as a strut, sometimes producing positive work, sometimes absorbing energy.
+- This reserve work capacity explains the apparent "over-engineering" of the distal hindlimb muscles for level running.
+- Provides autonomous mechanical stability through intrinsic muscle properties (force–length, force–velocity) — without requiring fast neural reflexes.
 
 ---
 
@@ -356,11 +356,11 @@ $$F\_{muscle} = F_g \times \frac{R_g}{r_m}$$
 
 | Mode | Energy flow | Muscle role | Function | Activities |
 |---|---|---|---|---|
-| **(A) Energy conservation** | Body → Tendon → Body | Strut (isometric) | **Metabolic economy** | Running, hopping, walking |
-| **(B) Power amplification** | Muscle → Tendon → Body | Motor (concentric) | **Power production** | Jumping, acceleration, incline running, ballistic feeding |
-| **(C) Power attenuation** | Body → Tendon → Muscle | Brake (eccentric) | **Energy absorption** | Decline running, deceleration, landing |
+| **(A) Energy conservation** | Body → Tendon → Body | Strut (isometric) | Metabolic economy | Running, hopping, walking |
+| **(B) Power amplification** | Muscle → Tendon → Body | Motor (concentric) | Power production | Jumping, acceleration, incline running, ballistic feeding |
+| **(C) Power attenuation** | Body → Tendon → Muscle | Brake (eccentric) | Energy absorption | Decline running, deceleration, landing |
 
-- The **same muscle–tendon unit** can switch between these modes depending on **task demand** and **activation timing** — a unifying framework for *in vivo* muscle function.
+- The same muscle–tendon unit can switch between these modes depending on task demand and activation timing — a unifying framework for *in vivo* muscle function.
 
 ---
 
@@ -370,10 +370,10 @@ $$F\_{muscle} = F_g \times \frac{R_g}{r_m}$$
 
 ### Cockatiel Pectoralis — A Pure Motor
 
-- **Hedrick et al. 2003**: cockatiel pectoralis (downstroke flight muscle) during forward flight at 11 m/s.
-- The work loop is **wide and counterclockwise** — large positive work per cycle.
-- Pectoralis acts as a **motor** that produces all of the aerodynamic work needed for flight; the muscle **shortens through a large strain range** while generating force.
-- Contrast with the turkey LG and wallaby plantaris (strut-like) — pectoralis is at the **opposite end of the spectrum**, dedicated entirely to **power production**.
+- Hedrick et al. 2003: cockatiel pectoralis (downstroke flight muscle) during forward flight at 11 m/s.
+- The work loop is wide and counterclockwise — large positive work per cycle.
+- Pectoralis acts as a motor that produces all of the aerodynamic work needed for flight; the muscle shortens through a large strain range while generating force.
+- Contrast with the turkey LG and wallaby plantaris (strut-like) — pectoralis is at the opposite end of the spectrum, dedicated entirely to power production.
 
 ---
 
@@ -384,13 +384,13 @@ $$F\_{muscle} = F_g \times \frac{R_g}{r_m}$$
 ### A Continuum from Motor to Spring
 
 - A summary figure plotting many in vivo muscle work loops on a 2D space:
-  - **Vertical axis (Motor)**: tall, wide loops with substantial positive work — high power output.
-  - **Horizontal axis (Muscle–tendon spring)**: narrow, tall loops with near-isometric contraction and high elastic energy cycling.
+  - Vertical axis (Motor): tall, wide loops with substantial positive work — high power output.
+  - Horizontal axis (Muscle–tendon spring): narrow, tall loops with near-isometric contraction and high elastic energy cycling.
 - Examples:
-  - **Cockatiel pectoralis**: pure motor (top-left).
-  - **Wallaby plantaris**: pure spring (bottom-right).
-  - **Turkey/guinea fowl LG**: shift along the continuum depending on task (level vs. incline).
-- **No single description** captures muscle function — different muscles, and the same muscle in different tasks, occupy different positions on this **motor–spring continuum**.
+  - Cockatiel pectoralis: pure motor (top-left).
+  - Wallaby plantaris: pure spring (bottom-right).
+  - Turkey/guinea fowl LG: shift along the continuum depending on task (level vs. incline).
+- No single description captures muscle function — different muscles, and the same muscle in different tasks, occupy different positions on this motor–spring continuum.
 
 ---
 
@@ -401,12 +401,12 @@ $$F\_{muscle} = F_g \times \frac{R_g}{r_m}$$
 ### Why Are Human Limbs So Heavy?
 
 - Humans are an outlier among bipedal vertebrates:
-  - **Two legs** make up **~half of total body mass** — a large fraction relative to specialized cursorial bipeds (ostriches, guinea fowl).
-  - Compared to ostriches (which have minimal distal-limb mass and very long tendons), humans have **substantial distal-limb muscle mass**.
-- **Why?** Possible explanations:
-  - The **bird lineage has been bipedal for ~250 million years** (back to theropod dinosaurs); humans only ~5 million years — the human bipedal limb may still be a "work in progress."
-  - Humans are specialized for a **diverse range of tasks** (walking, running, climbing, throwing, kicking) — not optimized purely for steady gait.
-  - **Distal-limb mass** comes with a metabolic cost (swing energy) but provides **versatility**.
+  - Two legs make up ~half of total body mass — a large fraction relative to specialized cursorial bipeds (ostriches, guinea fowl).
+  - Compared to ostriches (which have minimal distal-limb mass and very long tendons), humans have substantial distal-limb muscle mass.
+- Possible explanations:
+  - The bird lineage has been bipedal for ~250 million years (back to theropod dinosaurs); humans only ~5 million years — the human bipedal limb may still be a "work in progress."
+  - Humans are specialized for a diverse range of tasks (walking, running, climbing, throwing, kicking) — not optimized purely for steady gait.
+  - Distal-limb mass comes with a metabolic cost (swing energy) but provides versatility.
 
 ---
 
@@ -417,9 +417,9 @@ $$F\_{muscle} = F_g \times \frac{R_g}{r_m}$$
 ### In Vivo Muscle Measurements in Humans — Ultrasound + Motion Capture
 
 - Modern human studies combine:
-  - **B-mode ultrasound** taped over the muscle to image **fascicle length** and **pennation angle** in real time (Lichtwark & Wilson 2006; Dick et al. 2016).
-  - **Motion capture markers** on the ultrasound probe and limb segments to track the **Achilles tendon path** and **MTU length**.
-- This approach is **non-invasive** — no implanted instrumentation — and gives essentially the same data as the comparative in vivo experiments in animals.
+  - B-mode ultrasound taped over the muscle to image fascicle length and pennation angle in real time (Lichtwark & Wilson 2006; Dick et al. 2016).
+  - Motion capture markers on the ultrasound probe and limb segments to track the Achilles tendon path and MTU length.
+- This approach is non-invasive — no implanted instrumentation — and gives essentially the same data as the comparative in vivo experiments in animals.
 
 ---
 
@@ -429,9 +429,9 @@ $$F\_{muscle} = F_g \times \frac{R_g}{r_m}$$
 
 ### B-Mode Ultrasound — Fascicle Length in Real Time
 
-- Each frame of the B-mode ultrasound video shows the **fascicle running between the two aponeuroses** at a measurable angle.
-- Tracked across many frames, this yields a **continuous time-series of fascicle length** — the human equivalent of sonomicrometry data from animal experiments.
-- Combined with motion capture and force plates, this enables **full inverse-dynamics analysis** of human walking and running with fascicle-level resolution.
+- Each frame of the B-mode ultrasound video shows the fascicle running between the two aponeuroses at a measurable angle.
+- Tracked across many frames, this yields a continuous time-series of fascicle length — the human equivalent of sonomicrometry data from animal experiments.
+- Combined with motion capture and force plates, this enables full inverse-dynamics analysis of human walking and running with fascicle-level resolution.
 
 ---
 
@@ -441,13 +441,13 @@ $$F\_{muscle} = F_g \times \frac{R_g}{r_m}$$
 
 ### Lai et al. 2015 — Soleus Function in Walking and Running
 
-- **Adrian Lai et al. 2015** *J Appl Physiol*: B-mode ultrasound of human **soleus** during walking (W) and running (R) at multiple speeds.
+- Adrian Lai et al. 2015 *J Appl Physiol*: B-mode ultrasound of human soleus during walking (W) and running (R) at multiple speeds.
 - Three coupled length signals over the stance phase:
-  - **MTU length** (top): smooth pattern of stretch and recoil.
-  - **Muscle fascicle length** (middle): mainly slow shortening — relatively small length change.
-  - **Tendon length** (bottom): substantial **stretch and recoil**.
-- **Conclusion**: just as in cursorial animals, **most of the MTU length change during loading occurs in the tendon**. Human soleus operates **near-isometrically** — strut-like — during gait.
-- Fascicle shortening increases with **speed within each gait**, showing that the soleus modulates its work output as task demands change.
+  - MTU length (top): smooth pattern of stretch and recoil.
+  - Muscle fascicle length (middle): mainly slow shortening — relatively small length change.
+  - Tendon length (bottom): substantial stretch and recoil.
+- Just as in cursorial animals, most of the MTU length change during loading occurs in the tendon. Human soleus operates near-isometrically — strut-like — during gait.
+- Fascicle shortening increases with speed within each gait, showing that the soleus modulates its work output as task demands change.
 
 ---
 
@@ -457,11 +457,11 @@ $$F\_{muscle} = F_g \times \frac{R_g}{r_m}$$
 
 ### Why People Switch from Walking to Running
 
-- **Same speed** (e.g., 2.0 m/s), **different gait** → very different muscle operating conditions:
-  - **Walking 2.0 m/s**: fascicle length ~0.9 L<sub>0</sub> (suboptimally short for force).
-  - **Running 2.0 m/s**: fascicle length ~1.05 L<sub>0</sub> (close to optimum) and slower shortening velocity.
-- **Functional interpretation**: the **walk-to-run transition** keeps the soleus operating **near its optimal F–L and F–V conditions** — not just for economy, but for **maintaining force capacity** as speed increases.
-- Connects directly back to the **F–L and F–V curves** from Lecture 12 — the gait transition is one way humans **stay on the optimal portion** of the muscle's intrinsic property surface.
+- Same speed (e.g., 2.0 m/s), different gait → very different muscle operating conditions:
+  - Walking 2.0 m/s: fascicle length ~0.9 L<sub>0</sub> (suboptimally short for force).
+  - Running 2.0 m/s: fascicle length ~1.05 L<sub>0</sub> (close to optimum) and slower shortening velocity.
+- The **walk-to-run transition** keeps the soleus operating near its optimal F–L and F–V conditions — not just for economy, but for maintaining force capacity as speed increases.
+- Connects directly back to the F–L and F–V curves from Lecture 12 — the gait transition is one way humans stay on the optimal portion of the muscle's intrinsic property surface.
 
 ---
 
@@ -471,10 +471,10 @@ $$F\_{muscle} = F_g \times \frac{R_g}{r_m}$$
 
 ### Applications — Running-Blade Prosthetic Design
 
-- The topic — running-blade prosthetics from **Taboga, Beck, Grabowski 2020** — directly applies the muscle–tendon spring framework to assistive devices.
+- The topic — running-blade prosthetics from Taboga, Beck, Grabowski 2020 — directly applies the muscle–tendon spring framework to assistive devices.
 - Three prosthetic running blades (1E90 Sprinter, Catapult FX6, Cheetah Xtend) tested in athletes with bilateral lower-limb amputations.
-- **Stiffness category** and **height (Δh)** of the blade affect **top sprint speed** — but the optimal value is **athlete-specific**.
-- Designed to mimic the **elastic energy cycling** behavior of the natural Achilles tendon — but with no muscle to modulate stiffness, blade properties must be **tuned** to each user.
+- Stiffness category and height (Δh) of the blade affect top sprint speed — but the optimal value is athlete-specific.
+- Designed to mimic the elastic energy cycling behavior of the natural Achilles tendon — but with no muscle to modulate stiffness, blade properties must be tuned to each user.
 
 ---
 
@@ -484,10 +484,10 @@ $$F\_{muscle} = F_g \times \frac{R_g}{r_m}$$
 
 ### Ankle Exoskeletons and Soleus Function
 
-- **Nuckols et al. 2020**: passive elastic ankle exoskeletons with stiffness **k<sub>rot</sub>** that applies torque τ<sub>exo</sub> = k<sub>rot</sub> × Δθ<sub>ank</sub>.
-- Combined ultrasound (soleus fascicle) + motion capture + indirect calorimetry to measure how the exoskeleton changes **biological ankle power** during walking.
-- As exoskeleton stiffness increases, the **biological power** (top traces) decreases — the exoskeleton takes over some of the work from the soleus.
-- **Application of the integrative framework**: the exoskeleton is essentially an **external tendon** that adds elastic energy storage in parallel with the Achilles tendon.
+- Nuckols et al. 2020: passive elastic ankle exoskeletons with stiffness k<sub>rot</sub> that applies torque τ<sub>exo</sub> = k<sub>rot</sub> × Δθ<sub>ank</sub>.
+- Combined ultrasound (soleus fascicle) + motion capture + indirect calorimetry to measure how the exoskeleton changes biological ankle power during walking.
+- As exoskeleton stiffness increases, the biological power (top traces) decreases — the exoskeleton takes over some of the work from the soleus.
+- The exoskeleton is essentially an external tendon that adds elastic energy storage in parallel with the Achilles tendon.
 
 ---
 
@@ -497,12 +497,12 @@ $$F\_{muscle} = F_g \times \frac{R_g}{r_m}$$
 
 ### Tuning Exoskeleton Stiffness for Metabolic Benefit
 
-- Energy savings depend on **matching exoskeleton stiffness** to the wearer's biological muscle-tendon dynamics:
-  - **Too soft** (k = 0): no help from the exoskeleton → no metabolic benefit.
-  - **Just right** (k = 50): largest metabolic reduction (~−4% net rate, p = 0.032).
-  - **Too stiff** (k = 250): the soleus shortens faster on the F–V curve → reduced force capacity → metabolic cost goes back up.
-- **Key insight**: assistive devices interact with the underlying biological **muscle F–V relationship**. The intrinsic properties from Lecture 12 set the **operating envelope** that engineers must respect when designing exoskeletons and prosthetics.
-- **Effective tuning of stiffness is essential** for maintaining economical muscle-tendon dynamics with assistive devices.
+- Energy savings depend on matching exoskeleton stiffness to the wearer's biological muscle-tendon dynamics:
+  - Too soft (k = 0): no help from the exoskeleton → no metabolic benefit.
+  - Just right (k = 50): largest metabolic reduction (~−4% net rate, p = 0.032).
+  - Too stiff (k = 250): the soleus shortens faster on the F–V curve → reduced force capacity → metabolic cost goes back up.
+- Assistive devices interact with the underlying biological muscle F–V relationship. The intrinsic properties from Lecture 12 set the operating envelope that engineers must respect when designing exoskeletons and prosthetics.
+- Effective tuning of stiffness is essential for maintaining economical muscle-tendon dynamics with assistive devices.
 
 ---
 
@@ -512,11 +512,11 @@ $$F\_{muscle} = F_g \times \frac{R_g}{r_m}$$
 
 ### Summary
 
-- **Trade-offs between force and displacement** appear at every structural level: **tissue** (F–L, F–V intrinsic properties), **organ** (muscle–tendon architecture), and **limb** (joint lever systems).
-- **Muscle–tendon architecture** influences muscle's **mechanical function** and **versatility** — how it can act as motor, spring, or brake depending on task.
-- A **proximo-distal architectural gradient** exists in cursorial limbs: **long-fibered, short-tendoned proximal muscles** (work and power) vs. **short-fibered, long-tendoned distal muscles** (elastic cycling, economy).
-- These architectural patterns map onto **mechanical roles in locomotion**: **power production** for acceleration and incline climbing; **elastic energy cycling** for economical steady-state gait.
-- **Understanding muscle–tendon function** informs the **design of rehabilitation and mobility-assistance devices** — prosthetic blades, exoskeletons, surgical interventions.
+- Trade-offs between force and displacement appear at every structural level: tissue (F–L, F–V intrinsic properties), organ (muscle–tendon architecture), and limb (joint lever systems).
+- Muscle–tendon architecture influences muscle's mechanical function and versatility — how it can act as motor, spring, or brake depending on task.
+- A **proximo-distal architectural gradient** exists in cursorial limbs: long-fibered, short-tendoned proximal muscles (work and power) vs. short-fibered, long-tendoned distal muscles (elastic cycling, economy).
+- These architectural patterns map onto mechanical roles in locomotion: power production for acceleration and incline climbing; elastic energy cycling for economical steady-state gait.
+- Understanding muscle–tendon function informs the design of rehabilitation and mobility-assistance devices — prosthetic blades, exoskeletons, surgical interventions.
 
 ---
 
@@ -526,9 +526,9 @@ $$F\_{muscle} = F_g \times \frac{R_g}{r_m}$$
 
 ### Learning Objectives — Recap
 
-1. **Cyclical muscle function** in real movement is described by **work loops** — force vs. length plots whose enclosed area is the **net work per cycle**. *In vivo* muscle dynamics fall on a **continuum from motor to spring**.
-2. A **power-producing muscle** has a wide, counterclockwise work loop (cockatiel pectoralis, turkey LG on inclines). A **spring-like muscle** has a tall, narrow loop with most of the MTU length change in the tendon (turkey LG on level, wallaby plantaris, human soleus).
-3. **Tendons** act as passive springs that **store and return elastic strain energy** — minimizing muscle work in steady-state tasks (running, hopping, walking), enabling **power amplification** in jumping and ballistic tasks, and **attenuating power** during landings and decelerations.
+1. Cyclical muscle function in real movement is described by work loops — force vs. length plots whose enclosed area is the net work per cycle. In vivo muscle dynamics fall on a continuum from motor to spring.
+2. A power-producing muscle has a wide, counterclockwise work loop (cockatiel pectoralis, turkey LG on inclines). A spring-like muscle has a tall, narrow loop with most of the MTU length change in the tendon (turkey LG on level, wallaby plantaris, human soleus).
+3. Tendons act as passive springs that store and return elastic strain energy — minimizing muscle work in steady-state tasks (running, hopping, walking), enabling power amplification in jumping and ballistic tasks, and attenuating power during landings and decelerations.
 
 ---
 
