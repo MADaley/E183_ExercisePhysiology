@@ -174,7 +174,7 @@ This Friday session combines a short critical-thinking detour on **how to evalua
 
 - **Set-up** (Sawicki et al. 2015): the whole **muscle–tendon unit (MTU)** is held at fixed end-to-end length. When the muscle is stimulated:
   - **MTU length (green)** stays essentially **flat at zero** — the external ends do not move.
-  - **CE (contractile element / fascicle, red)** **shortens** by ~4 mm — the muscle pulls on the tendon.
+  - **CE (contractile element / fascicle, red)** **shortens** by ~3 mm — the muscle pulls on the tendon.
   - **SEE (series elastic element / tendon, blue)** **stretches** by ~+3 mm — equal and opposite to CE shortening so the MTU length is conserved.
 - **Force** (Panel B) rises and falls as a single pulse over ~100 ms.
 - **Activity**: sketch the predicted F–L work-loop shape for each of the three elements — **MTU, CE, and SEE** — using the time-domain traces above. The answer is shown on Slide 11.
@@ -183,35 +183,35 @@ This Friday session combines a short critical-thinking detour on **how to evalua
 
 ## Slide 11
 
-![Slide repeating the Sawicki et al. fixed-end figure (panels A and B as on Slide 10). At the top right, text in blue: "Thought experiment: What if the tendon were stiffer (thicker CSA)? How would the graphs change?" Bottom-right panel C: a force–length plot with Force (N) on y-axis from 0 to 30 and Δ Length (mm) on x-axis from −4 to +5. Three work-loops are sketched: a green vertical line at ΔLength = 0 (MTU loop), a red loop on the negative side (CE/muscle, peaking around ΔL ≈ −4 mm with a counterclockwise sweep marked by red curved arrows), and a blue loop on the positive side (SEE/tendon, peaking around ΔL ≈ +3 mm with a clockwise sweep marked by blue curved arrows). Citation as on Slide 10.](images/friday-review/slide-011.png)
+![Slide repeating the Sawicki et al. fixed-end figure (panels A and B as on Slide 10). At the top right, text in blue: "Thought experiment: What if the tendon were stiffer (thicker CSA)? How would the graphs change?" Bottom-right panel C: a force–length plot with Force (N) on y-axis from 0 to 30 and Δ Length (mm) on x-axis from −4 to +5. Three work-loops are sketched: a green vertical line at ΔLength = 0 (MTU loop), a red loop on the negative side (CE/muscle, peaking around ΔL ≈ −3 mm with a counterclockwise sweep marked by red curved arrows), and a blue loop on the positive side (SEE/tendon, peaking around ΔL ≈ +3 mm with a clockwise sweep marked by blue curved arrows). Citation as on Slide 10.](images/friday-review/slide-011.png)
 
 ### Activity 1 — Answer and Thought Experiment
 
 - **Expected work-loop shapes** (Panel C):
   - **MTU loop (green)** — length is constant, so the F–L "loop" collapses to a **vertical line** at ΔL<sub>MTU</sub> ≈ 0. **No enclosed area → no net MTU work**.
   - **SEE loop (blue)** — narrow, **clockwise** loop on the **positive Δ-length** side (tendon stretched to about +3 mm). The loop is **nearly springlike**; the small enclosed area is a slightly **negative** work loop reflecting modest **elastic hysteresis**. The tendon **absorbs energy during stretch** and **returns most of it during recoil**, with a small amount of energy **lost as heat**.
-  - **CE loop (red)** — counterclockwise loop on the **negative Δ-length** side (muscle shortened to about −4 mm). The **direction of the trace is the exact reflected version of the SEE loop**. The **enclosed area is nearly zero** because no net work is done over the cycle (the MTU end-points are fixed). The small enclosed area corresponds to a **very small amount of positive muscle work**, exactly equal to the **hysteresis energy lost in the tendon** — the muscle is the **active source** of that small make-up energy.
+  - **CE loop (red)** — counterclockwise loop on the **negative Δ-length** side (muscle shortened to about −3 mm). The **direction of the trace is the exact reflected version of the SEE loop**. The **enclosed area is nearly zero** because no net work is done over the cycle (the MTU end-points are fixed). The small enclosed area corresponds to a **very small amount of positive muscle work**, exactly equal to the **hysteresis energy lost in the tendon** — the muscle is the **active source** of that small make-up energy.
 - **Energy bookkeeping**: the **muscle does positive work early**, the **tendon stores and returns most of it**, and the **MTU end-points do no external work** over the complete cycle. The whole exchange is **internal** — muscle → tendon → muscle.
 - **Thought experiment — stiffer tendon (larger CSA)**:
   - For the same muscle force, a **stiffer tendon stretches less** (F = k·Δx with larger k → smaller Δx).
   - Because the MTU length is fixed, the muscle must **shorten less** as well — the red CE loop shrinks to a smaller Δ-length range.
   - The blue SEE loop also **narrows** along the Δ-length axis.
-  - The muscle ends up operating **closer to isometric** — at a length where its force capacity may be higher, but at the cost of doing **less positive work**.
-- **Conceptual link**: tendon stiffness is a **design parameter** that re-allocates work between muscle and tendon. Optimal stiffness depends on the task — too stiff and the muscle can't shorten enough to do work; too compliant and the tendon stretches without engaging the muscle near its optimal operating point. This is the same logic explored in the ankle-exoskeleton tuning result from Week 6 (Nuckols et al.).
+  - The muscle ends up operating **closer to isometric** — at a length where its force capacity may be higher, but at the cost of **lower elastic energy cycling** in the tendon. 
+- **Conceptual link**: tendon stiffness is a **design parameter** that influences muscle-tendon function. Optimal stiffness depends on the task — too stiff and elastic energy is not stored in the tendon, but the muscle directly actuates the joint; too compliant and the muscle mostly does work stretching the tendon without moving the joint.
 
 ---
 
 ## Slide 12
 
-![Slide titled with the same Sawicki et al. citation. Top panel A: same axes as Slide 10 but extended in time, showing four repeated cycles. The green MTU trace now oscillates sinusoidally between approximately +5 and −4 mm; the red CE trace and the blue SEE trace also oscillate but with different phasing and amplitude — the CE shortens to about −3 mm before recovering and the SEE peaks at about +4 mm. Vertical orange markers along the time axis indicate the timing of repeated stimulation pulses, one per cycle. Bottom panel B: Force (N) on y-axis from 0 to 30 across the same four cycles — force rises and falls as a series of peaks, one per stimulation pulse, with a 500 ms scale bar. Bottom-right blue text: "Activity: Sketch work-loops for the 1) MTU 2) CE (muscle fascicles) and 3) SEE (tendon)."](images/friday-review/slide-012.png)
+![Slide titled with the same Sawicki et al. citation. Top panel A: same axes as Slide 10 but extended in time, showing four repeated cycles. The green MTU trace now oscillates sinusoidally between approximately +5 and −4 mm; the red CE trace and the blue SEE trace also oscillate but with different phasing and amplitude — the CE shortens to about −3 mm before recovering and the SEE peaks at about +3 mm. Vertical orange markers along the time axis indicate the timing of repeated stimulation pulses, one per cycle. Bottom panel B: Force (N) on y-axis from 0 to 30 across the same four cycles — force rises and falls as a series of peaks, one per stimulation pulse, with a 500 ms scale bar. Bottom-right blue text: "Activity: Sketch work-loops for the 1) MTU 2) CE (muscle fascicles) and 3) SEE (tendon)."](images/friday-review/slide-012.png)
 
 ### Activity 2 — Sketch Work Loops for Cyclic Contractions
 
-- **Set-up**: same Sawicki et al. preparation as in Activity 1, but now the **MTU is driven through a cyclic length trajectory** (sinusoidal length change), with **one stimulation pulse per cycle** delivered near the start of the shortening phase.
+- **Set-up**: same Sawicki et al. preparation as in Activity 1, but now the **MTU is driven through a cyclic length trajectory** (sinusoidal length change), with **one stimulation pulse per cycle** delivered near the start of the lengthening phase.
 - **Reading the panels (before sketching)**:
-  - **MTU (green)** — sinusoidal length change between ~+5 and ~−4 mm; **large external excursion** at each cycle.
-  - **CE (red, fascicle)** — also oscillates, but with **smaller amplitude** and **different phasing** than the MTU; shortens during the rising-force phase.
-  - **SEE (blue, tendon)** — stretches and recoils in a pattern that is partially **out of phase** with the CE; large excursion (≈+4 mm peak).
+  - **MTU (green)** — sinusoidal length change between ~+4 and ~−4 mm; **large external excursion** at each cycle.
+  - **CE (red, fascicle)** — also oscillates, but with **different phasing** than the MTU; stretches during the rising-force phase.
+  - **SEE (blue, tendon)** — stretches and recoils
   - **Force (Panel B)** — rises and falls as a train of pulses, one per cycle.
 - **Activity**: sketch the predicted F–L work-loop shape for each of the three elements — **MTU, CE, and SEE** — using the time-domain traces above. The answer is shown on Slide 13.
 
@@ -219,16 +219,15 @@ This Friday session combines a short critical-thinking detour on **how to evalua
 
 ## Slide 13
 
-![Slide repeating the Sawicki et al. cyclic figure (panels A and B as on Slide 12). At the right, a new force–length panel C: Force (N) on y-axis from 0 to 30 and Δ Length (mm) on x-axis from −4 to +5. Three sketched work-loops: a green loop on the right side (MTU, broad, opening from near the origin and arching up and to the right with a counterclockwise sweep marked by green curved arrows); a red loop on the left side (CE/muscle fascicles, tilted leftward, also counterclockwise with red curved arrows); and a slim blue loop on the right (SEE/tendon, narrow and tilted with a clockwise sweep marked by a blue arrow). Together, the three loops illustrate that the MTU and CE both do positive net work, while the tendon does little net work but cycles energy elastically.](images/friday-review/slide-013.png)
+![Slide repeating the Sawicki et al. cyclic figure (panels A and B as on Slide 12). At the right, a new force–length panel C: Force (N) on y-axis from 0 to 30 and Δ Length (mm) on x-axis from −4 to +4. Three sketched work-loops: a green loop on the right side (MTU, broad, opening from near the origin and arching up and to the right with a counterclockwise sweep marked by green curved arrows); a red loop on the left side (CE/muscle fascicles, tilted leftward, also counterclockwise with red curved arrows); and a slim blue loop on the right (SEE/tendon, narrow and tilted with a clockwise sweep marked by a blue arrow). Together, the three loops illustrate that the MTU and CE both do positive net work, while the tendon does little net work but cycles energy elastically.](images/friday-review/slide-013.png)
 
 ### Activity 2 — Answer for Cyclic Contractions
 
 - **Expected work-loop shapes** (Panel C):
-  - **MTU loop (green)** — broad, **counterclockwise** loop in the **positive-length region** with substantial enclosed area → the MTU does **net positive work** that an external load (a joint, a research apparatus) receives.
-  - **CE loop (red)** — leftward-tilted, **counterclockwise** loop on the **negative Δ-length** side. Smaller enclosed area than the MTU but with the same sign — the **muscle is the active source** of the positive work.
-  - **SEE loop (blue)** — narrow, **clockwise** loop on the **positive Δ-length** side with very little enclosed area → **near-elastic** tendon behavior, with a small slightly negative area equal to the **hysteresis loss**.
-- **Why the loops differ from the fixed-end case** (Slide 11): the MTU is no longer pinned at one length. The muscle still shortens during force development, but the **MTU also shortens** — so the MTU loop **opens up along the Δ-length axis** and encloses real **positive area**.
-- **Energy bookkeeping**: the **CE supplies the active energy** (positive CE work), the **SEE cycles most of it elastically** (near-zero net SEE work, slightly negative due to hysteresis), and the **net positive work appears at the MTU end-points** — flowing **out of the muscle–tendon unit** to the external load. Direction of energy flow: **CE → SEE → MTU end-points (external load)**.
+  - **MTU loop (green)** — broad, **clockwise** loop in the **positive-length region** with substantial enclosed area → the MTU does **net negative work (absorbs energy)** from the external load. 
+  - **CE loop (red)** — leftward-shifted, **clockwise** loop. The **muscle absorbs net energy** over the cycle. 
+  - **SEE loop (blue)** — narrow,nearly springlike **clockwise** loop on the **positive Δ-length** side with very little enclosed area → **near-elastic** tendon behavior, with a small slightly negative area equal to the **hysteresis loss**.
+- **Why the loops differ from the fixed-end case**: the MTU is no longer pinned at one length. The muscle is stretched during force development, and the MTU also stretches — so the MTU and CE loops are open with net area associated with net negative work. 
 - **Big-picture take-away**: in cyclic contractions, the **MTU work loop is the net visible behavior at the joint**, while the **CE and SEE loops show how the active and passive elements share the load internally**. The **sign and shape of all three loops depend on when** the muscle is activated relative to length change — the same preparation can produce **positive (motor), near-zero (strut/spring), or negative (brake) net work** at the MTU level just by shifting **activation timing**.
 
 ---
