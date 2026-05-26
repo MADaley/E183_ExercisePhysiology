@@ -106,3 +106,17 @@
     - title: "Putting Human Locomotion into a Comparative Context"
       url: /week08/lecture18-humans-comparative
       slides: 41
+
+- number: "9-10"
+  title: "Integrative Topics in Exercise Physiology"
+  url: /week09-10/
+  lectures:
+    - title: "Locomotor-Respiratory Integration"
+      url: /week09-10/lecture19-locomotor-respiratory-integration
+      slides: 38
+    - title: "Sensorimotor Control of Locomotion"
+      url: /week09-10/lecture20-sensorimotor-control-locomotion
+      slides: 43
+    - title: "Exercise as Medicine"
+      url: /week09-10/lecture21-exercise-as-medicine
+      slides: 33

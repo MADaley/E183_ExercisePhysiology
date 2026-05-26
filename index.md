@@ -96,6 +96,16 @@ These study guides follow each lecture **slide-by-slide** in sequence, showing e
 
 </div>
 
+<div class="week-card" markdown="1">
+
+## [Weeks 9–10: Integrative Topics in Exercise Physiology]({{ '/week09-10/' | relative_url }})
+
+- [Lecture 19: Locomotor-Respiratory Integration]({{ '/week09-10/lecture19-locomotor-respiratory-integration' | relative_url }}) (38 slides)
+- [Lecture 20: Sensorimotor Control of Locomotion]({{ '/week09-10/lecture20-sensorimotor-control-locomotion' | relative_url }}) (43 slides)
+- [Lecture 21: Exercise as Medicine]({{ '/week09-10/lecture21-exercise-as-medicine' | relative_url }}) (33 slides)
+
+</div>
+
 ---
 
 ## Reference resources
