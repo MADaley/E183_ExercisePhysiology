@@ -329,11 +329,11 @@ next_lecture:
 
 ### Community Factors in Physical Activity
 
-![Slide titled "Community factors in physical activity" discussing community strategies for increasing physical activity. Text describes creating or modifying environments to make it easier for people to walk and be active, including activity-friendly routes to everyday destinations. A CDC community strategies infographic is shown. Notecard activity asks students to consider their home town or Irvine: What aspects of the community design encourage physical activity? What aspects discourage physical activity?](images/lec21/slide-027.png)
+![Slide titled "Community factors in physical activity." Left side shows a colorful signpost graphic listing seven community strategy categories: activity-friendly routes to everyday destinations, access to places for physical activity, school and youth programs, community-wide campaigns, social supports, individual supports, prompts to encourage physical activity, and equitable and inclusive access. Right side describes Community Strategies: creating or modifying environments to make it easier for people to walk or bike helps increase physical activity and can make communities better places to live. The Guide to Community Preventive Services recommends strategies related to walkability, including community-scale urban design, street-scale urban design, and improving access to places for physical activity. A photo shows an urban area redesigned with pedestrian-friendly walkways and green spaces.](images/lec21/slide-027.png)
 
-- Community design has a direct impact on physical activity levels. Features that encourage activity include walkable neighborhoods, activity-friendly routes to everyday destinations, accessible parks and green spaces, and affordable recreational programs.
-- Communities designed primarily for automobile convenience — with sprawling residential areas and few pedestrian-friendly routes — discourage routine physical activity.
-- Strategies to increase community physical activity include improving infrastructure for walking and cycling, creating accessible recreational programs, and designing mixed-use developments with local amenities within walking distance.
+- The Guide to Community Preventive Services identifies seven strategy categories for increasing physical activity: activity-friendly routes, access to places for physical activity, school and youth programs, community-wide campaigns, social supports, individual supports, prompts to encourage activity, and equitable and inclusive access.
+- Community-scale and street-scale urban design — including walkable neighborhoods, pedestrian-friendly routes, green spaces, and accessible recreational facilities — directly increase physical activity levels.
+- Communities designed primarily for automobile convenience discourage routine physical activity; redesigning infrastructure for walkability and bikeability is a key public health strategy.
 
 ---
 
@@ -384,10 +384,13 @@ next_lecture:
 
 ## Slide 32
 
-![Slide continuing the discussion of redlining and neighborhood health, with additional details on the lasting impact of historical discriminatory practices on current community health infrastructure and activity access.](images/lec21/slide-032.png)
+### Social Determinants of Health: Expert Perspectives
 
-- The cumulative effects of historical redlining — reduced investment, higher pollution, fewer green spaces, and limited infrastructure — persist in affected communities today.
-- Addressing health disparities requires not only individual-level interventions (exercise prescriptions) but also systemic changes in community infrastructure, environmental policy, and equitable resource allocation.
+![Slide titled "Social justice issues with 'Exercise as Medicine.'" Left side shows a screenshot of a KPBS news interview with Dr. Cheryl Anderson, Director of the UC San Diego Center for Excellence in Health Promotion and Equity, discussing how historical redlining contributed to health disparities. Right side shows a photo of Dr. David Williams, Florence Sprague Norman and Laura Smart Norman Professor of Public Health at the Harvard T.H. Chan School of Public Health, referenced for his work on "The Social Factors of Health."](images/lec21/slide-032.png)
+
+- Dr. Cheryl Anderson's work at UC San Diego focuses on how historical redlining has contributed to persistent health disparities in affected communities.
+- Dr. David Williams at the Harvard T.H. Chan School of Public Health studies the social determinants of health — the structural and social conditions that shape health outcomes beyond individual behavior.
+- Together, their research underscores that addressing health inequities requires understanding how systemic factors (housing policy, community investment, environmental quality) interact with biological and behavioral factors to create unequal opportunities for health and physical activity.
 
 ---
 
