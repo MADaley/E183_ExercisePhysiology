@@ -120,3 +120,12 @@ Consolidated reference materials drawn from across the lectures, organized by th
 - [Glossary of terms]({{ '/glossary-oxygen-cascade' | relative_url }}) — alphabetized, deduplicated definitions of the key terms from Weeks 1–4.
 
 </div>
+
+<div class="week-card" markdown="1">
+
+### Muscle Function and Energetics of Locomotion
+
+- [Equations reference]({{ '/equations-muscle-locomotion' | relative_url }}) — every equation from muscle mechanics through body-size scaling, grouped by theme with name and purpose.
+- [Glossary of terms]({{ '/glossary-muscle-locomotion' | relative_url }}) — alphabetized, deduplicated definitions of the key terms from Weeks 5–8.
+
+</div>
