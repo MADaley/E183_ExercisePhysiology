@@ -70,8 +70,8 @@ next_lecture:
 
 ![Slide showing the alveolar gas equation $P_AO_2 = P_IO_2 - (P_ACO_2 / R)$ with the respiratory exchange ratio $R = \dot{V}CO_2 / \dot{V}O_2$, the inspired oxygen term $P_IO_2 = F_IO_2(P_{atm} - P_{wv})$ with water vapor pressure 47 mmHg at 37 °C, and the Fick principle for oxygen transport $\dot{V}O_2 = \dot{V}_E(F_IO_2 - F_EO_2)$. A note lists the factors influencing alveolar oxygen: inspired gas pressures, alveolar ventilation rate, and metabolic rate. Photos show athletes wearing metabolic measurement masks.](images/lec22/slide-006.png)
 
-- The **alveolar gas equation** predicts alveolar oxygen from inspired oxygen, alveolar CO<sub>2</sub>, and the respiratory exchange ratio $R$ (typically 0.7–1.0); solving it requires the inspired fraction (~21%), atmospheric pressure (altitude-dependent), and water vapor pressure (~47 mmHg) (review Lecture 3).
-- The **Fick principle** calculates oxygen transport; the fractional-concentration form is preferred for exercise because ventilation and inspired/expired gas fractions can be measured non-invasively with a mask (review Lecture 1).
+- The **alveolar gas equation** predicts alveolar oxygen from inspired oxygen, alveolar CO<sub>2</sub>, and the respiratory exchange ratio $R$ (typically 0.7–1.0); solving it requires the inspired fraction (~21%), atmospheric pressure (altitude-dependent), and water vapor pressure (~47 mmHg) (review Lecture 4).
+- The **Fick principle** calculates oxygen transport; the fractional-concentration form is preferred for exercise because ventilation and inspired/expired gas fractions can be measured non-invasively with a mask (review Lecture 4).
 
 ---
 
@@ -92,7 +92,7 @@ next_lecture:
 
 ![Slide titled "Adaptations in high altitude natives" with a portrait of Cynthia Beall (human adaptation to high altitude in Andean and Tibetan highlanders) and box-and-whisker plots comparing resting ventilation, hypoxic ventilatory response, hemoglobin concentration, and oxygen saturation between populations. Bullets state: Tibetans have high hypoxic ventilatory response, lower red blood cell count, and lower O₂ saturation; Andeans have low hypoxic ventilatory response, higher red blood cell count, and higher O₂ saturation. A note describes a trade-off between cardiac output and red blood cell count because of increased viscosity of blood. Source: Beall 2007.](images/lec22/slide-008.png)
 
-- Different high-altitude human populations evolved different solutions to chronic hypoxia (review Lecture 10).
+- Different high-altitude human populations evolved different solutions to chronic hypoxia (review Lecture 9).
 - **Tibetans** show high ventilation and hypoxic ventilatory response but lower red cell count and saturation; **Andeans** show lower ventilation but higher red cell count and saturation.
 - A functional trade-off prevents combining both: high red cell count raises blood viscosity and cardiac work, and high ventilation demands high cardiac output for ventilation-perfusion matching — so each solution alone aids oxygen delivery and infant survival, but combined they are detrimental.
 
@@ -104,7 +104,7 @@ next_lecture:
 
 ![Slide titled "High-altitude adaptations in bar-headed geese" with a photo of a flying goose, a map profile showing the high Tibetan Plateau between India and Mongolia, and a labeled bird diagram listing traits: high ventilation rate and effective breathing pattern, thin gas-exchange surface with large area, larger lungs, insensitivity of cerebral blood vessels to hypocapnia, higher blood O₂ affinity, large hearts with highly capillarized cardiac muscle, highly capillarized flight muscle with abundant subsarcolemmal mitochondria, and a lung–air sac ventilation mechanism. Source: Scott et al. 2015.](images/lec22/slide-009.png)
 
-- Birds reach far higher altitudes than mammals, aided by general avian features — air sacs and a rigid lung that lowers the diffusion barrier without needing highly elastic, expandable lung tissue (review Lectures 6 and 10).
+- Birds reach far higher altitudes than mammals, aided by general avian features — air sacs and a rigid lung that lowers the diffusion barrier without needing highly elastic, expandable lung tissue (review Lectures 6 and 9).
 - In highland-adapted species such as the bar-headed goose, advantageous changes occur across the *entire* oxygen supply cascade, not at one step alone.
 
 ---
