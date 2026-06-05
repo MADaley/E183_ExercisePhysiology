@@ -7,7 +7,7 @@ week_title: "Weeks 9–10: Integrative Topics in Exercise Physiology"
 week_url: /week09-10/
 total_slides: 33
 prev_lecture: /week09-10/lecture20-sensorimotor-control-locomotion
-next_lecture:
+next_lecture: /week09-10/lecture22-full-class-recap
 ---
 
 ## Slide 1

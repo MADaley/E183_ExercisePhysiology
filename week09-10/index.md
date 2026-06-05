@@ -17,3 +17,6 @@ These final lectures integrate concepts from across the course — respiratory p
 
 - [**Lecture 21: Exercise as Medicine**](lecture21-exercise-as-medicine) (33 slides)
    The physiological basis for exercise as a preventive and therapeutic intervention, dose-response relationships, and the health consequences of physical inactivity.
+
+- [**Lecture 22: Exercise Physiology — Full Class Recap**](lecture22-full-class-recap) (35 slides)
+   A course-wide review synthesizing the major themes — comparative and evolutionary context, the oxygen supply cascade, muscle structure and function across scales, the mechanics and energetics of locomotion, sensorimotor control, and exercise as medicine. No new material; pointers to the relevant earlier lectures for detail.
